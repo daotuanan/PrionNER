@@ -1,8 +1,0 @@
-We report the case history of a 54-year-old man who developed a fatal neurological disorder 4 years after a successful tympanoplasty with homograft pericardium.
-The final diagnosis of this case was Creutzfeldt-Jakob disease.
-This infectious spongiform encephalopathy is probably caused by a slow virus that can be transmitted by transplantation materials.
-The possible accidental transmission of Creutzfeldt-Jacob disease by the use of homograft materials in otologic surgery is discussed.
-
-<Related> YES or NO
-[DONE]
-[CHECK]

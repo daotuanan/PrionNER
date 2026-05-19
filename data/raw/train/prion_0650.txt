@@ -1,8 +1,0 @@
-Chronic Creutzfeldt-Jakob disease, presenting in later life, may be difficult to distinguish from other dementing illnesses.
-Patients with this disease may lack the characteristic myoclonus and electroencephalographic complexes.
-We report four patients with a slowly progressive dementia who were misdiagnosed during life and had a spongiform encephalopathy at autopsy.
-All four patients had early extrapyramidal rigidity, primitive reflexes, and other neurologic signs.
-The presence of these neurologic findings early in the course of a dementia suggests that clinicians should consider chronic Creutzfeldt-Jakob disease, evaluate the patient with electroencephalographic studies, and emphasize universal tissue precautions.
-
-<Related> YES or NO
-[DONE]

@@ -1,8 +1,0 @@
-Discovery oa a second affected branch of a family with transmitted Creutzfeldt-Jakob disease (CJD), originally reported by Buge et al.
-in 1978, brings the total number of cases to 14 in 3 generations, with at least 20 members of the next young adult generation presently at risk.
-Complete segregation of the illness to the descendants of these 2 branches, with no skipped generations, and an overall frequency of CJD in affected sibships of 56%, clearly defines a pattern of autosomal dominance.
-The disease is indifferent to sex, either in terms of affected members (8 males and 6 females) or of lineage (3 fathers and 3 mothers).
-Acquisition of CJD virus from a point source contamination is unlikely, and case-to-case transmission, if it occurred, would have required an average minimum incubation period of 17 years.
-
-<Related> YES or NO
-[DONE]

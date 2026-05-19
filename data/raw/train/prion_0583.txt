@@ -1,7 +1,0 @@
-A fourth histologically-confirmed American case of Creutzfeldt-Jakob disease (CJD) related to human growth hormone (hGH) therapy is reported.
-Like kuru, the illness was dominated by cerebellar signs and relatively little mental deterioration.
-The diagnosis was strongly supported premortem by the presence of two abnormal 30 kDa proteins in the CSF that are seen almost exclusively in CJD.
-The characteristic clinical picture coupled with such biochemical data allow a reasonably accurate premortem diagnosis of hGH-related iatrogenic CJD to be made.
-
-<Related> YES or NO
-[DONE]

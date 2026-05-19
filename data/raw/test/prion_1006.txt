@@ -1,9 +1,0 @@
-A case of 50 years of age, male with sporadic Creutzfeldt Jakob Disease (sCJD) is reported.
-Patient had dementia, behavioural abnormalities, unsteady gait and myoclonic jerks.
-Magnetic resonance imaging (MRI) brain T2 weighted and Fluid Attenuated Inverse Recovery (FLAIR) images showed abnormally increased signal intensity in caudate nucleus and putamen.
-Scalp electroencephalogram (EEG) revealed periodic synchronous biphasic sharp wave complexes.
-On the basis of history, clinical findings, typical MRI brain and EEG changes, diagnosis of sporadic CJD was made.
-
-<Related> YES or NO
-[DONE]
-[CHECK]

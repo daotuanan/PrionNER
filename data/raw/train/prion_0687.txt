@@ -1,9 +1,0 @@
-a 67-year-old man with bipolar disorder developed a Creutzfeldt-Jakob like syndrome during lithium carbonate treatment.
-Lithium serum level was within the therapeutic range.
-Complete clinical-electroencephalographic recovery was achieved after lithium therapy was discontinued.
-Several cases of lithium-induced Creutzfeldt-Jakob syndrome have been reported to date; all of them were elderly patients and a half had "therapeutic" lithium serum levels.
-Patients in this age group receiving antimanic maintenance treatment should keep lithium serum levels as low as possible.
-Lithium neurotoxicity should be considered in Creutzfeldt-Jakob disease differential diagnosis, serial electroencephalograms being the most valuable.
-
-<Related> YES or NO
-[DONE]

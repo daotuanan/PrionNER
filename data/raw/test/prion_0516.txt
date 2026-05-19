@@ -1,7 +1,0 @@
-A case of Creutzfeldt-Jakob disease of cerebellar type is reported.
-In this case the cerebellar cortex exhibited classical Kuru-plaques.
-From a comparison of this finding with 50 cerebella from senile patients and patients with cerebellar atrophies it is concluded that the Kuru-plaque is specific for Creutzfeldt-Jakob disease, possible even for its cerebellar variant.
-
-<Related> YES or NO
-[DONE]
-[CHECK]

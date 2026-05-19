@@ -1,6 +1,0 @@
-We report a 25-year-old man with Creutzfeldt-Jakob disease (CJD) who had received dura mater embolization in the external carotid artery for a nasopharyngeal angiofibroma 90 months earlier.
-The patient was heterozygotous (Met/Val) at codon 129.
-This case suggests that dura mater embolization can be responsible for the CJD.
-
-<Related> YES or NO
-[DONE]

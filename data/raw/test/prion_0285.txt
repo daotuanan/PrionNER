@@ -1,8 +1,0 @@
-Florid plaques indistinguishable from those found in vCJD were identified at a postmortem examination in the brain of a 58-year-old clinical suspect case of Creutzfeldt-Jakob disease (CJD).
-Western blotting of brain tissue revealed an unusual prion protein type.
-Since the patient had received a dura mater graft 20 years prior to death and florid plaques are not only found in new variant CJD, the findings argue in favor of an iatrogenic origin of the disease with the longest incubation time following a dura mater graft reported to date even though he may have been exposed to BSE.
-The peculiar pathological, clinical and biochemical features may define a new type of human prion disease.
-
-<Related> YES or NO
-[DONE]
-[CHECK]

@@ -1,8 +1,0 @@
-The treatment of two cases of Creutzfeldt-Jakob disease with amantidine is described.
-The first case made a remarkable initial improvement which was sustained for two months, but then deteriorated and died.
-Histological examination of the brain showed changes consistent with early Creutzfeldt-Jakob disease.
-The second case which was clinically one of Creutzfeldt-Jakob disease has now been followed for 30 months since the start of treatment and appears to be cured.
-It is considered that amantidine has a definite effect in this disease and it is suggested that its mode of action, though unknown, is more likely to be metabolic than antiviral.
-
-<Related> YES or NO
-[DONE]

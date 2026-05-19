@@ -1,9 +1,0 @@
-Since 1996, over one hundred cases of variant Creutzfeldt-Jakob disease have appeared, mostly in the United Kingdom.
-In this review, we summarise the major clinical features of this progressive neurodegenerative condition and compare them with those of sporadic Creutzfeldt-Jakob disease.
-We emphasise the young age (median 26 years) at presentation and the dominant psychiatric/behavioural features, particularly depression.
-Sensory symptoms are present initially in half the cases and florid psychiatric symptoms, such as delusions or hallucinations, are also common.
-Given these symptoms, many patients present in clinical practice initially to a psychiatrist but are referred to neurologists when neurological signs become apparent.
-Although the definitive diagnosis remains neuropathological, a confident pre-mortem diagnosis is now possible when the 'pulvinar sign' is seen on magnetic resonance imaging studies.
-
-<Related> YES or NO
-[DONE]

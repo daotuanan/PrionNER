@@ -1,7 +1,0 @@
-Necropsy findings consistent with spongiform encephalopathy of the Creutzfeldt-Jakob type are described in the brain of a 48-year-old woman whose prolonged course and clinical features had suggested Alzheimer's presenile dementia.
-Six other members of her family in two generations have also died of progressive presenile dementing illnesses of Alzheimer type, lasting 5-10 years.
-Autopsies showed a post-viral temporal lobe encephalopathy in one and spongiform (C-J) lesions in another.
-Neuropathological studies in this family add weight to the idea that Alzheimer's disease and Creutzfeldt-Jakob disease represent different manifestations of a genetic predisposition to "slow virus" encephalopathies.
-
-<Related> YES or NO
-[DONE]

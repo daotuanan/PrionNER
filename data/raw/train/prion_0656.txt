@@ -1,9 +1,0 @@
-Since 1985, several cases of Creutzfeldt-Jakob disease, occurring after a treatment by human cadaveric hormone have been reported.
-Three new iatrogenic cases observed in French patients (two children and one young adult) are described here.
-Neuropathological study displayed the classical aspects of previously reported sporadic cases of Creutzfeldt-Jakob disease in adults, including severe cortical spongiform change with numerous vacuoles within neuronal dendrites, diffuse astrogliosis and neuronal loss.
-In addition, the iatrogenic cases described here included two more unusual points: (i) they were homozygotic for the PrP gene on codon 129 and therefore a genetic predisposition could be suspected; (ii) numerous kuru plaques were scattered in the cerebral cortex, the subcortical white matter and in the cerebellar cortex.
-They were decorated with a PrP monoclonal antibody, but not with a beta A4 antibody.
-This last point underlines the similarities between iatrogenic Creutzfeldt-Jakob disease and kuru.
-
-<Related> YES or NO
-[DONE]

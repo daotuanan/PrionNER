@@ -1,8 +1,0 @@
-Fatal familial insomnia (FFI) is an inherited prion disease linked to a mutation at codon 178 of the PRNP gene that results in aspartic acid to asparagine substitution, in coupling phase with methionine at position 129.
-The disease is characterized clinically by insomnia with disturbances of the autonomic, endocrine, and motor systems and neuropathologically by selective degeneration of the thalamus.
-Phenotypic variability is well known and has been linked to homozygosity or heterozygosity at PRNP codon 129.
-We report the clinical, neuropathologic, and biochemical findings and genomic analysis of a patient with FFI from a new Italian kindred.
-Although homozygous for methionine at codon 129, this patient showed some clinical and pathologic features most commonly found in heterozygotes.
-
-<Related> YES or NO
-[DONE]

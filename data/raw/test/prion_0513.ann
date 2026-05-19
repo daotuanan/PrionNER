@@ -1,5 +1,0 @@
-T1	Generic_Prion 64 89	Creutzfeldt-Jakob disease
-T2	Autopsy 108 114	biopsy
-T3	Choose_Related 214 217	YES
-T4	Choose_Done 225 229	DONE
-T5	Anatomic_location 102 107	brain

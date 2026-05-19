@@ -1,7 +1,0 @@
-T1	Generic_Prion 30 55	Creutzfeldt-Jakob disease
-T2	Generic_Prion 57 60	CJD
-T3	Electrophysio_test 67 89	visual evoked response
-T5	Choose_Related 231 234	YES
-T4	Electrophysio_test 91 94	VER
-T6	Blood_biomarker_test 100 103	CSF
-T7	Choose_Done 242 246	DONE

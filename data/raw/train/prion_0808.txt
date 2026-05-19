@@ -1,6 +1,0 @@
-We report MR spectroscopic findings in a patient hospitalized with biopsy-proven variant Creutzfeldt-Jakob (vCJD) disease.
-N-acetyl aspartate was markedly decreased in the postero-medial part of the thalami (pulvinar) but was not diminished in the parieto-occipital white matter and cortical grey matter.
-These observations, which are in accordance with the pathological findings in this disease, suggest that MR spectroscopy, a highly sensitive method for the detection of subtle brain metabolic dysfunction, could be of interest for the diagnosis, prognosis and therapeutic follow-up of vCJD.
-
-<Related> YES or NO
-[DONE]

@@ -1,6 +1,0 @@
-Serial changes in brain imaging of regional cerebral blood flow with single photon emission computed tomography (SPECT) using N-isopropyl-(iodine-123) p-iodoamphetamine (123I-IMP) were observed in a patient with probable Heidenhain type of Creutzfeldt-Jakob disease, which was characterized by the initial onset of visual symptoms.
-Corresponding to the visual signs and periodic synchronous discharges localized in the bilateral parietal and occipital regions on EEG, focal hypoperfusion images in the occipital lobes were detected on the SPECT scan before brain X-ray computed tomography and magnetic resonance imaging showed any abnormalities.
-These results suggest that SPECT brain imaging is useful in the early detection of site-specific abnormalities in Creutzfeldt-Jakob disease.
-
-<Related> YES or NO
-[DONE]

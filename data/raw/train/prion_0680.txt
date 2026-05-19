@@ -1,6 +1,0 @@
-We describe a case of a patient with Creutzfeldt-Jakob disease (CJD) characterized by a rapid clinical course lasting one and a half months, by: presence of focal dystonic movements at onset, absence of mental deterioration in the period preceding the impairment of consciousness, ataxia, myoclonus and periodic EEG abnormalities.
-The autopsy confirmed subacute spongiform encephalopathy, but no evident neuronal loss was observed.
-An acute clinical course of CJD may explain this latter histological finding which, in turn, probably provides an explanation for the absence of intellectual impairment.
-
-<Related> YES or NO
-[DONE]

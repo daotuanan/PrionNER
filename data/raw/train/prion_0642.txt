@@ -1,5 +1,0 @@
-We serially examined a patient with Creutzfeldt-Jakob disease using fludeoxyglucose F 18 and positron emission tomography.
-Marked cerebral hypometabolism reflected clinical deterioration in the early stages of Creutzfeldt-Jakob disease when no parenchymal abnormalities were present on MR imaging.
-
-<Related> YES or NO
-[DONE]

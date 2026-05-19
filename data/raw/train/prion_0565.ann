@@ -1,9 +1,0 @@
-T1	Electrophysio_test 16 34	EEG investigations
-T2	Generic_Prion 88 113	Creutzfeldt-Jakob disease
-T3	Duration 122 141	13, 24 and 68 weeks
-T7	Time_point 237 264	the 7th, 8th, and 12th week
-T8	Time_point 286 307	the onset of symptoms
-T17	Generic_Prion 656 681	Creutzfeldt-Jakob disease
-T19	Choose_Related 789 792	YES
-T4	Electrophysio_test 597 600	EEG
-T5	Choose_Done 800 804	DONE

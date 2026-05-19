@@ -1,8 +1,0 @@
-Findings are reported in three members of a Japanese family with a chronic familial disease characterized by signs of marked cerebellar dysfunction, mild pyramidal and extrapyramidal dysfunction, and loss or decrease of the knee and ankle jerks.
-Although the clinical features suggested olivopontocerebellar atrophy, postmortem study of one patient with obvious dementia revealed massive multiform plaques of Kuru type as well as multicentric, senile, and primitive types throughout the central nervous system, most prominent in the cerebellar and cerebral cortices and caudate nucleus.
-There was degeneration of the spinocerebellar and pyramidal tracts, posterior columns, superior cerebellar peduncles, cerebellar cortex, dentate nucleus, and vestibular nuclei as well as gliosis of the inferior colliculus and cerebellar foliar white matter.
-There were no cerebral spongiform changes, although slight spongy alteration without glial reaction was present.
-The clinical and neuropathological characteristics were consistent with those reported as Gerstmann-Sträussler-Scheinker's disease in an Austrian family.
-
-<Related> YES or NO
-[DONE]

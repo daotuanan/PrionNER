@@ -1,7 +1,0 @@
-Seven of 24 patients with pathologically proved Alzheimer disease had amyloid plaques resembling kuru plaques in the cerebellum.
-In all seven patients, the dementia was presenile in onset, there was a positive family history of the disease in five patients, and other neurologic symptoms were present in five.
-Similar plaques have been described in one of two patients with familial Alzheimer disease from whom spongiform encephalopathy was induced in subhuman primates after intracerebral inoculation of brain tissue.
-These observations suggest that some cases of familial Alzheimer disease may be clinically distinct from senile dementia and may not be genetic in origin.
-
-<Related> YES or NO
-[DONE]

@@ -1,7 +1,0 @@
-Frequent serial EEG investigations of three patients with neuropathologically confirmed Creutzfeldt-Jakob disease lasting 13, 24 and 68 weeks revealed typical periodic activity of short duration with stereotyped bilateral sharp waves at the 7th, 8th, and 12th week, respectively, after the onset of symptoms.
-During the later stages, there were several deviations from this typical pattern.
-However, periodic activity was preceded between the 3rd and 9th week by intermittent localized or lateralized delta rhythms, which gradually changed into periodic activity.
-This early temporal evolution of EEG abnormalities may be helpful in the early diagnosis of Creutzfeldt-Jakob disease when accompanied by other investigations to exclude other causes of intermittent delta rhythms.
-
-<Related> YES or NO
-[DONE]

@@ -1,9 +1,0 @@
-Creutzfeldt-Jakob disease (CJD) is a rare but important fatal, dementing illness.
-A number of types of CJD are identified, each with distinct clinical features.
-Characteristic MRI changes have been described recently.
-Sporadic CJD, the commonest type, is found worldwide, and causes hyperintensity of the putamen and caudate nuclei.
-In the recently described variant CJD, which affects younger patients and has been linked to Bovine Spongiform Encephalopathy (BSE) in cattle, a highly characteristic finding of bilateral hyperintensity of the pulvinar nuclei is seen.
-The MRI features of CJD are reviewed in this article.
-
-<Related> YES or NO
-[DONE]

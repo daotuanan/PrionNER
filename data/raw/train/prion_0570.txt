@@ -1,6 +1,0 @@
-In an electron microscopic study of brain biopsy material from a case with Creutzfeldt-Jakob disease intranuclear vacuoles containing membrano-vesicular structures were found.
-To our knowledge this finding has not been previously reported in human spongiform encephalopathies.
-It may represent a specific alteration associated with Creutzfeldt-Jakob disease, and suggests the possibility of nuclear infection.
-
-<Related> YES or NO
-[DONE]

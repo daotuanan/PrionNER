@@ -1,7 +1,0 @@
-T2	Generic_Prion 12 26	Prion diseases
-T7	Generic_Prion 347 360	prion disease
-T11	Molecular_assay 963 975	Western Blot
-T14	Differential_Diagnosis 42 68	neurodegenerative diseases
-T5	fCJD 674 708	familial creutzfeldt‐Jakob disease
-T12	Choose_Related 1386 1389	YES
-T1	Choose_Done 1397 1401	DONE

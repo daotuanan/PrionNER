@@ -1,9 +1,0 @@
-Five to 10% of patients with Creutzfeldt-Jakob disease have a clinical course that extends for 2 years or more.
-In the present series 33 (9%) of 357 histopathologically verified cases, including 15 (7%) of 225 transmitted cases, fell into this long-duration category, the longest transmitted case having had a 13-year duration.
-As a group these cases were characterized by a higher familial representation (30%), a younger age at onset (average, 48 years), and lower frequencies of myoclonus (79%) and periodic electroencephalographic activity (45%) than occur in series of unselected cases.
-The clinical course most often showed a long, very slowly progressive first stage, with symptoms limited to intellectual deterioration or behavioral abnormalities, followed by a shorter, rapidly progressive terminal stage with both mental and physical deterioration.
-Although transmission of disease by primate inoculation was less successful in this group of long-duration cases (64%) than in cases of shorter duration (88%), incubation periods and durations of illness in the inoculated animals bore no relation to the duration of illness in the patients.
-Clinical differentiation from other chronic dementing processes, particularly Alzheimer's disease, can prove impossible; however, the correct pathological diagnosis was readily evident by light microscopic examination, and spongiosis was at least as prominent as gliosis in all but 4 (15%) of the 27 patients studied postmortem, the same frequency found in case series not selected for length of illness.
-
-<Related> YES or NO
-[DONE]

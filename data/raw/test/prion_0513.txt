@@ -1,6 +1,0 @@
-A description if given of a male patient in whom a diagnosis of Creutzfeldt-Jakob disease was made by brain biopsy.
-This is believed to be the first case of this syndrome reported from Papua New Guinea.
-
-<Related> YES or NO
-[DONE]
-[CHECK]

@@ -1,7 +1,0 @@
-This is a report of the case of a patient with Creutzfeldt-Jakob disease, whose electroencephalograms and polysomnograms were repeatedly recorded throughout the course of the illness with details of the alterations of periodic synchronous discharges.
-In the advanced stage of the disease, the appearance of peculiar paroxysms was noted, predominantly in the early morning.
-Furthermore, apnea of the central type was observed during the same time period.
-Discussions were held on the mechanisms inducing the EEG paroxysms and apneas.
-
-<Related> YES or NO
-[DONE]

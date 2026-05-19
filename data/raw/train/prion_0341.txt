@@ -1,6 +1,0 @@
-Sudden onset neurological syndromes are almost always vascular but there is a wide range of causes of subacute onset neurological syndromes.
-Most diagnoses will become clear from clinical assessment and, depending on presentation, computed tomography or magnetic resonance imaging of the brain or spine and cerebrospinal fluid examination.
-When investigations have proved negative, paraneoplastic neurological diseases and Creutzfeldt-Jakob disease should be considered.
-
-<Related> YES or NO
-[DONE]

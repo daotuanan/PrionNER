@@ -1,8 +1,0 @@
-Creutzfeldt-Jakob disease (CJD) is the most common form of the human transmissible spongiform encephalopathies, also known as prion diseases.
-This is a rare neurological disorder which ultimately results in death.
-Technologists must familiarize themselves with the clinical symptoms and EEG patterns of this disease since appropriate precautions must be taken.
-This is especially important when running electroneurodiagnostic (END) studies on patients with rapidly progressive dementia or a suspected or known case of CJD.
-An overview of the various forms of CJD, clinical symptoms, characteristic EEG results, transmission modes, diagnostic tests, and prevention methods are addressed.
-
-<Related> YES or NO
-[DONE]

@@ -1,8 +1,0 @@
-Creutzfeldt-Jakob disease (CJD) surveillance relies on autopsy and neuropathologic evaluation.
-The 1990-2000 CJD autopsy rate in California was 21%.
-Most neurologists were comfortable diagnosing CJD (83%), but few pathologists felt comfortable diagnosing CJD (35%) or performing autopsy (29%).
-Addressing obstacles to autopsy is necessary to improve CJD surveillance.
-
-<Related> YES or NO
-[DONE]
-[CHECK]

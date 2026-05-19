@@ -1,7 +1,0 @@
-Creutzfeldt-Jakob disease (CJD) is one of a small group of the so-called spongiform encephalopathies.
-It is a rare transmissible disorder which is characterized by progressive and irreversible neurological damage.
-There are few reports where clinical manifestations are correlated with neurophysiologic and histopathologic findings.
-The present paper includes three cases of CJD where alterations in evoked potentials and brain mapping studies gave valuable information, especially in those where the clinical picture and the electroencephalogram were non-specific, we conclude that these alterations suggest that the classic histopathological changes in C-J disease involves both cortical and subcortical structures.
-
-<Related> YES or NO
-[DONE]

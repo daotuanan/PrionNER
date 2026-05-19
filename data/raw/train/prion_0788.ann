@@ -1,8 +1,0 @@
-T1	Age 24 35	76 year old
-T2	Differential_Diagnosis 103 120	vascular dementia
-T3	Generic_Prion 151 176	Creutzfeldt-Jacob Disease
-T4	Time_point 184 199	terminal stages
-T5	Generic_Prion 207 232	Creutzfeldt-Jacob Disease
-T8	Choose_Related 393 396	YES
-T6	Differential_Diagnosis 315 324	dementias
-T7	Choose_Done 404 408	DONE

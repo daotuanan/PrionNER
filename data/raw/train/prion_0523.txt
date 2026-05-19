@@ -1,9 +1,0 @@
-In the past 3 years there have been five further cases, in addition to one case reported in 1985, of Creutzfeldt-Jakob disease in recipients of human growth hormone in the United Kingdom.
-The clinical findings of two of these cases are described, demonstrating a typical presentation with a predominantly cerebellar syndrome at onset which is not commonly a presenting feature of sporadic Creutzfeldt-Jakob disease.
-In one case a 99mTc hexamethylpropylenamine single photon emission tomographic scan showed marked impairment of tracer uptake in the basal ganglia and cerebral cortex at a time when the clinical picture was predominantly cerebellar.
-This technique may be useful in early diagnosis.
-In the other case post mortem examination of the brain showed prominent amyloid deposition in the cerebellum, which has not been described previously in pituitary-hormone related Creutzfeldt-Jakob disease.
-The previously published cases of growth hormone-related Creutzfeldt-Jakob disease are reviewed and reasons for the particular clinical pattern seen are discussed.
-
-<Related> YES or NO
-[DONE]

@@ -1,8 +1,0 @@
-Sporadic Creutzfeldt-Jakob disease (CJD) is the most common prion disease.
-The diagnosis can be confirmed only by histological examination of brain tissue obtained at biopsy or at autopsy.
-Because of the transmissible nature of the disease, autopsy or brain biopsy cannot be performed at many institutions, which poses numerous challenges in confirming the diagnosis.
-We report the case of a patient with CJD in which autopsy to confirm the diagnosis was performed after overcoming numerous obstacles and advocating with hospital leadership.
-This case illustrates the numerous challenges that exist in achieving a definitive diagnosis of CJD and in postmortem disposition of the body, and we provide recommendations to clinicians who face similar challenges.
-
-<Related> YES or NO
-[DONE]

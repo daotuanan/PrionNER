@@ -1,6 +1,0 @@
-A 28-year-old woman with prior neurosurgery involving the placement of a cadaveric dural graft developed a rapidly progressive neurodegenerative disorder with prominent cerebellar dysfunction that was proven at autopsy to be Creutzfeldt-Jakob disease.
-She represents the second American to develop Creutzfeldt-Jakob disease in association with a dural graft.
-The unusual features of the case include the patient's initial clinical presentation with cerebellar ataxia in the absence of dementia, the widespread presence of kuru-type amyloid plaques on a histological examination of the brain, the development of clinical symptoms during pregnancy, and the subsequent delivery of a child who remains healthy at the age of 3 years.
-
-<Related> YES or NO
-[DONE]

@@ -1,7 +1,0 @@
-Creutzfeldt-Jakob disease (CJD) belongs to a group of chronic, progressive, neurodegenerative disorders that may be hereditary, infectious, or sporadic.
-Hereditary CJDs are associated with mutations in the PRNP gene on chromosome 20p12-pter.
-We report a family in which four patients developed classical clinical signs of CJD, including severe cognitive decline, cerebellar signs, myoclonic jerks, and synchronic periodic discharges on electroencephalogram.
-The E211Q mutation has been identified in family members, but not in 97 sporadic CJD patients referred to the Italian registry of CJD nor in 205 healthy normal subjects, suggesting a pathogenic role for this mutation.
-
-<Related> YES or NO
-[DONE]

@@ -1,8 +1,0 @@
-A 48-year-old man suddenly developed clinically and electroencephalographically nonspecific dementia.
-On MRI sequences, only diffusion-weighted images (DWI) of the cortex were unequivocally pathological.
-Obvious atrophy and basal ganglia signal changes appeared only 9 months after the onset.
-Brain biopsy confirmed Creutzfeldt-Jakob disease (CJD).
-In rapidly progressive dementia, we recommend DWI for early diagnosis of CJD.
-
-<Related> YES or NO
-[DONE]

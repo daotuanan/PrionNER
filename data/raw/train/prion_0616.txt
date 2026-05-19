@@ -1,8 +1,0 @@
-Long-term observations of five patients aged 40 to 70 years made it possible to diagnose Creutzfeld-Jacob's disease (CJD) in their life time.
-In three cases, the diagnosis of CJD was confirmed at autopsy; one patient died at home.
-The works of I. Kreutzfeld and A. Jacob and the authors' observations confirm that the disease lasts 4-5 years or more.
-Marked manifestations of the disease were observed for two years.
-Some differential diagnostic criteria are presented permitting the differentiation of CJD from other atrophic processes described by Alzheimer, Pick and others.
-
-<Related> YES or NO
-[DONE]

@@ -1,8 +1,0 @@
-A 44 year old female presented with a progressive cerebellar disturbance approximately 13 years after receiving human pituitary derived gonadotrophin injections as a treatment for infertility.
-The patient died approximately nine months later.
-Creutzfeldt-Jakob disease was confirmed at necropsy.
-This is the second reported case of Creutzfeldt-Jakob disease in a recipient of human derived gonadotrophin.
-
-<Related> YES or NO
-[DONE]
-[CHECK]

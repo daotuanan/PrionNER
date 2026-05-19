@@ -1,7 +1,0 @@
-The authors describe a man aged 43 years with a typical onset of the disease with cerebellar signs and progressive dementia prevailing during a 4 month course of the illness.
-Neuropathological examination demonstrated subacute spongiform encephalopathy with significant although not overwhelming damage to the cerebellar cortex.
-The case is an example of the ataxic form of this disease isolated in 1965.
-In the clinical diagnosis of Creutzfeldt-Jakob disease cerebellar signs may play a similarly important role as myoclonia and characteristic EEG curve.
-
-<Related> YES or NO
-[DONE]

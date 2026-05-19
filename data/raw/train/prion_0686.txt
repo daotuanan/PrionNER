@@ -1,7 +1,0 @@
-In a patient with the occipitoparietal form of Creutzfeldt-Jakob disease (CJD) (Heidenhain type) positron emission tomography (PET) demonstrated decreased glucose utilization in the occipital lobes and adjacent cortical regions.
-Single photon emission computed tomography (SPECT) with 99mTc-bicisate showed a "coupled" decrease in blood flow in identical cortical areas in this patient.
-In contrast, magnetic resonance imaging (MRI) was normal.
-In the early stage of CJD, when still no major morphological abnormalities can be observed, functional imaging is useful for differential diagnosis, particularly to exclude other causes of dementia or pathological EEG patterns.
-
-<Related> YES or NO
-[DONE]

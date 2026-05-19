@@ -1,8 +1,0 @@
-T1	Generic_Prion 22 41	human prion disease
-T2	Generic_Prion 95 122	Creutzfeldt-Jakob's disease
-T4	Autopsy 337 356	neuropathologically
-T5	Symptom 678 686	dementia
-T6	Choose_Related 739 742	YES
-T3	Generic_Prion 57 93	non-conventional slow virus diseases
-T7	Treatment 592 644	Transplantation of organs or tissues of all deceased
-T8	Choose_Done 750 754	DONE

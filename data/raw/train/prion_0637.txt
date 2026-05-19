@@ -1,7 +1,0 @@
-A patient suffering from Creutzfeld-Jakob disease (CJD) complained of optical hallucinations, followed by feelings of persecution.
-Clinical, encephalographic and neuropathological findings pointed towards a focalized beginning of the disease process in the right frontal and temporal lobe.
-The hypothesized further spread of the infectious agent, as indicated by electroencephalographic and neuropathological findings, was accompanied by periacute manifestation of dementia and an irreversible disturbance of vigilance.
-The diagnosis of CJE can be especially difficult in the early stages of the disease, with dementia, myocloni and typical electroencephalographic findings still absent.
-
-<Related> YES or NO
-[DONE]

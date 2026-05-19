@@ -1,8 +1,0 @@
-A 46-year-old female is described with prolonged, progressive dementia and a brain biopsy consistent with Creutzfeldt-Jakob disease (CJD).
-She had neither myoclonic jerks nor an electroencephalogram with periodic spikes and suppression.
-Five of her close relatives were also demented.
-The nosology of CJD was discussed in the light of this case in which histopathology was characteristic of spongiform encephalopathy but the clinical features were atypical.
-We concluded that it would be premature to expand the traditional diagnostic criteria to include such cases as having CJD but, at the same time, it would be prudent to handle tissue, linens and surgical instruments as if they were contaminated by the resistant agent of CJD.
-
-<Related> YES or NO
-[DONE]

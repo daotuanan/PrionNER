@@ -1,8 +1,0 @@
-Creutzfeldt-Jakob disease (CJD) is a subacute spongiform encephalopathy (SSE) that is manifested by a variety of neurologic signs that usually include dementia, myoclonus, and an abnormal electroencephalogram (EEG).
-In 1996, a new variant of CJD (nvCJD) with a somewhat distinctive clinical presentation and neuropathology was reported in adolescents and young adults, a cohort of patients not normally affected with CJD.
-The appearance of nvCJD coincided temporally and geographically with the emergence of an SSE in cattle known as bovine spongiform encephalopathy (BSE), or mad cow disease.
-This article discusses the clinical syndrome, pathology, and pathogenesis of classical CJD, nvCJD, and other human SSEs, as well as the link between BSE and nvCJD.
-
-<Related> YES or NO
-[DONE]
-[CHECK]

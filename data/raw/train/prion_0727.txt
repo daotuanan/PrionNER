@@ -1,6 +1,0 @@
-Diffusion-weighted MRI (DWI) was used in three patients with autopsy-proven sporadic Creutzfeldt-Jakob disease (CJD) to provide a rapid noninvasive way to make this sometimes confusing diagnosis.
-DWI prompted the diagnosis of CJD at an early stage and appears to be particularly useful for monitoring the progression of the disease.
-We suggest that patients with suspected CJD and no abnormalities on T2- and proton density-weighted images may have cortical involvement on DWI.
-
-<Related> YES or NO
-[DONE]

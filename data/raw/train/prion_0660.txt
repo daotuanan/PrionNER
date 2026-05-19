@@ -1,7 +1,0 @@
-Two cases of Creutzfeldt-Jakob Disease (CJD) are reported.
-In both cases, pathologically confirmed, magnetic resonance imaging (MRI) showed bilateral altered signal areas in the basal ganglia, early in the course of the disease.
-The CT scan, although performed later than MRI, confirmed these findings.
-Only in one patient did electroencephalography (EEG) show typical triphasic sharp-waves, but this support to clinical diagnosis was obtained 1 month after the appearance of MRI alterations.
-
-<Related> YES or NO
-[DONE]

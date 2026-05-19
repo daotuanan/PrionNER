@@ -1,9 +1,0 @@
-The serial changes in computed tomography (CT) as correlated with the clinical and electroencephalographic findings were evaluated in 3 patients with Creutzfeldt-Jakob disease.
-The disease was subsequently confirmed histologically in 2.
-CT revealed that brain atrophy began in an early clinical stage and was prominent even before the state of akinetic mutism.
-Periodic synchronous discharges (PSDs) were observed either before or simultaneous with the observation of myoclonus.
-With progressive brain atrophy, the frequency of PSDs and the degree of myoclonus both decreased and disappeared 8 to 15 months after the onset of disease.
-
-<Related> YES or NO
-[DONE]
-[CHECK]

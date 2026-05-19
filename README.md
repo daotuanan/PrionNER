@@ -2,6 +2,8 @@
 
 This repository accompanies the paper "PrionNER: A Named Entity Recognition Dataset for Prion Disease Biomedical Literature" and provides the public release of `PrionNER`, a named entity recognition dataset for prion disease biomedical literature. The release includes canonical train/test splits, fine-grained and coarse-grained annotations, synchronized BRAT/JSON/CoNLL formats, and baseline data-processing and evaluation scripts.
 
+The Hugging Face dataset release is available at <https://huggingface.co/datasets/dtan/PrionNER>.
+
 The package contains:
 
 - the canonical `train` and `test` splits
@@ -27,11 +29,6 @@ The fine-grained schema defines `VPSPr`, but that label does not appear in the c
 ```text
 final_submission_PrionNER/
 ├── data/
-│   ├── raw/
-│   │   ├── train/              # original paired BRAT source files (.txt + .ann)
-│   │   ├── test/
-│   │   ├── train_set_checked.zip
-│   │   └── test_set_checked.zip
 │   ├── raw_text/
 │   │   ├── train/              # text-only copies, one .txt per document
 │   │   └── test/
@@ -66,17 +63,6 @@ final_submission_PrionNER/
 
 ## What Each Data Folder Means
 
-### `data/raw/`
-
-This is the closest view to the original annotation source.
-
-- Each document is stored as a BRAT pair: `DOC_ID.txt` and `DOC_ID.ann`
-- `train/` contains 247 document pairs, so 494 files total
-- `test/` contains 70 document pairs, so 140 files total
-- `train_set_checked.zip` and `test_set_checked.zip` are archive copies of the checked raw sets
-
-Use this folder if you want the original annotation files exactly as used for conversion/export.
-
 ### `data/raw_text/`
 
 This contains text-only document files, one `.txt` per document.
@@ -110,7 +96,7 @@ Use `coarse/` when you want a simpler label space or a lower-granularity modelin
 
 ### BRAT files
 
-BRAT files live under `data/raw/`, `data/fine/brat/`, and `data/coarse/brat/`.
+BRAT files live under `data/fine/brat/` and `data/coarse/brat/`.
 
 - `.txt` stores the document text
 - `.ann` stores text-bound annotations
@@ -168,7 +154,6 @@ This format is convenient for token-classification baselines. The richer BRAT/JS
 
 Choose the folder based on your goal:
 
-- original annotation workflow: `data/raw/`
 - model-ready document objects with character offsets: `data/fine/json/` or `data/coarse/json/`
 - token-classification baselines: `data/fine/conll/` or `data/coarse/conll/`
 - simplest text-only corpus access: `data/raw_text/`

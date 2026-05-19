@@ -1,9 +1,0 @@
-A total of 65 cases of Creutzfeldt-Jakob disease with a history of cadaveric dura transplantation in Japan were analysed to clarify the epidemiologic features of such patients and to explore whether other such patients will appear in the future.
-The age at transplantation averaged 44.4 years with a standard deviation of 14.4 years.
-The age at onset had an average of 53.0 years with a standard deviation of 14.1 years.
-The shortest latent period was 14 months, and the longest was 218 months with an average of 103.1 months and a standard deviation of 49.9 months.
-From the relationship between the calendar year at transplantation and the latent period, other such patients will appear in the near future.
-The current data suggested that several patients with Creutzfeldt-Jakob disease will occur from those receiving cadaveric dura mater grafts in the near future.
-
-<Related> YES or NO
-[DONE]

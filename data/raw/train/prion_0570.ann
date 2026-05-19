@@ -1,9 +1,0 @@
-T1	Autopsy 42 48	biopsy
-T2	Generic_Prion 75 100	Creutzfeldt-Jakob disease
-T3	Generic_Prion 242 275	human spongiform encephalopathies
-T4	Generic_Prion 332 357	Creutzfeldt-Jakob disease
-T5	Choose_Related 421 424	YES
-T6	Autopsy_finding 101 122	intranuclear vacuoles
-T7	Autopsy_finding 391 408	nuclear infection
-T8	Choose_Done 432 436	DONE
-T9	Anatomic_location 36 41	brain
