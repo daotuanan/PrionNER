@@ -1,6 +1,6 @@
 # PrionNER Release Package
 
-This directory is the public-release package for `PrionNER`, a named entity recognition dataset for prion disease literature.
+This repository accompanies the paper "PrionNER: A Named Entity Recognition Dataset for Prion Disease Biomedical Literature" and provides the public release of `PrionNER`, a named entity recognition dataset for prion disease biomedical literature. The release includes canonical train/test splits, fine-grained and coarse-grained annotations, synchronized BRAT/JSON/CoNLL formats, and baseline data-processing and evaluation scripts.
 
 The package contains:
 
