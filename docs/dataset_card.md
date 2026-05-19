@@ -57,16 +57,3 @@ Observed coarse-grained labels:
 ## Special Annotation Structure
 
 The dataset includes non-flat annotations, including discontinuous spans. Example figures are provided under [docs/figures](figures).
-
-## Recommended Citation Metadata
-
-If you plan to publish this package in a repository, add:
-
-- authors
-- title
-- version
-- release date
-- persistent identifier
-- license
-
-Those fields are not yet set in this staging directory.
