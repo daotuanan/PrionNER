@@ -51,4 +51,4 @@ If you use PrionNER annotations, metadata, or documentation in research or downs
 
 ## 6. Important note
 
-This file states the intended licensing policy for the release package. If your institution requires a specific legal entity name or additional notices, update this file, `LICENSE`, and the repository citation metadata before publication.
+If your institution requires a specific legal entity name or additional notices, update this file and `LICENSE` accordingly.

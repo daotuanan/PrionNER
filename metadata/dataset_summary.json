@@ -1,6 +1,6 @@
 {
   "dataset_name": "PrionNER",
-  "package_purpose": "Public release staging directory",
+  "package_purpose": "Public dataset release",
   "splits": {
     "train_documents": 247,
     "test_documents": 70,
