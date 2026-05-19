@@ -1,0 +1,136 @@
+{
+  "doc_id": "prion_0770",
+  "text": "Creutzfeldt-Jakob disease (CJD) belongs to a group of chronic, progressive, neurodegenerative disorders that may be hereditary, infectious, or sporadic.\nHereditary CJDs are associated with mutations in the PRNP gene on chromosome 20p12-pter.\nWe report a family in which four patients developed classical clinical signs of CJD, including severe cognitive decline, cerebellar signs, myoclonic jerks, and synchronic periodic discharges on electroencephalogram.\nThe E211Q mutation has been identified in family members, but not in 97 sporadic CJD patients referred to the Italian registry of CJD nor in 205 healthy normal subjects, suggesting a pathogenic role for this mutation.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "fCJD",
+      "start": 153,
+      "end": 168,
+      "text": "Hereditary CJDs",
+      "spans": [
+        {
+          "start": 153,
+          "end": 168
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 322,
+      "end": 325,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 322,
+          "end": 325
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 337,
+      "end": 361,
+      "text": "severe cognitive decline",
+      "spans": [
+        {
+          "start": 337,
+          "end": 361
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 363,
+      "end": 379,
+      "text": "cerebellar signs",
+      "spans": [
+        {
+          "start": 363,
+          "end": 379
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 381,
+      "end": 396,
+      "text": "myoclonic jerks",
+      "spans": [
+        {
+          "start": 381,
+          "end": 396
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Electrophysio_test",
+      "start": 436,
+      "end": 456,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 436,
+          "end": 456
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "sCJD",
+      "start": 530,
+      "end": 542,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 530,
+          "end": 542
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 588,
+      "end": 591,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 588,
+          "end": 591
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+Serial brain CT and 123I-IMP SPECT were examined in a case with Creutzfeldt-Jakob disease (CJD).
+A 61-year-old woman had the onset of progressive dementia and gait disturbance in December 1988.
+Then, she developed left hemiparesis and dysarthria, and rapidly fell into akinetic mutism within about 2 months.
+Brain CT, MRI, and CSF findings showed no definite abnormalities.
+In February 1989, myoclonic movements appeared in several parts of the body and EEG revealed periodic synchronous discharges.
+Myoclonus was observed most frequently from March to May 1989, and then reduced gradually.
+She died in June 1990, and the total clinical course was 19 months.
+Brain atrophy on CT started from about 4 months after the onset, and progressed subacutely.
+At the end stage of the disease, diffuse brain atrophy including the cerebellum and the brain stem on CT was observed.
+SPECT revealed decreased perfusion in the cerebral cortex from 5 months after the onset to the end stage, but; perfusion in the cerebellum and the basal ganglia was relatively kept even at the end stage of the disease.
+The results suggest that SPECT is a useful examination for presumption of the pathological processes in CJD.
+
+<Related> YES or NO
+[DONE]

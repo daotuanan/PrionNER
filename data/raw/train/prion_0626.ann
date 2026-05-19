@@ -1,0 +1,15 @@
+T1	Generic_Prion 31 56	Creutzfeldt-Jakob disease
+T4	Symptom 266 281	senile dementia
+T6	Differential_Diagnosis 325 344	Alzheimer's disease
+T7	Electrophysio_test 364 367	EEG
+T8	Generic_Prion 389 414	Creutzfeldt-Jakob disease
+T9	Electrophysio_test 462 465	EEG
+T12	Imaging_test 520 522	CT
+T15	Autopsy_finding 622 640	spongiform process
+T17	Choose_Related 712 715	YES
+T2	Differential_Diagnosis 58 83	spongiform encephalopathy
+T3	Autopsy 578 590	pathological
+T10	Choose_Done 723 727	DONE
+T18	Anatomic_location 685 693	cerebral
+T5	Symptom 288 309	neurological symptoms
+T11	Symptom 253 262;273 281	presenile dementia

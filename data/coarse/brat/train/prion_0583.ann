@@ -1,0 +1,12 @@
+T11	Test_name 9 23	histologically
+T1	Generic_Prion 51 76	Creutzfeldt-Jakob disease
+T2	Generic_Prion 78 81	CJD
+T3	Treatment 94 128	human growth hormone (hGH) therapy
+T4	Acquired_Prion 147 151	kuru
+T13	Anatomic_location 182 192	cerebellar
+T5	Symptom 182 198	cerebellar signs
+T6	Symptom 221 241	mental deterioration
+T8	Anatomic_location 345 348	CSF
+T10	Generic_Prion 385 388	CJD
+T7	Treatment 512 515	hGH
+T12	Acquired_Prion 512 538	hGH-related iatrogenic CJD

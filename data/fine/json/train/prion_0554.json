@@ -1,0 +1,380 @@
+{
+  "doc_id": "prion_0554",
+  "text": "We describe 10 neuropathologically verified patients with Creutzfeldt-Jakob disease who died in Argentina between 1980 and 1987.\nTwo of the ten cases were Chilean by birth.\nAnother case visited Chile several times.\nTwo cases (one Argentinian and one Chilean) regularly consumed sheep brain.\nAges ranged from 42 to 63 years and the male to female ratio was 7:3.\nDisease duration ranged from 3.5 to 24 months.\nProdromal symptoms presented as behavioral changes in 5 patients, lasting from one year to several weeks, and as neurological impairment in the other 5.\nPatients developed pyramidal, extrapyramidal and cerebellar disturbances, as well as movement disorders and progressive dementia.\nVisual alterations were found in 5 cases and periodic EEG activity in 7.\nUnequivocal cortical spongiform changes, together with varying degrees of neuronal depletion and astroglial hyperplasia were constant findings.\nNo white matter involvement was apparent either from CT brain scans or on histopathological study of biopsied and autopsied material.\nIncreasing awareness of this disease as well as possibilities of transmission is necessary in order to provide better information on its true incidence in Argentina.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Autopsy",
+      "start": 15,
+      "end": 34,
+      "text": "neuropathologically",
+      "spans": [
+        {
+          "start": 15,
+          "end": 34
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 58,
+      "end": 83,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 58,
+          "end": 83
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Complication",
+      "start": 88,
+      "end": 92,
+      "text": "died",
+      "spans": [
+        {
+          "start": 88,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Duration",
+      "start": 106,
+      "end": 127,
+      "text": "between 1980 and 1987",
+      "spans": [
+        {
+          "start": 106,
+          "end": 127
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Anatomic_location",
+      "start": 284,
+      "end": 289,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 284,
+          "end": 289
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Age",
+      "start": 308,
+      "end": 322,
+      "text": "42 to 63 years",
+      "spans": [
+        {
+          "start": 308,
+          "end": 322
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Duration",
+      "start": 390,
+      "end": 406,
+      "text": "3.5 to 24 months",
+      "spans": [
+        {
+          "start": 390,
+          "end": 406
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 440,
+      "end": 458,
+      "text": "behavioral changes",
+      "spans": [
+        {
+          "start": 440,
+          "end": 458
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Duration",
+      "start": 487,
+      "end": 512,
+      "text": "one year to several weeks",
+      "spans": [
+        {
+          "start": 487,
+          "end": 512
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 521,
+      "end": 544,
+      "text": "neurological impairment",
+      "spans": [
+        {
+          "start": 521,
+          "end": 544
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 580,
+      "end": 633,
+      "text": "pyramidal disturbances",
+      "spans": [
+        {
+          "start": 580,
+          "end": 589
+        },
+        {
+          "start": 621,
+          "end": 633
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 591,
+      "end": 633,
+      "text": "extrapyramidal disturbances",
+      "spans": [
+        {
+          "start": 591,
+          "end": 605
+        },
+        {
+          "start": 621,
+          "end": 633
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 610,
+      "end": 633,
+      "text": "cerebellar disturbances",
+      "spans": [
+        {
+          "start": 610,
+          "end": 633
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 646,
+      "end": 664,
+      "text": "movement disorders",
+      "spans": [
+        {
+          "start": 646,
+          "end": 664
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 669,
+      "end": 689,
+      "text": "progressive dementia",
+      "spans": [
+        {
+          "start": 669,
+          "end": 689
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 691,
+      "end": 709,
+      "text": "Visual alterations",
+      "spans": [
+        {
+          "start": 691,
+          "end": 709
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Electrophysio_test",
+      "start": 745,
+      "end": 748,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 745,
+          "end": 748
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 776,
+      "end": 784,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 776,
+          "end": 784
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Autopsy_finding",
+      "start": 785,
+      "end": 803,
+      "text": "spongiform changes",
+      "spans": [
+        {
+          "start": 785,
+          "end": 803
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Autopsy_finding",
+      "start": 838,
+      "end": 856,
+      "text": "neuronal depletion",
+      "spans": [
+        {
+          "start": 838,
+          "end": 856
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Autopsy_finding",
+      "start": 861,
+      "end": 883,
+      "text": "astroglial hyperplasia",
+      "spans": [
+        {
+          "start": 861,
+          "end": 883
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Imaging_finding",
+      "start": 908,
+      "end": 935,
+      "text": "No white matter involvement",
+      "spans": [
+        {
+          "start": 908,
+          "end": 935
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 911,
+      "end": 923,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 911,
+          "end": 923
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Imaging_test",
+      "start": 961,
+      "end": 963,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 961,
+          "end": 963
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Anatomic_location",
+      "start": 964,
+      "end": 969,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 964,
+          "end": 969
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Autopsy",
+      "start": 982,
+      "end": 1005,
+      "text": "histopathological study",
+      "spans": [
+        {
+          "start": 982,
+          "end": 1005
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Autopsy",
+      "start": 1009,
+      "end": 1017,
+      "text": "biopsied",
+      "spans": [
+        {
+          "start": 1009,
+          "end": 1017
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Autopsy",
+      "start": 1022,
+      "end": 1031,
+      "text": "autopsied",
+      "spans": [
+        {
+          "start": 1022,
+          "end": 1031
+        }
+      ]
+    }
+  ]
+}

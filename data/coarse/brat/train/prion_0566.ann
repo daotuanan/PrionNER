@@ -1,0 +1,28 @@
+T1	Familial_Prion 77 115	Gerstmann-Sträussler-Scheinker disease
+T3	Symptom 147 165	progressive ataxia
+T4	Symptom 167 175	dementia
+T5	Symptom 181 202	parkinsonian features
+T6	Symptom 250 287	Impaired smooth-pursuit eye movements
+T7	Symptom 289 316	defective short-term memory
+T8	Symptom 318 341	clumsiness of the hands
+T9	Symptom 347 361	ataxia of gait
+T10	Age 377 398	late 30s to early 60s
+T11	Symptom 400 426	Eye movement abnormalities
+T12	Symptom 449 471	cerebellar dysfunction
+T13	Symptom 473 481	Dementia
+T14	Time 508 521	several years
+T16	Symptom 530 538	rigidity
+T17	Symptom 543 555	bradykinesia
+T19	Symptom 598 607	psychosis
+T20	Symptom 611 628	severe depression
+T21	Symptom 634 651	rapid weight loss
+T2	Complication 653 658	Death
+T22	Time 669 688	6 months to 2 years
+T24	Time 689 700	after onset
+T25	Symptom 704 712	rigidity
+T26	Test_name 714 740	Magnetic resonance imaging
+T27	Anatomic_location 774 784	cerebellar
+T28	Findings 785 792	atrophy
+T18	Findings 803 812;816 822	decreased signal
+T15	Sequences 813 815	T2
+T31	Anatomic_location 830 843	basal ganglia

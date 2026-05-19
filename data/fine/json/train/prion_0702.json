@@ -1,0 +1,266 @@
+{
+  "doc_id": "prion_0702",
+  "text": "A 66-year-old woman presented with a rapidly progressive dementia initially characterized by an auditory agnosia.\nShe experienced a rapid progression of her aphasia and developed ataxia and myoclonus.\nAn initial neurological evaluation suggested a left parieto-temporal lesion, however, neuroimaging did not reveal any.\nAn MRI of her brain demonstrated highly focal T2 hyperintensities in her basal ganglia.\nThe patient was diagnosed with Creutzfeldt-Jacob Disease (CJD) on the basis of the presence of two proteins in the CSF that are highly sensitive and specific for CJD.\nPathological examination confirmed the diagnosis.\nThe differential diagnosis and utility of MRI in patients with CJD is discussed.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "66-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 37,
+      "end": 65,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 37,
+          "end": 65
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 96,
+      "end": 112,
+      "text": "auditory agnosia",
+      "spans": [
+        {
+          "start": 96,
+          "end": 112
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 157,
+      "end": 164,
+      "text": "aphasia",
+      "spans": [
+        {
+          "start": 157,
+          "end": 164
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 179,
+      "end": 185,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 179,
+          "end": 185
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 190,
+      "end": 199,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 190,
+          "end": 199
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 253,
+      "end": 269,
+      "text": "parieto-temporal",
+      "spans": [
+        {
+          "start": 253,
+          "end": 269
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Imaging_test",
+      "start": 287,
+      "end": 299,
+      "text": "neuroimaging",
+      "spans": [
+        {
+          "start": 287,
+          "end": 299
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Imaging_test",
+      "start": 323,
+      "end": 326,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 323,
+          "end": 326
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 334,
+      "end": 339,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 334,
+          "end": 339
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Imaging_sequence",
+      "start": 366,
+      "end": 368,
+      "text": "T2",
+      "spans": [
+        {
+          "start": 366,
+          "end": 368
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Imaging_finding",
+      "start": 369,
+      "end": 385,
+      "text": "hyperintensities",
+      "spans": [
+        {
+          "start": 369,
+          "end": 385
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 393,
+      "end": 406,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 393,
+          "end": 406
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 439,
+      "end": 464,
+      "text": "Creutzfeldt-Jacob Disease",
+      "spans": [
+        {
+          "start": 439,
+          "end": 464
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 466,
+      "end": 469,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 466,
+          "end": 469
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Blood_biomarker_test",
+      "start": 523,
+      "end": 526,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 523,
+          "end": 526
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 570,
+      "end": 573,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 570,
+          "end": 573
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Autopsy",
+      "start": 575,
+      "end": 599,
+      "text": "Pathological examination",
+      "spans": [
+        {
+          "start": 575,
+          "end": 599
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Imaging_test",
+      "start": 667,
+      "end": 670,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 667,
+          "end": 670
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Generic_Prion",
+      "start": 688,
+      "end": 691,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 688,
+          "end": 691
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Based on in vitro observations in scrapie-infected neuroblastoma cells, quinacrine has recently been proposed as a treatment for Creutzfeldt-Jakob disease (CJD), including a new variant CJD which is linked to contamination of food by the bovine spongiform encephalopathy (BSE) agent.
+The present study investigated possible mechanisms of action of quinacrine on prions.
+The ability of quinacrine to interact with and to reduce the protease resistance of PrP peptide aggregates and PrPres of human and animal origin were analyzed, together with its ability to inhibit the in vitro conversion of the normal prion protein (PrPc) to the abnormal form (PrPres).
+Furthermore, the efficiencies of quinacrine and chlorpromazine, another tricyclic compound, were examined in different in vitro models and in an experimental murine model of BSE.
+Quinacrine efficiently hampered de novo generation of fibrillogenic prion protein and PrPres accumulation in ScN2a cells.
+However, it was unable to affect the protease resistance of preexisting PrP fibrils and PrPres from brain homogenates, and a "curing" effect was obtained in ScGT1 cells only after lengthy treatment.
+In vivo, no detectable effect was observed in the animal model used, consistent with other recent studies and preliminary observations in humans.
+Despite its ability to cross the blood-brain barrier, the use of quinacrine for the treatment of CJD is questionable, at least as a monotherapy.
+The multistep experimental approach employed here could be used to test new therapeutic regimes before their use in human trials.

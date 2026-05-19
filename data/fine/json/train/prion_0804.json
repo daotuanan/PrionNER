@@ -1,0 +1,214 @@
+{
+  "doc_id": "prion_0804",
+  "text": "As of May, 2002, 128 cases of variant Creutzfeldt-Jakob (vCJD) disease have been identified in the UK, France, and Ireland.\nWe report the first case of vCJD in Italy.\nThe patient was a young Italian woman who had never travelled to a country with bovine spongiform encephalopathy (BSE).\nShe was diagnosed by cerebral MRI and western blot analysis of tonsil biopsy samples.\nThe results of these analyses suggest that vCJD in continental Europe and the UK share genetic, clinical, and neuroimaging features, with similar western blot patterns.\nThe identification of vCJD in Italy could have important implications for public-health policy decisions and clinical surveillance in Italy and other continental European countries where BSE has been identified.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Time_point",
+      "start": 6,
+      "end": 15,
+      "text": "May, 2002",
+      "spans": [
+        {
+          "start": 6,
+          "end": 15
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "vCJD",
+      "start": 30,
+      "end": 55,
+      "text": "variant Creutzfeldt-Jakob",
+      "spans": [
+        {
+          "start": 30,
+          "end": 55
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "vCJD",
+      "start": 57,
+      "end": 61,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 57,
+          "end": 61
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "vCJD",
+      "start": 152,
+      "end": 156,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 152,
+          "end": 156
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 247,
+      "end": 279,
+      "text": "bovine spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 247,
+          "end": 279
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 281,
+      "end": 284,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 281,
+          "end": 284
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 308,
+      "end": 316,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 308,
+          "end": 316
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Imaging_test",
+      "start": 317,
+      "end": 320,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 317,
+          "end": 320
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Molecular_assay",
+      "start": 325,
+      "end": 346,
+      "text": "western blot analysis",
+      "spans": [
+        {
+          "start": 325,
+          "end": 346
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 350,
+      "end": 356,
+      "text": "tonsil",
+      "spans": [
+        {
+          "start": 350,
+          "end": 356
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Autopsy",
+      "start": 357,
+      "end": 363,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 357,
+          "end": 363
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "vCJD",
+      "start": 416,
+      "end": 420,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 416,
+          "end": 420
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Imaging_test",
+      "start": 483,
+      "end": 495,
+      "text": "neuroimaging",
+      "spans": [
+        {
+          "start": 483,
+          "end": 495
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Molecular_assay",
+      "start": 519,
+      "end": 531,
+      "text": "western blot",
+      "spans": [
+        {
+          "start": 519,
+          "end": 531
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "vCJD",
+      "start": 564,
+      "end": 568,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 564,
+          "end": 568
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 729,
+      "end": 732,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 729,
+          "end": 732
+        }
+      ]
+    }
+  ]
+}

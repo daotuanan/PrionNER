@@ -1,0 +1,145 @@
+{
+  "doc_id": "prion_0643",
+  "text": "Two cases of Gerstmann-Sträussler-Scheinker syndrome (GSS) are discussed in detail.\nThese cases illustrate the variable clinical course and mostly cortical features of GSS-associated dementia.\nGiven the availability of genetic tests that can now diagnose GSS, clinicians should consider these tests in cases where patients with dementia have extensive family histories or if the clinical course is atypical for Alzheimer's or vascular dementia.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "GSS",
+      "start": 13,
+      "end": 52,
+      "text": "Gerstmann-Sträussler-Scheinker syndrome",
+      "spans": [
+        {
+          "start": 13,
+          "end": 52
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "GSS",
+      "start": 54,
+      "end": 57,
+      "text": "GSS",
+      "spans": [
+        {
+          "start": 54,
+          "end": 57
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Anatomic_location",
+      "start": 147,
+      "end": 155,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 147,
+          "end": 155
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 147,
+      "end": 191,
+      "text": "cortical features associated dementia",
+      "spans": [
+        {
+          "start": 147,
+          "end": 164
+        },
+        {
+          "start": 172,
+          "end": 182
+        },
+        {
+          "start": 183,
+          "end": 191
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T4",
+      "label": "GSS",
+      "start": 168,
+      "end": 171,
+      "text": "GSS",
+      "spans": [
+        {
+          "start": 168,
+          "end": 171
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Genetic_test",
+      "start": 219,
+      "end": 232,
+      "text": "genetic tests",
+      "spans": [
+        {
+          "start": 219,
+          "end": 232
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "GSS",
+      "start": 255,
+      "end": 258,
+      "text": "GSS",
+      "spans": [
+        {
+          "start": 255,
+          "end": 258
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 328,
+      "end": 336,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 328,
+          "end": 336
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Differential_Diagnosis",
+      "start": 411,
+      "end": 422,
+      "text": "Alzheimer's",
+      "spans": [
+        {
+          "start": 411,
+          "end": 422
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Differential_Diagnosis",
+      "start": 426,
+      "end": 443,
+      "text": "vascular dementia",
+      "spans": [
+        {
+          "start": 426,
+          "end": 443
+        }
+      ]
+    }
+  ]
+}

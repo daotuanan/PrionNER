@@ -1,0 +1,9 @@
+T2	Generic_Prion 20 37	Creutzfeldt-Jakob
+T3	Age 57 68	72-year-old
+T4	Test_name 96 99	EEG
+T9	Findings 144 178	PrP-immunopositive amyloid plaques
+T5	Anatomic_location 197 207	cerebellum
+T6	Familial_Prion 241 271	Gerstmann-Străussler-Scheinker
+T7	Familial_Prion 319 322	GSS
+T8	Generic_Prion 445 448	CJD
+T11	Findings 471 490	reactive astrocytes

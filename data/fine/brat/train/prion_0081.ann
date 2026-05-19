@@ -1,0 +1,11 @@
+T2	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T3	Generic_Prion 27 30	CJD
+T4	Generic_Prion 54 68	prion diseases
+T12	Generic_Prion 667 670	CJD
+T6	fCJD 189 203	hereditary CJD
+T18	vCJD 81 91	infectious
+T19	sCJD 93 101	sporadic
+T20	fCJD 106 116	hereditary
+T21	Generic_Prion 242 245	CJD
+T9	fCJD 291 303	familial CJD
+T15	fCJD 1397 1411	hereditary CJD

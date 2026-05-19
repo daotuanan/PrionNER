@@ -1,0 +1,162 @@
+{
+  "doc_id": "prion_0506",
+  "text": "The case of a patient 53 years old that had a picture of cortical impairment and pyramidal disfunction, leading in 6 months to acinetic mutism is reported.\nThe histopathology lead to the diagnostic of Creutzeldt-Jakob disease, with neuronal loss, gliosis and status spongiosus.\nThe electron-microscopic examination showed that the status spongiosus was due to cellular processes, some having vesicular bodies sugestive of pre-synaptic vesicles.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 22,
+      "end": 34,
+      "text": "53 years old",
+      "spans": [
+        {
+          "start": 22,
+          "end": 34
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 57,
+      "end": 76,
+      "text": "cortical impairment",
+      "spans": [
+        {
+          "start": 57,
+          "end": 76
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 81,
+      "end": 102,
+      "text": "pyramidal disfunction",
+      "spans": [
+        {
+          "start": 81,
+          "end": 102
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Time",
+      "start": 115,
+      "end": 123,
+      "text": "6 months",
+      "spans": [
+        {
+          "start": 115,
+          "end": 123
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 127,
+      "end": 142,
+      "text": "acinetic mutism",
+      "spans": [
+        {
+          "start": 127,
+          "end": 142
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 160,
+      "end": 174,
+      "text": "histopathology",
+      "spans": [
+        {
+          "start": 160,
+          "end": 174
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 201,
+      "end": 225,
+      "text": "Creutzeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 201,
+          "end": 225
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Findings",
+      "start": 232,
+      "end": 245,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 232,
+          "end": 245
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Findings",
+      "start": 247,
+      "end": 254,
+      "text": "gliosis",
+      "spans": [
+        {
+          "start": 247,
+          "end": 254
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Findings",
+      "start": 259,
+      "end": 276,
+      "text": "status spongiosus",
+      "spans": [
+        {
+          "start": 259,
+          "end": 276
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 282,
+      "end": 314,
+      "text": "electron-microscopic examination",
+      "spans": [
+        {
+          "start": 282,
+          "end": 314
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 331,
+      "end": 348,
+      "text": "status spongiosus",
+      "spans": [
+        {
+          "start": 331,
+          "end": 348
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "doc_id": "prion_0502",
+  "text": "We report here a family with three pathologically confirmed cases of Creutzfeldt-Jakob disease in three siblings and with transmission of one case to the squirrel monkey.\nThis family, originating from the South-East of England, settled in France in 1870.\nEight members of the family, distributed in three generations, were affected by the disease at the same age (about 50), with similar symptoms and length of evolution.\nTwo cases were confirmed at post-mortem and one case by cerebral biopsy.\nThe genealogic inquiry dealth with 46 members of 5 generations.\nAll the affected members, six men and two women, belonged to the three older generations which were comprised of 15 individuals.\nAll had lived in close relationship in a limited area of the north of Ardennas.\nThe possible mechanisms of dominant inheritance or cross infection are discussed.",
+  "entities": [
+    {
+      "id": "T8",
+      "label": "Autopsy",
+      "start": 35,
+      "end": 49,
+      "text": "pathologically",
+      "spans": [
+        {
+          "start": 35,
+          "end": 49
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 69,
+      "end": 94,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 69,
+          "end": 94
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Time_point",
+      "start": 249,
+      "end": 253,
+      "text": "1870",
+      "spans": [
+        {
+          "start": 249,
+          "end": 253
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 364,
+      "end": 372,
+      "text": "about 50",
+      "spans": [
+        {
+          "start": 364,
+          "end": 372
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Autopsy",
+      "start": 450,
+      "end": 461,
+      "text": "post-mortem",
+      "spans": [
+        {
+          "start": 450,
+          "end": 461
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 478,
+      "end": 486,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 478,
+          "end": 486
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Autopsy",
+      "start": 487,
+      "end": 493,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 487,
+          "end": 493
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+T3	Generic_Prion 91 94	CJD
+T4	Age 112 123	42 year old
+T6	Duration 166 176	163 months
+T8	Symptom 234 243	myoclonus
+T12	Autopsy 401 430	Neuropathological examination
+T13	Autopsy_finding 441 465	plaque-like PrP deposits
+T14	Anatomic_location 530 535	brain
+T5	Symptom 150 165	spastic paresis
+T7	Treatment 185 211	cadaveric dura mater graft
+T17	Electrophysio_test 307 310	EEG
+T9	Autopsy_finding 496 522	synaptic PrP accumulations
+T2	iCJD 41 89	dural graft associated Creutzfeldt-Jakob disease
+T10	iCJD 581 607	dural graft associated CJD

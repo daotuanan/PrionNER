@@ -1,0 +1,305 @@
+{
+  "doc_id": "prion_0286",
+  "text": "The study aimed to evaluate the fluorescent molecular-imaging probe 2-(1-[6-[(2-fluoroethyl)(methyl)amino]-2-naphthyl]ethylidene)malononitrile (FDDNP) for its ability to selectively and reproducibly label prion plaques in fixed, paraffin-embedded cerebellar sections from patients of confirmed Gerstmann-Sträussler-Scheinker disease, sporadic Creutzfeldt-Jacob disease (CJD) with kuru plaques, and variant CJD (vCJD).\nFDDNP is a highly hydrophobic, viscosity-sensitive, solvent-sensitive, fluorescent substance, whose radiofluorinated analog [18F]FDDNP has recently been successfully used to label senile plaques and neurofibrillary tangles in the living brain of Alzheimer's disease patients with positron emission tomography.\nOur results show that FDDNP reliably identifies all prion plaques, including small cluster-plaques in vCJD.\nThis finding may open new in vivo diagnostic possibilities for vCJD.",
+  "entities": [
+    {
+      "id": "T16",
+      "label": "Sequences",
+      "start": 32,
+      "end": 67,
+      "text": "fluorescent molecular-imaging probe",
+      "spans": [
+        {
+          "start": 32,
+          "end": 67
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Sequences",
+      "start": 144,
+      "end": 149,
+      "text": "FDDNP",
+      "spans": [
+        {
+          "start": 144,
+          "end": 149
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Findings",
+      "start": 205,
+      "end": 218,
+      "text": "prion plaques",
+      "spans": [
+        {
+          "start": 205,
+          "end": 218
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Anatomic_location",
+      "start": 247,
+      "end": 257,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 247,
+          "end": 257
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Familial_Prion",
+      "start": 294,
+      "end": 332,
+      "text": "Gerstmann-Sträussler-Scheinker disease",
+      "spans": [
+        {
+          "start": 294,
+          "end": 332
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Sporadic_Prion",
+      "start": 334,
+      "end": 368,
+      "text": "sporadic Creutzfeldt-Jacob disease",
+      "spans": [
+        {
+          "start": 334,
+          "end": 368
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 370,
+      "end": 373,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 370,
+          "end": 373
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Acquired_Prion",
+      "start": 380,
+      "end": 384,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 380,
+          "end": 384
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Findings",
+      "start": 380,
+      "end": 392,
+      "text": "kuru plaques",
+      "spans": [
+        {
+          "start": 380,
+          "end": 392
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Acquired_Prion",
+      "start": 398,
+      "end": 409,
+      "text": "variant CJD",
+      "spans": [
+        {
+          "start": 398,
+          "end": 409
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Acquired_Prion",
+      "start": 411,
+      "end": 415,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 411,
+          "end": 415
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Sequences",
+      "start": 418,
+      "end": 423,
+      "text": "FDDNP",
+      "spans": [
+        {
+          "start": 418,
+          "end": 423
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Sequences",
+      "start": 547,
+      "end": 552,
+      "text": "FDDNP",
+      "spans": [
+        {
+          "start": 547,
+          "end": 552
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Findings",
+      "start": 598,
+      "end": 612,
+      "text": "senile plaques",
+      "spans": [
+        {
+          "start": 598,
+          "end": 612
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Findings",
+      "start": 617,
+      "end": 640,
+      "text": "neurofibrillary tangles",
+      "spans": [
+        {
+          "start": 617,
+          "end": 640
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Anatomic_location",
+      "start": 655,
+      "end": 660,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 655,
+          "end": 660
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Differential_Diagnosis",
+      "start": 664,
+      "end": 683,
+      "text": "Alzheimer's disease",
+      "spans": [
+        {
+          "start": 664,
+          "end": 683
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 698,
+      "end": 726,
+      "text": "positron emission tomography",
+      "spans": [
+        {
+          "start": 698,
+          "end": 726
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Sequences",
+      "start": 750,
+      "end": 755,
+      "text": "FDDNP",
+      "spans": [
+        {
+          "start": 750,
+          "end": 755
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Findings",
+      "start": 780,
+      "end": 793,
+      "text": "prion plaques",
+      "spans": [
+        {
+          "start": 780,
+          "end": 793
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Findings",
+      "start": 805,
+      "end": 826,
+      "text": "small cluster-plaques",
+      "spans": [
+        {
+          "start": 805,
+          "end": 826
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Acquired_Prion",
+      "start": 830,
+      "end": 834,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 830,
+          "end": 834
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Acquired_Prion",
+      "start": 899,
+      "end": 903,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 899,
+          "end": 903
+        }
+      ]
+    }
+  ]
+}

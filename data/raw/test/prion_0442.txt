@@ -1,0 +1,15 @@
+BACKGROUND: Between January 1993 and December 2003, 19 patients with familial prion diseases due to the D178N mutation were referred to the regional epidemiological registry for spongiform encephalopathies in the Basque Country in Spain, a small community of some 2,100,000 inhabitants.
+METHODS: Ten further patients belonging to the same pedigrees were retrospectively ascertained through neurological or neuropathological records.
+In four of the patients, the diagnosis was confirmed by analysing DNA obtained from paraffin blocks.
+In this article, we report on the clinical, genetic, and pathological features of the 23 patients carrying the D178N mutation confirmed by genetic molecular analysis.
+Haplotyping studies suggest a founder effect among Basque born families, explaining in part this unusually high incidence of the D178N mutation in a small community.
+Only two patients (8%) lack familial antecedents.
+RESULTS: We have observed a phenotypic variability even among homozygous 129MM patients.
+Our findings challenge the currently accepted belief that MM homozygosity in codon 129 is always related to a fatal familial insomnia (FFI) phenotype.
+Indeed, seven out of 17 patients with a 129MM genotype in this series presented with a Creutzfeldt-Jakob disease (CJD) clinicopathological picture.
+CONCLUSIONS: The considerable clinical and pathological overlapping observed among homozygous 129MM patients favours the view that FFI and CJD178 are the extremes of a spectrum rather than two discrete and separate entities.
+Other genetic or environmental factors apart from the polymorphism in codon 129 may play a role in determining the phenotypic expression of the D178N mutation in the PRNP gene.
+
+<Related> YES or NO
+[DONE]
+[CHECK]

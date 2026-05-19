@@ -1,0 +1,266 @@
+{
+  "doc_id": "prion_0792",
+  "text": "A 48-year-old man suddenly developed clinically and electroencephalographically nonspecific dementia.\nOn MRI sequences, only diffusion-weighted images (DWI) of the cortex were unequivocally pathological.\nObvious atrophy and basal ganglia signal changes appeared only 9 months after the onset.\nBrain biopsy confirmed Creutzfeldt-Jakob disease (CJD).\nIn rapidly progressive dementia, we recommend DWI for early diagnosis of CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "48-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 52,
+      "end": 79,
+      "text": "electroencephalographically",
+      "spans": [
+        {
+          "start": 52,
+          "end": 79
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 92,
+      "end": 100,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 92,
+          "end": 100
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 105,
+      "end": 108,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 105,
+          "end": 108
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Sequences",
+      "start": 125,
+      "end": 150,
+      "text": "diffusion-weighted images",
+      "spans": [
+        {
+          "start": 125,
+          "end": 150
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Sequences",
+      "start": 152,
+      "end": 155,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 152,
+          "end": 155
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 164,
+      "end": 170,
+      "text": "cortex",
+      "spans": [
+        {
+          "start": 164,
+          "end": 170
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Test_name",
+      "start": 190,
+      "end": 202,
+      "text": "pathological",
+      "spans": [
+        {
+          "start": 190,
+          "end": 202
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Findings",
+      "start": 212,
+      "end": 219,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 212,
+          "end": 219
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 224,
+      "end": 237,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 224,
+          "end": 237
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Findings",
+      "start": 238,
+      "end": 252,
+      "text": "signal changes",
+      "spans": [
+        {
+          "start": 238,
+          "end": 252
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Time",
+      "start": 267,
+      "end": 275,
+      "text": "9 months",
+      "spans": [
+        {
+          "start": 267,
+          "end": 275
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Time",
+      "start": 276,
+      "end": 291,
+      "text": "after the onset",
+      "spans": [
+        {
+          "start": 276,
+          "end": 291
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 293,
+      "end": 298,
+      "text": "Brain",
+      "spans": [
+        {
+          "start": 293,
+          "end": 298
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 299,
+      "end": 305,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 299,
+          "end": 305
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 316,
+      "end": 341,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 316,
+          "end": 341
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 343,
+      "end": 346,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 343,
+          "end": 346
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 352,
+      "end": 380,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 352,
+          "end": 380
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Sequences",
+      "start": 395,
+      "end": 398,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 395,
+          "end": 398
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Generic_Prion",
+      "start": 422,
+      "end": 425,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 422,
+          "end": 425
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "doc_id": "prion_0393",
+  "text": "OBJECTIVE: To investigate abnormal prion protein (PrP) deposition in the peripheral nervous system (PNS) in human prion diseases.\nMETHODS: Eight patients with prion diseases were examined: three with sporadic Creutzfeldt-Jakob disease (sCJD), two with dural graft associated CJD (dCJD), one with Gerstmann-Straussler-Scheinker disease (GSS) with a PrP P102L mutation (GSS102), and two with a P105L mutation (GSS105).\nAn atypical case of sCJD with PrP plaques in the brain presented clinically with peripheral neuropathy, and showed demyelination in 12% of the teased fibres of the sural nerve.\nThe PNS was investigated by immunohistochemical and western blotting analyses of PrP.\nRESULTS: In immunohistochemical studies, granular PrP deposits were detected in some neurones of dorsal root ganglia and a few fibres of peripheral nerves and spinal posterior roots in one sCJD and two dCJD patients, but not in GSS102 or GSS105 patients.\nThe atypical case of sCJD with peripheral neuropathy showed no obvious PrP deposition in the nerves.\nWestern blotting analysis of the PNS from the dCJD patients revealed a small amount of protease K resistant PrP in the dorsal root ganglia and peripheral nerves.\nCONCLUSIONS: Abnormal PrP deposition occurs in the dorsal root ganglia and peripheral nerves in sCJD and dCJD.\nThe PrP deposits in the PNS are not correlated with clinical manifestation of peripheral neuropathy in CJD.",
+  "entities": [
+    {
+      "id": "T5",
+      "label": "Findings",
+      "start": 35,
+      "end": 65,
+      "text": "prion protein (PrP) deposition",
+      "spans": [
+        {
+          "start": 35,
+          "end": 65
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Anatomic_location",
+      "start": 73,
+      "end": 98,
+      "text": "peripheral nervous system",
+      "spans": [
+        {
+          "start": 73,
+          "end": 98
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 100,
+      "end": 103,
+      "text": "PNS",
+      "spans": [
+        {
+          "start": 100,
+          "end": 103
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 114,
+      "end": 128,
+      "text": "prion diseases",
+      "spans": [
+        {
+          "start": 114,
+          "end": 128
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 159,
+      "end": 173,
+      "text": "prion diseases",
+      "spans": [
+        {
+          "start": 159,
+          "end": 173
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Sporadic_Prion",
+      "start": 200,
+      "end": 234,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 200,
+          "end": 234
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Sporadic_Prion",
+      "start": 236,
+      "end": 240,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 236,
+          "end": 240
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Acquired_Prion",
+      "start": 252,
+      "end": 278,
+      "text": "dural graft associated CJD",
+      "spans": [
+        {
+          "start": 252,
+          "end": 278
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Acquired_Prion",
+      "start": 280,
+      "end": 284,
+      "text": "dCJD",
+      "spans": [
+        {
+          "start": 280,
+          "end": 284
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Familial_Prion",
+      "start": 296,
+      "end": 334,
+      "text": "Gerstmann-Straussler-Scheinker disease",
+      "spans": [
+        {
+          "start": 296,
+          "end": 334
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Familial_Prion",
+      "start": 336,
+      "end": 339,
+      "text": "GSS",
+      "spans": [
+        {
+          "start": 336,
+          "end": 339
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Familial_Prion",
+      "start": 368,
+      "end": 374,
+      "text": "GSS102",
+      "spans": [
+        {
+          "start": 368,
+          "end": 374
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Familial_Prion",
+      "start": 408,
+      "end": 414,
+      "text": "GSS105",
+      "spans": [
+        {
+          "start": 408,
+          "end": 414
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Sporadic_Prion",
+      "start": 437,
+      "end": 441,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 437,
+          "end": 441
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Findings",
+      "start": 447,
+      "end": 458,
+      "text": "PrP plaques",
+      "spans": [
+        {
+          "start": 447,
+          "end": 458
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 466,
+      "end": 471,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 466,
+          "end": 471
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Differential_Diagnosis",
+      "start": 498,
+      "end": 519,
+      "text": "peripheral neuropathy",
+      "spans": [
+        {
+          "start": 498,
+          "end": 519
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Findings",
+      "start": 532,
+      "end": 545,
+      "text": "demyelination",
+      "spans": [
+        {
+          "start": 532,
+          "end": 545
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Anatomic_location",
+      "start": 581,
+      "end": 592,
+      "text": "sural nerve",
+      "spans": [
+        {
+          "start": 581,
+          "end": 592
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Anatomic_location",
+      "start": 598,
+      "end": 601,
+      "text": "PNS",
+      "spans": [
+        {
+          "start": 598,
+          "end": 601
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Test_name",
+      "start": 622,
+      "end": 641,
+      "text": "immunohistochemical",
+      "spans": [
+        {
+          "start": 622,
+          "end": 641
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Test_name",
+      "start": 646,
+      "end": 671,
+      "text": "western blotting analyses",
+      "spans": [
+        {
+          "start": 646,
+          "end": 671
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Test_name",
+      "start": 692,
+      "end": 719,
+      "text": "immunohistochemical studies",
+      "spans": [
+        {
+          "start": 692,
+          "end": 719
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Findings",
+      "start": 721,
+      "end": 742,
+      "text": "granular PrP deposits",
+      "spans": [
+        {
+          "start": 721,
+          "end": 742
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Anatomic_location",
+      "start": 777,
+      "end": 796,
+      "text": "dorsal root ganglia",
+      "spans": [
+        {
+          "start": 777,
+          "end": 796
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Anatomic_location",
+      "start": 817,
+      "end": 834,
+      "text": "peripheral nerves",
+      "spans": [
+        {
+          "start": 817,
+          "end": 834
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Anatomic_location",
+      "start": 839,
+      "end": 861,
+      "text": "spinal posterior roots",
+      "spans": [
+        {
+          "start": 839,
+          "end": 861
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Sporadic_Prion",
+      "start": 869,
+      "end": 873,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 869,
+          "end": 873
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Acquired_Prion",
+      "start": 882,
+      "end": 886,
+      "text": "dCJD",
+      "spans": [
+        {
+          "start": 882,
+          "end": 886
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Familial_Prion",
+      "start": 908,
+      "end": 914,
+      "text": "GSS102",
+      "spans": [
+        {
+          "start": 908,
+          "end": 914
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Familial_Prion",
+      "start": 918,
+      "end": 924,
+      "text": "GSS105",
+      "spans": [
+        {
+          "start": 918,
+          "end": 924
+        }
+      ]
+    },
+    {
+      "id": "T47",
+      "label": "Sporadic_Prion",
+      "start": 956,
+      "end": 960,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 956,
+          "end": 960
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Differential_Diagnosis",
+      "start": 966,
+      "end": 987,
+      "text": "peripheral neuropathy",
+      "spans": [
+        {
+          "start": 966,
+          "end": 987
+        }
+      ]
+    },
+    {
+      "id": "T51",
+      "label": "Findings",
+      "start": 1006,
+      "end": 1020,
+      "text": "PrP deposition",
+      "spans": [
+        {
+          "start": 1006,
+          "end": 1020
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 1028,
+      "end": 1034,
+      "text": "nerves",
+      "spans": [
+        {
+          "start": 1028,
+          "end": 1034
+        }
+      ]
+    },
+    {
+      "id": "T53",
+      "label": "Test_name",
+      "start": 1036,
+      "end": 1061,
+      "text": "Western blotting analysis",
+      "spans": [
+        {
+          "start": 1036,
+          "end": 1061
+        }
+      ]
+    },
+    {
+      "id": "T54",
+      "label": "Anatomic_location",
+      "start": 1069,
+      "end": 1072,
+      "text": "PNS",
+      "spans": [
+        {
+          "start": 1069,
+          "end": 1072
+        }
+      ]
+    },
+    {
+      "id": "T55",
+      "label": "Acquired_Prion",
+      "start": 1082,
+      "end": 1086,
+      "text": "dCJD",
+      "spans": [
+        {
+          "start": 1082,
+          "end": 1086
+        }
+      ]
+    },
+    {
+      "id": "T58",
+      "label": "Anatomic_location",
+      "start": 1155,
+      "end": 1174,
+      "text": "dorsal root ganglia",
+      "spans": [
+        {
+          "start": 1155,
+          "end": 1174
+        }
+      ]
+    },
+    {
+      "id": "T59",
+      "label": "Anatomic_location",
+      "start": 1179,
+      "end": 1196,
+      "text": "peripheral nerves",
+      "spans": [
+        {
+          "start": 1179,
+          "end": 1196
+        }
+      ]
+    },
+    {
+      "id": "T62",
+      "label": "Findings",
+      "start": 1220,
+      "end": 1234,
+      "text": "PrP deposition",
+      "spans": [
+        {
+          "start": 1220,
+          "end": 1234
+        }
+      ]
+    },
+    {
+      "id": "T63",
+      "label": "Anatomic_location",
+      "start": 1249,
+      "end": 1268,
+      "text": "dorsal root ganglia",
+      "spans": [
+        {
+          "start": 1249,
+          "end": 1268
+        }
+      ]
+    },
+    {
+      "id": "T64",
+      "label": "Anatomic_location",
+      "start": 1273,
+      "end": 1290,
+      "text": "peripheral nerves",
+      "spans": [
+        {
+          "start": 1273,
+          "end": 1290
+        }
+      ]
+    },
+    {
+      "id": "T66",
+      "label": "Sporadic_Prion",
+      "start": 1294,
+      "end": 1298,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 1294,
+          "end": 1298
+        }
+      ]
+    },
+    {
+      "id": "T68",
+      "label": "Acquired_Prion",
+      "start": 1303,
+      "end": 1307,
+      "text": "dCJD",
+      "spans": [
+        {
+          "start": 1303,
+          "end": 1307
+        }
+      ]
+    },
+    {
+      "id": "T69",
+      "label": "Findings",
+      "start": 1313,
+      "end": 1325,
+      "text": "PrP deposits",
+      "spans": [
+        {
+          "start": 1313,
+          "end": 1325
+        }
+      ]
+    },
+    {
+      "id": "T70",
+      "label": "Anatomic_location",
+      "start": 1333,
+      "end": 1336,
+      "text": "PNS",
+      "spans": [
+        {
+          "start": 1333,
+          "end": 1336
+        }
+      ]
+    },
+    {
+      "id": "T71",
+      "label": "Differential_Diagnosis",
+      "start": 1387,
+      "end": 1408,
+      "text": "peripheral neuropathy",
+      "spans": [
+        {
+          "start": 1387,
+          "end": 1408
+        }
+      ]
+    },
+    {
+      "id": "T72",
+      "label": "Generic_Prion",
+      "start": 1412,
+      "end": 1415,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1412,
+          "end": 1415
+        }
+      ]
+    }
+  ]
+}

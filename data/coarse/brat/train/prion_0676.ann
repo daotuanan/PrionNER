@@ -1,0 +1,14 @@
+T1	Test_name 0 36	Brainstem auditory evoked potentials
+T2	Test_name 38 42	BAEP
+T3	Test_name 95 118	electroencephalographic
+T4	Test_name 120 123	EEG
+T6	Generic_Prion 161 186	Creutzfeldt-Jakob disease
+T7	Generic_Prion 188 191	CJD
+T5	Test_name 270 275	BAEPs
+T17	Generic_Prion 568 571	CJD
+T19	Test_name 586 589	EEG
+T21	Generic_Prion 627 630	CJD
+T8	Test_name 667 671	BAEP
+T25	Test_name 731 734	EEG
+T28	Anatomic_location 810 819	brainstem
+T29	Generic_Prion 851 854	CJD

@@ -1,0 +1,56 @@
+T1	Familial_Prion 12 35	Fatal Familial Insomnia
+T2	Familial_Prion 37 40	FFI
+T46	Generic_Prion 71 84	prion disease
+T3	Familial_Prion 148 151	FFI
+T4	Differential_Diagnosis 188 213	dementia with Lewy bodies
+T5	Differential_Diagnosis 215 218	DLB
+T6	Age 231 242	48‐year‐old
+T8	Time 265 273	six‐year
+T7	Symptom 285 293	insomnia
+T9	Symptom 309 337	rapidly progressive dementia
+T10	Symptom 355 363	amnestic
+T11	Symptom 365 377	dysexecutive
+T12	Symptom 383 407	visuospatial impairments
+T13	Symptom 416 438	cognitive fluctuations
+T14	Symptom 448 470	visual hallucinations;
+T15	Symptom 471 480	delusions
+T16	Symptom 482 494	parkinsonism
+T17	Symptom 503 515	dysautonomia
+T18	Symptom 517 545	neuroleptic hypersensitivity
+T19	Symptom 547 574	REM sleep behavior disorder
+T20	Symptom 576 593	agrypnia excitata
+T21	Symptom 599 616	cerebellar ataxia
+T23	Test_name 713 725	Serum workup
+T25	Test_name 744 756	CSF analysis
+T31	Test_name 853 860	RT‐QuIC
+T62	Anatomic_location 875 880	Brain
+T33	Test_name 881 884	MRI
+T22	Anatomic_location 892 900	cortical
+T24	Anatomic_location 902 914	basal nuclei
+T26	Anatomic_location 919 927	thalamic
+T27	Findings 928 935	atrophy
+T35	Test_name 989 996	FDG‐PET
+T48	Findings 1007 1036	glycolytic metabolism deficit
+T28	Anatomic_location 1063 1070;1084 1091	frontal regions
+T29	Anatomic_location 1075 1091	parietal regions
+T37	Test_name 1109 1121	TRODAT SPECT
+T30	Findings 1141 1187	reduction in dopamine transporter availability
+T32	Anatomic_location 1212 1220	striatum
+T34	Anatomic_location 1225 1232	putamen
+T39	Test_name 1246 1261	Polysomnography
+T44	Test_name 1395 1410	Genetic testing
+T47	Familial_Prion 1553 1556	FFI
+T36	Familial_Prion 1720 1723	FFI
+T41	Findings 1881 1906	glycolytic hypometabolism
+T38	Anatomic_location 1914 1922	thalamus
+T40	Anatomic_location 1961 1969	striatum
+T49	Findings 1961 1981	striatum involvement
+T53	Test_name 1985 1997	TRODAT SPECT
+T54	Symptom 2022 2034	parkinsonism
+T55	Familial_Prion 2050 2053	FFI
+T42	Familial_Prion 2164 2167	FFI
+T56	Differential_Diagnosis 2182 2185	DLB
+T57	Familial_Prion 2208 2211	FFI
+T43	Differential_Diagnosis 2290 2293	DLB
+T58	Symptom 2319 2345	rapid progressive dementia
+T59	Symptom 2347 2375	multiple sleep abnormalities

@@ -1,0 +1,8 @@
+numpy
+prettytable
+scikit-learn
+torch
+transformers
+
+# Optional, only for the GLiNER2 baseline.
+gliner2

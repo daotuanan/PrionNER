@@ -1,0 +1,188 @@
+{
+  "doc_id": "prion_0574",
+  "text": "In a retrospective study of Creutzfeldt-Jakob disease (CJD) in Italy from 1972 to 1986, we found 79 cases which fulfilled the diagnostic criteria for CJD.\nThe annual mortality rate was 0.09 cases per million inhabitants.\nIn this series the female to male ratio was 2.59, a value significantly higher than that found in Italian population (1.05).\nThe mean age at death was 62.1 +/- 9.4 years and the mean duration of the disease was 5.3 +/- 3.0 months.\nNo familial cases of CJD were found in our series.\nMental deterioration was present in all of our cases, myoclonus in 85% and the other clinical signs were present at a lower rate.\nPeriodic EEG activity was found in 92% of the cases.\nTwo patients had had neurological or ophthalmic surgery and 17% of our cases had undergone general surgery within 5 years prior to the clinical onset of CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 28,
+      "end": 53,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 28,
+          "end": 53
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 55,
+      "end": 58,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 55,
+          "end": 58
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Time",
+      "start": 74,
+      "end": 86,
+      "text": "1972 to 1986",
+      "spans": [
+        {
+          "start": 74,
+          "end": 86
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 150,
+      "end": 153,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 150,
+          "end": 153
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Complication",
+      "start": 362,
+      "end": 367,
+      "text": "death",
+      "spans": [
+        {
+          "start": 362,
+          "end": 367
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Age",
+      "start": 372,
+      "end": 390,
+      "text": "62.1 +/- 9.4 years",
+      "spans": [
+        {
+          "start": 372,
+          "end": 390
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Time",
+      "start": 432,
+      "end": 450,
+      "text": "5.3 +/- 3.0 months",
+      "spans": [
+        {
+          "start": 432,
+          "end": 450
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 473,
+      "end": 476,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 473,
+          "end": 476
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 503,
+      "end": 523,
+      "text": "Mental deterioration",
+      "spans": [
+        {
+          "start": 503,
+          "end": 523
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 557,
+      "end": 566,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 557,
+          "end": 566
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 642,
+      "end": 645,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 642,
+          "end": 645
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Time",
+      "start": 800,
+      "end": 807,
+      "text": "5 years",
+      "spans": [
+        {
+          "start": 800,
+          "end": 807
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Time",
+      "start": 800,
+      "end": 842,
+      "text": "5 years prior to the clinical onset of CJD",
+      "spans": [
+        {
+          "start": 800,
+          "end": 842
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Generic_Prion",
+      "start": 839,
+      "end": 842,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 839,
+          "end": 842
+        }
+      ]
+    }
+  ]
+}

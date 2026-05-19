@@ -1,0 +1,9 @@
+T1	vCJD 81 106	variant Creutzfeldt-Jakob
+T2	vCJD 108 112	vCJD
+T5	Anatomic_location 172 206	postero-medial part of the thalami
+T6	Anatomic_location 208 216	pulvinar
+T7	Anatomic_location 248 278	parieto-occipital white matter
+T8	Anatomic_location 283 303	cortical grey matter
+T9	Imaging_test 410 425	MR spectroscopy
+T10	vCJD 589 593	vCJD
+T12	Anatomic_location 481 486	brain

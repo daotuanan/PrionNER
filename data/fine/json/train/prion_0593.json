@@ -1,0 +1,422 @@
+{
+  "doc_id": "prion_0593",
+  "text": "The clinical and EEG findings in patients in the literature with Creutzfeldt-Jakob disease (CJD) were reviewed and compared with findings in 36 patients with CJD at the Massachusetts General Hospital (MGH).\nTwenty-one of the 36 MGH cases had histopathology, all with findings consistent with CJD.\nEEGs in 18 patients studied pathologically and in 10 without pathological investigation (28 of the 36) had periodic sharp wave complexes (PSWC) at some time during the clinical course.\nOf the other eight patients, two had only a single EEG early in the course of the illness, four experienced unusually long clinical courses, and two never showed PSWC despite numerous EEGs.\nPSWC made their appearance within 12 weeks of onset of clinical symptoms in 25 of 27 in whom EEGs were done during that period.\nIn the early stages, EEGs in 14 of 28 showed focal PSWC or amplitude asymmetries of PSWC that corresponded well with focal myoclonus or other focal neurological abnormalities.\nIn the literature, PSWC occurred within 12 weeks of the onset of the illness in 66 of 75 patients (88%) with CJD who had comparable clinical and neuropathological findings and adequate EEG data during the first 3 months of the illness.\nIn the approximately 10% of patients who experienced unusually long courses, PSWC occurred in only about 55%.\nThe presence of PSWC in association with the appropriate clinical, biochemical, cerebrospinal fluid, and neuroradiological findings is diagnostic of CJD.\nBrain biopsy is, therefore, unnecessary even when clinical therapeutic trials are undertaken and certainty of diagnosis is required.\nThe absence of PSWC in the EEG after 12 weeks' duration of illness is a point strongly against the diagnosis of CJD unless it is a rare subtype of long duration.\nOnly those patients without PSWC need to be biopsied.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Electrophysio_test",
+      "start": 17,
+      "end": 20,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 17,
+          "end": 20
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 65,
+      "end": 90,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 65,
+          "end": 90
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 92,
+      "end": 95,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 92,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 158,
+      "end": 161,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 158,
+          "end": 161
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Autopsy",
+      "start": 242,
+      "end": 256,
+      "text": "histopathology",
+      "spans": [
+        {
+          "start": 242,
+          "end": 256
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 292,
+      "end": 295,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 292,
+          "end": 295
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Electrophysio_test",
+      "start": 297,
+      "end": 300,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 297,
+          "end": 300
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy",
+      "start": 358,
+      "end": 384,
+      "text": "pathological investigation",
+      "spans": [
+        {
+          "start": 358,
+          "end": 384
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Electrophysio_test",
+      "start": 533,
+      "end": 536,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 533,
+          "end": 536
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Electrophysio_test",
+      "start": 666,
+      "end": 669,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 666,
+          "end": 669
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Duration",
+      "start": 706,
+      "end": 714,
+      "text": "12 weeks",
+      "spans": [
+        {
+          "start": 706,
+          "end": 714
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Time_point",
+      "start": 718,
+      "end": 744,
+      "text": "onset of clinical symptoms",
+      "spans": [
+        {
+          "start": 718,
+          "end": 744
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Electrophysio_test",
+      "start": 765,
+      "end": 768,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 765,
+          "end": 768
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Electrophysio_test",
+      "start": 821,
+      "end": 824,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 821,
+          "end": 824
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Symptom",
+      "start": 917,
+      "end": 932,
+      "text": "focal myoclonus",
+      "spans": [
+        {
+          "start": 917,
+          "end": 932
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Symptom",
+      "start": 942,
+      "end": 974,
+      "text": "focal neurological abnormalities",
+      "spans": [
+        {
+          "start": 942,
+          "end": 974
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Duration",
+      "start": 1016,
+      "end": 1024,
+      "text": "12 weeks",
+      "spans": [
+        {
+          "start": 1016,
+          "end": 1024
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Time_point",
+      "start": 1032,
+      "end": 1052,
+      "text": "onset of the illness",
+      "spans": [
+        {
+          "start": 1032,
+          "end": 1052
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Generic_Prion",
+      "start": 1085,
+      "end": 1088,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1085,
+          "end": 1088
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Autopsy_finding",
+      "start": 1121,
+      "end": 1147,
+      "text": "neuropathological findings",
+      "spans": [
+        {
+          "start": 1121,
+          "end": 1147
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Electrophysio_test",
+      "start": 1161,
+      "end": 1164,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 1161,
+          "end": 1164
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Duration",
+      "start": 1187,
+      "end": 1195,
+      "text": "3 months",
+      "spans": [
+        {
+          "start": 1187,
+          "end": 1195
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Blood_biomarker_test",
+      "start": 1402,
+      "end": 1421,
+      "text": "cerebrospinal fluid",
+      "spans": [
+        {
+          "start": 1402,
+          "end": 1421
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Imaging_finding",
+      "start": 1427,
+      "end": 1453,
+      "text": "neuroradiological findings",
+      "spans": [
+        {
+          "start": 1427,
+          "end": 1453
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Generic_Prion",
+      "start": 1471,
+      "end": 1474,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1471,
+          "end": 1474
+        }
+      ]
+    },
+    {
+      "id": "T53",
+      "label": "Anatomic_location",
+      "start": 1476,
+      "end": 1481,
+      "text": "Brain",
+      "spans": [
+        {
+          "start": 1476,
+          "end": 1481
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Autopsy",
+      "start": 1482,
+      "end": 1488,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 1482,
+          "end": 1488
+        }
+      ]
+    },
+    {
+      "id": "T45",
+      "label": "Treatment",
+      "start": 1535,
+      "end": 1553,
+      "text": "therapeutic trials",
+      "spans": [
+        {
+          "start": 1535,
+          "end": 1553
+        }
+      ]
+    },
+    {
+      "id": "T47",
+      "label": "Electrophysio_test",
+      "start": 1636,
+      "end": 1639,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 1636,
+          "end": 1639
+        }
+      ]
+    },
+    {
+      "id": "T48",
+      "label": "Duration",
+      "start": 1646,
+      "end": 1654,
+      "text": "12 weeks",
+      "spans": [
+        {
+          "start": 1646,
+          "end": 1654
+        }
+      ]
+    },
+    {
+      "id": "T49",
+      "label": "Generic_Prion",
+      "start": 1721,
+      "end": 1724,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1721,
+          "end": 1724
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Autopsy",
+      "start": 1815,
+      "end": 1823,
+      "text": "biopsied",
+      "spans": [
+        {
+          "start": 1815,
+          "end": 1823
+        }
+      ]
+    }
+  ]
+}

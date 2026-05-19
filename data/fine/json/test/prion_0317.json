@@ -1,0 +1,240 @@
+{
+  "doc_id": "prion_0317",
+  "text": "Human prion diseases are rare fatal neurodegenerative conditions that occur as acquired, familial, or idiopathic disorders.\nA key event in their pathogenesis is the accumulation of an altered form of the prion protein, termed PrP(Sc), in the central nervous system.\nA novel acquired human prion disease, variant Creutzfeldt-Jakob disease, is thought to result from oral exposure to the bovine spongiform encephalopathy agent.\nThis disease differs from other human prion diseases in its neurological, neuropathological, and biochemical phenotype.\nWe have used immunohistochemistry and Western blot techniques to analyze the tissue distribution and biochemical properties of PrP(Sc) in peripheral tissues in a unique series of nine cases of variant Creutzfeldt-Jakob disease.\nWe have compared this with the distribution and biochemical forms found in all of the major subtypes of sporadic Creutzfeldt-Jakob disease and in a case of iatrogenic Creutzfeldt-Jakob disease associated with growth hormone therapy.\nThe results show that involvement of the lymphoreticular system is a defining feature of variant Creutzfeldt-Jakob disease, but that the biochemical isoform of PrP(Sc) found is influenced by the cell type in which it accumulates.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 20,
+      "text": "Human prion diseases",
+      "spans": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "vCJD",
+      "start": 79,
+      "end": 87,
+      "text": "acquired",
+      "spans": [
+        {
+          "start": 79,
+          "end": 87
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "fCJD",
+      "start": 89,
+      "end": 97,
+      "text": "familial",
+      "spans": [
+        {
+          "start": 89,
+          "end": 97
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "sCJD",
+      "start": 102,
+      "end": 122,
+      "text": "idiopathic disorders",
+      "spans": [
+        {
+          "start": 102,
+          "end": 122
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 289,
+      "end": 302,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 289,
+          "end": 302
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "vCJD",
+      "start": 304,
+      "end": 337,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 304,
+          "end": 337
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 386,
+      "end": 418,
+      "text": "bovine spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 386,
+          "end": 418
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Generic_Prion",
+      "start": 464,
+      "end": 478,
+      "text": "prion diseases",
+      "spans": [
+        {
+          "start": 464,
+          "end": 478
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Autopsy",
+      "start": 500,
+      "end": 517,
+      "text": "neuropathological",
+      "spans": [
+        {
+          "start": 500,
+          "end": 517
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Molecular_assay",
+      "start": 559,
+      "end": 579,
+      "text": "immunohistochemistry",
+      "spans": [
+        {
+          "start": 559,
+          "end": 579
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Molecular_assay",
+      "start": 584,
+      "end": 596,
+      "text": "Western blot",
+      "spans": [
+        {
+          "start": 584,
+          "end": 596
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "vCJD",
+      "start": 739,
+      "end": 772,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 739,
+          "end": 772
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "sCJD",
+      "start": 878,
+      "end": 912,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 878,
+          "end": 912
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "iCJD",
+      "start": 930,
+      "end": 966,
+      "text": "iatrogenic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 930,
+          "end": 966
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Treatment",
+      "start": 983,
+      "end": 1005,
+      "text": "growth hormone therapy",
+      "spans": [
+        {
+          "start": 983,
+          "end": 1005
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Autopsy_finding",
+      "start": 1029,
+      "end": 1070,
+      "text": "involvement of the lymphoreticular system",
+      "spans": [
+        {
+          "start": 1029,
+          "end": 1070
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 1048,
+      "end": 1070,
+      "text": "lymphoreticular system",
+      "spans": [
+        {
+          "start": 1048,
+          "end": 1070
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "vCJD",
+      "start": 1096,
+      "end": 1129,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 1096,
+          "end": 1129
+        }
+      ]
+    }
+  ]
+}

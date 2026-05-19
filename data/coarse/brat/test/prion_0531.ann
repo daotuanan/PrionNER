@@ -1,0 +1,18 @@
+T1	Test_name 20 23	EEG
+T2	Test_name 28 33	SPECT
+T3	Generic_Prion 61 86	Creutzfeldt-Jakob disease
+T4	Generic_Prion 88 91	CJD
+T5	Test_name 112 115	EEG
+T8	Time 176 201	middle of the third stage
+T9	Time 203 217	terminal stage
+T11	Time 294 322	beginning of the third stage
+T12	Time 378 400	end of the third stage
+T13	Time 409 434	middle of the third stage
+T14	Test_name 436 441	SPECT
+T7	Findings 452 474	blood flow differences
+T16	Anatomic_location 487 495	cerebrum
+T17	Anatomic_location 519 529	cerebellum
+T18	Anatomic_location 538 547	brainstem
+T19	Test_name 591 596	SPECT
+T20	Time 604 626	end of the third stage
+T23	Anatomic_location 726 734	cerebrum

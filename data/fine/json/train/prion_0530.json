@@ -1,0 +1,201 @@
+{
+  "doc_id": "prion_0530",
+  "text": "We studied the clinical and histopathology findings of the first proved case of Creutzfeldt-Jakob disease in Panama.\nA sixty-five-years-old female patient referred from Santiago de Veraguas was admitted to Santo Tomás Hospital with a progressive clinical picture of dementia, incoordination and generalized myoclonia.\nThe electroencephalogram showed periodic paroxysmal activity.\nThe patient died eight months after initiated the disease.\nThe cerebral histopathologic study was characteristic of Creutzfeldt-Jakob disease: status spongiform, neuronal loss and non-inflammatory gliosis was found.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 80,
+      "end": 105,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 80,
+          "end": 105
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 119,
+      "end": 139,
+      "text": "sixty-five-years-old",
+      "spans": [
+        {
+          "start": 119,
+          "end": 139
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 266,
+      "end": 274,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 266,
+          "end": 274
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 276,
+      "end": 290,
+      "text": "incoordination",
+      "spans": [
+        {
+          "start": 276,
+          "end": 290
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 295,
+      "end": 316,
+      "text": "generalized myoclonia",
+      "spans": [
+        {
+          "start": 295,
+          "end": 316
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Electrophysio_test",
+      "start": 322,
+      "end": 342,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 322,
+          "end": 342
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Complication",
+      "start": 392,
+      "end": 396,
+      "text": "died",
+      "spans": [
+        {
+          "start": 392,
+          "end": 396
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Duration",
+      "start": 397,
+      "end": 409,
+      "text": "eight months",
+      "spans": [
+        {
+          "start": 397,
+          "end": 409
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Time_point",
+      "start": 397,
+      "end": 437,
+      "text": "eight months after initiated the disease",
+      "spans": [
+        {
+          "start": 397,
+          "end": 437
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 443,
+      "end": 451,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 443,
+          "end": 451
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Autopsy",
+      "start": 452,
+      "end": 467,
+      "text": "histopathologic",
+      "spans": [
+        {
+          "start": 452,
+          "end": 467
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 496,
+      "end": 521,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 496,
+          "end": 521
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Autopsy_finding",
+      "start": 523,
+      "end": 540,
+      "text": "status spongiform",
+      "spans": [
+        {
+          "start": 523,
+          "end": 540
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Autopsy_finding",
+      "start": 542,
+      "end": 555,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 542,
+          "end": 555
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Autopsy_finding",
+      "start": 560,
+      "end": 584,
+      "text": "non-inflammatory gliosis",
+      "spans": [
+        {
+          "start": 560,
+          "end": 584
+        }
+      ]
+    }
+  ]
+}

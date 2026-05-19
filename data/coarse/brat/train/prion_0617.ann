@@ -1,0 +1,32 @@
+T28	Anatomic_location 125 135	cerebellar
+T1	Symptom 125 147	cerebellar dysfunction
+T29	Symptom 154 163;183 194	pyramidal dysfunction
+T2	Symptom 168 194	extrapyramidal dysfunction
+T3	Symptom 200 244	loss or decrease of the knee and ankle jerks
+T4	Anatomic_location 287 307	olivopontocerebellar
+T30	Findings 308 315	atrophy
+T5	Test_name 317 333	postmortem study
+T6	Symptom 362 370	dementia
+T22	Findings 388 418	multiform plaques of Kuru type
+T7	Acquired_Prion 409 418	Kuru type
+T31	Findings 430 471	multicentric, senile, and primitive types
+T8	Anatomic_location 487 509	central nervous system
+T32	Anatomic_location 533 543	cerebellar
+T23	Anatomic_location 548 565	cerebral cortices
+T10	Anatomic_location 570 585	caudate nucleus
+T34	Findings 597 609	degeneration
+T11	Anatomic_location 617 632;647 653	spinocerebellar tracts
+T26	Anatomic_location 637 653	pyramidal tracts
+T12	Anatomic_location 655 672	posterior columns
+T13	Anatomic_location 674 703	superior cerebellar peduncles
+T14	Anatomic_location 705 722	cerebellar cortex
+T15	Anatomic_location 724 739	dentate nucleus
+T16	Anatomic_location 745 762	vestibular nuclei
+T33	Findings 774 781	gliosis
+T17	Anatomic_location 789 808	inferior colliculus
+T18	Anatomic_location 813 843	cerebellar foliar white matter
+T27	Anatomic_location 859 867	cerebral
+T19	Findings 868 886	spongiform changes
+T9	Findings 904 921	spongy alteration
+T24	Test_name 975 992	neuropathological
+T20	Familial_Prion 1048 1088	Gerstmann-Sträussler-Scheinker's disease

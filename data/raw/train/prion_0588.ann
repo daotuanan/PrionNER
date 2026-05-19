@@ -1,0 +1,4 @@
+T1	Generic_Prion 15 40	Creutzfeldt-Jakob disease
+T2	Choose_Related 195 198	YES
+T3	Differential_Diagnosis 72 93	psychiatric diagnoses
+T4	Choose_Done 206 210	DONE

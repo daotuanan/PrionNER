@@ -1,0 +1,24 @@
+T1	Autopsy 15 23	necropsy
+T2	Generic_Prion 50 75	Creutzfeldt-Jakob disease
+T3	Generic_Prion 77 80	CJD
+T7	Symptom 200 230	loss of pupillary light reflex
+T9	Autopsy 269 277	necropsy
+T10	Anatomic_location 297 301;312 318	gray matter
+T11	Anatomic_location 341 364	lateral geniculate body
+T12	Anatomic_location 366 369	LGB
+T13	Anatomic_location 375 393	pregeniculate body
+T14	Anatomic_location 423 442	superior colliculus
+T15	Anatomic_location 444 455	optic nerve
+T16	Anatomic_location 444 449;460 466	optic tracts
+T17	Anatomic_location 490 507	cerebral cortices
+T18	Anatomic_location 528 542	occipital lobe
+T19	Anatomic_location 570 582	Gennari line
+T20	Anatomic_location 648 651	LGB
+T21	Generic_Prion 686 689	CJD
+T22	Electrophysio_test 745 772	electroencephalograph (EEG)
+T23	Symptom 806 826	pregeniculate lesion
+T24	Symptom 846 870	loss of pupillary reflex
+T25	Anatomic_location 904 918	visual pathway
+T27	Generic_Prion 980 983	CJD
+T4	Autopsy_finding 319 326	lesions
+T29	Anatomic_location 306 318	white matter

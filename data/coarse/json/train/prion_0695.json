@@ -1,0 +1,401 @@
+{
+  "doc_id": "prion_0695",
+  "text": "The authors examined the clinical and neuropathological characteristics of a patient who developed features of obsessive-compulsive disorder (OCD) and anorexia nervosa (AN) as the initial presentation of Creutzfeldt-Jakob disease.\nHe had mild Parkinsonism and showed deficits in visual scanning, set shifting, graphomotor speed, sequencing, and verbal and nonverbal memory.\nNeuropathological study showed spongiosis and neuronal loss in cortical (e.g., frontal, temporal, parietal), and especially in subcortical structures (e.g., basal ganglia, thalamus).\nThis study supports the hypothesis of abnormal frontal-striatal functioning in the cause of OCD, even in demented subjects.\nIn addition, the authors discuss the role of frontal-temporal-subcortical dysfunction in the cause of acquired AN.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Symptom",
+      "start": 111,
+      "end": 140,
+      "text": "obsessive-compulsive disorder",
+      "spans": [
+        {
+          "start": 111,
+          "end": 140
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Symptom",
+      "start": 142,
+      "end": 145,
+      "text": "OCD",
+      "spans": [
+        {
+          "start": 142,
+          "end": 145
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 151,
+      "end": 167,
+      "text": "anorexia nervosa",
+      "spans": [
+        {
+          "start": 151,
+          "end": 167
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Symptom",
+      "start": 169,
+      "end": 171,
+      "text": "AN",
+      "spans": [
+        {
+          "start": 169,
+          "end": 171
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 204,
+      "end": 229,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 204,
+          "end": 229
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 243,
+      "end": 255,
+      "text": "Parkinsonism",
+      "spans": [
+        {
+          "start": 243,
+          "end": 255
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 267,
+      "end": 294,
+      "text": "deficits in visual scanning",
+      "spans": [
+        {
+          "start": 267,
+          "end": 294
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 296,
+      "end": 308,
+      "text": "set shifting",
+      "spans": [
+        {
+          "start": 296,
+          "end": 308
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 310,
+      "end": 327,
+      "text": "graphomotor speed",
+      "spans": [
+        {
+          "start": 310,
+          "end": 327
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 329,
+      "end": 339,
+      "text": "sequencing",
+      "spans": [
+        {
+          "start": 329,
+          "end": 339
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 345,
+      "end": 372,
+      "text": "verbal memory",
+      "spans": [
+        {
+          "start": 345,
+          "end": 351
+        },
+        {
+          "start": 366,
+          "end": 372
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T24",
+      "label": "Symptom",
+      "start": 356,
+      "end": 372,
+      "text": "nonverbal memory",
+      "spans": [
+        {
+          "start": 356,
+          "end": 372
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 374,
+      "end": 397,
+      "text": "Neuropathological study",
+      "spans": [
+        {
+          "start": 374,
+          "end": 397
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Findings",
+      "start": 405,
+      "end": 415,
+      "text": "spongiosis",
+      "spans": [
+        {
+          "start": 405,
+          "end": 415
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Findings",
+      "start": 420,
+      "end": 433,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 420,
+          "end": 433
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 437,
+      "end": 445,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 437,
+          "end": 445
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 453,
+      "end": 460,
+      "text": "frontal",
+      "spans": [
+        {
+          "start": 453,
+          "end": 460
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 462,
+      "end": 470,
+      "text": "temporal",
+      "spans": [
+        {
+          "start": 462,
+          "end": 470
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 472,
+      "end": 480,
+      "text": "parietal",
+      "spans": [
+        {
+          "start": 472,
+          "end": 480
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Anatomic_location",
+      "start": 501,
+      "end": 512,
+      "text": "subcortical",
+      "spans": [
+        {
+          "start": 501,
+          "end": 512
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 531,
+      "end": 544,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 531,
+          "end": 544
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 546,
+      "end": 554,
+      "text": "thalamus",
+      "spans": [
+        {
+          "start": 546,
+          "end": 554
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 604,
+      "end": 611,
+      "text": "frontal",
+      "spans": [
+        {
+          "start": 604,
+          "end": 611
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 612,
+      "end": 620,
+      "text": "striatal",
+      "spans": [
+        {
+          "start": 612,
+          "end": 620
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Differential_Diagnosis",
+      "start": 649,
+      "end": 652,
+      "text": "OCD",
+      "spans": [
+        {
+          "start": 649,
+          "end": 652
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 662,
+      "end": 670,
+      "text": "demented",
+      "spans": [
+        {
+          "start": 662,
+          "end": 670
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 726,
+      "end": 733,
+      "text": "frontal",
+      "spans": [
+        {
+          "start": 726,
+          "end": 733
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Anatomic_location",
+      "start": 734,
+      "end": 742,
+      "text": "temporal",
+      "spans": [
+        {
+          "start": 734,
+          "end": 742
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 743,
+      "end": 754,
+      "text": "subcortical",
+      "spans": [
+        {
+          "start": 743,
+          "end": 754
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Symptom",
+      "start": 792,
+      "end": 794,
+      "text": "AN",
+      "spans": [
+        {
+          "start": 792,
+          "end": 794
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "doc_id": "prion_0297",
+  "text": "A patient with progressive neurological deterioration characterized by cognitive impairment, myoclonus, Parkinson's syndrome, an abnormal electroencephalogram and fasciculations was considered for brain biopsy for suspected Creutzfeldt-Jakob disease.\nComplete clinical recovery followed discontinuation of lithium and nortriptyline.\nAwareness of this unusual drug-induced Creutzfeldt-Jakob like syndrome can avoid costly, invasive and unnecessary investigative procedures.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 27,
+      "end": 53,
+      "text": "neurological deterioration",
+      "spans": [
+        {
+          "start": 27,
+          "end": 53
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 71,
+      "end": 91,
+      "text": "cognitive impairment",
+      "spans": [
+        {
+          "start": 71,
+          "end": 91
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 93,
+      "end": 102,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 93,
+          "end": 102
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 104,
+      "end": 124,
+      "text": "Parkinson's syndrome",
+      "spans": [
+        {
+          "start": 104,
+          "end": 124
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Electrophysio_test",
+      "start": 138,
+      "end": 158,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 138,
+          "end": 158
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 163,
+      "end": 177,
+      "text": "fasciculations",
+      "spans": [
+        {
+          "start": 163,
+          "end": 177
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 197,
+      "end": 202,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 197,
+          "end": 202
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Autopsy",
+      "start": 203,
+      "end": 209,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 203,
+          "end": 209
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 224,
+      "end": 249,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 224,
+          "end": 249
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Treatment",
+      "start": 306,
+      "end": 313,
+      "text": "lithium",
+      "spans": [
+        {
+          "start": 306,
+          "end": 313
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Treatment",
+      "start": 318,
+      "end": 331,
+      "text": "nortriptyline",
+      "spans": [
+        {
+          "start": 318,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Differential_Diagnosis",
+      "start": 359,
+      "end": 403,
+      "text": "drug-induced Creutzfeldt-Jakob like syndrome",
+      "spans": [
+        {
+          "start": 359,
+          "end": 403
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 372,
+      "end": 389,
+      "text": "Creutzfeldt-Jakob",
+      "spans": [
+        {
+          "start": 372,
+          "end": 389
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+T18	Treatment 12 22	anesthetic
+T19	Treatment 34 58	perioperative management
+T1	Generic_Prion 78 103	Creutzfeldt-Jakob disease
+T8	Differential_Diagnosis 117 141	transmissible neuropathy
+T2	Age 143 156	A 51 year-old
+T9	Treatment 181 228	extirpation of recurrence of acoustic neurinoma
+T3	Time 230 242	Three months
+T4	Symptom 284 291	vertigo
+T6	Symptom 355 366	dementiated
+T7	Symptom 381 404	disturbed consciousness
+T5	Treatment 406 416	Anesthesia
+T20	Treatment 434 443	thiamylal
+T21	Treatment 464 483	0.7-1.5% isoflurane
+T22	Treatment 485 498	nitrous oxide
+T23	Treatment 503 509	oxygen
+T10	Symptom 609 617	dementia
+T11	Symptom 633 657	myoclonus of extremeties
+T12	Time 667 678	sixth weeks
+T13	Time 700 710	Two months
+T14	Generic_Prion 747 772	Creutzfeldt-Jakob disease
+T15	Test_name 807 810	EEG
+T24	Treatment 832 842	Anesthesia
+T16	Symptom 862 870	dementia

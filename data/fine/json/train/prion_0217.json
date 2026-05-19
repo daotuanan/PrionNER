@@ -1,0 +1,58 @@
+{
+  "doc_id": "prion_0217",
+  "text": "Prions have emerged in the past 5 years as serious transmissible infective agents.\nOcular tissue transplantation has come under scrutiny after potential infected tissue was transplanted into healthy patients.\nIn this review we examine the evidence for the risk of transmission of prions after scleral transplantation and explore alternative materials that may be used in ocular surgery.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 6,
+      "text": "Prions",
+      "spans": [
+        {
+          "start": 0,
+          "end": 6
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Treatment",
+      "start": 83,
+      "end": 112,
+      "text": "Ocular tissue transplantation",
+      "spans": [
+        {
+          "start": 83,
+          "end": 112
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Treatment",
+      "start": 293,
+      "end": 316,
+      "text": "scleral transplantation",
+      "spans": [
+        {
+          "start": 293,
+          "end": 316
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Treatment",
+      "start": 371,
+      "end": 385,
+      "text": "ocular surgery",
+      "spans": [
+        {
+          "start": 371,
+          "end": 385
+        }
+      ]
+    }
+  ]
+}

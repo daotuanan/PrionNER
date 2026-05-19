@@ -1,0 +1,279 @@
+{
+  "doc_id": "prion_0557",
+  "text": "An autopsy case of Creutzfeld-Jacob disease with widespread amyloid plaques is reported.\nA 45-year-old Japanese man, whose father had died of a similar disease, had a 5-year illness characterized by progressive cerebellar signs.\nMental changes and brain-stem signs developed in the late stage.\nMyoclonus frequently occurred.\nAkinetic mutism ensued.\nThe autopsy revealed spongiform encephalopathy with widespread amyloid plaques and extensive degeneration of the white matter.\nThis disease, Western Gerstmann-Sträussler-Scheinker disease and panencephalopathic type of Creutzfeld-Jacob disease are discussed.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Test_name",
+      "start": 3,
+      "end": 10,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 3,
+          "end": 10
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 19,
+      "end": 43,
+      "text": "Creutzfeld-Jacob disease",
+      "spans": [
+        {
+          "start": 19,
+          "end": 43
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Findings",
+      "start": 60,
+      "end": 75,
+      "text": "amyloid plaques",
+      "spans": [
+        {
+          "start": 60,
+          "end": 75
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 91,
+      "end": 102,
+      "text": "45-year-old",
+      "spans": [
+        {
+          "start": 91,
+          "end": 102
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Complication",
+      "start": 134,
+      "end": 138,
+      "text": "died",
+      "spans": [
+        {
+          "start": 134,
+          "end": 138
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time",
+      "start": 167,
+      "end": 173,
+      "text": "5-year",
+      "spans": [
+        {
+          "start": 167,
+          "end": 173
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 199,
+      "end": 227,
+      "text": "progressive cerebellar signs",
+      "spans": [
+        {
+          "start": 199,
+          "end": 227
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 211,
+      "end": 221,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 211,
+          "end": 221
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 229,
+      "end": 243,
+      "text": "Mental changes",
+      "spans": [
+        {
+          "start": 229,
+          "end": 243
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 248,
+      "end": 258,
+      "text": "brain-stem",
+      "spans": [
+        {
+          "start": 248,
+          "end": 258
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 248,
+      "end": 264,
+      "text": "brain-stem signs",
+      "spans": [
+        {
+          "start": 248,
+          "end": 264
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Time",
+      "start": 282,
+      "end": 292,
+      "text": "late stage",
+      "spans": [
+        {
+          "start": 282,
+          "end": 292
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 294,
+      "end": 303,
+      "text": "Myoclonus",
+      "spans": [
+        {
+          "start": 294,
+          "end": 303
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 325,
+      "end": 340,
+      "text": "Akinetic mutism",
+      "spans": [
+        {
+          "start": 325,
+          "end": 340
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 353,
+      "end": 360,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 353,
+          "end": 360
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 370,
+      "end": 395,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 370,
+          "end": 395
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Findings",
+      "start": 412,
+      "end": 427,
+      "text": "amyloid plaques",
+      "spans": [
+        {
+          "start": 412,
+          "end": 427
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Findings",
+      "start": 442,
+      "end": 474,
+      "text": "degeneration of the white matter",
+      "spans": [
+        {
+          "start": 442,
+          "end": 474
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 462,
+      "end": 474,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 462,
+          "end": 474
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Familial_Prion",
+      "start": 498,
+      "end": 536,
+      "text": "Gerstmann-Sträussler-Scheinker disease",
+      "spans": [
+        {
+          "start": 498,
+          "end": 536
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Sporadic_Prion",
+      "start": 541,
+      "end": 592,
+      "text": "panencephalopathic type of Creutzfeld-Jacob disease",
+      "spans": [
+        {
+          "start": 541,
+          "end": 592
+        }
+      ]
+    }
+  ]
+}

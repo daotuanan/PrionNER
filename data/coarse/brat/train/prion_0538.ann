@@ -1,0 +1,13 @@
+T2	Generic_Prion 82 107	Creutzfeldt-Jakob disease
+T3	Generic_Prion 109 112	CJD
+T4	Stats 156 192	one case per million people per year
+T5	Acquired_Prion 198 221	iatrogenic transmission
+T6	Generic_Prion 273 276	CJD
+T9	Treatment 298 317	corneal transplants
+T10	Treatment 343 363	human growth hormone
+T11	Treatment 368 385	dura mater grafts
+T12	Generic_Prion 453 456	CJD
+T14	Generic_Prion 540 543	CJD
+T1	Treatment 560 567	vaccine
+T7	Differential_Diagnosis 578 597;610 618	rapidly progressive dementia
+T16	Generic_Prion 619 622	CJD

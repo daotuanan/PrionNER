@@ -1,0 +1,14 @@
+BACKGROUND: The Heidenhain variant is a subtype of Creutzfeldt-Jakob disease (CJD) where visual symptoms are leading.
+HISTORY AND SIGNS: We report on a 60-year-old woman who developed within a few weeks bilateral inferior hemianopsia.
+Morphological findings of the eyes were normal.
+Neurological examination and cerebral CT/MRI were normal too.
+P 100 latency of visual evoked potentials (VEP) of both eyes, however, was delayed.
+OUTCOME: During the course of the disease visual field narrowed progressively and 3 months after the first symptoms the patient went blind.
+Only at that time myoclonia, hyperkinesia, and psychiatric symptoms appeared.
+Changes of EEG and cerebrospinal fluid were suggestive of Creutzfeldt-Jakob disease (CJD).
+The patient died after 5 1/2 months and diagnosis was confirmed neuropathologically with mainly occipital spongiform encephalopathy.
+CONCLUSION: This case illustrates the diagnostic difficulties of the Heidenhain type of CJD and demonstrates that in patients with progressive visual field defects without morphological abnormalities of the eyes or radiological abnormalities of the brain CJD should be considered.
+It should be looked out for additional neurological (especially extrapyramidal) and psychiatric symptoms.
+
+<Related> YES or NO
+[DONE]

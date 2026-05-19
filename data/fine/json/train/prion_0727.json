@@ -1,0 +1,206 @@
+{
+  "doc_id": "prion_0727",
+  "text": "Diffusion-weighted MRI (DWI) was used in three patients with autopsy-proven sporadic Creutzfeldt-Jakob disease (CJD) to provide a rapid noninvasive way to make this sometimes confusing diagnosis.\nDWI prompted the diagnosis of CJD at an early stage and appears to be particularly useful for monitoring the progression of the disease.\nWe suggest that patients with suspected CJD and no abnormalities on T2- and proton density-weighted images may have cortical involvement on DWI.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Imaging_sequence",
+      "start": 0,
+      "end": 18,
+      "text": "Diffusion-weighted",
+      "spans": [
+        {
+          "start": 0,
+          "end": 18
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Imaging_test",
+      "start": 19,
+      "end": 22,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 19,
+          "end": 22
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Imaging_sequence",
+      "start": 24,
+      "end": 27,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 24,
+          "end": 27
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Autopsy",
+      "start": 61,
+      "end": 68,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 61,
+          "end": 68
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "sCJD",
+      "start": 76,
+      "end": 110,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 76,
+          "end": 110
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 112,
+      "end": 115,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 112,
+          "end": 115
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Imaging_sequence",
+      "start": 196,
+      "end": 199,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 196,
+          "end": 199
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 226,
+      "end": 229,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 226,
+          "end": 229
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 373,
+      "end": 376,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 373,
+          "end": 376
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Imaging_finding",
+      "start": 381,
+      "end": 397,
+      "text": "no abnormalities",
+      "spans": [
+        {
+          "start": 381,
+          "end": 397
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Imaging_sequence",
+      "start": 401,
+      "end": 432,
+      "text": "T2 weighted",
+      "spans": [
+        {
+          "start": 401,
+          "end": 403
+        },
+        {
+          "start": 424,
+          "end": 432
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T15",
+      "label": "Imaging_sequence",
+      "start": 409,
+      "end": 432,
+      "text": "proton density-weighted",
+      "spans": [
+        {
+          "start": 409,
+          "end": 432
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 449,
+      "end": 457,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 449,
+          "end": 457
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Imaging_finding",
+      "start": 449,
+      "end": 469,
+      "text": "cortical involvement",
+      "spans": [
+        {
+          "start": 449,
+          "end": 469
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Imaging_sequence",
+      "start": 473,
+      "end": 476,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 473,
+          "end": 476
+        }
+      ]
+    }
+  ]
+}

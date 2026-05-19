@@ -1,0 +1,20 @@
+T1	Symptom 12 19	aphasia
+T2	Differential_Diagnosis 28 36	dementia
+T3	Differential_Diagnosis 38 65	primary progressive aphasia
+T4	Symptom 58 65	aphasia
+T21	Symptom 110 134	neurobehavioral syndrome
+T5	Symptom 170 177	aphasia
+T6	Differential_Diagnosis 270 281	Alzheimer's
+T7	Differential_Diagnosis 286 301	Pick's diseases
+T8	Age 315 326	61-year-old
+T9	Test_name 336 343	autopsy
+T10	Generic_Prion 351 376	Creutzfeldt-Jakob disease
+T11	Generic_Prion 378 381	CJD
+T12	Symptom 443 450	aphasia
+T13	Symptom 452 461	Myoclonus
+T14	Test_name 493 496	EEG
+T16	Generic_Prion 566 569	CJD
+T17	Symptom 625 632	aphasia
+T18	Generic_Prion 634 637	CJD
+T15	Differential_Diagnosis 696 724	progressive aphasia syndrome
+T19	Symptom 708 715	aphasia

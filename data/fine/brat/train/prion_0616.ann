@@ -1,0 +1,12 @@
+T1	Age 40 59	aged 40 to 70 years
+T2	Generic_Prion 89 115	Creutzfeld-Jacob's disease
+T3	Generic_Prion 117 120	CJD
+T5	Generic_Prion 175 178	CJD
+T6	Autopsy 196 203	autopsy
+T7	Duration 332 349	4-5 years or more
+T8	Duration 406 415	two years
+T9	Generic_Prion 503 506	CJD
+T4	Differential_Diagnosis 550 559	Alzheimer
+T11	Differential_Diagnosis 561 565	Pick
+T12	Differential_Diagnosis 518 536	atrophic processes
+T14	Complication 217 221	died

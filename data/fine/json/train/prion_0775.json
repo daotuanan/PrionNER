@@ -1,0 +1,123 @@
+{
+  "doc_id": "prion_0775",
+  "text": "Prion diseases present a wide spectrum of clinical and neuropathological features.\nIn this review, clinical and neuropathological findings are summarized along with criteria for the diagnosis of the molecular-phenotypic subtypes of sporadic Creutzfeldt-Jakob disease (CJD), familial CJD, new variant CJD, iatrogenic CJD, Gerstmann-Straussler-Scheinker disease, fatal familial insomnia and kuru.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 14,
+      "text": "Prion diseases",
+      "spans": [
+        {
+          "start": 0,
+          "end": 14
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "sCJD",
+      "start": 232,
+      "end": 266,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 232,
+          "end": 266
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 268,
+      "end": 271,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 268,
+          "end": 271
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "fCJD",
+      "start": 274,
+      "end": 286,
+      "text": "familial CJD",
+      "spans": [
+        {
+          "start": 274,
+          "end": 286
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "vCJD",
+      "start": 288,
+      "end": 303,
+      "text": "new variant CJD",
+      "spans": [
+        {
+          "start": 288,
+          "end": 303
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "iCJD",
+      "start": 305,
+      "end": 319,
+      "text": "iatrogenic CJD",
+      "spans": [
+        {
+          "start": 305,
+          "end": 319
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "GSS",
+      "start": 321,
+      "end": 359,
+      "text": "Gerstmann-Straussler-Scheinker disease",
+      "spans": [
+        {
+          "start": 321,
+          "end": 359
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "FFI",
+      "start": 361,
+      "end": 384,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 361,
+          "end": 384
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Kuru",
+      "start": 389,
+      "end": 393,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 389,
+          "end": 393
+        }
+      ]
+    }
+  ]
+}

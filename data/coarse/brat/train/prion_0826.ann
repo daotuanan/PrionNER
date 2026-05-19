@@ -1,0 +1,15 @@
+T1	Familial_Prion 12 50	Gerstmann-Sträussler-Scheinker disease
+T2	Generic_Prion 76 89	prion disease
+T3	Symptom 121 127	ataxia
+T4	Symptom 129 137	dementia
+T5	Symptom 139 158	spastic paraparesis
+T6	Symptom 163 183	extrapyramidal signs
+T7	Familial_Prion 243 281	Gerstmann-Sträussler-Scheinker disease
+T9	Age 352 364	age at onset
+T10	Age 376 395	41.4 +/- 16.2 years
+T22	Complication 422 427	death
+T11	Time 449 466	5.5 +/- 1.7 years
+T12	Symptom 504 524	cognitive impairment
+T13	Symptom 562 568	ataxia
+T14	Symptom 581 601	cognitive impairment
+T15	Test_name 603 621	Molecular analysis

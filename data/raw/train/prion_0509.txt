@@ -1,0 +1,5 @@
+A case of Creutzfeldt-Jakob disease treated with amantadine showed considerable initial improvement, followed by a period of almost five years during which the patient remained in a relatively stable condition until he died accidentally.
+The diagnosis was confirmed histologically.
+
+<Related> YES or NO
+[DONE]

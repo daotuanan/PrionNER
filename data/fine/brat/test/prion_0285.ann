@@ -1,0 +1,20 @@
+T2	Autopsy_finding 0 14	Florid plaques
+T3	vCJD 53 57	vCJD
+T4	Autopsy 79 101	postmortem examination
+T5	Age 120 131	58-year-old
+T7	Generic_Prion 157 182	Creutzfeldt-Jakob disease
+T8	Generic_Prion 184 187	CJD
+T11	Time_point 313 327	20 years prior
+T12	vCJD 382 393	variant CJD
+T14	Duration 471 494	longest incubation time
+T15	Generic_Prion 678 691	prion disease
+T16	Generic_Prion 581 584	BSE
+T6	Molecular_assay 190 206	Western blotting
+T19	Autopsy_finding 341 355	florid plaques
+T9	Treatment 296 312	dura mater graft
+T13	Complication 331 336	death
+T17	iCJD 429 439	iatrogenic
+T18	Treatment 507 523	dura mater graft
+T20	Autopsy 599 611	pathological
+T21	Anatomic_location 109 114	brain
+T22	Anatomic_location 210 215	brain

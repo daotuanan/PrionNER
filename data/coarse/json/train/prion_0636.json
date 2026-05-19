@@ -1,0 +1,167 @@
+{
+  "doc_id": "prion_0636",
+  "text": "Seven of 24 patients with pathologically proved Alzheimer disease had amyloid plaques resembling kuru plaques in the cerebellum.\nIn all seven patients, the dementia was presenile in onset, there was a positive family history of the disease in five patients, and other neurologic symptoms were present in five.\nSimilar plaques have been described in one of two patients with familial Alzheimer disease from whom spongiform encephalopathy was induced in subhuman primates after intracerebral inoculation of brain tissue.\nThese observations suggest that some cases of familial Alzheimer disease may be clinically distinct from senile dementia and may not be genetic in origin.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Differential_Diagnosis",
+      "start": 48,
+      "end": 65,
+      "text": "Alzheimer disease",
+      "spans": [
+        {
+          "start": 48,
+          "end": 65
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Findings",
+      "start": 70,
+      "end": 85,
+      "text": "amyloid plaques",
+      "spans": [
+        {
+          "start": 70,
+          "end": 85
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Acquired_Prion",
+      "start": 97,
+      "end": 109,
+      "text": "kuru plaques",
+      "spans": [
+        {
+          "start": 97,
+          "end": 109
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 117,
+      "end": 127,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 117,
+          "end": 127
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Differential_Diagnosis",
+      "start": 156,
+      "end": 178,
+      "text": "dementia presenile",
+      "spans": [
+        {
+          "start": 156,
+          "end": 164
+        },
+        {
+          "start": 169,
+          "end": 178
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 268,
+      "end": 287,
+      "text": "neurologic symptoms",
+      "spans": [
+        {
+          "start": 268,
+          "end": 287
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Findings",
+      "start": 318,
+      "end": 325,
+      "text": "plaques",
+      "spans": [
+        {
+          "start": 318,
+          "end": 325
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Differential_Diagnosis",
+      "start": 374,
+      "end": 400,
+      "text": "familial Alzheimer disease",
+      "spans": [
+        {
+          "start": 374,
+          "end": 400
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Differential_Diagnosis",
+      "start": 411,
+      "end": 436,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 411,
+          "end": 436
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 505,
+      "end": 510,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 505,
+          "end": 510
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Differential_Diagnosis",
+      "start": 565,
+      "end": 591,
+      "text": "familial Alzheimer disease",
+      "spans": [
+        {
+          "start": 565,
+          "end": 591
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Differential_Diagnosis",
+      "start": 624,
+      "end": 639,
+      "text": "senile dementia",
+      "spans": [
+        {
+          "start": 624,
+          "end": 639
+        }
+      ]
+    }
+  ]
+}

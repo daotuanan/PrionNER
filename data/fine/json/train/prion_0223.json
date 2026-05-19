@@ -1,0 +1,284 @@
+{
+  "doc_id": "prion_0223",
+  "text": "OBJECTIVE: To gain a better understanding of how mutations of the prion protein (PrP) gene are responsible for progressive dementia syndrome and to clarify the correlation between genotype and phenotype, which should help to explain how the prion promotes neurological symptoms. BACKGROUND: Genetic prion diseases are associated with point or insertional mutations in the PrP gene.\nThe insertional mutations described so far consist of one to nine extra octapeptide repeats, except three repeats.\nInsertions of one to four extra octapeptide repeats cause Creutzfeldt-Jakob disease (CJD) in patients without a family history of neurological disorders.\nCJD generally presents as progressive dementia.\nMETHODS: Routine clinical assessment and sequence analysis of the PrP gene of DNA from a 56 year old Japanese man with progressive dementia syndrome.\nRESULTS: Sequence analysis disclosed a novel four octapeptide repeat insertion within the PrP gene.\nThe patient was initially affected by progressive cerebellar and brainstem signs; a few months later myoclonus and rapidly progressive dementia appeared.\nThese symptoms were similar to those of sporadic CJD.\nCONCLUSION: Taken together with previous investigations of CJD patients with insertional mutations, the current observation strengthens the notion that small octapeptide insertions from one to four extra repeats within the PrP gene cause CJD, which is characterised by late onset after the sixth decade, rapid progression, death within a few months, and lack of a family history of neurological disorders, the latter suggesting incomplete penetrance.\nDifferent patients with four extra octapeptide repeats have different patterns of extra insertions, suggesting that progression of the disease depends on the number of extra repeats.",
+  "entities": [
+    {
+      "id": "T3",
+      "label": "Differential_Diagnosis",
+      "start": 111,
+      "end": 140,
+      "text": "progressive dementia syndrome",
+      "spans": [
+        {
+          "start": 111,
+          "end": 140
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 256,
+      "end": 277,
+      "text": "neurological symptoms",
+      "spans": [
+        {
+          "start": 256,
+          "end": 277
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 291,
+      "end": 313,
+      "text": "Genetic prion diseases",
+      "spans": [
+        {
+          "start": 291,
+          "end": 313
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 555,
+      "end": 580,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 555,
+          "end": 580
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 582,
+      "end": 585,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 582,
+          "end": 585
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Differential_Diagnosis",
+      "start": 627,
+      "end": 649,
+      "text": "neurological disorders",
+      "spans": [
+        {
+          "start": 627,
+          "end": 649
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 651,
+      "end": 654,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 651,
+          "end": 654
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Symptom",
+      "start": 677,
+      "end": 697,
+      "text": "progressive dementia",
+      "spans": [
+        {
+          "start": 677,
+          "end": 697
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Age",
+      "start": 788,
+      "end": 799,
+      "text": "56 year old",
+      "spans": [
+        {
+          "start": 788,
+          "end": 799
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 818,
+      "end": 847,
+      "text": "progressive dementia syndrome",
+      "spans": [
+        {
+          "start": 818,
+          "end": 847
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 987,
+      "end": 1029,
+      "text": "signs progressive cerebellar",
+      "spans": [
+        {
+          "start": 1024,
+          "end": 1029
+        },
+        {
+          "start": 987,
+          "end": 1009
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 1014,
+      "end": 1029,
+      "text": "brainstem signs",
+      "spans": [
+        {
+          "start": 1014,
+          "end": 1029
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 1050,
+      "end": 1059,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 1050,
+          "end": 1059
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 1064,
+      "end": 1092,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 1064,
+          "end": 1092
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "sCJD",
+      "start": 1143,
+      "end": 1155,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 1143,
+          "end": 1155
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Generic_Prion",
+      "start": 1216,
+      "end": 1219,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1216,
+          "end": 1219
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Generic_Prion",
+      "start": 1395,
+      "end": 1398,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1395,
+          "end": 1398
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Age",
+      "start": 1437,
+      "end": 1459,
+      "text": "after the sixth decade",
+      "spans": [
+        {
+          "start": 1437,
+          "end": 1459
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Complication",
+      "start": 1480,
+      "end": 1485,
+      "text": "death",
+      "spans": [
+        {
+          "start": 1480,
+          "end": 1485
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Duration",
+      "start": 1493,
+      "end": 1505,
+      "text": "a few months",
+      "spans": [
+        {
+          "start": 1493,
+          "end": 1505
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Symptom",
+      "start": 1539,
+      "end": 1561,
+      "text": "neurological disorders",
+      "spans": [
+        {
+          "start": 1539,
+          "end": 1561
+        }
+      ]
+    }
+  ]
+}

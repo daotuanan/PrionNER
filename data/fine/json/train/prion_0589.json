@@ -1,0 +1,240 @@
+{
+  "doc_id": "prion_0589",
+  "text": "The hippocampus is generally believed to be only rarely affected in Creutzfeldt-Jakob disease.\nIn a systematic study of the hippocampus in 6 cases of Creutzfeldt-Jakob disease, the stratum moleculare-lacunosum showed a definite spongiform change with gliosis in 5 cases.\nThe stratum radiatum et pyramidale showed spongiform change in 3 of the 5 cases.\nThe subiculum, presubiculum, parasubiculum and entorhinal cortex were involved in all the cases.\nThese results suggest that involvement of the hippocampus may not be uncommon in Creutzfeldt-Jakob disease.\nThe stratum moleculare-lacunosum seems to be the site preferentially affected.\nThis pathology may contribute to progression of dementia in Creutzfeldt-Jakob disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Anatomic_location",
+      "start": 4,
+      "end": 15,
+      "text": "hippocampus",
+      "spans": [
+        {
+          "start": 4,
+          "end": 15
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 68,
+      "end": 93,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 68,
+          "end": 93
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Anatomic_location",
+      "start": 124,
+      "end": 135,
+      "text": "hippocampus",
+      "spans": [
+        {
+          "start": 124,
+          "end": 135
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 150,
+      "end": 175,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 150,
+          "end": 175
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 181,
+      "end": 209,
+      "text": "stratum moleculare-lacunosum",
+      "spans": [
+        {
+          "start": 181,
+          "end": 209
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Autopsy_finding",
+      "start": 228,
+      "end": 245,
+      "text": "spongiform change",
+      "spans": [
+        {
+          "start": 228,
+          "end": 245
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Autopsy_finding",
+      "start": 251,
+      "end": 258,
+      "text": "gliosis",
+      "spans": [
+        {
+          "start": 251,
+          "end": 258
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 275,
+      "end": 305,
+      "text": "stratum radiatum et pyramidale",
+      "spans": [
+        {
+          "start": 275,
+          "end": 305
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Autopsy_finding",
+      "start": 313,
+      "end": 330,
+      "text": "spongiform change",
+      "spans": [
+        {
+          "start": 313,
+          "end": 330
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 356,
+      "end": 365,
+      "text": "subiculum",
+      "spans": [
+        {
+          "start": 356,
+          "end": 365
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 367,
+      "end": 379,
+      "text": "presubiculum",
+      "spans": [
+        {
+          "start": 367,
+          "end": 379
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 381,
+      "end": 394,
+      "text": "parasubiculum",
+      "spans": [
+        {
+          "start": 381,
+          "end": 394
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 399,
+      "end": 416,
+      "text": "entorhinal cortex",
+      "spans": [
+        {
+          "start": 399,
+          "end": 416
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 495,
+      "end": 506,
+      "text": "hippocampus",
+      "spans": [
+        {
+          "start": 495,
+          "end": 506
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Generic_Prion",
+      "start": 530,
+      "end": 555,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 530,
+          "end": 555
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 561,
+      "end": 589,
+      "text": "stratum moleculare-lacunosum",
+      "spans": [
+        {
+          "start": 561,
+          "end": 589
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Symptom",
+      "start": 684,
+      "end": 692,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 684,
+          "end": 692
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Generic_Prion",
+      "start": 696,
+      "end": 721,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 696,
+          "end": 721
+        }
+      ]
+    }
+  ]
+}

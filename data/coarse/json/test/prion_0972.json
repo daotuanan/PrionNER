@@ -1,0 +1,328 @@
+{
+  "doc_id": "prion_0972",
+  "text": "Creutzfeldt-Jakob disease (CJD) is a progressive, degenerative, and fatal disease of the central nervous system.\nIt is caused by abnormal accumulation of prion proteins and is characterized mainly by progressive dementia, myoclonus, and cerebellar, pyramidal, and extrapyramidal findings.\nPsychiatric symptoms may also accompany CJD and are often the first signs of the disease.\nThe incidence of CJD is approximately 1 in 1 000 000.\nIn certain cases, a diagnosis can be made by demonstrating the accumulation of pathological prion proteins.\nHowever, in many cultures brain biopsies or post-mortem evaluations are not welcomed by either the patients or their relatives.\nIn these cases, the importance of additional diagnostic tools increases.\nHerein, we report on a CJD patient who first consulted a psychiatrist with early psychiatric symptoms.\nThe patient developed neurological symptoms later and was subsequently diagnosed as sporadic CJD based on clinical and laboratory findings rather than brain biopsy.\nRepeated electroencephalograms (EEG) played a pivotal role in our evaluation of the patient.\nThis case is an interesting presentation of CJD both because of the timing of the symptoms and because of the typical EEG findings that led to the diagnosis.\n© 2011 The Authors; Psychogeriatrics © 2011 Japanese Psychogeriatric Society.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 200,
+      "end": 220,
+      "text": "progressive dementia",
+      "spans": [
+        {
+          "start": 200,
+          "end": 220
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 222,
+      "end": 231,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 222,
+          "end": 231
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 237,
+      "end": 287,
+      "text": "cerebellar findings",
+      "spans": [
+        {
+          "start": 237,
+          "end": 247
+        },
+        {
+          "start": 279,
+          "end": 287
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 249,
+      "end": 287,
+      "text": "pyramidal findings",
+      "spans": [
+        {
+          "start": 249,
+          "end": 258
+        },
+        {
+          "start": 279,
+          "end": 287
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 264,
+      "end": 287,
+      "text": "extrapyramidal findings",
+      "spans": [
+        {
+          "start": 264,
+          "end": 287
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 289,
+      "end": 309,
+      "text": "Psychiatric symptoms",
+      "spans": [
+        {
+          "start": 289,
+          "end": 309
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 329,
+      "end": 332,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 329,
+          "end": 332
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 396,
+      "end": 399,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 396,
+          "end": 399
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Stats",
+      "start": 417,
+      "end": 431,
+      "text": "1 in 1 000 000",
+      "spans": [
+        {
+          "start": 417,
+          "end": 431
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 567,
+      "end": 572,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 567,
+          "end": 572
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Test_name",
+      "start": 573,
+      "end": 581,
+      "text": "biopsies",
+      "spans": [
+        {
+          "start": 573,
+          "end": 581
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Test_name",
+      "start": 585,
+      "end": 608,
+      "text": "post-mortem evaluations",
+      "spans": [
+        {
+          "start": 585,
+          "end": 608
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Generic_Prion",
+      "start": 765,
+      "end": 768,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 765,
+          "end": 768
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 823,
+      "end": 843,
+      "text": "psychiatric symptoms",
+      "spans": [
+        {
+          "start": 823,
+          "end": 843
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Symptom",
+      "start": 867,
+      "end": 888,
+      "text": "neurological symptoms",
+      "spans": [
+        {
+          "start": 867,
+          "end": 888
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Sporadic_Prion",
+      "start": 929,
+      "end": 941,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 929,
+          "end": 941
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 996,
+      "end": 1001,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 996,
+          "end": 1001
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Test_name",
+      "start": 1002,
+      "end": 1008,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 1002,
+          "end": 1008
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Test_name",
+      "start": 1019,
+      "end": 1040,
+      "text": "electroencephalograms",
+      "spans": [
+        {
+          "start": 1019,
+          "end": 1040
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Test_name",
+      "start": 1042,
+      "end": 1045,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 1042,
+          "end": 1045
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Generic_Prion",
+      "start": 1147,
+      "end": 1150,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1147,
+          "end": 1150
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Test_name",
+      "start": 1221,
+      "end": 1224,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 1221,
+          "end": 1224
+        }
+      ]
+    }
+  ]
+}

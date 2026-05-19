@@ -1,0 +1,7 @@
+We present serial changes on diffusion-weighted MRI (DWI) in a patient with Creutzfeldt-Jakob disease (CJD).
+DWI revealed serial changes of abnormal hyperintense lesions that had become more extensive and conspicuous with progression of neurologic findings, more sensitively than conventional MRI.
+In the late stage, disappearance of abnormal hyperintense lesions on DWI was observed.
+DWI proved to be particularly useful for monitoring the progression of CJD.
+
+<Related> YES or NO
+[DONE]

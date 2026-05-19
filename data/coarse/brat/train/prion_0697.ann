@@ -1,0 +1,9 @@
+T1	Age 12 23	25-year-old
+T2	Generic_Prion 33 58	Creutzfeldt-Jakob disease
+T3	Generic_Prion 60 63	CJD
+T8	Treatment 82 105	dura mater embolization
+T5	Anatomic_location 113 136	external carotid artery
+T4	Anatomic_location 143 157	nasopharyngeal
+T7	Time 171 188	90 months earlier
+T9	Treatment 269 292	dura mater embolization
+T10	Generic_Prion 320 323	CJD

@@ -1,0 +1,84 @@
+{
+  "doc_id": "prion_0524",
+  "text": "The epidemiological and clinical features of Creutzfeldt-Jakob disease have never before been studied in Scotland and Northern Ireland.\nCase records for those dying with this diagnosis were obtained for the period 1980-89.\nOver the ten year period, 25 definite or probable cases were identified, giving an annual incidence of 0.37 cases/million.\nThere were more cases in the second half of the decade, and this was most likely due to increased ascertainment.\nOne pair of cases occurred in close proximity to each other.\nSex distribution showed an excess of males (male:female ratio = 1.8:1).\nMean age at onset was 65.2 years, and mean duration of disease was 5.3 months.\nThe presenting symptoms and clinical features were similar to those noted in previous studies of other populations.\nThere was no excess of cases in occupations linked to food, farming, or medical/paramedical work.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 45,
+      "end": 70,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 45,
+          "end": 70
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Time",
+      "start": 214,
+      "end": 221,
+      "text": "1980-89",
+      "spans": [
+        {
+          "start": 214,
+          "end": 221
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Time",
+      "start": 232,
+      "end": 247,
+      "text": "ten year period",
+      "spans": [
+        {
+          "start": 232,
+          "end": 247
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Stats",
+      "start": 326,
+      "end": 344,
+      "text": "0.37 cases/million",
+      "spans": [
+        {
+          "start": 326,
+          "end": 344
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Age",
+      "start": 614,
+      "end": 624,
+      "text": "65.2 years",
+      "spans": [
+        {
+          "start": 614,
+          "end": 624
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Time",
+      "start": 659,
+      "end": 669,
+      "text": "5.3 months",
+      "spans": [
+        {
+          "start": 659,
+          "end": 669
+        }
+      ]
+    }
+  ]
+}

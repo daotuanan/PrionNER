@@ -1,0 +1,154 @@
+{
+  "doc_id": "prion_0750",
+  "text": "A nationwide survey and recent information documented 57 patients with Creutzfeldt-Jakob disease (CJD) who had received dura mater grafts during the period between January 1979 and September 1999.\nAt least 54 of these 57 patients received the same brand of dura mater graft from the same processor.\nMean age at disease onset in the 57 patients with dural grafts was younger (51.9 years) than that in patients with sporadic CJD (63 years) (p < 0.\n0001).\nInitial symptoms were cerebellar ataxia, disorientation, and visual or oculomotor disturbance.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 71,
+      "end": 96,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 71,
+          "end": 96
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 98,
+      "end": 101,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 98,
+          "end": 101
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 156,
+      "end": 195,
+      "text": "between January 1979 and September 1999",
+      "spans": [
+        {
+          "start": 156,
+          "end": 195
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Age",
+      "start": 375,
+      "end": 385,
+      "text": "51.9 years",
+      "spans": [
+        {
+          "start": 375,
+          "end": 385
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Sporadic_Prion",
+      "start": 414,
+      "end": 426,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 414,
+          "end": 426
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Age",
+      "start": 428,
+      "end": 436,
+      "text": "63 years",
+      "spans": [
+        {
+          "start": 428,
+          "end": 436
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 475,
+      "end": 485,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 475,
+          "end": 485
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 475,
+      "end": 492,
+      "text": "cerebellar ataxia",
+      "spans": [
+        {
+          "start": 475,
+          "end": 492
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 494,
+      "end": 508,
+      "text": "disorientation",
+      "spans": [
+        {
+          "start": 494,
+          "end": 508
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 514,
+      "end": 546,
+      "text": "visual disturbance",
+      "spans": [
+        {
+          "start": 514,
+          "end": 520
+        },
+        {
+          "start": 535,
+          "end": 546
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 524,
+      "end": 546,
+      "text": "oculomotor disturbance",
+      "spans": [
+        {
+          "start": 524,
+          "end": 546
+        }
+      ]
+    }
+  ]
+}

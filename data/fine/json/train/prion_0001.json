@@ -1,0 +1,1042 @@
+{
+  "doc_id": "prion_0001",
+  "text": "Aims: Creutzfeldt–Jakob Disease (CJD) is a rare, fatal neurodegenerative disorder caused by prion proteins, leading to progressive brain damage.\nCJD has sporadic, variant, genetic, and iatrogenic forms, with sporadic being the most common, affecting 1–2 people per million annually.\nIt typically presents with rapid cognitive decline, motor dysfunction, and personality changes, with no effective treatment available.\nMethods: A 59-year-old physically fit, male with no past medical history presented to A&E with a two-week history of behavioural changes, aggression, left facial droop, disorientation, poor coordination, and mild dysarthria.\nHe had repetitive speech and his GCS on admission was 14/15.\nStroke was suspected and CT scan showed hypoattenuation of the right frontal lobe.\nContrast MRI showed multifocal areas of gyriform diffusion restriction affecting bilateral cerebral hemispheres.\nInitial differential diagnoses were stroke, vasogenic oedema, old brain injury, post-ictal changes, encephalitis.\nEEG and initial blood tests were normal. CSF analysis revealed elevated proteins, normal glucose and lactate and no oligoclonal bands.\nCSF virology and cultures were negative.\nA protein assay from specialist services in Edinburgh confirmed a diagnosis of sporadic CJD.\nThe patient was discharged to a care home with clonazepam and a plan to introduce low-dose quetiapine if needed.\nUpon transfer, he became increasingly agitated, displaying verbal and physical aggression towards staff and residents, wandering and damaging property.\nHis sleep was poor, and his aggression unpredictable, escalating late in the evening.\nThe care home implemented a low-stimulus environment with one-to-one care and covert medication administration.\nInitially treated with quetiapine and benzodiazepines, his aggression persisted, prompting introduction of haloperidol, which resulted in some reduction in aggression.\nHe was later transferred to an inpatient ward.\nOn the ward, his dysphasia worsened, but he had no further behavioural challenges.\nHe received regular physiotherapy, occupational therapy and specialised nursing care.\nParkinsonism symptoms prompted the discontinuation of haloperidol, which was later reinstated at a lower dose due to return of restlessness.\nQuetiapine was gradually tapered off.\nAt discharge, he was compliant with medication, required assistance with feeding and personal care, had severe dysphasia and some ataxia.\nResults: This case demonstrates the atypical presentation of CJD with neuropsychiatric symptoms at onset, rather than the usual neurological signs.\nThe patient’s agitation and aggression required careful pharmacological adjustments and highlighted challenges in managing CJD’s neuropsychiatric symptoms. Conclusion: This case highlights the importance of considering CJD in the differential diagnosis for patients with rapid-onset neuropsychiatric disturbances.\nEarly recognition and symptomatic management, although not curative, can improve the patient’s quality of life during the disease’s progression.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 6,
+      "end": 31,
+      "text": "Creutzfeldt–Jakob Disease",
+      "spans": [
+        {
+          "start": 6,
+          "end": 31
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 33,
+      "end": 36,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 33,
+          "end": 36
+        }
+      ]
+    },
+    {
+      "id": "T91",
+      "label": "Anatomic_location",
+      "start": 131,
+      "end": 136,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 131,
+          "end": 136
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 145,
+      "end": 148,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 145,
+          "end": 148
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "sCJD",
+      "start": 153,
+      "end": 201,
+      "text": "sporadic forms",
+      "spans": [
+        {
+          "start": 153,
+          "end": 161
+        },
+        {
+          "start": 196,
+          "end": 201
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T69",
+      "label": "vCJD",
+      "start": 163,
+      "end": 201,
+      "text": "variant forms",
+      "spans": [
+        {
+          "start": 163,
+          "end": 170
+        },
+        {
+          "start": 196,
+          "end": 201
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T70",
+      "label": "fCJD",
+      "start": 172,
+      "end": 201,
+      "text": "genetic forms",
+      "spans": [
+        {
+          "start": 172,
+          "end": 179
+        },
+        {
+          "start": 196,
+          "end": 201
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T71",
+      "label": "iCJD",
+      "start": 185,
+      "end": 201,
+      "text": "iatrogenic forms",
+      "spans": [
+        {
+          "start": 185,
+          "end": 195
+        },
+        {
+          "start": 196,
+          "end": 201
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T72",
+      "label": "Prevalence",
+      "start": 250,
+      "end": 281,
+      "text": "1–2 people per million annually",
+      "spans": [
+        {
+          "start": 250,
+          "end": 281
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 316,
+      "end": 333,
+      "text": "cognitive decline",
+      "spans": [
+        {
+          "start": 316,
+          "end": 333
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 335,
+      "end": 352,
+      "text": "motor dysfunction",
+      "spans": [
+        {
+          "start": 335,
+          "end": 352
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 358,
+      "end": 377,
+      "text": "personality changes",
+      "spans": [
+        {
+          "start": 358,
+          "end": 377
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Age",
+      "start": 429,
+      "end": 440,
+      "text": "59-year-old",
+      "spans": [
+        {
+          "start": 429,
+          "end": 440
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Duration",
+      "start": 515,
+      "end": 523,
+      "text": "two-week",
+      "spans": [
+        {
+          "start": 515,
+          "end": 523
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 535,
+      "end": 554,
+      "text": "behavioural changes",
+      "spans": [
+        {
+          "start": 535,
+          "end": 554
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 556,
+      "end": 566,
+      "text": "aggression",
+      "spans": [
+        {
+          "start": 556,
+          "end": 566
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 568,
+      "end": 585,
+      "text": "left facial droop",
+      "spans": [
+        {
+          "start": 568,
+          "end": 585
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 587,
+      "end": 601,
+      "text": "disorientation",
+      "spans": [
+        {
+          "start": 587,
+          "end": 601
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 603,
+      "end": 620,
+      "text": "poor coordination",
+      "spans": [
+        {
+          "start": 603,
+          "end": 620
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 626,
+      "end": 641,
+      "text": "mild dysarthria",
+      "spans": [
+        {
+          "start": 626,
+          "end": 641
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 650,
+      "end": 667,
+      "text": "repetitive speech",
+      "spans": [
+        {
+          "start": 650,
+          "end": 667
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Imaging_test",
+      "start": 729,
+      "end": 736,
+      "text": "CT scan",
+      "spans": [
+        {
+          "start": 729,
+          "end": 736
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 773,
+      "end": 785,
+      "text": "frontal lobe",
+      "spans": [
+        {
+          "start": 773,
+          "end": 785
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Imaging_test",
+      "start": 796,
+      "end": 799,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 796,
+          "end": 799
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 827,
+      "end": 835,
+      "text": "gyriform",
+      "spans": [
+        {
+          "start": 827,
+          "end": 835
+        }
+      ]
+    },
+    {
+      "id": "T73",
+      "label": "Imaging_finding",
+      "start": 836,
+      "end": 857,
+      "text": "diffusion restriction",
+      "spans": [
+        {
+          "start": 836,
+          "end": 857
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Anatomic_location",
+      "start": 878,
+      "end": 898,
+      "text": "cerebral hemispheres",
+      "spans": [
+        {
+          "start": 878,
+          "end": 898
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Differential_Diagnosis",
+      "start": 936,
+      "end": 942,
+      "text": "stroke",
+      "spans": [
+        {
+          "start": 936,
+          "end": 942
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Differential_Diagnosis",
+      "start": 944,
+      "end": 960,
+      "text": "vasogenic oedema",
+      "spans": [
+        {
+          "start": 944,
+          "end": 960
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Differential_Diagnosis",
+      "start": 962,
+      "end": 978,
+      "text": "old brain injury",
+      "spans": [
+        {
+          "start": 962,
+          "end": 978
+        }
+      ]
+    },
+    {
+      "id": "T92",
+      "label": "Anatomic_location",
+      "start": 966,
+      "end": 971,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 966,
+          "end": 971
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Differential_Diagnosis",
+      "start": 980,
+      "end": 998,
+      "text": "post-ictal changes",
+      "spans": [
+        {
+          "start": 980,
+          "end": 998
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Differential_Diagnosis",
+      "start": 1000,
+      "end": 1012,
+      "text": "encephalitis",
+      "spans": [
+        {
+          "start": 1000,
+          "end": 1012
+        }
+      ]
+    },
+    {
+      "id": "T74",
+      "label": "Electrophysio_test",
+      "start": 1014,
+      "end": 1017,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 1014,
+          "end": 1017
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Blood_biomarker_test",
+      "start": 1030,
+      "end": 1041,
+      "text": "blood tests",
+      "spans": [
+        {
+          "start": 1030,
+          "end": 1041
+        }
+      ]
+    },
+    {
+      "id": "T75",
+      "label": "Blood_biomarker_test",
+      "start": 1055,
+      "end": 1067,
+      "text": "CSF analysis",
+      "spans": [
+        {
+          "start": 1055,
+          "end": 1067
+        }
+      ]
+    },
+    {
+      "id": "T81",
+      "label": "Blood_biomarker_test",
+      "start": 1149,
+      "end": 1161,
+      "text": "CSF virology",
+      "spans": [
+        {
+          "start": 1149,
+          "end": 1161
+        }
+      ]
+    },
+    {
+      "id": "T82",
+      "label": "Blood_biomarker_test",
+      "start": 1149,
+      "end": 1174,
+      "text": "CSF cultures",
+      "spans": [
+        {
+          "start": 1149,
+          "end": 1152
+        },
+        {
+          "start": 1166,
+          "end": 1174
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T36",
+      "label": "Molecular_assay",
+      "start": 1192,
+      "end": 1205,
+      "text": "protein assay",
+      "spans": [
+        {
+          "start": 1192,
+          "end": 1205
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "sCJD",
+      "start": 1269,
+      "end": 1281,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 1269,
+          "end": 1281
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Treatment",
+      "start": 1330,
+      "end": 1340,
+      "text": "clonazepam",
+      "spans": [
+        {
+          "start": 1330,
+          "end": 1340
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Treatment",
+      "start": 1365,
+      "end": 1384,
+      "text": "low-dose quetiapine",
+      "spans": [
+        {
+          "start": 1365,
+          "end": 1384
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Symptom",
+      "start": 1434,
+      "end": 1442,
+      "text": "agitated",
+      "spans": [
+        {
+          "start": 1434,
+          "end": 1442
+        }
+      ]
+    },
+    {
+      "id": "T83",
+      "label": "Symptom",
+      "start": 1455,
+      "end": 1485,
+      "text": "verbal aggression",
+      "spans": [
+        {
+          "start": 1455,
+          "end": 1461
+        },
+        {
+          "start": 1475,
+          "end": 1485
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T84",
+      "label": "Symptom",
+      "start": 1466,
+      "end": 1485,
+      "text": "physical aggression",
+      "spans": [
+        {
+          "start": 1466,
+          "end": 1485
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Symptom",
+      "start": 1552,
+      "end": 1566,
+      "text": "sleep poor",
+      "spans": [
+        {
+          "start": 1552,
+          "end": 1557
+        },
+        {
+          "start": 1562,
+          "end": 1566
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T42",
+      "label": "Symptom",
+      "start": 1576,
+      "end": 1586,
+      "text": "aggression",
+      "spans": [
+        {
+          "start": 1576,
+          "end": 1586
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Time_point",
+      "start": 1613,
+      "end": 1632,
+      "text": "late in the evening",
+      "spans": [
+        {
+          "start": 1613,
+          "end": 1632
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Treatment",
+      "start": 1769,
+      "end": 1779,
+      "text": "quetiapine",
+      "spans": [
+        {
+          "start": 1769,
+          "end": 1779
+        }
+      ]
+    },
+    {
+      "id": "T45",
+      "label": "Treatment",
+      "start": 1784,
+      "end": 1799,
+      "text": "benzodiazepines",
+      "spans": [
+        {
+          "start": 1784,
+          "end": 1799
+        }
+      ]
+    },
+    {
+      "id": "T85",
+      "label": "Symptom",
+      "start": 1805,
+      "end": 1815,
+      "text": "aggression",
+      "spans": [
+        {
+          "start": 1805,
+          "end": 1815
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Treatment",
+      "start": 1853,
+      "end": 1864,
+      "text": "haloperidol",
+      "spans": [
+        {
+          "start": 1853,
+          "end": 1864
+        }
+      ]
+    },
+    {
+      "id": "T47",
+      "label": "Symptom",
+      "start": 1902,
+      "end": 1912,
+      "text": "aggression",
+      "spans": [
+        {
+          "start": 1902,
+          "end": 1912
+        }
+      ]
+    },
+    {
+      "id": "T48",
+      "label": "Symptom",
+      "start": 1978,
+      "end": 1987,
+      "text": "dysphasia",
+      "spans": [
+        {
+          "start": 1978,
+          "end": 1987
+        }
+      ]
+    },
+    {
+      "id": "T49",
+      "label": "Symptom",
+      "start": 2020,
+      "end": 2042,
+      "text": "behavioural challenges",
+      "spans": [
+        {
+          "start": 2020,
+          "end": 2042
+        }
+      ]
+    },
+    {
+      "id": "T50",
+      "label": "Treatment",
+      "start": 2064,
+      "end": 2077,
+      "text": "physiotherapy",
+      "spans": [
+        {
+          "start": 2064,
+          "end": 2077
+        }
+      ]
+    },
+    {
+      "id": "T51",
+      "label": "Treatment",
+      "start": 2079,
+      "end": 2099,
+      "text": "occupational therapy",
+      "spans": [
+        {
+          "start": 2079,
+          "end": 2099
+        }
+      ]
+    },
+    {
+      "id": "T52",
+      "label": "Treatment",
+      "start": 2116,
+      "end": 2128,
+      "text": "nursing care",
+      "spans": [
+        {
+          "start": 2116,
+          "end": 2128
+        }
+      ]
+    },
+    {
+      "id": "T86",
+      "label": "Symptom",
+      "start": 2130,
+      "end": 2151,
+      "text": "Parkinsonism symptoms",
+      "spans": [
+        {
+          "start": 2130,
+          "end": 2151
+        }
+      ]
+    },
+    {
+      "id": "T53",
+      "label": "Treatment",
+      "start": 2184,
+      "end": 2195,
+      "text": "haloperidol",
+      "spans": [
+        {
+          "start": 2184,
+          "end": 2195
+        }
+      ]
+    },
+    {
+      "id": "T54",
+      "label": "Symptom",
+      "start": 2257,
+      "end": 2269,
+      "text": "restlessness",
+      "spans": [
+        {
+          "start": 2257,
+          "end": 2269
+        }
+      ]
+    },
+    {
+      "id": "T87",
+      "label": "Treatment",
+      "start": 2271,
+      "end": 2281,
+      "text": "Quetiapine",
+      "spans": [
+        {
+          "start": 2271,
+          "end": 2281
+        }
+      ]
+    },
+    {
+      "id": "T56",
+      "label": "Treatment",
+      "start": 2382,
+      "end": 2389,
+      "text": "feeding",
+      "spans": [
+        {
+          "start": 2382,
+          "end": 2389
+        }
+      ]
+    },
+    {
+      "id": "T88",
+      "label": "Treatment",
+      "start": 2394,
+      "end": 2407,
+      "text": "personal care",
+      "spans": [
+        {
+          "start": 2394,
+          "end": 2407
+        }
+      ]
+    },
+    {
+      "id": "T57",
+      "label": "Complication",
+      "start": 2420,
+      "end": 2429,
+      "text": "dysphasia",
+      "spans": [
+        {
+          "start": 2420,
+          "end": 2429
+        }
+      ]
+    },
+    {
+      "id": "T58",
+      "label": "Symptom",
+      "start": 2439,
+      "end": 2445,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 2439,
+          "end": 2445
+        }
+      ]
+    },
+    {
+      "id": "T59",
+      "label": "Generic_Prion",
+      "start": 2508,
+      "end": 2511,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 2508,
+          "end": 2511
+        }
+      ]
+    },
+    {
+      "id": "T60",
+      "label": "Symptom",
+      "start": 2517,
+      "end": 2542,
+      "text": "neuropsychiatric symptoms",
+      "spans": [
+        {
+          "start": 2517,
+          "end": 2542
+        }
+      ]
+    },
+    {
+      "id": "T61",
+      "label": "Time_point",
+      "start": 2543,
+      "end": 2551,
+      "text": "at onset",
+      "spans": [
+        {
+          "start": 2543,
+          "end": 2551
+        }
+      ]
+    },
+    {
+      "id": "T63",
+      "label": "Symptom",
+      "start": 2575,
+      "end": 2593,
+      "text": "neurological signs",
+      "spans": [
+        {
+          "start": 2575,
+          "end": 2593
+        }
+      ]
+    },
+    {
+      "id": "T64",
+      "label": "Symptom",
+      "start": 2609,
+      "end": 2618,
+      "text": "agitation",
+      "spans": [
+        {
+          "start": 2609,
+          "end": 2618
+        }
+      ]
+    },
+    {
+      "id": "T65",
+      "label": "Symptom",
+      "start": 2623,
+      "end": 2633,
+      "text": "aggression",
+      "spans": [
+        {
+          "start": 2623,
+          "end": 2633
+        }
+      ]
+    },
+    {
+      "id": "T66",
+      "label": "Treatment",
+      "start": 2651,
+      "end": 2678,
+      "text": "pharmacological adjustments",
+      "spans": [
+        {
+          "start": 2651,
+          "end": 2678
+        }
+      ]
+    },
+    {
+      "id": "T62",
+      "label": "Generic_Prion",
+      "start": 2718,
+      "end": 2721,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 2718,
+          "end": 2721
+        }
+      ]
+    },
+    {
+      "id": "T67",
+      "label": "Symptom",
+      "start": 2724,
+      "end": 2749,
+      "text": "neuropsychiatric symptoms",
+      "spans": [
+        {
+          "start": 2724,
+          "end": 2749
+        }
+      ]
+    },
+    {
+      "id": "T68",
+      "label": "Generic_Prion",
+      "start": 2814,
+      "end": 2817,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 2814,
+          "end": 2817
+        }
+      ]
+    },
+    {
+      "id": "T89",
+      "label": "Symptom",
+      "start": 2866,
+      "end": 2907,
+      "text": "rapid-onset neuropsychiatric disturbances",
+      "spans": [
+        {
+          "start": 2866,
+          "end": 2907
+        }
+      ]
+    }
+  ]
+}

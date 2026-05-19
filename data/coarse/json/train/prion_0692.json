@@ -1,0 +1,201 @@
+{
+  "doc_id": "prion_0692",
+  "text": "A 61-year-old woman had Creutzfeldt-Jakob disease, type Heidenhain, that progressed for 4 months until death, 3 of which she spent in a hospital.\nThe diagnosis was verified by autopsy.\nConsecutive brain computed tomography, magnetic resonance imaging, blood flow measurements, electroencephalography (EEG), and routine laboratory tests were performed.\nAll imaging techniques showed nonspecific pathological changes, whereas EEG revealed alterations indicative for Creutzfeldt-Jakob disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "61-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 24,
+      "end": 49,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 24,
+          "end": 49
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Sporadic_Prion",
+      "start": 56,
+      "end": 66,
+      "text": "Heidenhain",
+      "spans": [
+        {
+          "start": 56,
+          "end": 66
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Time",
+      "start": 88,
+      "end": 96,
+      "text": "4 months",
+      "spans": [
+        {
+          "start": 88,
+          "end": 96
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Complication",
+      "start": 103,
+      "end": 108,
+      "text": "death",
+      "spans": [
+        {
+          "start": 103,
+          "end": 108
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Test_name",
+      "start": 176,
+      "end": 183,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 176,
+          "end": 183
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 197,
+      "end": 202,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 197,
+          "end": 202
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 203,
+      "end": 222,
+      "text": "computed tomography",
+      "spans": [
+        {
+          "start": 203,
+          "end": 222
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 224,
+      "end": 250,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 224,
+          "end": 250
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 252,
+      "end": 275,
+      "text": "blood flow measurements",
+      "spans": [
+        {
+          "start": 252,
+          "end": 275
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 277,
+      "end": 299,
+      "text": "electroencephalography",
+      "spans": [
+        {
+          "start": 277,
+          "end": 299
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 301,
+      "end": 304,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 301,
+          "end": 304
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Test_name",
+      "start": 311,
+      "end": 335,
+      "text": "routine laboratory tests",
+      "spans": [
+        {
+          "start": 311,
+          "end": 335
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 424,
+      "end": 427,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 424,
+          "end": 427
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 464,
+      "end": 489,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 464,
+          "end": 489
+        }
+      ]
+    }
+  ]
+}

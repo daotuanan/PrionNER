@@ -1,0 +1,240 @@
+{
+  "doc_id": "prion_0523",
+  "text": "In the past 3 years there have been five further cases, in addition to one case reported in 1985, of Creutzfeldt-Jakob disease in recipients of human growth hormone in the United Kingdom.\nThe clinical findings of two of these cases are described, demonstrating a typical presentation with a predominantly cerebellar syndrome at onset which is not commonly a presenting feature of sporadic Creutzfeldt-Jakob disease.\nIn one case a 99mTc hexamethylpropylenamine single photon emission tomographic scan showed marked impairment of tracer uptake in the basal ganglia and cerebral cortex at a time when the clinical picture was predominantly cerebellar.\nThis technique may be useful in early diagnosis.\nIn the other case post mortem examination of the brain showed prominent amyloid deposition in the cerebellum, which has not been described previously in pituitary-hormone related Creutzfeldt-Jakob disease.\nThe previously published cases of growth hormone-related Creutzfeldt-Jakob disease are reviewed and reasons for the particular clinical pattern seen are discussed.",
+  "entities": [
+    {
+      "id": "T3",
+      "label": "Time",
+      "start": 92,
+      "end": 96,
+      "text": "1985",
+      "spans": [
+        {
+          "start": 92,
+          "end": 96
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 101,
+      "end": 126,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 101,
+          "end": 126
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Treatment",
+      "start": 144,
+      "end": 164,
+      "text": "human growth hormone",
+      "spans": [
+        {
+          "start": 144,
+          "end": 164
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 305,
+      "end": 315,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 305,
+          "end": 315
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 305,
+      "end": 324,
+      "text": "cerebellar syndrome",
+      "spans": [
+        {
+          "start": 305,
+          "end": 324
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 325,
+      "end": 333,
+      "text": "at onset",
+      "spans": [
+        {
+          "start": 325,
+          "end": 333
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Sporadic_Prion",
+      "start": 380,
+      "end": 414,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 380,
+          "end": 414
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Test_name",
+      "start": 460,
+      "end": 499,
+      "text": "single photon emission tomographic scan",
+      "spans": [
+        {
+          "start": 460,
+          "end": 499
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Findings",
+      "start": 514,
+      "end": 541,
+      "text": "impairment of tracer uptake",
+      "spans": [
+        {
+          "start": 514,
+          "end": 541
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 549,
+      "end": 562,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 549,
+          "end": 562
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 567,
+      "end": 582,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 567,
+          "end": 582
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 637,
+      "end": 647,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 637,
+          "end": 647
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Test_name",
+      "start": 716,
+      "end": 739,
+      "text": "post mortem examination",
+      "spans": [
+        {
+          "start": 716,
+          "end": 739
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 747,
+      "end": 752,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 747,
+          "end": 752
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Findings",
+      "start": 760,
+      "end": 788,
+      "text": "prominent amyloid deposition",
+      "spans": [
+        {
+          "start": 760,
+          "end": 788
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 796,
+      "end": 806,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 796,
+          "end": 806
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Acquired_Prion",
+      "start": 851,
+      "end": 902,
+      "text": "pituitary-hormone related Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 851,
+          "end": 902
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Acquired_Prion",
+      "start": 938,
+      "end": 986,
+      "text": "growth hormone-related Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 938,
+          "end": 986
+        }
+      ]
+    }
+  ]
+}

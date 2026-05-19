@@ -1,0 +1,149 @@
+{
+  "doc_id": "prion_0632",
+  "text": "Creutzfeldt-Jakob disease (CJD) is a rapidly progressive, fatal disease of the central nervous system.\nPremortem diagnosis may or may not be conclusive.\nBecause the etiologic agent is virulent, definition of necessary precautions for medical staff associated with such patients is needed.\nTransmission of CJD in animals has been found to occur after inoculation with brain, spinal cord, liver, kidney, lung, and lymph node tissues in diminishing frequency.\nEffective methods of sterilization and disinfection for the etiologic agent are unknown.\nThus, personnel associated with supposed-CJD patients should take precautions not unlike needle precautions for hepatitis B patients.\nA list of guidelines is given.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 79,
+      "end": 101,
+      "text": "central nervous system",
+      "spans": [
+        {
+          "start": 79,
+          "end": 101
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 305,
+      "end": 308,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 305,
+          "end": 308
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 367,
+      "end": 372,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 367,
+          "end": 372
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 374,
+      "end": 385,
+      "text": "spinal cord",
+      "spans": [
+        {
+          "start": 374,
+          "end": 385
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 387,
+      "end": 392,
+      "text": "liver",
+      "spans": [
+        {
+          "start": 387,
+          "end": 392
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 394,
+      "end": 400,
+      "text": "kidney",
+      "spans": [
+        {
+          "start": 394,
+          "end": 400
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Anatomic_location",
+      "start": 402,
+      "end": 406,
+      "text": "lung",
+      "spans": [
+        {
+          "start": 402,
+          "end": 406
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 412,
+      "end": 422,
+      "text": "lymph node",
+      "spans": [
+        {
+          "start": 412,
+          "end": 422
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Differential_Diagnosis",
+      "start": 658,
+      "end": 669,
+      "text": "hepatitis B",
+      "spans": [
+        {
+          "start": 658,
+          "end": 669
+        }
+      ]
+    }
+  ]
+}

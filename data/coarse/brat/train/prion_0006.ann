@@ -1,0 +1,28 @@
+T21	Generic_Prion 12 37	Creutzfeldt‐Jakob disease
+T2	Generic_Prion 39 42	CJD
+T3	Time 243 254	early 2000s
+T22	Time 340 344	2022
+T4	Time 368 377	six years
+T24	Sporadic_Prion 622 656	sporadic Creutzfeldt‐Jakob disease
+T25	Test_name 790 797	imaging
+T26	Test_name 799 802	EEG
+T27	Test_name 808 827	cerebrospinal fluid
+T5	Time 920 924	2023
+T8	Generic_Prion 999 1002	CJD
+T9	Time 1016 1020	2024
+T11	Generic_Prion 1098 1101	CJD
+T6	Stats 1134 1139	0.06%
+T7	Time 1143 1147	2023
+T10	Stats 1152 1157	0.10%
+T12	Time 1161 1165	2024
+T33	Symptom 1401 1418	isolated dementia
+T14	Symptom 1524 1533	psychosis
+T15	Symptom 1538 1565	primary progressive aphasia
+T16	Age 1637 1645	58 years
+T17	Test_name 1683 1686	MRI
+T18	Generic_Prion 1777 1802	Creutzfeldt‐Jakob disease
+T37	Symptom 1845 1873	rapidly progressive dementia
+T38	Complication 1936 1956	loss of independence
+T19	Time 1978 1984	a year
+T20	Generic_Prion 2014 2017	CJD
+T39	Symptom 2143 2171	rapidly progressive dementia

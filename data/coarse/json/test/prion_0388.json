@@ -1,0 +1,227 @@
+{
+  "doc_id": "prion_0388",
+  "text": "1.\nRecent publication has suggested that quinacrine may be a candidate for treatment of Creutzfeldt-Jakob disease (CJD).\nBut serious toxicity of quinacrine to liver and hematological system has been reported.\n2.\nWe disclosed the permeability of quinacrine can be enhanced by presence of p-glycoprotein inhibitor at blood-brain barrier in vitro.\nTherefore, we tried the protocol of combination of quinacrine and p-glycoprotein inhibitor, verapamil for patients with CJD.\n3.\nWhen compared clinical effects by quinacrine and the combination therapy, improvement of clinical findings was observed at the same level without any adverse effects.\nLow-dose quinacrine with verapamil can be used as safe treatment of CJD.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Treatment",
+      "start": 41,
+      "end": 51,
+      "text": "quinacrine",
+      "spans": [
+        {
+          "start": 41,
+          "end": 51
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 88,
+      "end": 113,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 88,
+          "end": 113
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 115,
+      "end": 118,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 115,
+          "end": 118
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Complication",
+      "start": 133,
+      "end": 189,
+      "text": "toxicity of quinacrine to liver and hematological system",
+      "spans": [
+        {
+          "start": 133,
+          "end": 189
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Treatment",
+      "start": 145,
+      "end": 155,
+      "text": "quinacrine",
+      "spans": [
+        {
+          "start": 145,
+          "end": 155
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Treatment",
+      "start": 245,
+      "end": 255,
+      "text": "quinacrine",
+      "spans": [
+        {
+          "start": 245,
+          "end": 255
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Treatment",
+      "start": 287,
+      "end": 311,
+      "text": "p-glycoprotein inhibitor",
+      "spans": [
+        {
+          "start": 287,
+          "end": 311
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 315,
+      "end": 334,
+      "text": "blood-brain barrier",
+      "spans": [
+        {
+          "start": 315,
+          "end": 334
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Treatment",
+      "start": 396,
+      "end": 406,
+      "text": "quinacrine",
+      "spans": [
+        {
+          "start": 396,
+          "end": 406
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Treatment",
+      "start": 411,
+      "end": 435,
+      "text": "p-glycoprotein inhibitor",
+      "spans": [
+        {
+          "start": 411,
+          "end": 435
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Treatment",
+      "start": 437,
+      "end": 446,
+      "text": "verapamil",
+      "spans": [
+        {
+          "start": 437,
+          "end": 446
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 465,
+      "end": 468,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 465,
+          "end": 468
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Treatment",
+      "start": 507,
+      "end": 517,
+      "text": "quinacrine",
+      "spans": [
+        {
+          "start": 507,
+          "end": 517
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Treatment",
+      "start": 526,
+      "end": 545,
+      "text": "combination therapy",
+      "spans": [
+        {
+          "start": 526,
+          "end": 545
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Treatment",
+      "start": 649,
+      "end": 659,
+      "text": "quinacrine",
+      "spans": [
+        {
+          "start": 649,
+          "end": 659
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Treatment",
+      "start": 665,
+      "end": 674,
+      "text": "verapamil",
+      "spans": [
+        {
+          "start": 665,
+          "end": 674
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Generic_Prion",
+      "start": 708,
+      "end": 711,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 708,
+          "end": 711
+        }
+      ]
+    }
+  ]
+}

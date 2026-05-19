@@ -1,0 +1,16 @@
+T1	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T2	Generic_Prion 27 30	CJD
+T4	Complication 72 77	fatal
+T5	Anatomic_location 94 116	central nervous system
+T6	Generic_Prion 118 121	CJD
+T7	Incidence 174 220	.5-1 new cases per million population per year
+T8	Symptom 390 407	clinical symptoms
+T10	Treatment 486 501	supportive care
+T11	Treatment 643 658	supportive care
+T12	Generic_Prion 713 716	CJD
+T13	Choose_Related 783 786	YES
+T3	Differential_Diagnosis 78 116	disorder of the central nervous system
+T9	Treatment 660 693	educating community organizations
+T14	Treatment 721 741	assisting the family
+T15	Choose_Done 794 798	DONE
+T16	Treatment 577 603	decontamination procedures

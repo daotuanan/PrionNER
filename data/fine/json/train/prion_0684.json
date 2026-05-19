@@ -1,0 +1,175 @@
+{
+  "doc_id": "prion_0684",
+  "text": "We diagnosed Cruetzfeldt-Jakob disease in 34 patients (16 definite, 18 probable) who had received human growth hormone extract for various period of time (mean +/- SD, 2.9 years), but particularly during the period between January 1984 and July 1985, a potential high-risk factor.\nDisease duration for deceased patients (n = 30) was 17 +/- 9 months.\nThe clinical picture was homogeneous, starting with cerebellar ataxia and ocular motor disorders in about 90% of the patients.\nNeurologic deterioration, including dementia and myoclonic jerks, occurred within months.\nThe high number of cases (1.5% of those treated between 1959 and 1988, 3% of those treated during the putative high-risk period) is still unexplained.\nWe discuss the possibility that new cases will be detected,the risk of contaminating the general public, and the sanitary measures undertaken to prevent this.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 13,
+      "end": 38,
+      "text": "Cruetzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 13,
+          "end": 38
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Treatment",
+      "start": 89,
+      "end": 126,
+      "text": "received human growth hormone extract",
+      "spans": [
+        {
+          "start": 89,
+          "end": 126
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Duration",
+      "start": 168,
+      "end": 177,
+      "text": "2.9 years",
+      "spans": [
+        {
+          "start": 168,
+          "end": 177
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Duration",
+      "start": 215,
+      "end": 249,
+      "text": "between January 1984 and July 1985",
+      "spans": [
+        {
+          "start": 215,
+          "end": 249
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Duration",
+      "start": 333,
+      "end": 348,
+      "text": "17 +/- 9 months",
+      "spans": [
+        {
+          "start": 333,
+          "end": 348
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 402,
+      "end": 412,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 402,
+          "end": 412
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 402,
+      "end": 419,
+      "text": "cerebellar ataxia",
+      "spans": [
+        {
+          "start": 402,
+          "end": 419
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 424,
+      "end": 446,
+      "text": "ocular motor disorders",
+      "spans": [
+        {
+          "start": 424,
+          "end": 446
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 477,
+      "end": 501,
+      "text": "Neurologic deterioration",
+      "spans": [
+        {
+          "start": 477,
+          "end": 501
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 513,
+      "end": 521,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 513,
+          "end": 521
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 526,
+      "end": 541,
+      "text": "myoclonic jerks",
+      "spans": [
+        {
+          "start": 526,
+          "end": 541
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Duration",
+      "start": 559,
+      "end": 565,
+      "text": "months",
+      "spans": [
+        {
+          "start": 559,
+          "end": 565
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Duration",
+      "start": 615,
+      "end": 636,
+      "text": "between 1959 and 1988",
+      "spans": [
+        {
+          "start": 615,
+          "end": 636
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+T4	sCJD 99 133	sporadic Creutzfeldt-Jakob disease
+T5	Generic_Prion 135 138	CJD
+T6	Imaging_test 209 212	MRI
+T7	sCJD 279 291	sporadic CJD
+T9	Autopsy 349 356	autopsy
+T11	Imaging_test 406 409	MRI
+T13	Generic_Prion 470 473	CJD
+T14	Imaging_finding 485 501	increased signal
+T15	Anatomic_location 509 522	basal ganglia
+T18	Anatomic_location 624 640	occipital cortex
+T22	Generic_Prion 731 734	CJD
+T24	Time_point 778 808	onset of neurological symptoms
+T25	Imaging_test 813 816	MRI
+T27	Imaging_test 909 912	MRI
+T1	Imaging_sequence 63 74	T2-weighted
+T3	Symptom 447 466	extrapyramidal type
+T8	Imaging_sequence 526 537	T2-weighted
+T12	sCJD 577 595	Heidenhain variant
+T16	Imaging_finding 600 616	increased signal
+T19	Anatomic_location 669 680	grey matter
+T20	Imaging_finding 659 668;681 697	increased signal intensity
+T21	Anatomic_location 863 874	grey matter
+T23	Imaging_finding 853 862;875 881	increased signal
+T2	Imaging_finding 21 30;43 59	increased signal intensity
+T26	Anatomic_location 31 42	grey matter

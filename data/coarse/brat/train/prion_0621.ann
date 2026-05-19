@@ -1,0 +1,15 @@
+T1	Test_name 0 8	Necropsy
+T2	Generic_Prion 34 59	spongiform encephalopathy
+T3	Generic_Prion 67 84	Creutzfeldt-Jakob
+T4	Anatomic_location 111 116	brain
+T5	Age 122 133	48-year-old
+T6	Differential_Diagnosis 199 229	Alzheimer's presenile dementia
+T17	Complication 292 296	died
+T7	Time 369 379	5-10 years
+T8	Test_name 381 390	Autopsies
+T15	Differential_Diagnosis 400 439	post-viral temporal lobe encephalopathy
+T9	Anatomic_location 411 424	temporal lobe
+T10	Findings 451 475	spongiform (C-J) lesions
+T16	Test_name 488 513	Neuropathological studies
+T11	Differential_Diagnosis 557 576	Alzheimer's disease
+T13	Generic_Prion 581 606	Creutzfeldt-Jakob disease

@@ -1,0 +1,12 @@
+BACKGROUND: Traditional imaging methods, including computed tomography, routine magnetic resonance imaging (MRI), and magnetic resonance spectroscopy, have not been particularly useful in the diagnosis of Creutzfeldt-Jakob disease (CJD).
+Although abnormalities can be seen using these methods, the findings are evident only late in the disease or lack specificity or sensitivity.
+OBJECTIVE: To describe abnormalities on diffusion-weighted MRIs in 4 patients with proven CJD.
+METHODS: Diffusion-weighted MRIs were obtained on 4 patients with CJD as part of a routine MRI brain examination.
+RESULTS: In all 4 patients, diffusion-weighted MRIs of the brain demonstrated bilateral hyperintensity in the basal ganglia.
+In 1 patient, the most conspicuous abnormality seen in diffusion-weighted images was in the thalamus.
+Two patients also demonstrated hyperintensity in the cerebral cortex on diffusion-weighted images.
+Only 2 of 4 patients demonstrated clear abnormalities on routine (non-diffusion-weighted) MRIs.
+Diffusion abnormalities were visible in 1 patient within 1 month of symptom onset.
+The findings were most conspicuous and extensive in the patient with the longest duration of symptoms (7 months).
+CONCLUSIONS: Diffusion-weighted MRI might provide a noninvasive method of identifying patients with CJD.
+However, further investigations must be performed to determine the specificity of these findings for CJD.

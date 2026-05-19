@@ -1,0 +1,13 @@
+T1	Age 2 13	67-year-old
+T2	Differential_Diagnosis 23 39	bipolar disorder
+T3	Differential_Diagnosis 52 83	Creutzfeldt-Jakob like syndrome
+T8	Differential_Diagnosis 295 337	lithium-induced Creutzfeldt-Jakob syndrome
+T10	Age 383 390	elderly
+T17	Differential_Diagnosis 573 594	Lithium neurotoxicity
+T18	Generic_Prion 619 644	Creutzfeldt-Jakob disease
+T19	Electrophysio_test 676 697	electroencephalograms
+T21	Choose_Related 734 737	YES
+T4	Choose_Done 745 749	DONE
+T5	Treatment 91 118	lithium carbonate treatment
+T6	Treatment 244 259	lithium therapy
+T7	Treatment 488 519	antimanic maintenance treatment

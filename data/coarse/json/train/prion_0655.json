@@ -1,0 +1,266 @@
+{
+  "doc_id": "prion_0655",
+  "text": "Serial changes in brain imaging of regional cerebral blood flow with single photon emission computed tomography (SPECT) using N-isopropyl-(iodine-123) p-iodoamphetamine (123I-IMP) were observed in a patient with probable Heidenhain type of Creutzfeldt-Jakob disease, which was characterized by the initial onset of visual symptoms.\nCorresponding to the visual signs and periodic synchronous discharges localized in the bilateral parietal and occipital regions on EEG, focal hypoperfusion images in the occipital lobes were detected on the SPECT scan before brain X-ray computed tomography and magnetic resonance imaging showed any abnormalities.\nThese results suggest that SPECT brain imaging is useful in the early detection of site-specific abnormalities in Creutzfeldt-Jakob disease.",
+  "entities": [
+    {
+      "id": "T25",
+      "label": "Anatomic_location",
+      "start": 18,
+      "end": 23,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 18,
+          "end": 23
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Test_name",
+      "start": 24,
+      "end": 31,
+      "text": "imaging",
+      "spans": [
+        {
+          "start": 24,
+          "end": 31
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 69,
+      "end": 111,
+      "text": "single photon emission computed tomography",
+      "spans": [
+        {
+          "start": 69,
+          "end": 111
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 113,
+      "end": 118,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 113,
+          "end": 118
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Sporadic_Prion",
+      "start": 221,
+      "end": 265,
+      "text": "Heidenhain type of Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 221,
+          "end": 265
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 315,
+      "end": 330,
+      "text": "visual symptoms",
+      "spans": [
+        {
+          "start": 315,
+          "end": 330
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 353,
+      "end": 365,
+      "text": "visual signs",
+      "spans": [
+        {
+          "start": 353,
+          "end": 365
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 429,
+      "end": 437,
+      "text": "parietal",
+      "spans": [
+        {
+          "start": 429,
+          "end": 437
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 442,
+      "end": 459,
+      "text": "occipital regions",
+      "spans": [
+        {
+          "start": 442,
+          "end": 459
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 463,
+      "end": 466,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 463,
+          "end": 466
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Findings",
+      "start": 468,
+      "end": 487,
+      "text": "focal hypoperfusion",
+      "spans": [
+        {
+          "start": 468,
+          "end": 487
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 502,
+      "end": 517,
+      "text": "occipital lobes",
+      "spans": [
+        {
+          "start": 502,
+          "end": 517
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Test_name",
+      "start": 539,
+      "end": 549,
+      "text": "SPECT scan",
+      "spans": [
+        {
+          "start": 539,
+          "end": 549
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 557,
+      "end": 562,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 557,
+          "end": 562
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Test_name",
+      "start": 563,
+      "end": 588,
+      "text": "X-ray computed tomography",
+      "spans": [
+        {
+          "start": 563,
+          "end": 588
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Test_name",
+      "start": 593,
+      "end": 619,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 593,
+          "end": 619
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Test_name",
+      "start": 673,
+      "end": 678,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 673,
+          "end": 678
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Anatomic_location",
+      "start": 679,
+      "end": 684,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 679,
+          "end": 684
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Time",
+      "start": 710,
+      "end": 725,
+      "text": "early detection",
+      "spans": [
+        {
+          "start": 710,
+          "end": 725
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Generic_Prion",
+      "start": 760,
+      "end": 785,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 760,
+          "end": 785
+        }
+      ]
+    }
+  ]
+}

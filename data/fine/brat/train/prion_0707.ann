@@ -1,0 +1,21 @@
+T1	Age 2 13	45 year old
+T2	Symptom 63 82	cerebellar syndrome
+T3	Symptom 84 97	severe ataxia
+T4	Symptom 103 113	dysarthria
+T6	Symptom 160 185	bilateral myoclonic jerks
+T7	Symptom 187 203	flexion rigidity
+T8	Symptom 209 219	immobility
+T9	Electrophysio_test 256 259	EEG
+T15	Generic_Prion 430 455	Creutzfeldt-Jakob disease
+T16	Time_point 473 491	Eight months later
+T18	Time_point 531 551	Thirty years earlier
+T20	Complication 709 718	pneumonia
+T21	Generic_Prion 733 767	subacute spongiform encephalopathy
+T22	Autopsy 781 789	necropsy
+T24	Generic_Prion 921 946	Creutzfeldt-Jakob disease
+T5	Symptom 143 147	coma
+T10	Blood_biomarker_test 340 343	CSF
+T27	Complication 676 681	death
+T12	Complication 496 500	died
+T13	Complication 496 529	died of respiratory complications
+T14	Treatment 578 617	corneal transplantation for keratoconus

@@ -1,0 +1,310 @@
+{
+  "doc_id": "prion_0940",
+  "text": "The objective is to study a patient with sporadic Creutzfeldt-Jakob disease (CJD).\nThe patient, a 70-year-old woman with a history spanning over 1 month, with acute onset, progressive abnormal behavior, and cognitive decline with generalized asymmetrical myoclonic jerking, startle phenomenon, and cortical blindness, was referred to the hospital.\nOn observation of clinical symptoms, metabolic and hematological investigations, MRI (magnetic resonance imaging), and EEG (electroencephalogram) were done.\nThe clinical symptoms, MRI, and diagnostic EEG were suggestive of sporadic CJD.\nOther metabolic encephalopathies were ruled out.\nWith sodium valproate and clonezepam, her myoclonic jerks improved slightly.\nAs CJD is an incurable disease, no definitive treatment could be given.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "sCJD",
+      "start": 41,
+      "end": 75,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 41,
+          "end": 75
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 77,
+      "end": 80,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 77,
+          "end": 80
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 98,
+      "end": 109,
+      "text": "70-year-old",
+      "spans": [
+        {
+          "start": 98,
+          "end": 109
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Duration",
+      "start": 140,
+      "end": 152,
+      "text": "over 1 month",
+      "spans": [
+        {
+          "start": 140,
+          "end": 152
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 172,
+      "end": 201,
+      "text": "progressive abnormal behavior",
+      "spans": [
+        {
+          "start": 172,
+          "end": 201
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 207,
+      "end": 224,
+      "text": "cognitive decline",
+      "spans": [
+        {
+          "start": 207,
+          "end": 224
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 230,
+      "end": 272,
+      "text": "generalized asymmetrical myoclonic jerking",
+      "spans": [
+        {
+          "start": 230,
+          "end": 272
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 274,
+      "end": 292,
+      "text": "startle phenomenon",
+      "spans": [
+        {
+          "start": 274,
+          "end": 292
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 298,
+      "end": 316,
+      "text": "cortical blindness",
+      "spans": [
+        {
+          "start": 298,
+          "end": 316
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Blood_biomarker_test",
+      "start": 385,
+      "end": 427,
+      "text": "metabolic investigations",
+      "spans": [
+        {
+          "start": 385,
+          "end": 394
+        },
+        {
+          "start": 413,
+          "end": 427
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T5",
+      "label": "Blood_biomarker_test",
+      "start": 399,
+      "end": 427,
+      "text": "hematological investigations",
+      "spans": [
+        {
+          "start": 399,
+          "end": 427
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Imaging_test",
+      "start": 429,
+      "end": 432,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 429,
+          "end": 432
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Imaging_test",
+      "start": 434,
+      "end": 460,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 434,
+          "end": 460
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Electrophysio_test",
+      "start": 467,
+      "end": 470,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 467,
+          "end": 470
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Imaging_test",
+      "start": 472,
+      "end": 492,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 472,
+          "end": 492
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Imaging_test",
+      "start": 528,
+      "end": 531,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 528,
+          "end": 531
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Electrophysio_test",
+      "start": 548,
+      "end": 551,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 548,
+          "end": 551
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "sCJD",
+      "start": 571,
+      "end": 583,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 571,
+          "end": 583
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Differential_Diagnosis",
+      "start": 591,
+      "end": 617,
+      "text": "metabolic encephalopathies",
+      "spans": [
+        {
+          "start": 591,
+          "end": 617
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Treatment",
+      "start": 639,
+      "end": 655,
+      "text": "sodium valproate",
+      "spans": [
+        {
+          "start": 639,
+          "end": 655
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Treatment",
+      "start": 660,
+      "end": 670,
+      "text": "clonezepam",
+      "spans": [
+        {
+          "start": 660,
+          "end": 670
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 676,
+      "end": 691,
+      "text": "myoclonic jerks",
+      "spans": [
+        {
+          "start": 676,
+          "end": 691
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Generic_Prion",
+      "start": 714,
+      "end": 717,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 714,
+          "end": 717
+        }
+      ]
+    }
+  ]
+}

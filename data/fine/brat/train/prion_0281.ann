@@ -1,0 +1,17 @@
+T2	Treatment 72 82	quinacrine
+T3	Generic_Prion 129 154	Creutzfeldt-Jakob disease
+T4	vCJD 178 189	variant CJD
+T6	Treatment 348 358	quinacrine
+T8	Treatment 385 395	quinacrine
+T11	Treatment 690 700	quinacrine
+T12	Treatment 705 719	chlorpromazine
+T13	Treatment 836 846	Quinacrine
+T18	Treatment 1368 1378	quinacrine
+T19	Generic_Prion 1400 1403	CJD
+T20	Generic_Prion 238 270	bovine spongiform encephalopathy
+T21	Generic_Prion 272 275	BSE
+T7	Generic_Prion 831 834	BSE
+T5	Generic_Prion 156 159	CJD
+T10	Treatment 729 747	tricyclic compound
+T22	Anatomic_location 1058 1063	brain
+T23	Anatomic_location 1336 1355	blood-brain barrier

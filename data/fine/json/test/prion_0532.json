@@ -1,0 +1,284 @@
+{
+  "doc_id": "prion_0532",
+  "text": "A 56-year-old woman initially noticed dizziness in October, 1988, and later dementia and gait disturbance developed, associated with myoclonus and periodic synchronous discharge in the electroencephalogram.\nOn the basis of these clinical findings we made a diagnosis of Creutzfeldt-Jakob disease (CJD).\nUsing RIA for ubiquitin (signal peptide of the ATP dependent proteolytic system), we measured the cerebrospinal fluid (CSF) ubiquitin levels.\nThe CSF level of ubiquitin was markedly elevated in this case five months after the initial symptoms (230.0 ng/ml) compared with normal values (14.3 +/- 1.1 ng/ml) and values in patients with senile dementia of Alzheimer type (21.3 +/- 6.1 ng/ml) and vascular dementia (16.6 +/- 6.4 ng/ml).\nWith progression of brain atrophy in this case, CSF levels of ubiquitin rapidly decreased to near the normal values.\nThese findings suggest that CSF ubiquitin concentration reflects the activity of the disease process in CJD, and it may be useful in the diagnosis of CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "56-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 38,
+      "end": 47,
+      "text": "dizziness",
+      "spans": [
+        {
+          "start": 38,
+          "end": 47
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Time_point",
+      "start": 48,
+      "end": 64,
+      "text": "in October, 1988",
+      "spans": [
+        {
+          "start": 48,
+          "end": 64
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 76,
+      "end": 84,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 76,
+          "end": 84
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 89,
+      "end": 105,
+      "text": "gait disturbance",
+      "spans": [
+        {
+          "start": 89,
+          "end": 105
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 133,
+      "end": 142,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 133,
+          "end": 142
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Electrophysio_test",
+      "start": 185,
+      "end": 205,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 185,
+          "end": 205
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 270,
+      "end": 295,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 270,
+          "end": 295
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 297,
+      "end": 300,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 297,
+          "end": 300
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Molecular_assay",
+      "start": 309,
+      "end": 312,
+      "text": "RIA",
+      "spans": [
+        {
+          "start": 309,
+          "end": 312
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Blood_biomarker_test",
+      "start": 401,
+      "end": 420,
+      "text": "cerebrospinal fluid",
+      "spans": [
+        {
+          "start": 401,
+          "end": 420
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Blood_biomarker_test",
+      "start": 422,
+      "end": 425,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 422,
+          "end": 425
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Blood_biomarker_test",
+      "start": 449,
+      "end": 471,
+      "text": "CSF level of ubiquitin",
+      "spans": [
+        {
+          "start": 449,
+          "end": 452
+        },
+        {
+          "start": 453,
+          "end": 471
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T20",
+      "label": "Duration",
+      "start": 507,
+      "end": 518,
+      "text": "five months",
+      "spans": [
+        {
+          "start": 507,
+          "end": 518
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Differential_Diagnosis",
+      "start": 637,
+      "end": 670,
+      "text": "senile dementia of Alzheimer type",
+      "spans": [
+        {
+          "start": 637,
+          "end": 670
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Differential_Diagnosis",
+      "start": 696,
+      "end": 713,
+      "text": "vascular dementia",
+      "spans": [
+        {
+          "start": 696,
+          "end": 713
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Anatomic_location",
+      "start": 756,
+      "end": 761,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 756,
+          "end": 761
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Blood_biomarker_test",
+      "start": 784,
+      "end": 787,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 784,
+          "end": 787
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Blood_biomarker_test",
+      "start": 881,
+      "end": 884,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 881,
+          "end": 884
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Generic_Prion",
+      "start": 957,
+      "end": 960,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 957,
+          "end": 960
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Generic_Prion",
+      "start": 1003,
+      "end": 1006,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1003,
+          "end": 1006
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "doc_id": "prion_0677",
+  "text": "The human prion diseases, Creutzfeldt-Jakob disease, Gerstmann-Strøaussler-Scheinker syndrome and kuru, are neurodegenerative disorders sharing clinical features of rapidly progressive neurodegenerative dementia and cerebellar symptoms of marked ataxia and tremor, resulting in death within one year after onset.\nSimilar diseases have been described in animals, such as scrapie in sheep and goats, and bovine spongiform encephalopathy in cattle (mad cow disease).\nThe very long incubation period, the lack of a host immune response, and a neurological triad of spongiosis, astrocytosis and amyloid plaque formation have suggested these diseases to have a common aetiology.\nA highly effective transmissible agent, fundamentally different from viruses, has been identified and the term prion adopted to distinguish it from viruses and viroids.\nCJD is unique in occurring both in inherited, sporadic and acquired forms.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 10,
+      "end": 24,
+      "text": "prion diseases",
+      "spans": [
+        {
+          "start": 10,
+          "end": 24
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 26,
+      "end": 51,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 26,
+          "end": 51
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Familial_Prion",
+      "start": 53,
+      "end": 93,
+      "text": "Gerstmann-Strøaussler-Scheinker syndrome",
+      "spans": [
+        {
+          "start": 53,
+          "end": 93
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Acquired_Prion",
+      "start": 98,
+      "end": 102,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 98,
+          "end": 102
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 216,
+      "end": 235,
+      "text": "cerebellar symptoms",
+      "spans": [
+        {
+          "start": 216,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Symptom",
+      "start": 246,
+      "end": 252,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 246,
+          "end": 252
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 257,
+      "end": 263,
+      "text": "tremor",
+      "spans": [
+        {
+          "start": 257,
+          "end": 263
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Complication",
+      "start": 278,
+      "end": 283,
+      "text": "death",
+      "spans": [
+        {
+          "start": 278,
+          "end": 283
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Time",
+      "start": 291,
+      "end": 299,
+      "text": "one year",
+      "spans": [
+        {
+          "start": 291,
+          "end": 299
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Time",
+      "start": 291,
+      "end": 311,
+      "text": "one year after onset",
+      "spans": [
+        {
+          "start": 291,
+          "end": 311
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 402,
+      "end": 434,
+      "text": "bovine spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 402,
+          "end": 434
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 446,
+      "end": 461,
+      "text": "mad cow disease",
+      "spans": [
+        {
+          "start": 446,
+          "end": 461
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Findings",
+      "start": 561,
+      "end": 571,
+      "text": "spongiosis",
+      "spans": [
+        {
+          "start": 561,
+          "end": 571
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Findings",
+      "start": 573,
+      "end": 585,
+      "text": "astrocytosis",
+      "spans": [
+        {
+          "start": 573,
+          "end": 585
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Findings",
+      "start": 590,
+      "end": 614,
+      "text": "amyloid plaque formation",
+      "spans": [
+        {
+          "start": 590,
+          "end": 614
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Generic_Prion",
+      "start": 842,
+      "end": 845,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 842,
+          "end": 845
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Familial_Prion",
+      "start": 877,
+      "end": 886,
+      "text": "inherited",
+      "spans": [
+        {
+          "start": 877,
+          "end": 886
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Sporadic_Prion",
+      "start": 888,
+      "end": 896,
+      "text": "sporadic",
+      "spans": [
+        {
+          "start": 888,
+          "end": 896
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Acquired_Prion",
+      "start": 901,
+      "end": 909,
+      "text": "acquired",
+      "spans": [
+        {
+          "start": 901,
+          "end": 909
+        }
+      ]
+    }
+  ]
+}

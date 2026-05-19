@@ -1,0 +1,9 @@
+T1	Generic_Prion 0 14	Prion diseases
+T2	Sporadic_Prion 232 266	sporadic Creutzfeldt-Jakob disease
+T3	Generic_Prion 268 271	CJD
+T4	Familial_Prion 274 286	familial CJD
+T6	Acquired_Prion 288 303	new variant CJD
+T8	Acquired_Prion 305 319	iatrogenic CJD
+T10	Familial_Prion 321 359	Gerstmann-Straussler-Scheinker disease
+T11	Familial_Prion 361 384	fatal familial insomnia
+T12	Acquired_Prion 389 393	kuru

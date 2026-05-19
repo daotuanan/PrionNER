@@ -1,0 +1,8 @@
+We present serial magnetic resonance imaging (MRI) scans on a biopsy-verified case of Creutzfeldt-Jakob disease (CJD).
+The initial MRI scan demonstrated increased T2 signal-intensity within the basal ganglia and thalami.
+Subsequent MRI scans demonstrated a thin cortex, increased T2 signals diffusely within the white matter including U-fibers, and hypointense T2 signals within the basal ganglia, and thalami.
+Proton magnetic resonance spectroscopy (1H-MRS) study showed an absence of creatine, choline and N-acetylaspartate signals.
+By these characteristic findings, serial MRI and MRS studies may be helpful in differentiating CJD from other dementing illnesses.
+
+<Related> YES or NO
+[DONE]

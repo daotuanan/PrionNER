@@ -1,0 +1,84 @@
+{
+  "doc_id": "prion_0704",
+  "text": "A most common form of human prion disease, also known as non-conventional slow virus diseases; Creutzfeldt-Jakob's disease is described in detail.\nThe available data on the pathogenesis of the illness have recently changed and constitute a most exciting article of contemporary medicine.\n109 cases are introduced that have been verified neuropathologically in Hungary until now; their summed up clinical data, the pathological findings and their epidemiological characteristics are discussed.\nIt must be emphasized that the diagnosis of the illness cannot be inevitably confirmed clinically.\nTransplantation of organs or tissues of all deceased, who suffered of an illness with dementia, should be strictly avoided accordingly.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 22,
+      "end": 41,
+      "text": "human prion disease",
+      "spans": [
+        {
+          "start": 22,
+          "end": 41
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 57,
+      "end": 93,
+      "text": "non-conventional slow virus diseases",
+      "spans": [
+        {
+          "start": 57,
+          "end": 93
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 95,
+      "end": 122,
+      "text": "Creutzfeldt-Jakob's disease",
+      "spans": [
+        {
+          "start": 95,
+          "end": 122
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 337,
+      "end": 356,
+      "text": "neuropathologically",
+      "spans": [
+        {
+          "start": 337,
+          "end": 356
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Treatment",
+      "start": 592,
+      "end": 644,
+      "text": "Transplantation of organs or tissues of all deceased",
+      "spans": [
+        {
+          "start": 592,
+          "end": 644
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 678,
+      "end": 686,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 678,
+          "end": 686
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+T1	Test_name 25 48	computerized tomography
+T2	Test_name 50 52	CT
+T4	Generic_Prion 125 150	Creutzfeldt-Jakob disease
+T5	Test_name 152 154	CT
+T27	Anatomic_location 167 172	brain
+T6	Findings 173 180	atrophy
+T7	Symptom 219 237	frequent myoclonus
+T8	Symptom 273 288	akinetic mutism
+T9	Test_name 294 303	autopsied
+T28	Anatomic_location 347 352	brain
+T10	Findings 353 360	atrophy
+T11	Test_name 369 394	Microscopical examination
+T12	Findings 414 431	spongiform change
+T13	Anatomic_location 435 452	cerebral cortices
+T14	Anatomic_location 465 476	hippocampus
+T15	Anatomic_location 479 487	thalamus
+T16	Anatomic_location 489 502	basal ganglia
+T17	Anatomic_location 504 512	midbrain
+T18	Anatomic_location 527 544	cerebellar cortex
+T19	Findings 550 563	neuronal loss
+T20	Findings 568 575	gliosis
+T29	Anatomic_location 622 627	brain
+T22	Findings 628 635	atrophy
+T23	Test_name 649 651	CT
+T24	Time 652 666	several months
+T3	Findings 730 751	pathological findings
+T25	Generic_Prion 755 780	Creutzfeldt-Jakob disease
+T30	Complication 816 820	died

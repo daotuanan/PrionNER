@@ -1,0 +1,97 @@
+{
+  "doc_id": "prion_0641",
+  "text": "Alterations in sleep organization were longitudinally studied in 6 new cases of fatal familial insomnia (FFI) by 24 h polygraphic recording.\nAll patients showed an early reduction in sleep spindles and K complexes, and a drastic reduction in total sleep time and disruption of the cyclic sleep organization.\nComplete abolition of NREM sleep and persistence of only brief residual periods of REM sleep without atonia were features characteristic of the 3 patients with a short (less than 1 year) clinical course, and lacking in the 3 cases with a longer (more than 2 years) disease course.\nIn the latter, sudden transitions from waking to NREM or REM sleep occurred, sometimes recurring periodically.\nOur findings confirm that impairment of sleep-wake regulation is a consistent distinctive feature of FFI.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "FFI",
+      "start": 80,
+      "end": 103,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 80,
+          "end": 103
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "FFI",
+      "start": 105,
+      "end": 108,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 105,
+          "end": 108
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Electrophysio_test",
+      "start": 113,
+      "end": 139,
+      "text": "24 h polygraphic recording",
+      "spans": [
+        {
+          "start": 113,
+          "end": 139
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Duration",
+      "start": 477,
+      "end": 493,
+      "text": "less than 1 year",
+      "spans": [
+        {
+          "start": 477,
+          "end": 493
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Duration",
+      "start": 554,
+      "end": 571,
+      "text": "more than 2 years",
+      "spans": [
+        {
+          "start": 554,
+          "end": 571
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Symptom",
+      "start": 726,
+      "end": 761,
+      "text": "impairment of sleep-wake regulation",
+      "spans": [
+        {
+          "start": 726,
+          "end": 761
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "FFI",
+      "start": 801,
+      "end": 804,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 801,
+          "end": 804
+        }
+      ]
+    }
+  ]
+}

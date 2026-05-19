@@ -1,0 +1,367 @@
+{
+  "doc_id": "prion_0242",
+  "text": "OBJECTIVES: To characterise the nature of cognitive change in Creutzfeldt-Jakob disease (CJD).\nMETHODS: Case histories are reported of four patients with sporadic (sCJD) and two with familial CJD (fCJD), with postmortem pathological findings in four cases.\nThe data derived from cognitive examination are examined with respect to the presence or absence of a variety of characteristics to elicit performance profiles across cognitive domains.\nRESULTS: Three patients with sCJD exhibited clear focal cortical deficits.\nOne patient had visual impairment leading to cortical blindness, associated with posterior hemisphere abnormalities on single photon emission computed tomography (SPECT) imaging; two others had impairments in language, mirrored by left hemisphere SPECT abnormalities.\nThe remaining three patients showed no specific cortical symptomatology.\nDespite these differences all six patients shared common qualitative characteristics: episodic unresponsiveness, interference effects, and profound verbal and motor perseveration.\nThese common features are interpreted in terms of impaired activation and regulation of neocortex from subcortical structures.\nFindings from postmortem pathological examination and from the published literature provide converging evidence to implicate a critical role of the thalamus.\nCONCLUSION: These preliminary findings suggest that sCJD and fCJD may be associated with distinct neuropsychological characteristics.",
+  "entities": [
+    {
+      "id": "T22",
+      "label": "Symptom",
+      "start": 42,
+      "end": 58,
+      "text": "cognitive change",
+      "spans": [
+        {
+          "start": 42,
+          "end": 58
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 62,
+      "end": 87,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 62,
+          "end": 87
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 89,
+      "end": 92,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 89,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Sporadic_Prion",
+      "start": 154,
+      "end": 195,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 154,
+          "end": 162
+        },
+        {
+          "start": 192,
+          "end": 195
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T25",
+      "label": "Sporadic_Prion",
+      "start": 164,
+      "end": 168,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 164,
+          "end": 168
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Familial_Prion",
+      "start": 183,
+      "end": 195,
+      "text": "familial CJD",
+      "spans": [
+        {
+          "start": 183,
+          "end": 195
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Familial_Prion",
+      "start": 197,
+      "end": 201,
+      "text": "fCJD",
+      "spans": [
+        {
+          "start": 197,
+          "end": 201
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Sporadic_Prion",
+      "start": 472,
+      "end": 476,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 472,
+          "end": 476
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 534,
+      "end": 551,
+      "text": "visual impairment",
+      "spans": [
+        {
+          "start": 534,
+          "end": 551
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 563,
+      "end": 581,
+      "text": "cortical blindness",
+      "spans": [
+        {
+          "start": 563,
+          "end": 581
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 599,
+      "end": 619,
+      "text": "posterior hemisphere",
+      "spans": [
+        {
+          "start": 599,
+          "end": 619
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Test_name",
+      "start": 637,
+      "end": 695,
+      "text": "single photon emission computed tomography imaging",
+      "spans": [
+        {
+          "start": 637,
+          "end": 679
+        },
+        {
+          "start": 688,
+          "end": 695
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T33",
+      "label": "Test_name",
+      "start": 681,
+      "end": 686,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 681,
+          "end": 686
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 712,
+      "end": 735,
+      "text": "impairments in language",
+      "spans": [
+        {
+          "start": 712,
+          "end": 735
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 754,
+      "end": 764,
+      "text": "hemisphere",
+      "spans": [
+        {
+          "start": 754,
+          "end": 764
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Test_name",
+      "start": 765,
+      "end": 770,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 765,
+          "end": 770
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Symptom",
+      "start": 834,
+      "end": 857,
+      "text": "cortical symptomatology",
+      "spans": [
+        {
+          "start": 834,
+          "end": 857
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 945,
+      "end": 970,
+      "text": "episodic unresponsiveness",
+      "spans": [
+        {
+          "start": 945,
+          "end": 970
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 972,
+      "end": 992,
+      "text": "interference effects",
+      "spans": [
+        {
+          "start": 972,
+          "end": 992
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 1007,
+      "end": 1037,
+      "text": "verbal and motor perseveration",
+      "spans": [
+        {
+          "start": 1007,
+          "end": 1037
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 1127,
+      "end": 1136,
+      "text": "neocortex",
+      "spans": [
+        {
+          "start": 1127,
+          "end": 1136
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 1142,
+      "end": 1164,
+      "text": "subcortical structures",
+      "spans": [
+        {
+          "start": 1142,
+          "end": 1164
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Test_name",
+      "start": 1180,
+      "end": 1215,
+      "text": "postmortem pathological examination",
+      "spans": [
+        {
+          "start": 1180,
+          "end": 1215
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 1314,
+      "end": 1322,
+      "text": "thalamus",
+      "spans": [
+        {
+          "start": 1314,
+          "end": 1322
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Sporadic_Prion",
+      "start": 1376,
+      "end": 1380,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 1376,
+          "end": 1380
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Familial_Prion",
+      "start": 1385,
+      "end": 1389,
+      "text": "fCJD",
+      "spans": [
+        {
+          "start": 1385,
+          "end": 1389
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Symptom",
+      "start": 1422,
+      "end": 1456,
+      "text": "neuropsychological characteristics",
+      "spans": [
+        {
+          "start": 1422,
+          "end": 1456
+        }
+      ]
+    }
+  ]
+}

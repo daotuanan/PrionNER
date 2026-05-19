@@ -1,0 +1,305 @@
+{
+  "doc_id": "prion_0645",
+  "text": "We reported anesthetic as well as perioperative management for a patient with Creutzfeldt-Jakob disease, a very rare transmissible neuropathy.\nA 51 year-old woman was scheduled for extirpation of recurrence of acoustic neurinoma.\nThree months before the operation, she had complained vertigo.\nAfter admission to our hospital, she had become progressively dementiated and developed disturbed consciousness.\nAnesthesia was induced with thiamylal and maintained with 0.7-1.5% isoflurane, nitrous oxide and oxygen.\nThe anesthetic course was uneventful and the recovery from anesthesia was smooth.\nPostoperatively dementia progressed and myoclonus of extremeties appeared sixth weeks after the operation.\nTwo months after the operation, a diagnosis of Creutzfeldt-Jakob disease was established by characteristic EEG and clinical course.\nAnesthesia for a patient with dementia was discussed.",
+  "entities": [
+    {
+      "id": "T18",
+      "label": "Treatment",
+      "start": 12,
+      "end": 22,
+      "text": "anesthetic",
+      "spans": [
+        {
+          "start": 12,
+          "end": 22
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Treatment",
+      "start": 34,
+      "end": 58,
+      "text": "perioperative management",
+      "spans": [
+        {
+          "start": 34,
+          "end": 58
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 78,
+      "end": 103,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 78,
+          "end": 103
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Differential_Diagnosis",
+      "start": 117,
+      "end": 141,
+      "text": "transmissible neuropathy",
+      "spans": [
+        {
+          "start": 117,
+          "end": 141
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 143,
+      "end": 156,
+      "text": "A 51 year-old",
+      "spans": [
+        {
+          "start": 143,
+          "end": 156
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Treatment",
+      "start": 181,
+      "end": 228,
+      "text": "extirpation of recurrence of acoustic neurinoma",
+      "spans": [
+        {
+          "start": 181,
+          "end": 228
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Duration",
+      "start": 230,
+      "end": 242,
+      "text": "Three months",
+      "spans": [
+        {
+          "start": 230,
+          "end": 242
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 284,
+      "end": 291,
+      "text": "vertigo",
+      "spans": [
+        {
+          "start": 284,
+          "end": 291
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 355,
+      "end": 366,
+      "text": "dementiated",
+      "spans": [
+        {
+          "start": 355,
+          "end": 366
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 381,
+      "end": 404,
+      "text": "disturbed consciousness",
+      "spans": [
+        {
+          "start": 381,
+          "end": 404
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Treatment",
+      "start": 406,
+      "end": 416,
+      "text": "Anesthesia",
+      "spans": [
+        {
+          "start": 406,
+          "end": 416
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Treatment",
+      "start": 434,
+      "end": 443,
+      "text": "thiamylal",
+      "spans": [
+        {
+          "start": 434,
+          "end": 443
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Treatment",
+      "start": 464,
+      "end": 483,
+      "text": "0.7-1.5% isoflurane",
+      "spans": [
+        {
+          "start": 464,
+          "end": 483
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Treatment",
+      "start": 485,
+      "end": 498,
+      "text": "nitrous oxide",
+      "spans": [
+        {
+          "start": 485,
+          "end": 498
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Treatment",
+      "start": 503,
+      "end": 509,
+      "text": "oxygen",
+      "spans": [
+        {
+          "start": 503,
+          "end": 509
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 609,
+      "end": 617,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 609,
+          "end": 617
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 633,
+      "end": 657,
+      "text": "myoclonus of extremeties",
+      "spans": [
+        {
+          "start": 633,
+          "end": 657
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Duration",
+      "start": 667,
+      "end": 678,
+      "text": "sixth weeks",
+      "spans": [
+        {
+          "start": 667,
+          "end": 678
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Duration",
+      "start": 700,
+      "end": 710,
+      "text": "Two months",
+      "spans": [
+        {
+          "start": 700,
+          "end": 710
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 747,
+      "end": 772,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 747,
+          "end": 772
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Electrophysio_test",
+      "start": 807,
+      "end": 810,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 807,
+          "end": 810
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Treatment",
+      "start": 832,
+      "end": 842,
+      "text": "Anesthesia",
+      "spans": [
+        {
+          "start": 832,
+          "end": 842
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 862,
+      "end": 870,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 862,
+          "end": 870
+        }
+      ]
+    }
+  ]
+}

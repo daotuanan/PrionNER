@@ -1,0 +1,12 @@
+T1	Age 12 23	26-year-old
+T2	Generic_Prion 35 60	Creutzfeldt-Jakob disease
+T3	Generic_Prion 62 65	CJD
+T8	Generic_Prion 238 241	CJD
+T10	Time_point 335 342	in 1987
+T11	Generic_Prion 361 364	CJD
+T12	Choose_Related 383 386	YES
+T4	Choose_Done 394 398	DONE
+T6	Treatment 84 108	cadaveric dural material
+T5	Duration 109 118	33 months
+T7	Time_point 119 135	before the onset
+T9	Treatment 195 206	dural graft

@@ -1,0 +1,708 @@
+{
+  "doc_id": "prion_0295",
+  "text": "BACKGROUND AND PURPOSE: Variant Creutzfeldt-Jakob disease (vCJD) is a rare but important cause of dementia and death in young patients and is causally linked to bovine spongiform encephalopathy.\nSymmetrical hyperintensity in the pulvinar (posterior) nuclei of the thalamus (pulvinar sign) on brain MR images was described as a specific, noninvasive, diagnostic sign of vCJD in a previous small series.\nThis purpose of this larger study was to evaluate this sign prospectively and further define the MR imaging characteristics of vCJD.\nMETHODS: As part of the ongoing surveillance program in the United Kingdom, MR images of suspected cases of vCJD were collected during a 6-year period.\nAll available images were assessed prospectively by one observer for the presence of the pulvinar sign.\nImages of neuropathologically confirmed cases were then assessed independently by two neuroradiologists for the degree of hyperintensity of the pulvinar on images of different MR sequences, and for the presence of abnormal hyperintensity in other areas of the brain.\nDiscrepancies were reviewed jointly and a consensus opinion formed.\nRESULTS: Prospective analysis identified the pulvinar sign in 74 of 82 cases of vCJD.\nIn the retrospective study, the pulvinar sign, as defined by hyperintensity of the pulvinar relative to the anterior putamen, was present on seven (9%) of 75 T1-weighted, 77 (71%) of 108 T2-weighted, 47 (81%) of 58 proton density-weighted, and 30 (100%) of 30 fluid-attenuated inversion-recovery (FLAIR) images.\nDiffusion-weighted images were available in two cases and were positive for the pulvinar sign in one.\nOther features were hyperintensity of the dorsomedial thalamic nuclei (93%), caudate head (40%), and periaqueductal gray matter (83%) on FLAIR images.\nCONCLUSION: In the appropriate clinical context, demonstration of the pulvinar sign on MR images is a highly accurate diagnostic sign for vCJD.\nFLAIR sequence is more sensitive than other sequences.\nPositive MR images may obviate more invasive diagnostic tests in most cases.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Acquired_Prion",
+      "start": 24,
+      "end": 57,
+      "text": "Variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 24,
+          "end": 57
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Acquired_Prion",
+      "start": 59,
+      "end": 63,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 59,
+          "end": 63
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Differential_Diagnosis",
+      "start": 98,
+      "end": 106,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 98,
+          "end": 106
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Complication",
+      "start": 111,
+      "end": 116,
+      "text": "death",
+      "spans": [
+        {
+          "start": 111,
+          "end": 116
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Age",
+      "start": 120,
+      "end": 125,
+      "text": "young",
+      "spans": [
+        {
+          "start": 120,
+          "end": 125
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 161,
+      "end": 193,
+      "text": "bovine spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 161,
+          "end": 193
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Findings",
+      "start": 207,
+      "end": 221,
+      "text": "hyperintensity",
+      "spans": [
+        {
+          "start": 207,
+          "end": 221
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 229,
+      "end": 256,
+      "text": "pulvinar (posterior) nuclei",
+      "spans": [
+        {
+          "start": 229,
+          "end": 256
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 264,
+      "end": 272,
+      "text": "thalamus",
+      "spans": [
+        {
+          "start": 264,
+          "end": 272
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 274,
+      "end": 282,
+      "text": "pulvinar",
+      "spans": [
+        {
+          "start": 274,
+          "end": 282
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Findings",
+      "start": 274,
+      "end": 287,
+      "text": "pulvinar sign",
+      "spans": [
+        {
+          "start": 274,
+          "end": 287
+        }
+      ]
+    },
+    {
+      "id": "T80",
+      "label": "Anatomic_location",
+      "start": 292,
+      "end": 297,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 292,
+          "end": 297
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 298,
+      "end": 307,
+      "text": "MR images",
+      "spans": [
+        {
+          "start": 298,
+          "end": 307
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Acquired_Prion",
+      "start": 369,
+      "end": 373,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 369,
+          "end": 373
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Test_name",
+      "start": 499,
+      "end": 509,
+      "text": "MR imaging",
+      "spans": [
+        {
+          "start": 499,
+          "end": 509
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Acquired_Prion",
+      "start": 529,
+      "end": 533,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 529,
+          "end": 533
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Test_name",
+      "start": 611,
+      "end": 620,
+      "text": "MR images",
+      "spans": [
+        {
+          "start": 611,
+          "end": 620
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Acquired_Prion",
+      "start": 643,
+      "end": 647,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 643,
+          "end": 647
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Time",
+      "start": 672,
+      "end": 685,
+      "text": "6-year period",
+      "spans": [
+        {
+          "start": 672,
+          "end": 685
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 776,
+      "end": 784,
+      "text": "pulvinar",
+      "spans": [
+        {
+          "start": 776,
+          "end": 784
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Findings",
+      "start": 776,
+      "end": 789,
+      "text": "pulvinar sign",
+      "spans": [
+        {
+          "start": 776,
+          "end": 789
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Test_name",
+      "start": 801,
+      "end": 820,
+      "text": "neuropathologically",
+      "spans": [
+        {
+          "start": 801,
+          "end": 820
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Findings",
+      "start": 913,
+      "end": 927,
+      "text": "hyperintensity",
+      "spans": [
+        {
+          "start": 913,
+          "end": 927
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Anatomic_location",
+      "start": 935,
+      "end": 943,
+      "text": "pulvinar",
+      "spans": [
+        {
+          "start": 935,
+          "end": 943
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 967,
+      "end": 969,
+      "text": "MR",
+      "spans": [
+        {
+          "start": 967,
+          "end": 969
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Findings",
+      "start": 1014,
+      "end": 1028,
+      "text": "hyperintensity",
+      "spans": [
+        {
+          "start": 1014,
+          "end": 1028
+        }
+      ]
+    },
+    {
+      "id": "T81",
+      "label": "Anatomic_location",
+      "start": 1051,
+      "end": 1056,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 1051,
+          "end": 1056
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Anatomic_location",
+      "start": 1171,
+      "end": 1179,
+      "text": "pulvinar",
+      "spans": [
+        {
+          "start": 1171,
+          "end": 1179
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Findings",
+      "start": 1171,
+      "end": 1184,
+      "text": "pulvinar sign",
+      "spans": [
+        {
+          "start": 1171,
+          "end": 1184
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Acquired_Prion",
+      "start": 1206,
+      "end": 1210,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1206,
+          "end": 1210
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Anatomic_location",
+      "start": 1244,
+      "end": 1252,
+      "text": "pulvinar",
+      "spans": [
+        {
+          "start": 1244,
+          "end": 1252
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Findings",
+      "start": 1244,
+      "end": 1257,
+      "text": "pulvinar sign",
+      "spans": [
+        {
+          "start": 1244,
+          "end": 1257
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Findings",
+      "start": 1273,
+      "end": 1287,
+      "text": "hyperintensity",
+      "spans": [
+        {
+          "start": 1273,
+          "end": 1287
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Anatomic_location",
+      "start": 1295,
+      "end": 1303,
+      "text": "pulvinar",
+      "spans": [
+        {
+          "start": 1295,
+          "end": 1303
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Anatomic_location",
+      "start": 1320,
+      "end": 1336,
+      "text": "anterior putamen",
+      "spans": [
+        {
+          "start": 1320,
+          "end": 1336
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Sequences",
+      "start": 1370,
+      "end": 1381,
+      "text": "T1-weighted",
+      "spans": [
+        {
+          "start": 1370,
+          "end": 1381
+        }
+      ]
+    },
+    {
+      "id": "T45",
+      "label": "Sequences",
+      "start": 1399,
+      "end": 1410,
+      "text": "T2-weighted",
+      "spans": [
+        {
+          "start": 1399,
+          "end": 1410
+        }
+      ]
+    },
+    {
+      "id": "T49",
+      "label": "Sequences",
+      "start": 1427,
+      "end": 1450,
+      "text": "proton density-weighted",
+      "spans": [
+        {
+          "start": 1427,
+          "end": 1450
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Sequences",
+      "start": 1472,
+      "end": 1507,
+      "text": "fluid-attenuated inversion-recovery",
+      "spans": [
+        {
+          "start": 1472,
+          "end": 1507
+        }
+      ]
+    },
+    {
+      "id": "T54",
+      "label": "Sequences",
+      "start": 1509,
+      "end": 1514,
+      "text": "FLAIR",
+      "spans": [
+        {
+          "start": 1509,
+          "end": 1514
+        }
+      ]
+    },
+    {
+      "id": "T55",
+      "label": "Sequences",
+      "start": 1524,
+      "end": 1549,
+      "text": "Diffusion-weighted images",
+      "spans": [
+        {
+          "start": 1524,
+          "end": 1549
+        }
+      ]
+    },
+    {
+      "id": "T58",
+      "label": "Anatomic_location",
+      "start": 1604,
+      "end": 1612,
+      "text": "pulvinar",
+      "spans": [
+        {
+          "start": 1604,
+          "end": 1612
+        }
+      ]
+    },
+    {
+      "id": "T59",
+      "label": "Findings",
+      "start": 1604,
+      "end": 1617,
+      "text": "pulvinar sign",
+      "spans": [
+        {
+          "start": 1604,
+          "end": 1617
+        }
+      ]
+    },
+    {
+      "id": "T61",
+      "label": "Findings",
+      "start": 1646,
+      "end": 1660,
+      "text": "hyperintensity",
+      "spans": [
+        {
+          "start": 1646,
+          "end": 1660
+        }
+      ]
+    },
+    {
+      "id": "T62",
+      "label": "Anatomic_location",
+      "start": 1668,
+      "end": 1695,
+      "text": "dorsomedial thalamic nuclei",
+      "spans": [
+        {
+          "start": 1668,
+          "end": 1695
+        }
+      ]
+    },
+    {
+      "id": "T64",
+      "label": "Anatomic_location",
+      "start": 1703,
+      "end": 1715,
+      "text": "caudate head",
+      "spans": [
+        {
+          "start": 1703,
+          "end": 1715
+        }
+      ]
+    },
+    {
+      "id": "T66",
+      "label": "Anatomic_location",
+      "start": 1727,
+      "end": 1753,
+      "text": "periaqueductal gray matter",
+      "spans": [
+        {
+          "start": 1727,
+          "end": 1753
+        }
+      ]
+    },
+    {
+      "id": "T68",
+      "label": "Sequences",
+      "start": 1763,
+      "end": 1768,
+      "text": "FLAIR",
+      "spans": [
+        {
+          "start": 1763,
+          "end": 1768
+        }
+      ]
+    },
+    {
+      "id": "T70",
+      "label": "Anatomic_location",
+      "start": 1847,
+      "end": 1855,
+      "text": "pulvinar",
+      "spans": [
+        {
+          "start": 1847,
+          "end": 1855
+        }
+      ]
+    },
+    {
+      "id": "T71",
+      "label": "Findings",
+      "start": 1847,
+      "end": 1860,
+      "text": "pulvinar sign",
+      "spans": [
+        {
+          "start": 1847,
+          "end": 1860
+        }
+      ]
+    },
+    {
+      "id": "T72",
+      "label": "Test_name",
+      "start": 1864,
+      "end": 1873,
+      "text": "MR images",
+      "spans": [
+        {
+          "start": 1864,
+          "end": 1873
+        }
+      ]
+    },
+    {
+      "id": "T73",
+      "label": "Acquired_Prion",
+      "start": 1915,
+      "end": 1919,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1915,
+          "end": 1919
+        }
+      ]
+    },
+    {
+      "id": "T74",
+      "label": "Sequences",
+      "start": 1921,
+      "end": 1926,
+      "text": "FLAIR",
+      "spans": [
+        {
+          "start": 1921,
+          "end": 1926
+        }
+      ]
+    },
+    {
+      "id": "T78",
+      "label": "Test_name",
+      "start": 1985,
+      "end": 1994,
+      "text": "MR images",
+      "spans": [
+        {
+          "start": 1985,
+          "end": 1994
+        }
+      ]
+    }
+  ]
+}

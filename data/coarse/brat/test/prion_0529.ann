@@ -1,0 +1,16 @@
+T1	Test_name 22 41	computed tomography
+T2	Test_name 43 45	CT
+T3	Test_name 83 115	electroencephalographic findings
+T4	Generic_Prion 150 175	Creutzfeldt-Jakob disease
+T5	Test_name 216 230	histologically
+T6	Test_name 237 239	CT
+T17	Anatomic_location 254 259	brain
+T7	Findings 260 267	atrophy
+T9	Time 280 300	early clinical stage
+T8	Symptom 344 359	akinetic mutism
+T11	Symptom 468 477	myoclonus
+T18	Anatomic_location 496 501	brain
+T12	Findings 502 509	atrophy
+T14	Symptom 551 560	myoclonus
+T13	Time 592 606	8 to 15 months
+T15	Time 607 622	after the onset

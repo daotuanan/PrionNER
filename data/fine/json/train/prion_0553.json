@@ -1,0 +1,162 @@
+{
+  "doc_id": "prion_0553",
+  "text": "The spongiform encephalopathies encompass several diseases affecting humans and animals.\nIn the United States, the most common of these disorders in humans is Creutzfeldt-Jakob disease.\nThe most frequent manifestations include dementia, pyramidal tract signs, and extrapyramidal movement disorder.\nSeveral clinically distinct syndromes can be identified.\nOften the diagnosis is confused with other forms of dementia, and the only definitive method for establishing the diagnosis is autopsy evaluation of brain tissue.\nUnfortunately, since the recognition of the infectious etiology of Creutzfeldt-Jakob disease, fear has often unreasonably interfered with clinical care and autopsy evaluation of affected patients.\nIn actuality, because of the low and restricted infectivity of the responsible agent, affected individuals present minimal risks to clinical caretakers, and handling of patient specimens is not dangerous if appropriate precautions are taken.\nThese precautions are well established, and physicians and other health care workers should not refuse care of appropriate evaluation (including autopsy) to individuals with suspected Creutzfeldt-Jakob disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 4,
+      "end": 31,
+      "text": "spongiform encephalopathies",
+      "spans": [
+        {
+          "start": 4,
+          "end": 31
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 159,
+      "end": 184,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 159,
+          "end": 184
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 227,
+      "end": 235,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 227,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 237,
+      "end": 258,
+      "text": "pyramidal tract signs",
+      "spans": [
+        {
+          "start": 237,
+          "end": 258
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 264,
+      "end": 296,
+      "text": "extrapyramidal movement disorder",
+      "spans": [
+        {
+          "start": 264,
+          "end": 296
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 407,
+      "end": 415,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 407,
+          "end": 415
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Autopsy",
+      "start": 482,
+      "end": 489,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 482,
+          "end": 489
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 504,
+      "end": 509,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 504,
+          "end": 509
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 585,
+      "end": 610,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 585,
+          "end": 610
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Autopsy",
+      "start": 674,
+      "end": 681,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 674,
+          "end": 681
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Autopsy",
+      "start": 1102,
+      "end": 1109,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 1102,
+          "end": 1109
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 1141,
+      "end": 1166,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 1141,
+          "end": 1166
+        }
+      ]
+    }
+  ]
+}

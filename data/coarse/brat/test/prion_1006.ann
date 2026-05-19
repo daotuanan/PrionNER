@@ -1,0 +1,22 @@
+T1	Age 10 18	50 years
+T2	Sporadic_Prion 37 71	sporadic Creutzfeldt Jakob Disease
+T3	Sporadic_Prion 73 77	sCJD
+T4	Symptom 104 112	dementia
+T5	Symptom 114 139	behavioural abnormalities
+T6	Symptom 141 154	unsteady gait
+T7	Symptom 159 174	myoclonic jerks
+T8	Test_name 176 202	Magnetic resonance imaging
+T9	Test_name 204 207	MRI
+T23	Anatomic_location 209 214	brain
+T10	Sequences 215 226	T2 weighted
+T17	Sequences 231 264	Fluid Attenuated Inverse Recovery
+T11	Sequences 266 271	FLAIR
+T12	Findings 298 324	increased signal intensity
+T13	Anatomic_location 328 343	caudate nucleus
+T14	Anatomic_location 348 355	putamen
+T15	Test_name 363 383	electroencephalogram
+T16	Test_name 385 388	EEG
+T18	Test_name 503 506	MRI
+T24	Anatomic_location 507 512	brain
+T19	Test_name 517 520	EEG
+T20	Sporadic_Prion 543 555	sporadic CJD

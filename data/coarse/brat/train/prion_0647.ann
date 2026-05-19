@@ -1,0 +1,17 @@
+T1	Generic_Prion 32 57	Creutzfeldt Jakob disease
+T2	Age 63 74	48 year old
+T3	Age 87 98	60 year old
+T13	Differential_Diagnosis 109 127	demential disorder
+T4	Symptom 222 242	progressive dementia
+T5	Symptom 244 253	myoclonus
+T6	Symptom 258 266	seizures
+T7	Symptom 302 329	progressive deteriorization
+T8	Complication 355 360	death
+T14	Test_name 362 379	Neuropathological
+T9	Findings 398 411	neuronal loss
+T15	Findings 413 425	astrocytosis
+T16	Findings 430 452	neuropil vacuolization
+T10	Anatomic_location 456 470	cortical areas
+T11	Anatomic_location 478 483	brain
+T17	Differential_Diagnosis 629 650	neurological disorder
+T18	Differential_Diagnosis 801 830	different demential processes

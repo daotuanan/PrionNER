@@ -1,0 +1,203 @@
+{
+  "doc_id": "prion_0779",
+  "text": "Creutzfeldt-Jakob disease (CJD) can be transmitted through human growth hormone or gonadotrophin administration, dura mater or cornea transplantation, depth EEG monitoring and the use of contaminated neurosurgical instruments.\nWe describe the first two dura mater associated CJD cases in the Netherlands.\nTen and fourteen years before the onset of symptoms both patients received a Lyodura implantation.\nFindings are discussed in light of the growing epidemic of CJD among dura mater recipients.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Treatment",
+      "start": 59,
+      "end": 111,
+      "text": "human growth hormone gonadotrophin administration",
+      "spans": [
+        {
+          "start": 59,
+          "end": 79
+        },
+        {
+          "start": 83,
+          "end": 111
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T3",
+      "label": "Anatomic_location",
+      "start": 113,
+      "end": 123,
+      "text": "dura mater",
+      "spans": [
+        {
+          "start": 113,
+          "end": 123
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Treatment",
+      "start": 113,
+      "end": 149,
+      "text": "dura mater transplantation",
+      "spans": [
+        {
+          "start": 113,
+          "end": 123
+        },
+        {
+          "start": 134,
+          "end": 149
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 127,
+      "end": 133,
+      "text": "cornea",
+      "spans": [
+        {
+          "start": 127,
+          "end": 133
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Treatment",
+      "start": 127,
+      "end": 149,
+      "text": "cornea transplantation",
+      "spans": [
+        {
+          "start": 127,
+          "end": 133
+        },
+        {
+          "start": 134,
+          "end": 149
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T15",
+      "label": "Electrophysio_test",
+      "start": 157,
+      "end": 160,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 157,
+          "end": 160
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 253,
+      "end": 263,
+      "text": "dura mater",
+      "spans": [
+        {
+          "start": 253,
+          "end": 263
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "iCJD",
+      "start": 253,
+      "end": 278,
+      "text": "dura mater associated CJD",
+      "spans": [
+        {
+          "start": 253,
+          "end": 278
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Duration",
+      "start": 305,
+      "end": 356,
+      "text": "Ten and fourteen years before the onset of symptoms",
+      "spans": [
+        {
+          "start": 305,
+          "end": 356
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Treatment",
+      "start": 382,
+      "end": 402,
+      "text": "Lyodura implantation",
+      "spans": [
+        {
+          "start": 382,
+          "end": 402
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 463,
+      "end": 466,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 463,
+          "end": 466
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 473,
+      "end": 483,
+      "text": "dura mater",
+      "spans": [
+        {
+          "start": 473,
+          "end": 483
+        }
+      ]
+    }
+  ]
+}

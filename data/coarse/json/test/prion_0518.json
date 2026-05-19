@@ -1,0 +1,172 @@
+{
+  "doc_id": "prion_0518",
+  "text": "The clinical progression of Gerstmann-Sträussler-Scheinker disease in a family of Alsatian origin is reported.\nThe age of onset and the duration of evolution were variable.\nThe clinical picture became more complex over the generations: in the first generations, isolated dementia and in later generations a triad of pyramidal, pseudobulbar syndromes and dementia associated with spinal cord and cerebellar features.\nPrion gene analysis showed that four surviving patients carry double missense changes at codons 117 and 129, identical to those found in one case at necropsy and 10 other healthy members of the family.\nThe missense changes were not found in 100 controls.\nNo member of the family had modification of condons 102, 178, or 200.\nThe lod score suggests linkage between the missense change at codon 117 and Gerstmann-Sträussler-Scheinker disease in this family.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Familial_Prion",
+      "start": 28,
+      "end": 66,
+      "text": "Gerstmann-Sträussler-Scheinker disease",
+      "spans": [
+        {
+          "start": 28,
+          "end": 66
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 271,
+      "end": 279,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 271,
+          "end": 279
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 316,
+      "end": 349,
+      "text": "pyramidal syndromes",
+      "spans": [
+        {
+          "start": 316,
+          "end": 325
+        },
+        {
+          "start": 340,
+          "end": 349
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 327,
+      "end": 349,
+      "text": "pseudobulbar syndromes",
+      "spans": [
+        {
+          "start": 327,
+          "end": 349
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 354,
+      "end": 362,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 354,
+          "end": 362
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 379,
+      "end": 390,
+      "text": "spinal cord",
+      "spans": [
+        {
+          "start": 379,
+          "end": 390
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 379,
+      "end": 414,
+      "text": "spinal cord features",
+      "spans": [
+        {
+          "start": 379,
+          "end": 390
+        },
+        {
+          "start": 406,
+          "end": 414
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 395,
+      "end": 405,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 395,
+          "end": 405
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 395,
+      "end": 414,
+      "text": "cerebellar features",
+      "spans": [
+        {
+          "start": 395,
+          "end": 414
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 416,
+      "end": 435,
+      "text": "Prion gene analysis",
+      "spans": [
+        {
+          "start": 416,
+          "end": 435
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 565,
+      "end": 573,
+      "text": "necropsy",
+      "spans": [
+        {
+          "start": 565,
+          "end": 573
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Familial_Prion",
+      "start": 817,
+      "end": 855,
+      "text": "Gerstmann-Sträussler-Scheinker disease",
+      "spans": [
+        {
+          "start": 817,
+          "end": 855
+        }
+      ]
+    }
+  ]
+}

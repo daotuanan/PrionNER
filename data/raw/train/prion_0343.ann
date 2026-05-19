@@ -1,0 +1,15 @@
+T1	Choose_Related 1270 1273	YES
+T2	vCJD 54 87	variant Creutzfeldt-Jakob disease
+T4	Differential_Diagnosis 129 145	Alpers' syndrome
+T5	Anatomic_location 183 188	brain
+T6	Symptom 326 352	neurological deterioration
+T7	vCJD 413 417	vCJD
+T11	Duration 903 923	5 years and 8 months
+T13	Time_point 1083 1118	at the time of initial notification
+T14	vCJD 1204 1208	vCJD
+T3	vCJD 89 93	vCJD
+T15	Symptom 309 321;339 352	intellectual deterioration
+T10	Differential_Diagnosis 987 1003	Alpers' syndrome
+T18	Differential_Diagnosis 1155 1171	Alpers' syndrome
+T19	Differential_Diagnosis 1241 1257	Alpers' syndrome
+T20	Choose_Done 1281 1285	DONE

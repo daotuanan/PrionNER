@@ -1,0 +1,7 @@
+T1	Generic_Prion 0 14	Prion diseases
+T3	Generic_Prion 110 124	prion diseases
+T4	Generic_Prion 126 151	Creutzfeldt-Jakob disease
+T5	Familial_Prion 153 192	Gerstmann-Straussler-Scheinker syndrome
+T6	Generic_Prion 194 208	fatal insomnia
+T7	Acquired_Prion 213 217	Kuru
+T9	Generic_Prion 422 436	prion diseases

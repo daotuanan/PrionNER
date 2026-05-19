@@ -1,0 +1,149 @@
+{
+  "doc_id": "prion_0587",
+  "text": "This is a report of a Chinese male, aged 67, who had been ill for 6 months and who was admitted with left hemiparesis and dementia.\nThe diagnosis of Creutzfeldt-Jakob disease (CJD) was confirmed by serial electroencephalographic (EEG), computed tomographic (CT) and neuropathological studies.\nThis is the first formal report of CJD occurring in Hong Kong.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 36,
+      "end": 43,
+      "text": "aged 67",
+      "spans": [
+        {
+          "start": 36,
+          "end": 43
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Time",
+      "start": 66,
+      "end": 74,
+      "text": "6 months",
+      "spans": [
+        {
+          "start": 66,
+          "end": 74
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 101,
+      "end": 117,
+      "text": "left hemiparesis",
+      "spans": [
+        {
+          "start": 101,
+          "end": 117
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 122,
+      "end": 130,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 122,
+          "end": 130
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 149,
+      "end": 174,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 149,
+          "end": 174
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 176,
+      "end": 179,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 176,
+          "end": 179
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 205,
+      "end": 228,
+      "text": "electroencephalographic",
+      "spans": [
+        {
+          "start": 205,
+          "end": 228
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 230,
+      "end": 233,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 230,
+          "end": 233
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 236,
+      "end": 261,
+      "text": "computed tomographic (CT)",
+      "spans": [
+        {
+          "start": 236,
+          "end": 261
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 266,
+      "end": 291,
+      "text": "neuropathological studies",
+      "spans": [
+        {
+          "start": 266,
+          "end": 291
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 328,
+      "end": 331,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 328,
+          "end": 331
+        }
+      ]
+    }
+  ]
+}

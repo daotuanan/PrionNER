@@ -1,0 +1,19 @@
+T2	Generic_Prion 10 24	prion diseases
+T3	Generic_Prion 26 51	Creutzfeldt-Jakob disease
+T4	Familial_Prion 53 93	Gerstmann-Strøaussler-Scheinker syndrome
+T5	Acquired_Prion 98 102	kuru
+T7	Symptom 216 235	cerebellar symptoms
+T1	Symptom 246 252	ataxia
+T9	Symptom 257 263	tremor
+T8	Complication 278 283	death
+T10	Time 291 299	one year
+T6	Time 291 311	one year after onset
+T12	Generic_Prion 402 434	bovine spongiform encephalopathy
+T13	Generic_Prion 446 461	mad cow disease
+T15	Findings 561 571	spongiosis
+T16	Findings 573 585	astrocytosis
+T17	Findings 590 614	amyloid plaque formation
+T19	Generic_Prion 842 845	CJD
+T18	Familial_Prion 877 886	inherited
+T21	Sporadic_Prion 888 896	sporadic
+T22	Acquired_Prion 901 909	acquired

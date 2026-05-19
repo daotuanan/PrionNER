@@ -1,0 +1,175 @@
+{
+  "doc_id": "prion_0927",
+  "text": "Creutzfeldt-Jakob disease (CJD) is the most common form of the human transmissible spongiform encephalopathies, also known as prion diseases.\nThis is a rare neurological disorder which ultimately results in death.\nTechnologists must familiarize themselves with the clinical symptoms and EEG patterns of this disease since appropriate precautions must be taken.\nThis is especially important when running electroneurodiagnostic (END) studies on patients with rapidly progressive dementia or a suspected or known case of CJD.\nAn overview of the various forms of CJD, clinical symptoms, characteristic EEG results, transmission modes, diagnostic tests, and prevention methods are addressed.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 69,
+      "end": 110,
+      "text": "transmissible spongiform encephalopathies",
+      "spans": [
+        {
+          "start": 69,
+          "end": 110
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 126,
+      "end": 140,
+      "text": "prion diseases",
+      "spans": [
+        {
+          "start": 126,
+          "end": 140
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Differential_Diagnosis",
+      "start": 157,
+      "end": 178,
+      "text": "neurological disorder",
+      "spans": [
+        {
+          "start": 157,
+          "end": 178
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Complication",
+      "start": 207,
+      "end": 212,
+      "text": "death",
+      "spans": [
+        {
+          "start": 207,
+          "end": 212
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 287,
+      "end": 290,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 287,
+          "end": 290
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Test_name",
+      "start": 403,
+      "end": 425,
+      "text": "electroneurodiagnostic",
+      "spans": [
+        {
+          "start": 403,
+          "end": 425
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 427,
+      "end": 430,
+      "text": "END",
+      "spans": [
+        {
+          "start": 427,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 477,
+      "end": 485,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 477,
+          "end": 485
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 518,
+      "end": 521,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 518,
+          "end": 521
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 559,
+      "end": 562,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 559,
+          "end": 562
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Test_name",
+      "start": 598,
+      "end": 601,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 598,
+          "end": 601
+        }
+      ]
+    }
+  ]
+}

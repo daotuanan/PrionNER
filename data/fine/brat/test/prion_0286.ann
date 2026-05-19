@@ -1,0 +1,23 @@
+T1	Anatomic_location 247 257	cerebellar
+T2	GSS 294 332	Gerstmann-Sträussler-Scheinker disease
+T3	sCJD 334 368	sporadic Creutzfeldt-Jacob disease
+T4	Generic_Prion 370 373	CJD
+T5	vCJD 398 409	variant CJD
+T7	vCJD 411 415	vCJD
+T9	Differential_Diagnosis 664 683	Alzheimer's disease
+T10	Imaging_test 698 726	positron emission tomography
+T11	vCJD 830 834	vCJD
+T13	vCJD 899 903	vCJD
+T18	Kuru 380 384	kuru
+T6	Imaging_sequence 144 149	FDDNP
+T8	Autopsy_finding 380 392	kuru plaques
+T12	Imaging_sequence 418 423	FDDNP
+T14	Imaging_sequence 547 552	FDDNP
+T17	Imaging_sequence 750 755	FDDNP
+T16	Imaging_sequence 32 67	fluorescent molecular-imaging probe
+T20	Imaging_finding 205 218	prion plaques
+T21	Imaging_finding 780 793	prion plaques
+T22	Imaging_finding 805 826	small cluster-plaques
+T23	Imaging_finding 598 612	senile plaques
+T24	Imaging_finding 617 640	neurofibrillary tangles
+T25	Anatomic_location 655 660	brain

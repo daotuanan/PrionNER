@@ -1,0 +1,123 @@
+{
+  "doc_id": "prion_0573",
+  "text": "A case of Creutzfeldt-Jakob disease (CJD) is reported in a 28-year-old woman who had received a cadaveric dural graft 19 months earlier after resection of a cholesteatoma.\nThe circumstances of the case point to the graft as the most likely source of the disease.\nCadaveric dura should be added to the list of materials that may transmit CJD, and it must be very carefully screened if it is used at all for grafting.\nAutologous tissue should be considered whenever possible.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 10,
+      "end": 35,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 10,
+          "end": 35
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 37,
+      "end": 40,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 37,
+          "end": 40
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 59,
+      "end": 70,
+      "text": "28-year-old",
+      "spans": [
+        {
+          "start": 59,
+          "end": 70
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Treatment",
+      "start": 85,
+      "end": 117,
+      "text": "received a cadaveric dural graft",
+      "spans": [
+        {
+          "start": 85,
+          "end": 117
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Duration",
+      "start": 118,
+      "end": 127,
+      "text": "19 months",
+      "spans": [
+        {
+          "start": 118,
+          "end": 127
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Time_point",
+      "start": 118,
+      "end": 135,
+      "text": "19 months earlier",
+      "spans": [
+        {
+          "start": 118,
+          "end": 135
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Differential_Diagnosis",
+      "start": 157,
+      "end": 170,
+      "text": "cholesteatoma",
+      "spans": [
+        {
+          "start": 157,
+          "end": 170
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Treatment",
+      "start": 263,
+      "end": 277,
+      "text": "Cadaveric dura",
+      "spans": [
+        {
+          "start": 263,
+          "end": 277
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 337,
+      "end": 340,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 337,
+          "end": 340
+        }
+      ]
+    }
+  ]
+}

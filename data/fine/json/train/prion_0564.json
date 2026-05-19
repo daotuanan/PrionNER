@@ -1,0 +1,705 @@
+{
+  "doc_id": "prion_0564",
+  "text": "We reported an autopsy case of panencephalopathic type of Creutzfeldt-Jakob disease (CJD), one of whose early clinical signs, visual loss, had been documented by magnetic resonance imaging (MRI).\nThe patient was a 59-year-old woman, who showed disturbance of visual acuity, memory and calculation at the early stage.\nAbout 2 months later she developed apallic syndrome and revealed myoclonic jerks in her eye balls, face, neck and extremities.\nElectroencephalography showed periodic synchronous discharge.\nThree months later after her first symptoms MR showed bilateral occipital atrophy, although we could find no brain atrophy on CT scan.\nShe died of the suffocation caused by bronchopneumonia at the age of 60 years.\nThe total duration of her illness was about 20 months.\nNeuropathological examination revealed a pronounced diffuse atrophy of the cerebral cortex and white matter.\nIn addition to severe cortical neuronal loss and astrocytosis, spongiform changes were evident.\nThe hippocampus was relatively well preserved.\nIn the cerebral white matter both myelin sheaths and axons disappeared almost completely.\nThe cerebellum showed the severe degeneration of granule cells.\nThese neuropathological findings are consistent with those of panencephalopathic type of CJD.\nIt is important to clarify the abnormalities of MR findings in relation to such early clinical signs of CJD.\nTo the best of our knowledge such reports as ours have not been published previously.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Autopsy",
+      "start": 15,
+      "end": 22,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 15,
+          "end": 22
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Anatomic_location",
+      "start": 31,
+      "end": 49,
+      "text": "panencephalopathic",
+      "spans": [
+        {
+          "start": 31,
+          "end": 49
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Autopsy_finding",
+      "start": 31,
+      "end": 54,
+      "text": "panencephalopathic type",
+      "spans": [
+        {
+          "start": 31,
+          "end": 54
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 58,
+      "end": 83,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 58,
+          "end": 83
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 85,
+      "end": 88,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 85,
+          "end": 88
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 126,
+      "end": 137,
+      "text": "visual loss",
+      "spans": [
+        {
+          "start": 126,
+          "end": 137
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Imaging_test",
+      "start": 162,
+      "end": 188,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 162,
+          "end": 188
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Imaging_test",
+      "start": 190,
+      "end": 192,
+      "text": "MR",
+      "spans": [
+        {
+          "start": 190,
+          "end": 192
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Age",
+      "start": 214,
+      "end": 225,
+      "text": "59-year-old",
+      "spans": [
+        {
+          "start": 214,
+          "end": 225
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 244,
+      "end": 272,
+      "text": "disturbance of visual acuity",
+      "spans": [
+        {
+          "start": 244,
+          "end": 272
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 244,
+      "end": 280,
+      "text": "disturbance of memory",
+      "spans": [
+        {
+          "start": 244,
+          "end": 258
+        },
+        {
+          "start": 274,
+          "end": 280
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 244,
+      "end": 296,
+      "text": "disturbance of calculation",
+      "spans": [
+        {
+          "start": 244,
+          "end": 258
+        },
+        {
+          "start": 285,
+          "end": 296
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T12",
+      "label": "Time_point",
+      "start": 297,
+      "end": 315,
+      "text": "at the early stage",
+      "spans": [
+        {
+          "start": 297,
+          "end": 315
+        }
+      ]
+    },
+    {
+      "id": "T55",
+      "label": "Duration",
+      "start": 323,
+      "end": 331,
+      "text": "2 months",
+      "spans": [
+        {
+          "start": 323,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Time_point",
+      "start": 323,
+      "end": 337,
+      "text": "2 months later",
+      "spans": [
+        {
+          "start": 323,
+          "end": 337
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 352,
+      "end": 368,
+      "text": "apallic syndrome",
+      "spans": [
+        {
+          "start": 352,
+          "end": 368
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 382,
+      "end": 397,
+      "text": "myoclonic jerks",
+      "spans": [
+        {
+          "start": 382,
+          "end": 397
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 405,
+      "end": 414,
+      "text": "eye balls",
+      "spans": [
+        {
+          "start": 405,
+          "end": 414
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 416,
+      "end": 420,
+      "text": "face",
+      "spans": [
+        {
+          "start": 416,
+          "end": 420
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 422,
+      "end": 426,
+      "text": "neck",
+      "spans": [
+        {
+          "start": 422,
+          "end": 426
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 431,
+      "end": 442,
+      "text": "extremities",
+      "spans": [
+        {
+          "start": 431,
+          "end": 442
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Electrophysio_test",
+      "start": 444,
+      "end": 466,
+      "text": "Electroencephalography",
+      "spans": [
+        {
+          "start": 444,
+          "end": 466
+        }
+      ]
+    },
+    {
+      "id": "T52",
+      "label": "Duration",
+      "start": 506,
+      "end": 518,
+      "text": "Three months",
+      "spans": [
+        {
+          "start": 506,
+          "end": 518
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Time_point",
+      "start": 506,
+      "end": 524,
+      "text": "Three months later",
+      "spans": [
+        {
+          "start": 506,
+          "end": 524
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Imaging_test",
+      "start": 550,
+      "end": 552,
+      "text": "MR",
+      "spans": [
+        {
+          "start": 550,
+          "end": 552
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 570,
+      "end": 579,
+      "text": "occipital",
+      "spans": [
+        {
+          "start": 570,
+          "end": 579
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Imaging_finding",
+      "start": 580,
+      "end": 587,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 580,
+          "end": 587
+        }
+      ]
+    },
+    {
+      "id": "T49",
+      "label": "Anatomic_location",
+      "start": 615,
+      "end": 620,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 615,
+          "end": 620
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Imaging_finding",
+      "start": 621,
+      "end": 628,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 621,
+          "end": 628
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Imaging_test",
+      "start": 632,
+      "end": 639,
+      "text": "CT scan",
+      "spans": [
+        {
+          "start": 632,
+          "end": 639
+        }
+      ]
+    },
+    {
+      "id": "T51",
+      "label": "Complication",
+      "start": 645,
+      "end": 649,
+      "text": "died",
+      "spans": [
+        {
+          "start": 645,
+          "end": 649
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Complication",
+      "start": 679,
+      "end": 695,
+      "text": "bronchopneumonia",
+      "spans": [
+        {
+          "start": 679,
+          "end": 695
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Age",
+      "start": 703,
+      "end": 718,
+      "text": "age of 60 years",
+      "spans": [
+        {
+          "start": 703,
+          "end": 718
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Duration",
+      "start": 758,
+      "end": 773,
+      "text": "about 20 months",
+      "spans": [
+        {
+          "start": 758,
+          "end": 773
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Autopsy",
+      "start": 775,
+      "end": 804,
+      "text": "Neuropathological examination",
+      "spans": [
+        {
+          "start": 775,
+          "end": 804
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Autopsy_finding",
+      "start": 835,
+      "end": 842,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 835,
+          "end": 842
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Anatomic_location",
+      "start": 850,
+      "end": 865,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 850,
+          "end": 865
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Anatomic_location",
+      "start": 870,
+      "end": 882,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 870,
+          "end": 882
+        }
+      ]
+    },
+    {
+      "id": "T50",
+      "label": "Anatomic_location",
+      "start": 906,
+      "end": 914,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 906,
+          "end": 914
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Autopsy_finding",
+      "start": 915,
+      "end": 928,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 915,
+          "end": 928
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Autopsy_finding",
+      "start": 933,
+      "end": 945,
+      "text": "astrocytosis",
+      "spans": [
+        {
+          "start": 933,
+          "end": 945
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Autopsy_finding",
+      "start": 947,
+      "end": 965,
+      "text": "spongiform changes",
+      "spans": [
+        {
+          "start": 947,
+          "end": 965
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Anatomic_location",
+      "start": 984,
+      "end": 995,
+      "text": "hippocampus",
+      "spans": [
+        {
+          "start": 984,
+          "end": 995
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Anatomic_location",
+      "start": 1034,
+      "end": 1055,
+      "text": "cerebral white matter",
+      "spans": [
+        {
+          "start": 1034,
+          "end": 1055
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Anatomic_location",
+      "start": 1061,
+      "end": 1075,
+      "text": "myelin sheaths",
+      "spans": [
+        {
+          "start": 1061,
+          "end": 1075
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Anatomic_location",
+      "start": 1080,
+      "end": 1085,
+      "text": "axons",
+      "spans": [
+        {
+          "start": 1080,
+          "end": 1085
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Anatomic_location",
+      "start": 1121,
+      "end": 1131,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 1121,
+          "end": 1131
+        }
+      ]
+    },
+    {
+      "id": "T53",
+      "label": "Autopsy",
+      "start": 1187,
+      "end": 1204,
+      "text": "neuropathological",
+      "spans": [
+        {
+          "start": 1187,
+          "end": 1204
+        }
+      ]
+    },
+    {
+      "id": "T54",
+      "label": "Anatomic_location",
+      "start": 1243,
+      "end": 1261,
+      "text": "panencephalopathic",
+      "spans": [
+        {
+          "start": 1243,
+          "end": 1261
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Autopsy_finding",
+      "start": 1243,
+      "end": 1266,
+      "text": "panencephalopathic type",
+      "spans": [
+        {
+          "start": 1243,
+          "end": 1266
+        }
+      ]
+    },
+    {
+      "id": "T45",
+      "label": "Generic_Prion",
+      "start": 1270,
+      "end": 1273,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1270,
+          "end": 1273
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Imaging_test",
+      "start": 1323,
+      "end": 1325,
+      "text": "MR",
+      "spans": [
+        {
+          "start": 1323,
+          "end": 1325
+        }
+      ]
+    },
+    {
+      "id": "T47",
+      "label": "Generic_Prion",
+      "start": 1379,
+      "end": 1382,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1379,
+          "end": 1382
+        }
+      ]
+    }
+  ]
+}

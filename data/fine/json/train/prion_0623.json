@@ -1,0 +1,279 @@
+{
+  "doc_id": "prion_0623",
+  "text": "Creutzfield-Jakob Disease is a kind of fatal progressive dementia in adults with cerebellar, extrapyramidal and corticospinal signs leading via decerebration to death within an average period of 7 months.\nEEG and biopsy of the brain are the only diagnostic means of significant importance.\nNeuropathologically, there are spongiform changes with loss of neurons and gliosis.\nThe epidemiological conditions are complicated and indicate that certain families and population groups are preferred.\nTogether with kuru and two veterinary diseases, namely, scrapie and transmissible mink encephalopathy, Creutzfeld-Jakob disease forms a group of subacute spongiform encephalopathies.\nThe diseases in this group are infectious diseases without inflammatory reaction, which are caused by a \"slow virus\" with unconventional properties.\nThe successful transmission of this disease to laboratory animals has contributed towards an understanding of these aetiological and pathogenetic correlations and has also opened up new diagnostic perspectives.\nHowever, the natural mode of transmission of Creutzfeld-Jakob disease remains largely unknown.\nSince it has been established that some cases were definitely iatrogenic, importance is attached to measures which must be taken when treating suspicious demented patients.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfield-Jakob Disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 39,
+      "end": 65,
+      "text": "fatal progressive dementia",
+      "spans": [
+        {
+          "start": 39,
+          "end": 65
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 81,
+      "end": 131,
+      "text": "cerebellar, extrapyramidal and corticospinal signs",
+      "spans": [
+        {
+          "start": 81,
+          "end": 131
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 144,
+      "end": 157,
+      "text": "decerebration",
+      "spans": [
+        {
+          "start": 144,
+          "end": 157
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Complication",
+      "start": 161,
+      "end": 166,
+      "text": "death",
+      "spans": [
+        {
+          "start": 161,
+          "end": 166
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Duration",
+      "start": 195,
+      "end": 203,
+      "text": "7 months",
+      "spans": [
+        {
+          "start": 195,
+          "end": 203
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Electrophysio_test",
+      "start": 205,
+      "end": 208,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 205,
+          "end": 208
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy",
+      "start": 213,
+      "end": 219,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 213,
+          "end": 219
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 227,
+      "end": 232,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 227,
+          "end": 232
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Autopsy",
+      "start": 290,
+      "end": 309,
+      "text": "Neuropathologically",
+      "spans": [
+        {
+          "start": 290,
+          "end": 309
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Autopsy_finding",
+      "start": 321,
+      "end": 339,
+      "text": "spongiform changes",
+      "spans": [
+        {
+          "start": 321,
+          "end": 339
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Autopsy_finding",
+      "start": 345,
+      "end": 360,
+      "text": "loss of neurons",
+      "spans": [
+        {
+          "start": 345,
+          "end": 360
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Autopsy_finding",
+      "start": 365,
+      "end": 372,
+      "text": "gliosis",
+      "spans": [
+        {
+          "start": 365,
+          "end": 372
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Kuru",
+      "start": 507,
+      "end": 511,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 507,
+          "end": 511
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Generic_Prion",
+      "start": 549,
+      "end": 556,
+      "text": "scrapie",
+      "spans": [
+        {
+          "start": 549,
+          "end": 556
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Generic_Prion",
+      "start": 561,
+      "end": 594,
+      "text": "transmissible mink encephalopathy",
+      "spans": [
+        {
+          "start": 561,
+          "end": 594
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 596,
+      "end": 620,
+      "text": "Creutzfeld-Jakob disease",
+      "spans": [
+        {
+          "start": 596,
+          "end": 620
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Generic_Prion",
+      "start": 638,
+      "end": 674,
+      "text": "subacute spongiform encephalopathies",
+      "spans": [
+        {
+          "start": 638,
+          "end": 674
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Generic_Prion",
+      "start": 1081,
+      "end": 1105,
+      "text": "Creutzfeld-Jakob disease",
+      "spans": [
+        {
+          "start": 1081,
+          "end": 1105
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "iCJD",
+      "start": 1193,
+      "end": 1203,
+      "text": "iatrogenic",
+      "spans": [
+        {
+          "start": 1193,
+          "end": 1203
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Symptom",
+      "start": 1285,
+      "end": 1293,
+      "text": "demented",
+      "spans": [
+        {
+          "start": 1285,
+          "end": 1293
+        }
+      ]
+    }
+  ]
+}

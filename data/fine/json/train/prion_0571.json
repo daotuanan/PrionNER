@@ -1,0 +1,396 @@
+{
+  "doc_id": "prion_0571",
+  "text": "We report three patients with both spongiform encephalopathy and cerebellar amyloid plaques; one showed kuru-like plaques and was diagnosed as having Creutzfeldt-Jakob disease (CJD), and two had multicentric plaques and were diagnosed as having Gerstmann-Sträussler-Scheinker disease (GSSD).\nEvaluation of these cases and review of others previously reported suggests a clinicopathologic correlation between type of cerebellar plaque and neurologic clinical course.\nCJD patients who showed kuru-like plaques generally had disease with early onset (average age, 49.1 years) and long duration (average, 34 months), as compared with CJD patients without kuru-like plaques.\nGSSD patients usually had multicentric cerebellar plaques, and cases were usually familial, had early age of onset (average, 42.7 years), and were of long duration (average, 73 months).\nMyoclonus was infrequent in GSSD patients and pathologically spongiform change was minimal; spinal tract degeneration was common.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 35,
+      "end": 60,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 35,
+          "end": 60
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Anatomic_location",
+      "start": 65,
+      "end": 75,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 65,
+          "end": 75
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Autopsy_finding",
+      "start": 65,
+      "end": 91,
+      "text": "cerebellar amyloid plaques",
+      "spans": [
+        {
+          "start": 65,
+          "end": 91
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Autopsy_finding",
+      "start": 104,
+      "end": 121,
+      "text": "kuru-like plaques",
+      "spans": [
+        {
+          "start": 104,
+          "end": 121
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 150,
+      "end": 175,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 150,
+          "end": 175
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 177,
+      "end": 180,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 177,
+          "end": 180
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Autopsy_finding",
+      "start": 195,
+      "end": 215,
+      "text": "multicentric plaques",
+      "spans": [
+        {
+          "start": 195,
+          "end": 215
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "GSS",
+      "start": 245,
+      "end": 283,
+      "text": "Gerstmann-Sträussler-Scheinker disease",
+      "spans": [
+        {
+          "start": 245,
+          "end": 283
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "GSS",
+      "start": 285,
+      "end": 289,
+      "text": "GSSD",
+      "spans": [
+        {
+          "start": 285,
+          "end": 289
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 416,
+      "end": 426,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 416,
+          "end": 426
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy_finding",
+      "start": 416,
+      "end": 433,
+      "text": "cerebellar plaque",
+      "spans": [
+        {
+          "start": 416,
+          "end": 433
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 466,
+      "end": 469,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 466,
+          "end": 469
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Autopsy_finding",
+      "start": 490,
+      "end": 507,
+      "text": "kuru-like plaques",
+      "spans": [
+        {
+          "start": 490,
+          "end": 507
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Time_point",
+      "start": 535,
+      "end": 546,
+      "text": "early onset",
+      "spans": [
+        {
+          "start": 535,
+          "end": 546
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Age",
+      "start": 556,
+      "end": 571,
+      "text": "age, 49.1 years",
+      "spans": [
+        {
+          "start": 556,
+          "end": 571
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Duration",
+      "start": 577,
+      "end": 590,
+      "text": "long duration",
+      "spans": [
+        {
+          "start": 577,
+          "end": 590
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Duration",
+      "start": 601,
+      "end": 610,
+      "text": "34 months",
+      "spans": [
+        {
+          "start": 601,
+          "end": 610
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Generic_Prion",
+      "start": 630,
+      "end": 633,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 630,
+          "end": 633
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Autopsy_finding",
+      "start": 651,
+      "end": 668,
+      "text": "kuru-like plaques",
+      "spans": [
+        {
+          "start": 651,
+          "end": 668
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "GSS",
+      "start": 670,
+      "end": 674,
+      "text": "GSSD",
+      "spans": [
+        {
+          "start": 670,
+          "end": 674
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Autopsy_finding",
+      "start": 696,
+      "end": 727,
+      "text": "multicentric cerebellar plaques",
+      "spans": [
+        {
+          "start": 696,
+          "end": 727
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 709,
+      "end": 719,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 709,
+          "end": 719
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Time_point",
+      "start": 766,
+      "end": 784,
+      "text": "early age of onset",
+      "spans": [
+        {
+          "start": 766,
+          "end": 784
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Age",
+      "start": 795,
+      "end": 805,
+      "text": "42.7 years",
+      "spans": [
+        {
+          "start": 795,
+          "end": 805
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Duration",
+      "start": 820,
+      "end": 833,
+      "text": "long duration",
+      "spans": [
+        {
+          "start": 820,
+          "end": 833
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Duration",
+      "start": 844,
+      "end": 853,
+      "text": "73 months",
+      "spans": [
+        {
+          "start": 844,
+          "end": 853
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Symptom",
+      "start": 856,
+      "end": 865,
+      "text": "Myoclonus",
+      "spans": [
+        {
+          "start": 856,
+          "end": 865
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "GSS",
+      "start": 884,
+      "end": 888,
+      "text": "GSSD",
+      "spans": [
+        {
+          "start": 884,
+          "end": 888
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Autopsy_finding",
+      "start": 917,
+      "end": 934,
+      "text": "spongiform change",
+      "spans": [
+        {
+          "start": 917,
+          "end": 934
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Complication",
+      "start": 948,
+      "end": 973,
+      "text": "spinal tract degeneration",
+      "spans": [
+        {
+          "start": 948,
+          "end": 973
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "doc_id": "prion_0569",
+  "text": "A family cluster of the ataxic form of Creutzfeldt-Jakob disease with one probable and two autopsy proven cases that occurred in a single generation between 1974 and 1982 is reported.\nThe clinical characteristics of the cases are closely similar to those of kuru patients, with a fair correlation between the prominent truncal ataxia and the intense devastation of the cerebellar cortex most marked in the vermis.\nPathologically, the marked hippocampal involvement rarely seen in typical transmissible Creutzfeldt-Jakob disease and the finding of Hirano bodies in the Ammon's horn without specific Alzheimer's senile changes are noteworthy features.",
+  "entities": [
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 24,
+      "end": 35,
+      "text": "ataxic form",
+      "spans": [
+        {
+          "start": 24,
+          "end": 35
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 39,
+      "end": 64,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 39,
+          "end": 64
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Test_name",
+      "start": 91,
+      "end": 98,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 91,
+          "end": 98
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Time",
+      "start": 149,
+      "end": 170,
+      "text": "between 1974 and 1982",
+      "spans": [
+        {
+          "start": 149,
+          "end": 170
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Acquired_Prion",
+      "start": 258,
+      "end": 262,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 258,
+          "end": 262
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 319,
+      "end": 333,
+      "text": "truncal ataxia",
+      "spans": [
+        {
+          "start": 319,
+          "end": 333
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Findings",
+      "start": 350,
+      "end": 361,
+      "text": "devastation",
+      "spans": [
+        {
+          "start": 350,
+          "end": 361
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 369,
+      "end": 386,
+      "text": "cerebellar cortex",
+      "spans": [
+        {
+          "start": 369,
+          "end": 386
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 406,
+      "end": 412,
+      "text": "vermis",
+      "spans": [
+        {
+          "start": 406,
+          "end": 412
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Test_name",
+      "start": 414,
+      "end": 428,
+      "text": "Pathologically",
+      "spans": [
+        {
+          "start": 414,
+          "end": 428
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 441,
+      "end": 452,
+      "text": "hippocampal",
+      "spans": [
+        {
+          "start": 441,
+          "end": 452
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Findings",
+      "start": 441,
+      "end": 464,
+      "text": "hippocampal involvement",
+      "spans": [
+        {
+          "start": 441,
+          "end": 464
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 502,
+      "end": 527,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 502,
+          "end": 527
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 568,
+      "end": 580,
+      "text": "Ammon's horn",
+      "spans": [
+        {
+          "start": 568,
+          "end": 580
+        }
+      ]
+    }
+  ]
+}

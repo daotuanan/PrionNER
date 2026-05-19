@@ -1,0 +1,110 @@
+{
+  "doc_id": "prion_0604",
+  "text": "Three cases of Creutzfeldt-Jakob disease occurring in one family have been clinicopathologically examined.\nAlthough the age at onset, duration, and age at death differed for each case, pathological findings, including diffuse neuronal loss, astrocytosis, spongiform changes and patchy and/or diffuse white matter involvement were similar.\nLife histories and inheritance patterns of the present 3 cases and 2 other families previously reported in Japan are compared with the general findings for familial cases in western countries.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 15,
+      "end": 40,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 15,
+          "end": 40
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Complication",
+      "start": 155,
+      "end": 160,
+      "text": "death",
+      "spans": [
+        {
+          "start": 155,
+          "end": 160
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 185,
+      "end": 197,
+      "text": "pathological",
+      "spans": [
+        {
+          "start": 185,
+          "end": 197
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Findings",
+      "start": 185,
+      "end": 206,
+      "text": "pathological findings",
+      "spans": [
+        {
+          "start": 185,
+          "end": 206
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Findings",
+      "start": 226,
+      "end": 239,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 226,
+          "end": 239
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Findings",
+      "start": 241,
+      "end": 253,
+      "text": "astrocytosis",
+      "spans": [
+        {
+          "start": 241,
+          "end": 253
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Findings",
+      "start": 255,
+      "end": 273,
+      "text": "spongiform changes",
+      "spans": [
+        {
+          "start": 255,
+          "end": 273
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Findings",
+      "start": 300,
+      "end": 324,
+      "text": "white matter involvement",
+      "spans": [
+        {
+          "start": 300,
+          "end": 324
+        }
+      ]
+    }
+  ]
+}

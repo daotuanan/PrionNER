@@ -1,0 +1,188 @@
+{
+  "doc_id": "prion_0735",
+  "text": "Gerstmann-Sträussler-Scheinker disease is a rare familial form of prion disease.\nThis autosomal dominant disorder is constantly associated with a point mutation on the PrP gene.\nEight mutations affecting respectively codons 102, 105, 117, 145, 202, 212 and 218, have been so far described.\nSymptoms are variable and include ataxia and dementia.\nThey generally appear between the fourth and sixth decade.\nMean duration of the disease (5 years) is on the whole longer than that of other familial forms of prion diseases.\nGerstmann-Sträussler-Scheinker disease is neuropathologically characterized by the presence of numerous multicentric or unicentric PrP amyloid deposits widespread throughout the encephalon.\nSpongiform change is inconstant.\nNeurofibrillary tangles have been described in some families.\nClinicopathological features show considerable variability.\nPathogenesis of amyloidosis and associated lesions as well as factors underlying the phenotypic polymorphism of the disease remain only partially known.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Familial_Prion",
+      "start": 0,
+      "end": 38,
+      "text": "Gerstmann-Sträussler-Scheinker disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 38
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 66,
+      "end": 79,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 66,
+          "end": 79
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 324,
+      "end": 330,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 324,
+          "end": 330
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 335,
+      "end": 343,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 335,
+          "end": 343
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Age",
+      "start": 367,
+      "end": 402,
+      "text": "between the fourth and sixth decade",
+      "spans": [
+        {
+          "start": 367,
+          "end": 402
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Time",
+      "start": 434,
+      "end": 441,
+      "text": "5 years",
+      "spans": [
+        {
+          "start": 434,
+          "end": 441
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 485,
+      "end": 517,
+      "text": "familial forms of prion diseases",
+      "spans": [
+        {
+          "start": 485,
+          "end": 517
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Familial_Prion",
+      "start": 519,
+      "end": 557,
+      "text": "Gerstmann-Sträussler-Scheinker disease",
+      "spans": [
+        {
+          "start": 519,
+          "end": 557
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 561,
+      "end": 580,
+      "text": "neuropathologically",
+      "spans": [
+        {
+          "start": 561,
+          "end": 580
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 650,
+      "end": 670,
+      "text": "PrP amyloid deposits",
+      "spans": [
+        {
+          "start": 650,
+          "end": 670
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 697,
+      "end": 707,
+      "text": "encephalon",
+      "spans": [
+        {
+          "start": 697,
+          "end": 707
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Findings",
+      "start": 709,
+      "end": 726,
+      "text": "Spongiform change",
+      "spans": [
+        {
+          "start": 709,
+          "end": 726
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Findings",
+      "start": 742,
+      "end": 765,
+      "text": "Neurofibrillary tangles",
+      "spans": [
+        {
+          "start": 742,
+          "end": 765
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Differential_Diagnosis",
+      "start": 880,
+      "end": 891,
+      "text": "amyloidosis",
+      "spans": [
+        {
+          "start": 880,
+          "end": 891
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+1.
+Creutzfeldt-Jakob disease (CJD) is a progressive neurologic disease that occurs in approximately one in one million individuals annually.
+2.
+CJD affects late middle-aged and elderly individuals, with a peak occurrence between the ages of 55 and 75.
+3.
+The disease is thought to be caused by an unknown virus that enters the central nervous system, causing neuron destruction and replacing the destroyed neurons with plaques.
+4.
+There is no known cure or treatment for CJD, and the time span from onset of symptoms until death is 6 to 12 months.
+
+<Related> YES or NO
+[DONE]

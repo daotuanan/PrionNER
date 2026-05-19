@@ -1,0 +1,271 @@
+{
+  "doc_id": "prion_0004",
+  "text": "BACKGROUND: TSEs present diagnostic and infection control (IC) challenges.\nCreutzfeldt-Jakob Disease (CJD) is the most common human TSE, occurring in 1–2/million/year in the United States, but other zoonotic factors or transmissions remain incompletely understood.\nPrompted by the occurrence of four suspected cases from November 2017 to April 2018, we present a case series of suspected CJD to illustrate its variable presentation and the need for more rapid identification for implementation of disease-specific disinfection, sterilization, and quarantine measures.\nMETHODS: We defined a case as any patient with a rapidly progressive dementing or neurologic illness and laboratory tests for CJD.\nIC and laboratory databases, and electronic medical records were reviewed to identify possible cases from 2013 to 2018.\nRESULTS: Five patients met case definition.\nThe average time to suspecting and confirming a diagnosis was 5.2 and 14.2 days, respectively.\nCONCLUSION: Protean in presentation, the diagnosis of CJD can be delayed.\nVariant CJD and emerging zoonotic TSEs should be considered in differential diagnoses and IC measures.\nImproved empiric classification algorithms and tests with faster turnaround times are needed.\nDISCLOSURES: All authors: No reported disclosures.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 12,
+      "end": 16,
+      "text": "TSEs",
+      "spans": [
+        {
+          "start": 12,
+          "end": 16
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 75,
+      "end": 100,
+      "text": "Creutzfeldt-Jakob Disease",
+      "spans": [
+        {
+          "start": 75,
+          "end": 100
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 102,
+      "end": 105,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 102,
+          "end": 105
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 126,
+      "end": 135,
+      "text": "human TSE",
+      "spans": [
+        {
+          "start": 126,
+          "end": 135
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Stats",
+      "start": 150,
+      "end": 166,
+      "text": "1–2/million/year",
+      "spans": [
+        {
+          "start": 150,
+          "end": 166
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Time",
+      "start": 316,
+      "end": 348,
+      "text": "from November 2017 to April 2018",
+      "spans": [
+        {
+          "start": 316,
+          "end": 348
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Time",
+      "start": 321,
+      "end": 334,
+      "text": "November 2017",
+      "spans": [
+        {
+          "start": 321,
+          "end": 334
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Time",
+      "start": 338,
+      "end": 348,
+      "text": "April 2018",
+      "spans": [
+        {
+          "start": 338,
+          "end": 348
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 388,
+      "end": 391,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 388,
+          "end": 391
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 618,
+      "end": 646,
+      "text": "apidly progressive dementing",
+      "spans": [
+        {
+          "start": 618,
+          "end": 646
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 650,
+      "end": 668,
+      "text": "neurologic illness",
+      "spans": [
+        {
+          "start": 650,
+          "end": 668
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 694,
+      "end": 697,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 694,
+          "end": 697
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Time",
+      "start": 800,
+      "end": 817,
+      "text": "from 2013 to 2018",
+      "spans": [
+        {
+          "start": 800,
+          "end": 817
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Time",
+      "start": 805,
+      "end": 809,
+      "text": "2013",
+      "spans": [
+        {
+          "start": 805,
+          "end": 809
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Time",
+      "start": 813,
+      "end": 817,
+      "text": "2018",
+      "spans": [
+        {
+          "start": 813,
+          "end": 817
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Time",
+      "start": 925,
+      "end": 942,
+      "text": "5.2 days",
+      "spans": [
+        {
+          "start": 925,
+          "end": 928
+        },
+        {
+          "start": 938,
+          "end": 942
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T22",
+      "label": "Time",
+      "start": 933,
+      "end": 942,
+      "text": "14.2 days",
+      "spans": [
+        {
+          "start": 933,
+          "end": 942
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 1012,
+      "end": 1015,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1012,
+          "end": 1015
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Acquired_Prion",
+      "start": 1032,
+      "end": 1043,
+      "text": "Variant CJD",
+      "spans": [
+        {
+          "start": 1032,
+          "end": 1043
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 1040,
+      "end": 1043,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1040,
+          "end": 1043
+        }
+      ]
+    }
+  ]
+}

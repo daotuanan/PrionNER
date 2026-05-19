@@ -1,0 +1,17 @@
+BACKGROUND AND PURPOSE: Diffusion-weighted imaging can disclose distinct hyperintense lesions in Creutzfeldt-Jakob disease (CJD).
+However, these findings and chronologic changes of CJD at diffusion-weighted imaging have not been fully investigated.
+Our purpose was to assess the diagnostic value of diffusion-weighted imaging in depicting CJD-related lesions and in tracking the evolution of these lesions.
+We also compared the sensitivity of diffusion-weighted imaging in depicting CJD-related lesions to that of fluid-attenuated inversion recovery (FLAIR) imaging.
+METHODS: We reviewed findings in 13 patients with a diagnosis of CJD who underwent MR imaging, including diffusion-weighted imaging.
+Nine patients were initially examined within 4 months of onset of symptoms (early stage), and eight were examined 4 months or later (late stage).
+We evaluated four items: 1) distribution of lesions at diffusion-weighted imaging, 2) conspicuity of lesions at diffusion-weighted imaging and FLAIR imaging, 3) chronologic changes in lesions at diffusion-weighted imaging, and 4) chronologic changes in lesions revealed by apparent diffusion coefficient (ADC) maps.
+RESULTS: Patients had striatal lesions or cerebral cortical lesions or both.
+The thalamus was involved in only one patient, and the globus pallidus was spared in all patients.
+The sensitivity of diffusion-weighted imaging in depicting lesions was superior or at least equal to that of FLAIR imaging.
+Hyperintense lesions at diffusion-weighted imaging changed in extent and intensity over time.
+Unlike infarction, lesional ADC decreased for 2 weeks or longer.
+CONCLUSION: The progressively hyperintense changes in the striata and cerebral cortices at diffusion-weighted imaging are considered characteristic of CJD.
+Diffusion-weighted imaging may be useful for the early diagnosis of CJD.
+
+<Related> YES or NO
+[DONE]

@@ -1,0 +1,10 @@
+T1	Generic_Prion 21 46	Creutzfeldt-Jakob disease
+T2	Generic_Prion 48 51	CJD
+T3	Electrophysio_test 100 103	EEG
+T4	Autopsy 108 125	neuropathological
+T5	Generic_Prion 139 173	subacute spongiform encephalopathy
+T6	Generic_Prion 269 272	CJD
+T7	Choose_Related 304 307	YES
+T8	sCJD 188 196	sporadic
+T9	fCJD 224 232	familial
+T10	Choose_Done 315 319	DONE

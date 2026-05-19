@@ -1,0 +1,7 @@
+Creutzfeldt-Jakob disease is a 'slow virus' illness usually presenting as a rapidly progressive dementia.
+Although rare, its laboratory and accidental transmission has given it great theoretical importance.
+However, the infective agent remains mysterious and it is not known how, or even whether, natural transmission occurs.
+Clinical diagnosis is difficult, treatment unfortunately unsuccessful and special precautions are necessary in dealing with potentially infectious material.
+
+<Related> YES or NO
+[DONE]

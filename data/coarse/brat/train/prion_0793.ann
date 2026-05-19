@@ -1,0 +1,16 @@
+T1	Time 0 10	Since 1996
+T2	Acquired_Prion 38 71	variant Creutzfeldt-Jakob disease
+T5	Differential_Diagnosis 182 221	progressive neurodegenerative condition
+T3	Sporadic_Prion 253 287	sporadic Creutzfeldt-Jakob disease
+T11	Age 324 332	26 years
+T4	Symptom 367 399	psychiatric/behavioural features
+T7	Symptom 414 424	depression
+T8	Symptom 426 442	Sensory symptoms
+T12	Symptom 494 514	psychiatric symptoms
+T14	Symptom 524 533	delusions
+T15	Symptom 537 551	hallucinations
+T18	Symptom 701 719	neurological signs
+T19	Test_name 779 796	neuropathological
+T20	Time 810 820	pre-mortem
+T21	Findings 857 870	pulvinar sign
+T22	Test_name 883 909	magnetic resonance imaging

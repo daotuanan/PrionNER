@@ -1,0 +1,1 @@
+Figure X. An overlapping-entity example. The Time_point mention "after a successful tympanoplasty" overlaps with the Treatment mention "tympanoplasty with homograft pericardium" without full containment.

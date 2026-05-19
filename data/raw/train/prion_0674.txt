@@ -1,0 +1,12 @@
+PURPOSE: To describe the magnetic resonance (MR) imaging appearance of Creutzfeldt-Jakob disease (CJD).
+MATERIALS AND METHODS: MR images obtained in 29 patients who died of CJD (aged 53-77 years at death) were retrospectively reviewed by three neuroradiologists blinded to the diagnosis.
+RESULTS: Moderate to marked bilateral, symmetrically increased signal intensity was demonstrated in the putamen and caudate nucleus on T2- and proton-density-weighted MR images in 23 patients (79%).
+In six patients (21%), images showed no major signal intensity abnormalities.
+T1-weighted images revealed no signal intensity abnormalities and no contrast material enhancement.
+The degree of atrophy in the cortex and basal ganglia corresponded to the time between onset of symptoms and MR imaging.
+All patients with a disease duration of longer than 4 months had substantial volume loss.
+CONCLUSION: Although approximately 20% of the patients did not have MR imaging abnormalities, MR imaging did show signal intensity alterations due to gliosis and spongiform changes early in the course of CJD in the remaining 80%.
+The demonstration of bilateral areas of increased signal intensity that predominantly affected the caudate nuclei and the putamina on long-repetition-time MR images in an elderly patient with rapidly progressive dementia represents a specific finding and clearly should suggest the diagnosis of CJD.
+
+<Related> YES or NO
+[DONE]

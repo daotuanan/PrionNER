@@ -1,0 +1,35 @@
+T1	Generic_Prion 11 36	Creutzfeldt-Jakob disease
+T2	Generic_Prion 178 203	Creutzfeldt-Jakob disease
+T3	Imaging_finding 269 302	hyperintense signal abnormalities
+T6	Anatomic_location 310 323	basal ganglia
+T7	Imaging_test 339 348	MR images
+T10	Generic_Prion 366 391	Creutzfeldt-Jakob disease
+T12	Generic_Prion 506 531	Creutzfeldt-Jakob disease
+T13	Imaging_test 545 547	MR
+T14	Imaging_test 643 645	MR
+T17	Generic_Prion 700 725	Creutzfeldt-Jakob disease
+T18	Imaging_finding 730 750	signal abnormalities
+T20	Anatomic_location 758 771	basal ganglia
+T26	Imaging_test 881 896	MR examinations
+T27	Duration 897 924	between 6 months and 1 year
+T30	Time_point 925 952	after the onset of symptoms
+T33	Imaging_finding 977 1010	hyperintense signal abnormalities
+T36	Anatomic_location 1018 1031	basal ganglia
+T37	Imaging_sequence 1035 1053	T2-weighted images
+T42	Imaging_test 1132 1139	CT scan
+T44	Imaging_finding 1220 1238	signal abnormality
+T46	Anatomic_location 1246 1259	basal ganglia
+T48	Imaging_test 1263 1273	MR imaging
+T49	Generic_Prion 1316 1341	Creutzfeldt-Jakob disease
+T52	Imaging_finding 1466 1492	hyperintense abnormalities
+T54	Anatomic_location 1500 1513	basal ganglia
+T57	Generic_Prion 1562 1587	Creutzfeldt-Jakob disease
+T58	Choose_Related 1600 1603	YES
+T5	Age 86 91	older
+T4	Imaging_sequence 327 338	T2-weighted
+T8	Autopsy 678 692	pathologically
+T9	Imaging_sequence 775 786	T2-weighted
+T11	Imaging_test 787 796	MR images
+T19	Imaging_sequence 1098 1109	T1-weighted
+T21	Imaging_sequence 1517 1528	T2-weighted
+T22	Choose_Done 1611 1615	DONE

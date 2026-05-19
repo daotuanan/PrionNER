@@ -1,0 +1,40 @@
+T1	Generic_Prion 51 76	Creutzfeldt-Jakob disease
+T2	Generic_Prion 78 81	CJD
+T3	Symptom 89 104	visual symptoms
+T4	Age 152 163	60-year-old
+T5	Duration 191 202	a few weeks
+T6	Symptom 203 233	bilateral inferior hemianopsia
+T7	Anatomic_location 265 269	eyes
+T14	Anatomic_location 401 405	eyes
+T16	Symptom 471 506	visual field narrowed progressively
+T17	Time_point 511 544	3 months after the first symptoms
+T19	Symptom 587 596	myoclonia
+T20	Symptom 598 610	hyperkinesia
+T21	Symptom 616 636	psychiatric symptoms
+T22	Electrophysio_test 658 661	EEG
+T23	Blood_biomarker_test 666 685	cerebrospinal fluid
+T25	Generic_Prion 705 730	Creutzfeldt-Jakob disease
+T26	Generic_Prion 732 735	CJD
+T27	Duration 761 773	5 1/2 months
+T29	Autopsy 802 821	neuropathologically
+T30	Anatomic_location 834 843	occipital
+T31	Autopsy_finding 844 869	spongiform encephalopathy
+T32	Generic_Prion 959 962	CJD
+T33	Symptom 1002 1034	progressive visual field defects
+T35	Anatomic_location 1078 1082	eyes
+T37	Anatomic_location 1120 1125	brain
+T38	Generic_Prion 1126 1129	CJD
+T39	Symptom 1191 1203;1248 1256	neurological symptoms
+T40	Symptom 1216 1230;1248 1256	extrapyramidal symptoms
+T41	Symptom 1236 1256	psychiatric symptoms
+T42	Choose_Related 1269 1272	YES
+T8	sCJD 16 34	Heidenhain variant
+T9	Imaging_test 312 323	cerebral CT
+T10	Imaging_test 324 327	MRI
+T11	Electrophysio_test 388 391	VEP
+T12	Electrophysio_test 362 386	visual evoked potentials
+T13	Symptom 562 567	blind
+T15	sCJD 940 955	Heidenhain type
+T18	Choose_Done 1280 1284	DONE
+T43	Complication 750 754	died
+T24	Duration 511 519	3 months

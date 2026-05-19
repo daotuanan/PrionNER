@@ -1,0 +1,16 @@
+T1	Generic_Prion 12 26	Prion diseases
+T6	Generic_Prion 375 388	prion disease
+T9	Anatomic_location 435 457	central nervous system
+T10	sCJD 459 493	Sporadic Creutzfeldt-Jakob disease
+T11	sCJD 495 499	sCJD
+T12	Generic_Prion 532 545	prion disease
+T13	sCJD 751 755	sCJD
+T16	Molecular_assay 1132 1144	Western blot
+T20	Anatomic_location 1299 1321	central nervous system
+T22	sCJD 1348 1352	sCJD
+T24	sCJD 1435 1439	sCJD
+T26	sCJD 1547 1551	sCJD
+T35	Generic_Prion 1803 1816	prion disease
+T37	Autopsy 1878 1884	biopsy
+T41	Differential_Diagnosis 59 86	neurodegenerative disorders
+T42	Anatomic_location 1872 1877	brain

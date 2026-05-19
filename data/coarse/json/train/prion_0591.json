@@ -1,0 +1,136 @@
+{
+  "doc_id": "prion_0591",
+  "text": "This is a report of the case of a patient with Creutzfeldt-Jakob disease, whose electroencephalograms and polysomnograms were repeatedly recorded throughout the course of the illness with details of the alterations of periodic synchronous discharges.\nIn the advanced stage of the disease, the appearance of peculiar paroxysms was noted, predominantly in the early morning.\nFurthermore, apnea of the central type was observed during the same time period.\nDiscussions were held on the mechanisms inducing the EEG paroxysms and apneas.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 47,
+      "end": 72,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 47,
+          "end": 72
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Test_name",
+      "start": 80,
+      "end": 101,
+      "text": "electroencephalograms",
+      "spans": [
+        {
+          "start": 80,
+          "end": 101
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 106,
+      "end": 120,
+      "text": "polysomnograms",
+      "spans": [
+        {
+          "start": 106,
+          "end": 120
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time",
+      "start": 258,
+      "end": 287,
+      "text": "advanced stage of the disease",
+      "spans": [
+        {
+          "start": 258,
+          "end": 287
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 316,
+      "end": 325,
+      "text": "paroxysms",
+      "spans": [
+        {
+          "start": 316,
+          "end": 325
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 358,
+      "end": 371,
+      "text": "early morning",
+      "spans": [
+        {
+          "start": 358,
+          "end": 371
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 386,
+      "end": 411,
+      "text": "apnea of the central type",
+      "spans": [
+        {
+          "start": 386,
+          "end": 411
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 507,
+      "end": 510,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 507,
+          "end": 510
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 511,
+      "end": 520,
+      "text": "paroxysms",
+      "spans": [
+        {
+          "start": 511,
+          "end": 520
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 525,
+      "end": 531,
+      "text": "apneas",
+      "spans": [
+        {
+          "start": 525,
+          "end": 531
+        }
+      ]
+    }
+  ]
+}

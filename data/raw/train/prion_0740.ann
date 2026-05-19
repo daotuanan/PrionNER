@@ -1,0 +1,20 @@
+T1	Generic_Prion 29 54	Creutzfeldt-Jakob disease
+T2	Age 64 77	aged 60 years
+T3	Duration 156 165	11 months
+T4	Symptom 201 225	equilibrium disturbances
+T5	Symptom 230 238	dementia
+T6	Symptom 244 262	psychotic symptoms
+T7	Generic_Prion 308 311	CJD
+T8	Autopsy 313 342	Neuropathological examination
+T9	Autopsy_finding 362 380	spongiform lesions
+T10	Anatomic_location 388 394	cortex
+T11	Anatomic_location 402 416	cerebral lobes
+T12	Anatomic_location 421 429	striatum
+T13	Anatomic_location 434 450	substantia nigra
+T14	Anatomic_location 512 529	cerebellar cortex
+T16	sCJD 602 622	sporadic form of CJD
+T18	GSS 675 714	Gerstmann-Streussler-Scheinker syndrome
+T19	Genetic_test 734 749	genetic studies
+T20	Choose_Related 762 765	YES
+T21	Electrophysio_test 277 280	EEG
+T15	Choose_Done 773 777	DONE

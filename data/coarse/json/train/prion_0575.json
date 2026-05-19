@@ -1,0 +1,175 @@
+{
+  "doc_id": "prion_0575",
+  "text": "The concentration of cerebrospinal fluid (CSF) lactic acid was determined in three patients with biopsy proven Creutzfeldt-Jacob disease (CJD).\nWhen compared with twenty demented patients diagnosed as having either Alzheimer's disease or multi-infarct dementia, the CSF lactic acid values of the CJD patients were significantly elevated (p less than .001).\nElevated CSF lactic acid levels may be an important biochemical marker of CJD and useful in the differential diagnosis of dementia.",
+  "entities": [
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 21,
+      "end": 40,
+      "text": "cerebrospinal fluid",
+      "spans": [
+        {
+          "start": 21,
+          "end": 40
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 42,
+      "end": 45,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 42,
+          "end": 45
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 97,
+      "end": 103,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 97,
+          "end": 103
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 111,
+      "end": 136,
+      "text": "Creutzfeldt-Jacob disease",
+      "spans": [
+        {
+          "start": 111,
+          "end": 136
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 138,
+      "end": 141,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 138,
+          "end": 141
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Differential_Diagnosis",
+      "start": 215,
+      "end": 234,
+      "text": "Alzheimer's disease",
+      "spans": [
+        {
+          "start": 215,
+          "end": 234
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Differential_Diagnosis",
+      "start": 238,
+      "end": 260,
+      "text": "multi-infarct dementia",
+      "spans": [
+        {
+          "start": 238,
+          "end": 260
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Differential_Diagnosis",
+      "start": 252,
+      "end": 260,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 252,
+          "end": 260
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Test_name",
+      "start": 266,
+      "end": 288,
+      "text": "CSF lactic acid values",
+      "spans": [
+        {
+          "start": 266,
+          "end": 288
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 296,
+      "end": 299,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 296,
+          "end": 299
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Test_name",
+      "start": 366,
+      "end": 381,
+      "text": "CSF lactic acid",
+      "spans": [
+        {
+          "start": 366,
+          "end": 381
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 431,
+      "end": 434,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 431,
+          "end": 434
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Differential_Diagnosis",
+      "start": 479,
+      "end": 487,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 479,
+          "end": 487
+        }
+      ]
+    }
+  ]
+}

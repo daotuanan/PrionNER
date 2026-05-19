@@ -1,0 +1,6 @@
+The authors present two biopsy-proved cases of Creutzfeldt-Jakob disease.
+MR appears to be more sensitive than CT in detecting pathologic changes; signal abnormalities, when found, are predominantly within gray matter and may involve only peripheral cortex.
+
+<Related> YES or NO
+[DONE]
+[CHECK]

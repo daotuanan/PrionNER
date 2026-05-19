@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="268" viewBox="0 0 680 268">
+  <defs>
+    <style>
+      .panel-title { font: 700 17px 'DejaVu Sans', Arial, sans-serif; fill: #182026; }
+      .body { font: 15px 'DejaVu Sans Mono', monospace; fill: #182026; }
+      .label { font: 600 13px 'DejaVu Sans', Arial, sans-serif; fill: #182026; }
+      .small { font: 12px 'DejaVu Sans', Arial, sans-serif; fill: #5b6770; }
+      .panel { fill: #ffffff; stroke: #d8dee4; stroke-width: 1.5; rx: 16; ry: 16; }
+      .nest-outer { fill: #c6f6d5; opacity: 0.85; }
+      .nest-inner { fill: #bee3f8; opacity: 0.95; }
+      .line-nest { stroke: #2f855a; stroke-width: 3; fill: none; }
+      .tag-nest-outer { fill: #eefcf3; stroke: #2f855a; stroke-width: 1.5; rx: 8; ry: 8; }
+      .tag-nest-inner { fill: #eff8ff; stroke: #2b6cb0; stroke-width: 1.5; rx: 8; ry: 8; }
+      .connector { stroke: #6b7280; stroke-width: 1.6; fill: none; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="680" height="268" fill="#f7fafc" />
+  <rect class="panel" x="24" y="14" width="632" height="232" />
+
+  <rect class="nest-outer" x="230" y="82" width="196" height="24" rx="4" ry="4" />
+  <rect class="nest-inner" x="230" y="82" width="76" height="24" rx="4" ry="4" />
+  <text class="body" y="100" xml:space="preserve">
+    <tspan x="44">... there was marked </tspan>
+    <tspan x="232">striatum</tspan>
+    <tspan x="318"> involvement </tspan>
+    <tspan x="430">in TRODAT SPECT ...</tspan>
+  </text>
+  <path class="line-nest" d="M232 111 L424 111" />
+  <path class="line-nest" d="M232 118 L304 118" />
+  <path class="connector" d="M319 113 C319 128, 319 128, 319 154" />
+  <path class="connector" d="M268 120 C268 142, 160 142, 160 184" />
+  <rect class="tag-nest-outer" x="206" y="154" width="278" height="24" />
+  <text class="label" x="216" y="171">Imaging_finding: striatum involvement</text>
+  <rect class="tag-nest-inner" x="70" y="184" width="200" height="24" />
+  <text class="label" x="80" y="201">Anatomic_location: striatum</text>
+  <text class="small" x="44" y="238">One span fully contains another.</text>
+</svg>

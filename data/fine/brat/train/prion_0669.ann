@@ -1,0 +1,18 @@
+T1	Generic_Prion 59 84	Creutzfeldt-Jakob disease
+T2	Generic_Prion 86 89	CJD
+T3	Age 107 118	59-year-old
+T4	Time_point 138 142	1983
+T5	Generic_Prion 183 186	CJD
+T8	Autopsy 213 235	Postmortem examination
+T9	Autopsy_finding 252 265	neuronal loss
+T10	Autopsy_finding 282 289	gliosis
+T11	Anatomic_location 305 320	cerebral cortex
+T12	Anatomic_location 325 333	striatum
+T13	Anatomic_location 352 364	white matter
+T15	Generic_Prion 389 392	CJD
+T16	Duration 412 424	1983 to 1991
+T7	Anatomic_location 32 50	panencephalopathic
+T14	Autopsy_finding 267 277	spongiosis
+T19	Complication 191 195	died
+T6	Time_point 196 211	16 months later
+T20	Duration 196 205	16 months

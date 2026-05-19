@@ -1,0 +1,9 @@
+OBJECTIVE: To compare conventional and diffusion-weighted MR imaging in terms of their depiction of the abnormalities occurring in Creutzfeldt-Jakob disease.
+MATERIALS AND METHODS: We retrospectively analyzed the findings of conventional (T2-weighted and fluid-attenuated inversion recovery) and diffusion-weighted MR imaging in four patients with biopsy-proven Creutzfeldt-Jakob disease.
+The signal intensity of the lesion was classified by visual assessment as markedly high, slightly high, or isointense, relative to normal brain parenchyma.
+RESULTS: Both conventional and diffusion-weighted MR images demonstrated bilateral high signal intensity in the basal ganglia in all four patients.
+Cortical lesions were observed on diffusion-weighted MR images in all four, and on fluid-attenuated inversion recovery MR images in one, but in no patient on T2-weighted images.
+Conventional MR images showed slightly high signal intensity in all lesions, while diffusion-weighted images showed markedly high signal intensity in most. CONCLUSION: Diffusion-weighted MR imaging is more sensitive than its conventional counterpart in the depiction of Creutzfeldt-Jakob disease, and permits better detection of the lesion in both the cerebral cortices and basal ganglia.
+
+<Related> YES or NO
+[DONE]

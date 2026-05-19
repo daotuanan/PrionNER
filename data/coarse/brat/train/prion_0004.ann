@@ -1,0 +1,20 @@
+T2	Generic_Prion 12 16	TSEs
+T3	Generic_Prion 75 100	Creutzfeldt-Jakob Disease
+T4	Generic_Prion 102 105	CJD
+T11	Generic_Prion 126 135	human TSE
+T5	Stats 150 166	1–2/million/year
+T19	Time 316 348	from November 2017 to April 2018
+T12	Time 321 334	November 2017
+T13	Time 338 348	April 2018
+T6	Generic_Prion 388 391	CJD
+T14	Symptom 618 646	apidly progressive dementing
+T15	Symptom 650 668	neurologic illness
+T7	Generic_Prion 694 697	CJD
+T18	Time 800 817	from 2013 to 2018
+T16	Time 805 809	2013
+T17	Time 813 817	2018
+T20	Time 925 928;938 942	5.2 days
+T22	Time 933 942	14.2 days
+T8	Generic_Prion 1012 1015	CJD
+T9	Acquired_Prion 1032 1043	Variant CJD
+T10	Generic_Prion 1040 1043	CJD

@@ -1,0 +1,136 @@
+{
+  "doc_id": "prion_0544",
+  "text": "We report a 26-year-old woman with Creutzfeldt-Jakob disease (CJD) who had received cadaveric dural material 33 months before the onset of neurologic symptoms.\nThis is the fourth case in which a dural graft was the putative source of the CJD agent.\nAll four cases had the grafting before changes in the sterilization procedure adopted in 1987 to inactivate the CJD agent.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 12,
+      "end": 23,
+      "text": "26-year-old",
+      "spans": [
+        {
+          "start": 12,
+          "end": 23
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 35,
+      "end": 60,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 35,
+          "end": 60
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 62,
+      "end": 65,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 62,
+          "end": 65
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Treatment",
+      "start": 84,
+      "end": 108,
+      "text": "cadaveric dural material",
+      "spans": [
+        {
+          "start": 84,
+          "end": 108
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Duration",
+      "start": 109,
+      "end": 118,
+      "text": "33 months",
+      "spans": [
+        {
+          "start": 109,
+          "end": 118
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time_point",
+      "start": 119,
+      "end": 135,
+      "text": "before the onset",
+      "spans": [
+        {
+          "start": 119,
+          "end": 135
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Treatment",
+      "start": 195,
+      "end": 206,
+      "text": "dural graft",
+      "spans": [
+        {
+          "start": 195,
+          "end": 206
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 238,
+      "end": 241,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 238,
+          "end": 241
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Time_point",
+      "start": 335,
+      "end": 342,
+      "text": "in 1987",
+      "spans": [
+        {
+          "start": 335,
+          "end": 342
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 361,
+      "end": 364,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 361,
+          "end": 364
+        }
+      ]
+    }
+  ]
+}

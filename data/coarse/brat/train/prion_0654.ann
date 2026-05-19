@@ -1,0 +1,17 @@
+T1	Age 2 13	28-year-old
+T17	Treatment 31 43	neurosurgery
+T16	Treatment 58 94	placement of a cadaveric dural graft
+T12	Anatomic_location 169 179	cerebellar
+T3	Symptom 169 191	cerebellar dysfunction
+T4	Test_name 211 218	autopsy
+T5	Generic_Prion 225 250	Creutzfeldt-Jakob disease
+T6	Generic_Prion 298 323	Creutzfeldt-Jakob disease
+T18	Treatment 344 357	a dural graft
+T19	Anatomic_location 449 459	cerebellar
+T7	Symptom 449 466	cerebellar ataxia
+T8	Symptom 485 493	dementia
+T9	Findings 522 547	kuru-type amyloid plaques
+T10	Test_name 553 577	histological examination
+T11	Anatomic_location 585 590	brain
+T13	Time 629 645	during pregnancy
+T14	Age 720 727	3 years

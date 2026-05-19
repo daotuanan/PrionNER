@@ -1,0 +1,68 @@
+T2	Generic_Prion 14 39	Creutzfeldt‐Jakob disease
+T3	Generic_Prion 41 44	CJD
+T5	Symptom 261 282	neurological symptoms
+T6	Duration 313 326	within a year
+T7	Symptom 352 359	vertigo
+T8	Generic_Prion 365 368	CJD
+T9	Age 454 465	65‐year old
+T11	Time_point 600 613	a month prior
+T12	Symptom 667 676	mentation
+T13	Symptom 680 693	memory issues
+T14	Symptom 731 761	chorea‐athetoid type movements
+T15	Symptom 780 803	abnormal finger to nose
+T16	Symptom 832 852	horizontal nystagmus
+T17	Imaging_test 886 889;896 900;913 921	MRI with contrast
+T18	Imaging_sequence 938 941	DWI
+T19	Anatomic_location 979 986	caudate
+T20	Anatomic_location 991 998	Putamen
+T21	Anatomic_location 1019 1033	occipital area
+T22	Symptom 1064 1073	agitation
+T23	Symptom 1075 1096	visual hallucinations
+T24	Symptom 1102 1123	cognitive impairments
+T27	Treatment 1233 1257	anti seizure medications
+T32	Molecular_assay 1376 1387	CSF RT‐QulC
+T33	Generic_Prion 1411 1436	Creutzfeldt‐Jakob Disease
+T34	Generic_Prion 1450 1453	CJD
+T35	Differential_Diagnosis 1670 1693	neurological conditions
+T36	Generic_Prion 1762 1765	CJD
+T37	Symptom 1794 1801	vertigo
+T38	Symptom 1806 1823	cerebellar ataxia
+T40	Symptom 1858 1875	cognitive decline
+T41	Symptom 1992 1998	ataxia
+T42	Symptom 2008 2027	visual disturbances
+T43	Symptom 2029 2039	dysarthria
+T44	Symptom 2041 2050	dysphagia
+T45	Symptom 2052 2061	myoclonus
+T47	Generic_Prion 2178 2181	CJD
+T48	Symptom 2449 2456	vertigo
+T50	Symptom 2505 2511	ataxia
+T52	Symptom 2533 2559	neurological deterioration
+T54	Molecular_assay 2613 2626	RT‐QuIC assay
+T55	Symptom 2737 2757	stroke like symptoms
+T56	Symptom 2773 2787	motor symptoms
+T59	Symptom 216 250	rapidly progressive mental decline
+T4	Complication 307 312	death
+T60	Symptom 328 348	Stroke like symptoms
+T61	Imaging_test 886 889;905 921	MRI without contrast
+T62	Imaging_sequence 946 951	FLAIR
+T64	Anatomic_location 1006 1014	temporal
+T65	Electrophysio_test 1125 1128	EEG
+T25	Anatomic_location 1152 1160	temporal
+T28	Differential_Diagnosis 1259 1269;1289 1301	Autoimmune encephalitis
+T68	Differential_Diagnosis 1274 1301	Paraneoplastic encephalitis
+T69	Blood_biomarker_test 1328 1331	CSF
+T10	Symptom 566 586	persistent dizziness
+T70	Symptom 635 643	spinning
+T71	Incidence 1524 1564	1 to 2 cases per million people per year
+T72	Differential_Diagnosis 1697 1703	Stroke
+T39	Symptom 1940 1960	stroke like symptoms
+T73	Symptom 2074 2101	impairments in coordination
+T46	Symptom 2074 2085;2106 2114	impairments mobility
+T74	Generic_Prion 2342 2367	Creutzfeldt‐Jakob Disease
+T75	Symptom 2426 2445	stroke like symptom
+T76	Symptom 2472 2500	rapidly progressive dementia
+T49	Electrophysio_test 2587 2590	EEG
+T51	Symptom 2759 2768;2779 2787	cognitive symptoms
+T29	Imaging_finding 938 959	DWI and FLAIR changes
+T78	Anatomic_location 148 153	brain
+T79	Anatomic_location 890 895	brain

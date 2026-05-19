@@ -1,0 +1,50 @@
+T2	Sequences 24 50	Diffusion-weighted imaging
+T4	Findings 73 93	hyperintense lesions
+T5	Generic_Prion 97 122	Creutzfeldt-Jakob disease
+T6	Generic_Prion 124 127	CJD
+T7	Generic_Prion 181 184	CJD
+T8	Sequences 188 214	diffusion-weighted imaging
+T10	Sequences 299 325	diffusion-weighted imaging
+T11	Findings 339 358	CJD-related lesions
+T12	Sequences 443 469	diffusion-weighted imaging
+T13	Findings 483 502	CJD-related lesions
+T14	Sequences 514 565	fluid-attenuated inversion recovery (FLAIR) imaging
+T15	Generic_Prion 632 635	CJD
+T16	Test_name 650 660	MR imaging
+T17	Sequences 672 698	diffusion-weighted imaging
+T19	Time 745 753	4 months
+T18	Time 757 774	onset of symptoms
+T20	Time 776 787	early stage
+T22	Time 814 822	4 months
+T21	Time 833 843	late stage
+T23	Findings 874 897	distribution of lesions
+T48	Sequences 901 927	diffusion-weighted imaging
+T49	Findings 932 954	conspicuity of lesions
+T24	Sequences 958 984	diffusion-weighted imaging
+T25	Sequences 989 1002	FLAIR imaging
+T50	Findings 1007 1037	chronologic changes in lesions
+T51	Sequences 1041 1068	diffusion-weighted imaging,
+T52	Findings 1076 1106	chronologic changes in lesions
+T53	Sequences 1119 1160	apparent diffusion coefficient (ADC) maps
+T26	Anatomic_location 1184 1192	striatal
+T3	Findings 1193 1200	lesions
+T55	Anatomic_location 1204 1221	cerebral cortical
+T9	Findings 1222 1229	lesions
+T28	Anatomic_location 1243 1251	thalamus
+T29	Anatomic_location 1294 1309	globus pallidus
+T30	Sequences 1357 1383	diffusion-weighted imaging
+T31	Findings 1397 1404	lesions
+T32	Sequences 1447 1460	FLAIR imaging
+T27	Findings 1462 1482	Hyperintense lesions
+T34	Test_name 1486 1512	diffusion-weighted imaging
+T36	Differential_Diagnosis 1563 1573	infarction
+T35	Sequences 1584 1587	ADC
+T33	Findings 1588 1597	decreased
+T38	Time 1602 1619	2 weeks or longer
+T58	Findings 1651 1671	hyperintense changes
+T39	Anatomic_location 1679 1686	striata
+T40	Anatomic_location 1691 1708	cerebral cortices
+T41	Sequences 1712 1738	diffusion-weighted imaging
+T43	Generic_Prion 1772 1775	CJD
+T44	Sequences 1777 1803	Diffusion-weighted imaging
+T46	Generic_Prion 1845 1848	CJD

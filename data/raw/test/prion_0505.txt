@@ -1,0 +1,7 @@
+A patient is described who showed subacute dementia and ataxia and, finally, acute asending polyradiculoneuritis.
+At necropsy, together with the cerebral and cerebellar lesions that are typical of Creutzfeldt-Jakob disease, the lesions of the spinal motor neurons, the spinal ganglia, and of the roots and peripheral nerves were analogous with those of the Guillain-Barré-Landry syndrome.
+The aetiological possibility is discussed either that this is a simple and unique association, or that the disorder is related to the virus nature of Creutzfeldt-Jakob disease.
+
+<Related> YES or NO
+[DONE]
+[CHECK]

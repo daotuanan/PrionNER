@@ -1,0 +1,84 @@
+{
+  "doc_id": "prion_0671",
+  "text": "In a patient with Creutzfeldt-Jakob disease (Heidenhain type), which was characterized by the initial onset of visual symptoms and proved by autopsy, there was an antagonizing correlation between spontaneously-induced periodic synchronous discharges and photically induced giant evoked responses.\nIn addition, the two electroencephalogram features appeared and disappeared in parallel with each other during the clinical course of the illness.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 18,
+      "end": 43,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 18,
+          "end": 43
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Sporadic_Prion",
+      "start": 45,
+      "end": 60,
+      "text": "Heidenhain type",
+      "spans": [
+        {
+          "start": 45,
+          "end": 60
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time",
+      "start": 94,
+      "end": 107,
+      "text": "initial onset",
+      "spans": [
+        {
+          "start": 94,
+          "end": 107
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 111,
+      "end": 126,
+      "text": "visual symptoms",
+      "spans": [
+        {
+          "start": 111,
+          "end": 126
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 141,
+      "end": 148,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 141,
+          "end": 148
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 318,
+      "end": 338,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 318,
+          "end": 338
+        }
+      ]
+    }
+  ]
+}

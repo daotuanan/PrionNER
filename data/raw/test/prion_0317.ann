@@ -1,0 +1,20 @@
+T1	Choose_Related 1248 1251	YES
+T2	Generic_Prion 0 20	Human prion diseases
+T6	Generic_Prion 289 302	prion disease
+T7	vCJD 304 337	variant Creutzfeldt-Jakob disease
+T8	Generic_Prion 386 418	bovine spongiform encephalopathy
+T9	Molecular_assay 559 579	immunohistochemistry
+T10	Molecular_assay 584 596	Western blot
+T11	vCJD 739 772	variant Creutzfeldt-Jakob disease
+T12	sCJD 878 912	sporadic Creutzfeldt-Jakob disease
+T13	iCJD 930 966	iatrogenic Creutzfeldt-Jakob disease
+T15	Anatomic_location 1048 1070	lymphoreticular system
+T16	vCJD 1096 1129	variant Creutzfeldt-Jakob disease
+T18	vCJD 79 87	acquired
+T19	fCJD 89 97	familial
+T20	sCJD 102 122	idiopathic disorders
+T21	Generic_Prion 464 478	prion diseases
+T3	Autopsy_finding 1029 1070	involvement of the lymphoreticular system
+T4	Choose_Done 1259 1263	DONE
+T5	Autopsy 500 517	neuropathological
+T14	Treatment 983 1005	growth hormone therapy

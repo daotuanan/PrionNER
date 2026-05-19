@@ -1,0 +1,20 @@
+T25	Anatomic_location 18 23	brain
+T1	Test_name 24 31	imaging
+T3	Test_name 69 111	single photon emission computed tomography
+T4	Test_name 113 118	SPECT
+T2	Sporadic_Prion 221 265	Heidenhain type of Creutzfeldt-Jakob disease
+T6	Symptom 315 330	visual symptoms
+T7	Symptom 353 365	visual signs
+T8	Anatomic_location 429 437	parietal
+T9	Anatomic_location 442 459	occipital regions
+T10	Test_name 463 466	EEG
+T11	Findings 468 487	focal hypoperfusion
+T12	Anatomic_location 502 517	occipital lobes
+T14	Test_name 539 549	SPECT scan
+T26	Anatomic_location 557 562	brain
+T15	Test_name 563 588	X-ray computed tomography
+T16	Test_name 593 619	magnetic resonance imaging
+T19	Test_name 673 678	SPECT
+T27	Anatomic_location 679 684	brain
+T21	Time 710 725	early detection
+T23	Generic_Prion 760 785	Creutzfeldt-Jakob disease

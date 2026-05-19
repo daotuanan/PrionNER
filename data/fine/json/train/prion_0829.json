@@ -1,0 +1,175 @@
+{
+  "doc_id": "prion_0829",
+  "text": "Sporadic Creutzfeldt-Jakob disease (CJD) is the most common prion disease.\nThe diagnosis can be confirmed only by histological examination of brain tissue obtained at biopsy or at autopsy.\nBecause of the transmissible nature of the disease, autopsy or brain biopsy cannot be performed at many institutions, which poses numerous challenges in confirming the diagnosis.\nWe report the case of a patient with CJD in which autopsy to confirm the diagnosis was performed after overcoming numerous obstacles and advocating with hospital leadership.\nThis case illustrates the numerous challenges that exist in achieving a definitive diagnosis of CJD and in postmortem disposition of the body, and we provide recommendations to clinicians who face similar challenges.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "sCJD",
+      "start": 0,
+      "end": 34,
+      "text": "Sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 34
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 36,
+      "end": 39,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 36,
+          "end": 39
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 60,
+      "end": 73,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 60,
+          "end": 73
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Autopsy",
+      "start": 114,
+      "end": 138,
+      "text": "histological examination",
+      "spans": [
+        {
+          "start": 114,
+          "end": 138
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 142,
+      "end": 147,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 142,
+          "end": 147
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Autopsy",
+      "start": 167,
+      "end": 173,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 167,
+          "end": 173
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Autopsy",
+      "start": 180,
+      "end": 187,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 180,
+          "end": 187
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Autopsy",
+      "start": 241,
+      "end": 248,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 241,
+          "end": 248
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 252,
+      "end": 257,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 252,
+          "end": 257
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy",
+      "start": 258,
+      "end": 264,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 258,
+          "end": 264
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 405,
+      "end": 408,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 405,
+          "end": 408
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Autopsy",
+      "start": 418,
+      "end": 425,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 418,
+          "end": 425
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 638,
+      "end": 641,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 638,
+          "end": 641
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+T1	Age 2 12	2-year-old
+T2	Time_point 53 57	1964
+T3	Time_point 117 127	July, 1972
+T4	Time_point 135 145	July, 1976
+T5	Time_point 150 161	March, 1984
+T6	Differential_Diagnosis 165 191	subacute dementing illness
+T7	Symptom 207 225	neurological signs
+T8	Symptom 251 268	cerebellar ataxia
+T9	Generic_Prion 294 319	Creutzfeldt-Jakob disease
+T10	Generic_Prion 321 324	CJD
+T11	Time_point 356 370	February, 1985
+T12	Autopsy 372 380	Necropsy
+T13	Generic_Prion 392 417	spongiform encephalopathy
+T14	Generic_Prion 460 463	CJD
+T15	Choose_Related 562 565	YES
+T16	Treatment 72 92	human growth hormone
+T17	Treatment 94 97	HGH
+T18	Treatment 465 483	HGH administration
+T19	Choose_Done 573 577	DONE
+T20	Complication 348 352	died
+T21	Anatomic_location 251 261	cerebellar
+T22	Duration 112 145	from July, 1972, until July, 1976

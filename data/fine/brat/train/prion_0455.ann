@@ -1,0 +1,36 @@
+T5	vCJD 89 122	variant Creutzfeldt-Jakob disease
+T6	vCJD 124 128	vCJD
+T11	Generic_Prion 232 235	CJD
+T16	sCJD 310 322	sporadic CJD
+T18	sCJD 324 328	sCJD
+T21	vCJD 348 352	vCJD
+T24	sCJD 357 361	sCJD
+T27	vCJD 379 383	vCJD
+T29	Blood_biomarker_test 400 413	Innotest hTau
+T30	Blood_biomarker_test 418 435	Innotest P-Thr181
+T34	sCJD 512 516	sCJD
+T38	vCJD 563 567	vCJD
+T43	sCJD 627 631	sCJD
+T46	vCJD 675 679	vCJD
+T51	vCJD 759 763	vCJD
+T53	sCJD 772 776	sCJD
+T59	sCJD 857 861	sCJD
+T62	vCJD 889 893	vCJD
+T70	vCJD 974 978	vCJD
+T72	sCJD 987 991	sCJD
+T77	sCJD 1062 1066	sCJD
+T79	vCJD 1071 1075	vCJD
+T84	vCJD 1147 1151	vCJD
+T88	sCJD 1175 1179	sCJD
+T97	vCJD 1307 1311	vCJD
+T99	sCJD 1315 1319	sCJD
+T104	vCJD 1372 1376	vCJD
+T107	vCJD 1470 1474	vCJD
+T1	Blood_biomarker_test 246 261	CSF tau protein
+T2	Blood_biomarker_test 266 275	tau-pT181
+T3	Blood_biomarker_test 478 493	CSF tau protein
+T4	Blood_biomarker_test 1000 1015	CSF tau protein
+T7	Blood_biomarker_test 1104 1117	CSF tau-pT181
+T8	Blood_biomarker_test 1181 1227	Measurement of CSF tau-pT181/tau protein ratio
+T9	Blood_biomarker_test 1274 1289	CSF tau protein
+T10	Blood_biomarker_test 1349 1362	CSF tau-pT181

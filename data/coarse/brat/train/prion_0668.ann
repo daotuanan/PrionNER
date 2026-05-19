@@ -1,0 +1,9 @@
+T1	Age 3 14	80-year old
+T2	Generic_Prion 49 74	Creutzfeldt-Jakob disease
+T7	Test_name 90 108	neurophysiological
+T8	Test_name 113 130	neuropathological
+T3	Anatomic_location 178 183	brain
+T9	Sequences 185 190	HMPAO
+T4	Test_name 191 196	SPECT
+T5	Findings 207 249	asymmetries of regional cerebral perfusion
+T10	Anatomic_location 231 239	cerebral

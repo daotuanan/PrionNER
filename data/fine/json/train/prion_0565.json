@@ -1,0 +1,97 @@
+{
+  "doc_id": "prion_0565",
+  "text": "Frequent serial EEG investigations of three patients with neuropathologically confirmed Creutzfeldt-Jakob disease lasting 13, 24 and 68 weeks revealed typical periodic activity of short duration with stereotyped bilateral sharp waves at the 7th, 8th, and 12th week, respectively, after the onset of symptoms.\nDuring the later stages, there were several deviations from this typical pattern.\nHowever, periodic activity was preceded between the 3rd and 9th week by intermittent localized or lateralized delta rhythms, which gradually changed into periodic activity.\nThis early temporal evolution of EEG abnormalities may be helpful in the early diagnosis of Creutzfeldt-Jakob disease when accompanied by other investigations to exclude other causes of intermittent delta rhythms.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Electrophysio_test",
+      "start": 16,
+      "end": 34,
+      "text": "EEG investigations",
+      "spans": [
+        {
+          "start": 16,
+          "end": 34
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 88,
+      "end": 113,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 88,
+          "end": 113
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Duration",
+      "start": 122,
+      "end": 141,
+      "text": "13, 24 and 68 weeks",
+      "spans": [
+        {
+          "start": 122,
+          "end": 141
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time_point",
+      "start": 237,
+      "end": 264,
+      "text": "the 7th, 8th, and 12th week",
+      "spans": [
+        {
+          "start": 237,
+          "end": 264
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Time_point",
+      "start": 286,
+      "end": 307,
+      "text": "the onset of symptoms",
+      "spans": [
+        {
+          "start": 286,
+          "end": 307
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Electrophysio_test",
+      "start": 597,
+      "end": 600,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 597,
+          "end": 600
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Generic_Prion",
+      "start": 656,
+      "end": 681,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 656,
+          "end": 681
+        }
+      ]
+    }
+  ]
+}

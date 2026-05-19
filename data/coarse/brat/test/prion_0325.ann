@@ -1,0 +1,29 @@
+T2	Sporadic_Prion 13 46	sporadic Creutzfeld-Jakob disease
+T3	Sporadic_Prion 48 52	sCJD
+T41	Sporadic_Prion 182 185	VV2
+T7	Sporadic_Prion 251 255	sCJD
+T8	Sporadic_Prion 286 290	sCJD
+T9	Sporadic_Prion 326 329	VV2
+T10	Generic_Prion 346 349	CJD
+T6	Test_name 400 412	pathological
+T24	Sequences 515 533	diffusion weighted
+T11	Test_name 534 537	MRI
+T23	Sequences 539 542	DWI
+T4	Findings 565 579	high intensity
+T12	Anatomic_location 608 616	thalamus
+T13	Anatomic_location 631 650	dorsomedial nucleus
+T14	Anatomic_location 656 664	pulvinar
+T15	Anatomic_location 674 690;720 726	ventral anterior nuclei
+T17	Anatomic_location 692 699;720 726	lateral nuclei
+T21	Anatomic_location 705 726	posterolateral nuclei
+T27	Anatomic_location 733 741	thalamic
+T16	Sporadic_Prion 777 781	sCJD
+T34	Sporadic_Prion 831 834	MM1
+T35	Sporadic_Prion 892 895	MV1
+T36	Sporadic_Prion 934 938	sCJD
+T37	Sporadic_Prion 978 981	VV2
+T38	Sporadic_Prion 1010 1013	MM1
+T18	Sporadic_Prion 1015 1018	MV1
+T19	Acquired_Prion 1024 1035	variant CJD
+T20	Sequences 1037 1040	DWI
+T39	Sporadic_Prion 1107 1110	VV2

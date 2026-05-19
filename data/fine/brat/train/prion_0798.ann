@@ -1,0 +1,33 @@
+T2	Generic_Prion 170 195	Creutzfeldt-Jakob disease
+T4	Generic_Prion 342 345	CJD
+T5	Generic_Prion 594 619	Creutzfeldt-Jakob disease
+T6	Generic_Prion 729 732	CJD
+T7	Anatomic_location 810 818	temporal
+T9	Anatomic_location 822 837	parietal region
+T10	Anatomic_location 917 931	occipital lobe
+T11	Anatomic_location 937 947	cerebellum
+T12	Anatomic_location 955 968	basal ganglia
+T13	Differential_Diagnosis 1049 1068	Alzheimer's disease
+T15	Symptom 1177 1186	Myoclonus
+T16	Symptom 1257 1266	myoclonus
+T17	Anatomic_location 1326 1334;1348 1353	parietal lobes
+T19	Anatomic_location 1339 1353	temporal lobes
+T20	Symptom 1386 1401	visual symptoms
+T21	Anatomic_location 1432 1445	visual cortex
+T22	Imaging_test 1487 1490	MRI
+T23	Time_point 1533 1559	at the time of PET-studies
+T24	Generic_Prion 1648 1651	CJD
+T25	Generic_Prion 1689 1692	CJD
+T26	Differential_Diagnosis 1698 1731	other neurodegenerative disorders
+T1	Imaging_test 148 151	PET
+T28	Imaging_test 118 146	positron emission tomography
+T29	Imaging_test 109 112	FDG
+T3	Imaging_test 264 271	FDG-PET
+T30	Imaging_test 664 667	PET
+T31	Imaging_test 686 693	FDG-PET
+T32	Imaging_finding 700 725	widespread hypometabolism
+T33	Imaging_finding 753 793	reduction of cerebral glucose metabolism
+T8	Imaging_test 1402 1405	FDG
+T14	Imaging_finding 1402 1424	FDG uptake was reduced
+T18	Imaging_finding 1467 1483	hyperintensities
+T34	Imaging_test 1597 1604	FDG-PET

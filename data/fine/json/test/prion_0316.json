@@ -1,0 +1,149 @@
+{
+  "doc_id": "prion_0316",
+  "text": "A 44 year old female presented with a progressive cerebellar disturbance approximately 13 years after receiving human pituitary derived gonadotrophin injections as a treatment for infertility.\nThe patient died approximately nine months later.\nCreutzfeldt-Jakob disease was confirmed at necropsy.\nThis is the second reported case of Creutzfeldt-Jakob disease in a recipient of human derived gonadotrophin.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "44 year old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 50,
+      "end": 60,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 50,
+          "end": 60
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 50,
+      "end": 72,
+      "text": "cerebellar disturbance",
+      "spans": [
+        {
+          "start": 50,
+          "end": 72
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time_point",
+      "start": 87,
+      "end": 101,
+      "text": "13 years after",
+      "spans": [
+        {
+          "start": 87,
+          "end": 101
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Treatment",
+      "start": 112,
+      "end": 160,
+      "text": "human pituitary derived gonadotrophin injections",
+      "spans": [
+        {
+          "start": 112,
+          "end": 160
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Complication",
+      "start": 205,
+      "end": 209,
+      "text": "died",
+      "spans": [
+        {
+          "start": 205,
+          "end": 209
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Duration",
+      "start": 224,
+      "end": 235,
+      "text": "nine months",
+      "spans": [
+        {
+          "start": 224,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 243,
+      "end": 268,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 243,
+          "end": 268
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Autopsy",
+      "start": 286,
+      "end": 294,
+      "text": "necropsy",
+      "spans": [
+        {
+          "start": 286,
+          "end": 294
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 332,
+      "end": 357,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 332,
+          "end": 357
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Treatment",
+      "start": 376,
+      "end": 403,
+      "text": "human derived gonadotrophin",
+      "spans": [
+        {
+          "start": 376,
+          "end": 403
+        }
+      ]
+    }
+  ]
+}

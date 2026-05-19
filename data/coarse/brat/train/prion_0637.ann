@@ -1,0 +1,14 @@
+T1	Generic_Prion 25 49	Creutzfeld-Jakob disease
+T2	Generic_Prion 51 54	CJD
+T3	Symptom 70 92	optical hallucinations
+T4	Symptom 106 129	feelings of persecution
+T5	Anatomic_location 263 270;284 288	frontal lobe
+T12	Anatomic_location 275 288	temporal lobe
+T13	Test_name 363 386	electroencephalographic
+T14	Test_name 391 408	neuropathological
+T6	Symptom 465 473	dementia
+T7	Symptom 494 518	disturbance of vigilance
+T15	Generic_Prion 537 540	CJE
+T9	Symptom 610 618	dementia
+T10	Symptom 620 628	myocloni
+T8	Test_name 641 664	electroencephalographic

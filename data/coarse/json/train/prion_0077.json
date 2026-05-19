@@ -1,0 +1,71 @@
+{
+  "doc_id": "prion_0077",
+  "text": "BACKGROUND: Prion diseases are a group of neurodegenerative diseases associated with prion protein.\nThe disease can be caused by mutations in the PRNP gene, the gene that encodes prion protein.\nAn octapeptide repeat on the N‐terminus of prion protein plays an important role in normal intercellular function of prion protein.\nAt present, numerous prion disease patients with PRNP 2‐octapeptide deletion mutation case have been reported, but it is still unclear whether and how the mutation causes the disease.\nIn this study, we aim to preliminarily identify the pathogenicity of PRNP 2‐octapeptide deletion mutation.\nMETHOD: The gDNA sample was obtained from a patient with familial creutzfeldt‐Jakob disease.\nThe gDNA was identified to contain heterozygous PRNP 2‐octapeptide mutation deletion.\nWe separated and amplified the gene and constructed N1 plasmid models with overexpression of the gene.\nFinally, we transfected HEK‐293T cell with the plasmid and used Western Blot to quantify the difference of apoptosis level of the mutated gene group and the control group.\nRESULT: Due to limited sample size, the result shows no significant statistical difference between the experimental group and the control group, but still reflected potential trend of increased apoptosis (p<0.1).\nCONCLUSION: Further study of this mutant gene is necessary to determine its pathogenicity.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 12,
+      "end": 26,
+      "text": "Prion diseases",
+      "spans": [
+        {
+          "start": 12,
+          "end": 26
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Differential_Diagnosis",
+      "start": 42,
+      "end": 68,
+      "text": "neurodegenerative diseases",
+      "spans": [
+        {
+          "start": 42,
+          "end": 68
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 347,
+      "end": 360,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 347,
+          "end": 360
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Familial_Prion",
+      "start": 674,
+      "end": 708,
+      "text": "familial creutzfeldt‐Jakob disease",
+      "spans": [
+        {
+          "start": 674,
+          "end": 708
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 963,
+      "end": 975,
+      "text": "Western Blot",
+      "spans": [
+        {
+          "start": 963,
+          "end": 975
+        }
+      ]
+    }
+  ]
+}

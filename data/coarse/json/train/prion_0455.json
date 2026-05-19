@@ -1,0 +1,474 @@
+{
+  "doc_id": "prion_0455",
+  "text": "OBJECTIVE: To investigate whether phosphorylated tau protein (tau-pT181) is increased in variant Creutzfeldt-Jakob disease (vCJD) and if the tau-pT181/tau protein ratio is useful for distinguishing between patients with and without CJD.\nMETHODS: CSF tau protein and tau-pT181 were measured in 50 patients with sporadic CJD (sCJD), 51 patients with vCJD, 46 sCJD controls, and 37 vCJD controls, using Innotest hTau and Innotest P-Thr181, Innogenetics.\nRESULTS: Concentrations of CSF tau protein were increased in sCJD (5120 v 367 pg/ml in controls, p < 0.001) and vCJD (952 v 106 pg/ml, p < 0.001); tau-pT181 was also raised in sCJD (61 v 35 pg/ml in controls, p = 0.002) and vCJD (114 v 33 pg/ml, p < 0.001).\nMedian concentrations of tau-pT181 were higher in vCJD than in sCJD (p < 0.001).\nThe tau-pT181/tau protein ratio was lower than in controls in both sCJD (12 v 128 (p < 0.001)) and vCJD (119 v 279 (p < 0.001)).\nMean tau-pT181/tau protein ratio was 10-fold higher in vCJD than in sCJD.\nRaised CSF tau protein had the highest efficiency for distinguishing sCJD and vCJD from controls.\nCONCLUSIONS: CSF tau-pT181 concentrations are raised in vCJD and are higher than in sCJD.\nMeasurement of CSF tau-pT181/tau protein ratio does not improve the diagnostic efficiency of CSF tau protein alone for either vCJD or sCJD.\nThe higher concentration of CSF tau-pT181 found in vCJD suggests that unexplained pathogenic factors influence the phosphorylation of tau protein in vCJD patients.",
+  "entities": [
+    {
+      "id": "T5",
+      "label": "Acquired_Prion",
+      "start": 89,
+      "end": 122,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 89,
+          "end": 122
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Acquired_Prion",
+      "start": 124,
+      "end": 128,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 124,
+          "end": 128
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 232,
+      "end": 235,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 232,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Test_name",
+      "start": 246,
+      "end": 261,
+      "text": "CSF tau protein",
+      "spans": [
+        {
+          "start": 246,
+          "end": 261
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Test_name",
+      "start": 266,
+      "end": 275,
+      "text": "tau-pT181",
+      "spans": [
+        {
+          "start": 266,
+          "end": 275
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Sporadic_Prion",
+      "start": 310,
+      "end": 322,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 310,
+          "end": 322
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Sporadic_Prion",
+      "start": 324,
+      "end": 328,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 324,
+          "end": 328
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Acquired_Prion",
+      "start": 348,
+      "end": 352,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 348,
+          "end": 352
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Sporadic_Prion",
+      "start": 357,
+      "end": 361,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 357,
+          "end": 361
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Acquired_Prion",
+      "start": 379,
+      "end": 383,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 379,
+          "end": 383
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Test_name",
+      "start": 400,
+      "end": 413,
+      "text": "Innotest hTau",
+      "spans": [
+        {
+          "start": 400,
+          "end": 413
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Test_name",
+      "start": 418,
+      "end": 435,
+      "text": "Innotest P-Thr181",
+      "spans": [
+        {
+          "start": 418,
+          "end": 435
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 478,
+      "end": 493,
+      "text": "CSF tau protein",
+      "spans": [
+        {
+          "start": 478,
+          "end": 493
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Sporadic_Prion",
+      "start": 512,
+      "end": 516,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 512,
+          "end": 516
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Acquired_Prion",
+      "start": 563,
+      "end": 567,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 563,
+          "end": 567
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Sporadic_Prion",
+      "start": 627,
+      "end": 631,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 627,
+          "end": 631
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Acquired_Prion",
+      "start": 675,
+      "end": 679,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 675,
+          "end": 679
+        }
+      ]
+    },
+    {
+      "id": "T51",
+      "label": "Acquired_Prion",
+      "start": 759,
+      "end": 763,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 759,
+          "end": 763
+        }
+      ]
+    },
+    {
+      "id": "T53",
+      "label": "Sporadic_Prion",
+      "start": 772,
+      "end": 776,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 772,
+          "end": 776
+        }
+      ]
+    },
+    {
+      "id": "T59",
+      "label": "Sporadic_Prion",
+      "start": 857,
+      "end": 861,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 857,
+          "end": 861
+        }
+      ]
+    },
+    {
+      "id": "T62",
+      "label": "Acquired_Prion",
+      "start": 889,
+      "end": 893,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 889,
+          "end": 893
+        }
+      ]
+    },
+    {
+      "id": "T70",
+      "label": "Acquired_Prion",
+      "start": 974,
+      "end": 978,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 974,
+          "end": 978
+        }
+      ]
+    },
+    {
+      "id": "T72",
+      "label": "Sporadic_Prion",
+      "start": 987,
+      "end": 991,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 987,
+          "end": 991
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 1000,
+      "end": 1015,
+      "text": "CSF tau protein",
+      "spans": [
+        {
+          "start": 1000,
+          "end": 1015
+        }
+      ]
+    },
+    {
+      "id": "T77",
+      "label": "Sporadic_Prion",
+      "start": 1062,
+      "end": 1066,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 1062,
+          "end": 1066
+        }
+      ]
+    },
+    {
+      "id": "T79",
+      "label": "Acquired_Prion",
+      "start": 1071,
+      "end": 1075,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1071,
+          "end": 1075
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 1104,
+      "end": 1117,
+      "text": "CSF tau-pT181",
+      "spans": [
+        {
+          "start": 1104,
+          "end": 1117
+        }
+      ]
+    },
+    {
+      "id": "T84",
+      "label": "Acquired_Prion",
+      "start": 1147,
+      "end": 1151,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1147,
+          "end": 1151
+        }
+      ]
+    },
+    {
+      "id": "T88",
+      "label": "Sporadic_Prion",
+      "start": 1175,
+      "end": 1179,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 1175,
+          "end": 1179
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 1181,
+      "end": 1227,
+      "text": "Measurement of CSF tau-pT181/tau protein ratio",
+      "spans": [
+        {
+          "start": 1181,
+          "end": 1227
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 1274,
+      "end": 1289,
+      "text": "CSF tau protein",
+      "spans": [
+        {
+          "start": 1274,
+          "end": 1289
+        }
+      ]
+    },
+    {
+      "id": "T97",
+      "label": "Acquired_Prion",
+      "start": 1307,
+      "end": 1311,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1307,
+          "end": 1311
+        }
+      ]
+    },
+    {
+      "id": "T99",
+      "label": "Sporadic_Prion",
+      "start": 1315,
+      "end": 1319,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 1315,
+          "end": 1319
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 1349,
+      "end": 1362,
+      "text": "CSF tau-pT181",
+      "spans": [
+        {
+          "start": 1349,
+          "end": 1362
+        }
+      ]
+    },
+    {
+      "id": "T104",
+      "label": "Acquired_Prion",
+      "start": 1372,
+      "end": 1376,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1372,
+          "end": 1376
+        }
+      ]
+    },
+    {
+      "id": "T107",
+      "label": "Acquired_Prion",
+      "start": 1470,
+      "end": 1474,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1470,
+          "end": 1474
+        }
+      ]
+    }
+  ]
+}

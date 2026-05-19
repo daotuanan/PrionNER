@@ -1,0 +1,307 @@
+{
+  "doc_id": "prion_0699",
+  "text": "Creutzfeldt-Jakob disease (CJD) is considered to be very rare in the population, and the psychiatric manifestation of the disease even rarer with only one report in the past few years in Taiwan.\nTo clarify whether the psychiatric manifestation of CJD is really rare or whether it is neglected in Taiwan, the authors reviewed the discharge notes of patients who had been admitted to a neurological unit in the past 15 years and conducted a chart review of the patients of CJD supported by the clinical courses, EEG finding and brain biopsies.\nAn inquiry was made by telephoning their families to follow up their condition after discharge.\nFive of the 8 cases with CJD had psychiatric symptoms including changes of mood, thought, behavior and perception during their course of illness.\nFour cases had been sent to the psychiatric unit and received treatment under several kinds of psychiatric diagnoses.\nTwo patients had been admitted to the psychiatric unit and one had received electroconvulsive treatment.\nTwo of the patients had been suspected to be the victims of neuroleptic malignant syndrome.\nIt is likely that it is psychiatrists who will meet CJD patients first in the early stages of disease.\nCJD should be kept in mind and EEGs with detailed neurological checkups should be completed, if the cognitive functions of the patients with unusual neurological symptoms deteriorate quickly and their psychiatric symptoms fail to respond to any treatment.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 247,
+      "end": 250,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 247,
+          "end": 250
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Time",
+      "start": 414,
+      "end": 422,
+      "text": "15 years",
+      "spans": [
+        {
+          "start": 414,
+          "end": 422
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 471,
+      "end": 474,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 471,
+          "end": 474
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 510,
+      "end": 513,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 510,
+          "end": 513
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Anatomic_location",
+      "start": 526,
+      "end": 531,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 526,
+          "end": 531
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 532,
+      "end": 540,
+      "text": "biopsies",
+      "spans": [
+        {
+          "start": 532,
+          "end": 540
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 663,
+      "end": 666,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 663,
+          "end": 666
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 671,
+      "end": 691,
+      "text": "psychiatric symptoms",
+      "spans": [
+        {
+          "start": 671,
+          "end": 691
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 702,
+      "end": 717,
+      "text": "changes of mood",
+      "spans": [
+        {
+          "start": 702,
+          "end": 717
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 702,
+      "end": 726,
+      "text": "changes of thought",
+      "spans": [
+        {
+          "start": 702,
+          "end": 712
+        },
+        {
+          "start": 719,
+          "end": 726
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 702,
+      "end": 736,
+      "text": "changes of behavior",
+      "spans": [
+        {
+          "start": 702,
+          "end": 712
+        },
+        {
+          "start": 728,
+          "end": 736
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 702,
+      "end": 751,
+      "text": "changes of perception",
+      "spans": [
+        {
+          "start": 702,
+          "end": 712
+        },
+        {
+          "start": 741,
+          "end": 751
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T20",
+      "label": "Treatment",
+      "start": 978,
+      "end": 1005,
+      "text": "electroconvulsive treatment",
+      "spans": [
+        {
+          "start": 978,
+          "end": 1005
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Differential_Diagnosis",
+      "start": 1067,
+      "end": 1097,
+      "text": "neuroleptic malignant syndrome",
+      "spans": [
+        {
+          "start": 1067,
+          "end": 1097
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Generic_Prion",
+      "start": 1151,
+      "end": 1154,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1151,
+          "end": 1154
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Time",
+      "start": 1177,
+      "end": 1200,
+      "text": "early stages of disease",
+      "spans": [
+        {
+          "start": 1177,
+          "end": 1200
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Generic_Prion",
+      "start": 1202,
+      "end": 1205,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1202,
+          "end": 1205
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Test_name",
+      "start": 1233,
+      "end": 1237,
+      "text": "EEGs",
+      "spans": [
+        {
+          "start": 1233,
+          "end": 1237
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Symptom",
+      "start": 1343,
+      "end": 1372,
+      "text": "unusual neurological symptoms",
+      "spans": [
+        {
+          "start": 1343,
+          "end": 1372
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Symptom",
+      "start": 1403,
+      "end": 1423,
+      "text": "psychiatric symptoms",
+      "spans": [
+        {
+          "start": 1403,
+          "end": 1423
+        }
+      ]
+    }
+  ]
+}

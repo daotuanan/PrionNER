@@ -1,0 +1,36 @@
+T1	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T2	Generic_Prion 27 30	CJD
+T3	Generic_Prion 46 61	"prion" disease
+T5	Test_name 64 67	MRI
+T6	Findings 140 154	high intensity
+T7	Anatomic_location 162 175	basal ganglia
+T8	Sequences 179 183	T2WI
+T9	Generic_Prion 210 213	CJD
+T18	Anatomic_location 261 269	Cerebral
+T10	Findings 270 277	atrophy
+T11	Time 367 375	8 months
+T22	Findings 380 396	abnormal density
+T26	Findings 400 425	abnormal signal intensity
+T12	Test_name 442 444	CT
+T13	Sequences 448 452	T1WI
+T14	Test_name 456 459	MRI
+T39	Anatomic_location 461 469	Cerebral
+T35	Test_name 470 481	angiography
+T15	Findings 540 561	High signal intensity
+T16	Sequences 565 569	T2WI
+T17	Anatomic_location 577 590	basal ganglia
+T19	Sequences 632 636	T2WI
+T20	Findings 644 665	high signal intensity
+T21	Anatomic_location 673 688	cerebral cortex
+T23	Anatomic_location 740 755	temporal cortex
+T24	Findings 774 795	high signal intensity
+T25	Anatomic_location 803 818	temporal cortex
+T36	Findings 855 873	abnormal intensity
+T27	Anatomic_location 881 894	basal ganglia
+T28	Findings 930 951	high signal intensity
+T29	Anatomic_location 959 974	temporal cortex
+T30	Sequences 978 982	T2WI
+T31	Generic_Prion 1039 1042	CJD
+T37	Test_name 1067 1069	MR
+T32	Generic_Prion 1095 1110	"prion" disease
+T33	Generic_Prion 1121 1124	CJD

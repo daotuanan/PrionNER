@@ -1,0 +1,9 @@
+T2	Symptom 13 35	neurological syndromes
+T9	Symptom 117 139	neurological syndromes
+T3	Test_name 231 250	computed tomography
+T4	Test_name 254 280	magnetic resonance imaging
+T5	Anatomic_location 288 293	brain
+T6	Anatomic_location 297 302	spine
+T10	Test_name 307 338	cerebrospinal fluid examination
+T11	Differential_Diagnosis 382 418	paraneoplastic neurological diseases
+T8	Generic_Prion 423 448	Creutzfeldt-Jakob disease

@@ -1,0 +1,7 @@
+Serial magnetic resonance (MR) imagings of two autopsied patients with Creutzfeldt-Jakob disease (CJD) are presented.
+Both patients showed a dramatic progression of brain atrophy.
+The initial MR imagings were, however, interpreted as normal except for localized mild cortical atrophy in one patient.
+When a normal MR image is obtained in a demented middle-aged or aged patient, CJD may still need to be ruled out: follow up MR imaging may be useful.
+
+<Related> YES or NO
+[DONE]

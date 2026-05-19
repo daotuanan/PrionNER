@@ -1,0 +1,123 @@
+{
+  "doc_id": "prion_0697",
+  "text": "We report a 25-year-old man with Creutzfeldt-Jakob disease (CJD) who had received dura mater embolization in the external carotid artery for a nasopharyngeal angiofibroma 90 months earlier.\nThe patient was heterozygotous (Met/Val) at codon 129.\nThis case suggests that dura mater embolization can be responsible for the CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 12,
+      "end": 23,
+      "text": "25-year-old",
+      "spans": [
+        {
+          "start": 12,
+          "end": 23
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 33,
+      "end": 58,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 33,
+          "end": 58
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 60,
+      "end": 63,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 60,
+          "end": 63
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Treatment",
+      "start": 82,
+      "end": 105,
+      "text": "dura mater embolization",
+      "spans": [
+        {
+          "start": 82,
+          "end": 105
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 113,
+      "end": 136,
+      "text": "external carotid artery",
+      "spans": [
+        {
+          "start": 113,
+          "end": 136
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 143,
+      "end": 157,
+      "text": "nasopharyngeal",
+      "spans": [
+        {
+          "start": 143,
+          "end": 157
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 171,
+      "end": 188,
+      "text": "90 months earlier",
+      "spans": [
+        {
+          "start": 171,
+          "end": 188
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Treatment",
+      "start": 269,
+      "end": 292,
+      "text": "dura mater embolization",
+      "spans": [
+        {
+          "start": 269,
+          "end": 292
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 320,
+      "end": 323,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 320,
+          "end": 323
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+T1	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T2	Symptom 87 115	rapidly progressive dementia
+T3	Symptom 120 138	neurological signs
+T18	Sporadic_Prion 302 315	sporadic form
+T19	Acquired_Prion 340 351	variant CJD
+T4	Acquired_Prion 358 362	vCJD
+T5	Generic_Prion 421 453	bovine spongiform encephalopathy
+T6	Generic_Prion 455 458	BSE
+T21	Findings 461 472	High signal
+T7	Anatomic_location 480 488	striatum
+T20	Sequences 492 503	T2-weighted
+T8	Sequences 505 510	FLAIR
+T22	Sequences 515 533	diffusion weighted
+T23	Sequences 535 537	DW
+T9	Test_name 539 542	MRI
+T29	Anatomic_location 554 562	cortical
+T24	Findings 563 574	high signal
+T10	Sequences 578 583	FLAIR
+T25	Sequences 588 590	DW
+T11	Test_name 591 594	MRI
+T12	Sporadic_Prion 625 629	sCJD
+T30	Anatomic_location 636 644	pulvinar
+T13	Findings 636 649	pulvinar sign
+T26	Findings 663 674	high signal
+T14	Anatomic_location 682 698	pulvinar thalami
+T27	Findings 742 753	high signal
+T15	Anatomic_location 761 774	basal ganglia
+T16	Acquired_Prion 808 812	vCJD

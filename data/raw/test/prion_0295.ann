@@ -1,0 +1,56 @@
+T1	vCJD 24 57	Variant Creutzfeldt-Jakob disease
+T2	vCJD 59 63	vCJD
+T3	Differential_Diagnosis 98 106	dementia
+T4	Generic_Prion 161 193	bovine spongiform encephalopathy
+T6	Anatomic_location 229 256	pulvinar (posterior) nuclei
+T7	Anatomic_location 264 272	thalamus
+T9	Imaging_finding 274 287	pulvinar sign
+T12	Imaging_test 298 307	MR images
+T13	vCJD 369 373	vCJD
+T14	Imaging_test 499 509	MR imaging
+T15	vCJD 529 533	vCJD
+T16	Imaging_test 611 620	MR images
+T17	vCJD 643 647	vCJD
+T18	Duration 672 685	6-year period
+T20	Anatomic_location 776 784	pulvinar
+T21	Imaging_finding 776 789	pulvinar sign
+T23	Imaging_finding 913 927	hyperintensity
+T24	Anatomic_location 935 943	pulvinar
+T25	Imaging_finding 1014 1028	hyperintensity
+T27	Anatomic_location 1171 1179	pulvinar
+T28	Imaging_finding 1171 1184	pulvinar sign
+T31	vCJD 1206 1210	vCJD
+T32	Anatomic_location 1244 1252	pulvinar
+T33	Imaging_finding 1244 1257	pulvinar sign
+T34	Imaging_finding 1273 1287	hyperintensity
+T35	Anatomic_location 1295 1303	pulvinar
+T36	Anatomic_location 1320 1336	anterior putamen
+T41	Imaging_sequence 1370 1381	T1-weighted
+T45	Imaging_sequence 1399 1410	T2-weighted
+T49	Imaging_sequence 1427 1450	proton density-weighted
+T54	Imaging_sequence 1509 1514	FLAIR
+T55	Imaging_sequence 1524 1549	Diffusion-weighted images
+T58	Anatomic_location 1604 1612	pulvinar
+T59	Imaging_finding 1604 1617	pulvinar sign
+T61	Imaging_finding 1646 1660	hyperintensity
+T62	Anatomic_location 1668 1695	dorsomedial thalamic nuclei
+T64	Anatomic_location 1703 1715	caudate head
+T66	Anatomic_location 1727 1753	periaqueductal gray matter
+T68	Imaging_sequence 1763 1768	FLAIR
+T70	Anatomic_location 1847 1855	pulvinar
+T71	Imaging_finding 1847 1860	pulvinar sign
+T72	Imaging_test 1864 1873	MR images
+T73	vCJD 1915 1919	vCJD
+T74	Imaging_sequence 1921 1926	FLAIR
+T78	Imaging_test 1985 1994	MR images
+T79	Choose_Related 2064 2067	YES
+T8	Imaging_test 967 969	MR
+T11	Complication 111 116	death
+T19	Age 120 125	young
+T22	Imaging_sequence 1472 1507	fluid-attenuated inversion-recovery
+T29	Choose_Done 2075 2079	DONE
+T5	Imaging_finding 207 221	hyperintensity
+T10	Anatomic_location 274 282	pulvinar
+T30	Autopsy 801 820	neuropathologically
+T80	Anatomic_location 292 297	brain
+T81	Anatomic_location 1051 1056	brain

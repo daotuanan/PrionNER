@@ -1,0 +1,279 @@
+{
+  "doc_id": "prion_0294",
+  "text": "Thalamic degenerations or dementias are poorly understood conditions.\nThe familial forms are (1) selective thalamic degenerations and (2) thalamic degenerations associated with multiple system atrophy.\nSelective thalamic degenerations share clinical and pathologic features with fatal familial insomnia, an autosomal dominant disease linked to a mutation at codon 178 of the prion protein (PrP) gene that causes the substitution of asparagine for aspartic acid (178Asn mutation).\nWe amplified the carboxyl terminal coding region of the PrP gene from subjects with selective thalamic dementia or thalamic dementia associated with multiple system atrophy.\nThree of the four kindreds with selective thalamic dementia and none of the three kindreds with thalamic dementia associated with multiple system atrophy had the PrP 178Asn mutation.\nThus, analysis of the PrP gene may be useful in diagnosing the subtypes of thalamic dementia.\nMoreover, since selective thalamic dementia with the PrP 178Asn mutation and fatal familial insomnia share clinical and histopathologic features, we propose that they are the same disease.",
+  "entities": [
+    {
+      "id": "T24",
+      "label": "Anatomic_location",
+      "start": 0,
+      "end": 8,
+      "text": "Thalamic",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Differential_Diagnosis",
+      "start": 0,
+      "end": 22,
+      "text": "Thalamic degenerations",
+      "spans": [
+        {
+          "start": 0,
+          "end": 22
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Differential_Diagnosis",
+      "start": 26,
+      "end": 35,
+      "text": "dementias",
+      "spans": [
+        {
+          "start": 26,
+          "end": 35
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Differential_Diagnosis",
+      "start": 97,
+      "end": 129,
+      "text": "selective thalamic degenerations",
+      "spans": [
+        {
+          "start": 97,
+          "end": 129
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 107,
+      "end": 115,
+      "text": "thalamic",
+      "spans": [
+        {
+          "start": 107,
+          "end": 115
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Anatomic_location",
+      "start": 138,
+      "end": 146,
+      "text": "thalamic",
+      "spans": [
+        {
+          "start": 138,
+          "end": 146
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Differential_Diagnosis",
+      "start": 138,
+      "end": 160,
+      "text": "thalamic degenerations",
+      "spans": [
+        {
+          "start": 138,
+          "end": 160
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Differential_Diagnosis",
+      "start": 177,
+      "end": 201,
+      "text": "multiple system atrophy.",
+      "spans": [
+        {
+          "start": 177,
+          "end": 201
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Differential_Diagnosis",
+      "start": 202,
+      "end": 234,
+      "text": "Selective thalamic degenerations",
+      "spans": [
+        {
+          "start": 202,
+          "end": 234
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Familial_Prion",
+      "start": 279,
+      "end": 302,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 279,
+          "end": 302
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Differential_Diagnosis",
+      "start": 307,
+      "end": 333,
+      "text": "autosomal dominant disease",
+      "spans": [
+        {
+          "start": 307,
+          "end": 333
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Differential_Diagnosis",
+      "start": 564,
+      "end": 591,
+      "text": "selective thalamic dementia",
+      "spans": [
+        {
+          "start": 564,
+          "end": 591
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Differential_Diagnosis",
+      "start": 595,
+      "end": 612,
+      "text": "thalamic dementia",
+      "spans": [
+        {
+          "start": 595,
+          "end": 612
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Differential_Diagnosis",
+      "start": 629,
+      "end": 652,
+      "text": "multiple system atrophy",
+      "spans": [
+        {
+          "start": 629,
+          "end": 652
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Differential_Diagnosis",
+      "start": 686,
+      "end": 713,
+      "text": "selective thalamic dementia",
+      "spans": [
+        {
+          "start": 686,
+          "end": 713
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Differential_Diagnosis",
+      "start": 750,
+      "end": 767,
+      "text": "thalamic dementia",
+      "spans": [
+        {
+          "start": 750,
+          "end": 767
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Differential_Diagnosis",
+      "start": 784,
+      "end": 807,
+      "text": "multiple system atrophy",
+      "spans": [
+        {
+          "start": 784,
+          "end": 807
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Differential_Diagnosis",
+      "start": 912,
+      "end": 929,
+      "text": "thalamic dementia",
+      "spans": [
+        {
+          "start": 912,
+          "end": 929
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Differential_Diagnosis",
+      "start": 947,
+      "end": 974,
+      "text": "selective thalamic dementia",
+      "spans": [
+        {
+          "start": 947,
+          "end": 974
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Familial_Prion",
+      "start": 1008,
+      "end": 1031,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 1008,
+          "end": 1031
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Sporadic_Prion",
+      "start": 1008,
+      "end": 1031,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 1008,
+          "end": 1031
+        }
+      ]
+    }
+  ]
+}

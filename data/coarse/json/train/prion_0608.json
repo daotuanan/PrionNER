@@ -1,0 +1,110 @@
+{
+  "doc_id": "prion_0608",
+  "text": "A typical case of Creutzfeldt-Jakob disease is described.\nTwo unusual morphological features-namely, `kuru-like' plaques in the cerebellum and coarsely vacuolated neurones in the striatum-are further similarities between Creutzfeldt-Jakob disease and kuru.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 18,
+      "end": 43,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 18,
+          "end": 43
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Acquired_Prion",
+      "start": 102,
+      "end": 106,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 102,
+          "end": 106
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Findings",
+      "start": 102,
+      "end": 120,
+      "text": "kuru-like' plaques",
+      "spans": [
+        {
+          "start": 102,
+          "end": 120
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Anatomic_location",
+      "start": 128,
+      "end": 138,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 128,
+          "end": 138
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Findings",
+      "start": 152,
+      "end": 171,
+      "text": "vacuolated neurones",
+      "spans": [
+        {
+          "start": 152,
+          "end": 171
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 179,
+      "end": 187,
+      "text": "striatum",
+      "spans": [
+        {
+          "start": 179,
+          "end": 187
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 221,
+      "end": 246,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 221,
+          "end": 246
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Acquired_Prion",
+      "start": 251,
+      "end": 255,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 251,
+          "end": 255
+        }
+      ]
+    }
+  ]
+}

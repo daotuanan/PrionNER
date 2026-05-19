@@ -1,0 +1,305 @@
+{
+  "doc_id": "prion_0688",
+  "text": "Reliable identification of Creutzfeldt-Jakob disease (CJD) in the UX has become essential following the suggestion that prion disease in cattle (BSE) might transmit, accidentally, to humans who eat contaminated beef.\nRecent data suggest that some cases of CJD may be clinically unrecognized; in order to examine this proposal we reviewed all cases of dementia (n = 1000+) collected in the Runwell Hospital Brain Archive between 1964 and 1990.\nWe identified 19 cases of spongiform encephalopathy of which only 11 were diagnosed before death.\nThese 11 individuals had a characteristic clinical history of CJD (relentless mental deterioration, prominent motor signs and death within a year).\nTheir brains showed little or no external abnormality.\nIn contrast, only two of the eight clinically unrecognized cases had characteristic symptoms.\nThe remaining six presented atypically; their illness lasted 3 years or more, motor signs were much less evident, and simple dementia was the most prominent feature.\nThe brains showed moderate or severe cerebral atrophy.\nOur data indicate that only about 60% of prion disease cases with pathologically typical spongiform encephalopathy were identified clinically during life.\nThis suggests that human prion disease may be more common than previously supposed and that a further review of the epidemiology of the disease is required.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 52,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 27,
+          "end": 52
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 54,
+      "end": 57,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 54,
+          "end": 57
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 120,
+      "end": 133,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 120,
+          "end": 133
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 145,
+      "end": 148,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 145,
+          "end": 148
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 256,
+      "end": 259,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 256,
+          "end": 259
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Differential_Diagnosis",
+      "start": 351,
+      "end": 359,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 351,
+          "end": 359
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Duration",
+      "start": 420,
+      "end": 441,
+      "text": "between 1964 and 1990",
+      "spans": [
+        {
+          "start": 420,
+          "end": 441
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 469,
+      "end": 494,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 469,
+          "end": 494
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Time_point",
+      "start": 527,
+      "end": 539,
+      "text": "before death",
+      "spans": [
+        {
+          "start": 527,
+          "end": 539
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Complication",
+      "start": 534,
+      "end": 539,
+      "text": "death",
+      "spans": [
+        {
+          "start": 534,
+          "end": 539
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 603,
+      "end": 606,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 603,
+          "end": 606
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 608,
+      "end": 639,
+      "text": "relentless mental deterioration",
+      "spans": [
+        {
+          "start": 608,
+          "end": 639
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 651,
+      "end": 662,
+      "text": "motor signs",
+      "spans": [
+        {
+          "start": 651,
+          "end": 662
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Complication",
+      "start": 667,
+      "end": 672,
+      "text": "death",
+      "spans": [
+        {
+          "start": 667,
+          "end": 672
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Duration",
+      "start": 680,
+      "end": 686,
+      "text": "a year",
+      "spans": [
+        {
+          "start": 680,
+          "end": 686
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Duration",
+      "start": 899,
+      "end": 914,
+      "text": "3 years or more",
+      "spans": [
+        {
+          "start": 899,
+          "end": 914
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 916,
+      "end": 927,
+      "text": "motor signs",
+      "spans": [
+        {
+          "start": 916,
+          "end": 927
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Symptom",
+      "start": 963,
+      "end": 971,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 963,
+          "end": 971
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 1041,
+      "end": 1049,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 1041,
+          "end": 1049
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Autopsy_finding",
+      "start": 1050,
+      "end": 1057,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 1050,
+          "end": 1057
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Generic_Prion",
+      "start": 1100,
+      "end": 1113,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 1100,
+          "end": 1113
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Generic_Prion",
+      "start": 1148,
+      "end": 1173,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 1148,
+          "end": 1173
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Generic_Prion",
+      "start": 1233,
+      "end": 1252,
+      "text": "human prion disease",
+      "spans": [
+        {
+          "start": 1233,
+          "end": 1252
+        }
+      ]
+    }
+  ]
+}

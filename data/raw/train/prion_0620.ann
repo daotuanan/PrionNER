@@ -1,0 +1,8 @@
+T1	Electrophysio_test 4 30	electroencephalogram (EEG)
+T2	Generic_Prion 62 87	Creutzfeldt-Jakob disease
+T3	Generic_Prion 89 92	CJD
+T7	Generic_Prion 269 272	CJD
+T9	Generic_Prion 327 330	CJD
+T10	Choose_Related 343 346	YES
+T4	Electrophysio_test 255 258	EEG
+T5	Choose_Done 354 358	DONE

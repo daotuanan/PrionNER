@@ -1,0 +1,33 @@
+T1	Generic_Prion 41 55	prion diseases
+T19	Differential_Diagnosis 152 180	other etiologies of dementia
+T2	Symptom 172 180	dementia
+T4	Generic_Prion 355 368	prion disease
+T3	Time 400 432	from March 2023 to December 2024
+T27	Test_name 582 587;596 601	blood tests
+T5	Test_name 592 601	CSF tests
+T30	Anatomic_location 603 608	brain
+T6	Test_name 609 612	MRI
+T7	Test_name 618 621	EEG
+T8	Test_name 623 634	CSF RT‐QuIC
+T9	Test_name 700 711	SIMOA™ assa
+T12	Test_name 714 723	Quanterix
+T14	Test_name 755 760	ELISA
+T15	Test_name 762 771	EUROIMMUN
+T20	Sporadic_Prion 927 939	sporadic CJD
+T21	Differential_Diagnosis 944 963	non‐prion disorders
+T22	Age 1292 1300	67 years
+T23	Symptom 1343 1371	rapidly progressive dementia
+T24	Symptom 1390 1408	pyramidal weakness
+T25	Symptom 1410 1419	myoclonus
+T26	Symptom 1424 1446	cerebellar dysfunction
+T28	Test_name 1537 1548	CSF RT‐QuIC
+T29	Sporadic_Prion 1583 1595	sporadic CJD
+T31	Differential_Diagnosis 1607 1626	non‐prion disorders
+T35	Test_name 1628 1631	CSF
+T34	Sporadic_Prion 1649 1661	sporadic CJD
+T38	Sporadic_Prion 1715 1727	Sporadic CJD
+T10	Test_name 1759 1762	CSF
+T11	Test_name 1771 1774	CSF
+T13	Test_name 1906 1909	CSF
+T16	Test_name 2018 2021	CSF
+T17	Test_name 2100 2103	CSF

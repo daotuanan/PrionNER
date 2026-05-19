@@ -1,0 +1,5 @@
+Creutzfeldt-Jakob disease is a rare fatal neurodegenerative disorder, characterized by rapidly progressive dementia and neurological signs.
+There is a need for early and accurate clinical diagnosis in order to exclude any treatable disorder.
+Additionally, it is of public interest to differentiate the sporadic form of the disease from the variant CJD type (vCJD), which is probably transmitted from cattle infected with bovine spongiform encephalopathy (BSE).
+High signal in the striatum on T2-weighted, FLAIR and diffusion weighted (DW) MRI as well as cortical high signal in FLAIR and DW MRI are the classical findings in sCJD.
+The "pulvinar sign", defined as high signal in the pulvinar thalami that is brighter than potential additional high signal in the basal ganglia, is considered pathognomonic for vCJD.

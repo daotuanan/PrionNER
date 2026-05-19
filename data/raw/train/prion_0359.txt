@@ -1,0 +1,9 @@
+OBJECTIVES: The most common familial early onset dementia mutations are found in the genes involved in Alzheimer's disease; the amyloid precursor protein (APP) and the presenilin 1 and 2 (PSEN1 and 2) genes; the prion protein gene (PRNP) may be involved.
+METHODS: Following identification of a two-octapeptide repeat insertion in PRNP, we conducted a meta-analysis to investigate the relation of number of PRNP octapeptide repeats with age at disease onset and duration of illness; identifying 55 patients with PRNP octapeptide repeat insertions.
+We used a linear mixed effects model to assess the relation of number of repeats with age at disease onset, and studied the effect of the number of inserted octapeptide repeats on disease duration with a Cox proportional hazards regression analysis.
+RESULTS: We found an increasing number of repeats associated with younger age at onset (p < 0.001).
+Duration of the disease decreased significantly with the length of the octapeptide repeat (p < 0.001) when adjusting for age at onset.
+CONCLUSIONS: Our findings show significant inverse associations of the length of the PRNP octapeptide repeat with age at disease onset and disease duration in the spongiform encephalopathies.
+
+<Related> YES or NO
+[DONE]

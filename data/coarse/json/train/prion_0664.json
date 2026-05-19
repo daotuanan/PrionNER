@@ -1,0 +1,214 @@
+{
+  "doc_id": "prion_0664",
+  "text": "A 10-year-old boy underwent a posterior fossa craniectomy for removal of a grade 2 cerebellar astrocytoma.\nDural closure was achieved by the placement of a dural graft.\nEight years later the patient developed dementia and myoclonus.\nElectroencephalography demonstrated generalized slow activity that evolved into a pattern of periodic triphasic waves.\nComputed tomography scan and magnetic resonance imaging were unremarkable.\nBrain biopsy confirmed spongiform encephalopathy of the Creutzfeldt-Jakob type.\nIn the light of previous reports of four similar occurrences, and of our own experience with two further cases of this disease, we believe that the cadaveric dura was the source of transmission of Creutzfeld-Jakob disease in our patient.\nThe authors remark the importance of the awareness of this late complication of dural substitutes, both for the diagnosis of possible future cases and for taking preventive measures to stop the spread of the disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "10-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Treatment",
+      "start": 30,
+      "end": 57,
+      "text": "posterior fossa craniectomy",
+      "spans": [
+        {
+          "start": 30,
+          "end": 57
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 83,
+      "end": 93,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 83,
+          "end": 93
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Treatment",
+      "start": 141,
+      "end": 167,
+      "text": "placement of a dural graft",
+      "spans": [
+        {
+          "start": 141,
+          "end": 167
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Time",
+      "start": 169,
+      "end": 186,
+      "text": "Eight years later",
+      "spans": [
+        {
+          "start": 169,
+          "end": 186
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 209,
+      "end": 217,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 209,
+          "end": 217
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 222,
+      "end": 231,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 222,
+          "end": 231
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 233,
+      "end": 255,
+      "text": "Electroencephalography",
+      "spans": [
+        {
+          "start": 233,
+          "end": 255
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 352,
+      "end": 376,
+      "text": "Computed tomography scan",
+      "spans": [
+        {
+          "start": 352,
+          "end": 376
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 381,
+      "end": 407,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 381,
+          "end": 407
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 427,
+      "end": 432,
+      "text": "Brain",
+      "spans": [
+        {
+          "start": 427,
+          "end": 432
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 433,
+      "end": 439,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 433,
+          "end": 439
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Findings",
+      "start": 450,
+      "end": 475,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 450,
+          "end": 475
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 483,
+      "end": 505,
+      "text": "Creutzfeldt-Jakob type",
+      "spans": [
+        {
+          "start": 483,
+          "end": 505
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Generic_Prion",
+      "start": 704,
+      "end": 728,
+      "text": "Creutzfeld-Jakob disease",
+      "spans": [
+        {
+          "start": 704,
+          "end": 728
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Treatment",
+      "start": 825,
+      "end": 843,
+      "text": "dural substitutes,",
+      "spans": [
+        {
+          "start": 825,
+          "end": 843
+        }
+      ]
+    }
+  ]
+}

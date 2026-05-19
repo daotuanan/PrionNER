@@ -1,0 +1,23 @@
+T1	Acquired_Prion 0 33	Variant Creutzfeldt-Jakob disease
+T2	Acquired_Prion 35 39	vCJD
+T3	Generic_Prion 66 85	human prion disease
+T4	Generic_Prion 129 161	bovine spongiform encephalopathy
+T6	Test_name 195 209	neuropathology
+T5	Acquired_Prion 213 217	vCJD
+T9	Findings 264 284	PrP(sc) accumulation
+T7	Anatomic_location 292 297	brain
+T8	Test_name 303 322	immunocytochemistry
+T18	Findings 349 372	accumulation of PrP(sc)
+T10	Anatomic_location 396 418	central nervous system
+T11	Anatomic_location 430 445	sensory ganglia
+T12	Anatomic_location 450 466	lymphoid tissues
+T13	Test_name 511 527	tonsillar biopsy
+T14	Acquired_Prion 572 576	vCJD
+T15	Findings 584 607	accumulation of PrP(sc)
+T16	Anatomic_location 611 627	lymphoid tissues
+T17	Generic_Prion 661 680	human prion disease
+T19	Acquired_Prion 722 726	vCJD
+T20	Test_name 745 770	image analysis techniques
+T23	Anatomic_location 1003 1008	brain
+T24	Acquired_Prion 1012 1016	vCJD
+T26	Generic_Prion 1075 1095	human prion diseases

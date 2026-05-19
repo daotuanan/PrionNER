@@ -1,0 +1,31 @@
+T1	Age 24 35	28 year old
+T15	Treatment 48 86	received a cadaverous dura mater graft
+T2	Age 157 171	age of 5 years
+T3	Generic_Prion 197 222	Creutzfeldt-Jakob disease
+T4	Generic_Prion 224 227	CJD
+T5	Anatomic_location 248 253	brain
+T6	Test_name 254 260	biopsy
+T7	Time 261 269	5 months
+T40	Complication 279 284	death
+T8	Test_name 292 299	autopsy
+T9	Acquired_Prion 334 348	iatrogenic CJD
+T11	Acquired_Prion 350 354	iCJD
+T13	Test_name 383 403	Immunohistochemistry
+T14	Anatomic_location 422 430	cortical
+T18	Test_name 516 537	western blot analysis
+T10	Findings 618 647	Alzheimer-type senile plaques
+T12	Anatomic_location 652 660	cerebral
+T21	Differential_Diagnosis 652 679	cerebral amyloid angiopathy
+T22	Anatomic_location 707 712	brain
+T16	Findings 714 725	Plaque-type
+T17	Findings 730 746	vascular amyloid
+T25	Differential_Diagnosis 857 876	Alzheimer's disease
+T26	Differential_Diagnosis 878 880	AD
+T27	Differential_Diagnosis 1009 1011	AD
+T28	Generic_Prion 1013 1016	CJD
+T29	Test_name 1057 1073	genetic analysis
+T32	Acquired_Prion 1218 1222	iCJD
+T19	Treatment 1267 1281	dural grafting
+T34	Generic_Prion 1352 1355	CJD
+T35	Acquired_Prion 1454 1458	iCJD
+T37	Acquired_Prion 1487 1491	iCJD

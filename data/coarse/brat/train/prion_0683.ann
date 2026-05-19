@@ -1,0 +1,27 @@
+T1	Test_name 18 44	magnetic resonance imaging
+T2	Test_name 46 49	MRI
+T12	Test_name 62 68	biopsy
+T3	Generic_Prion 86 111	Creutzfeldt-Jakob disease
+T4	Generic_Prion 113 116	CJD
+T5	Test_name 131 134	MRI
+T7	Findings 153 162;166 182	increased signal-intensity
+T6	Sequences 163 165	T2
+T8	Anatomic_location 194 207	basal ganglia
+T9	Anatomic_location 212 219	thalami
+T10	Test_name 232 235	MRI
+T13	Anatomic_location 262 268	cortex
+T11	Findings 270 279;283 290	increased signals
+T22	Sequences 280 282	T2
+T15	Anatomic_location 312 324	white matter
+T16	Anatomic_location 335 343	U-fibers
+T17	Findings 349 360;364 371	hypointense signals
+T14	Sequences 361 363	T2
+T18	Anatomic_location 383 396	basal ganglia
+T19	Anatomic_location 402 409	thalami
+T20	Test_name 411 449	Proton magnetic resonance spectroscopy
+T23	Test_name 454 457	MRS
+T21	Findings 475 533	absence of creatine, choline and N-acetylaspartate signals
+T24	Test_name 576 579	MRI
+T25	Test_name 584 595	MRS studies
+T26	Generic_Prion 630 633	CJD
+T29	Differential_Diagnosis 645 664	dementing illnesses

@@ -1,0 +1,305 @@
+{
+  "doc_id": "prion_0747",
+  "text": "Variant Creutzfeldt-Jakob disease (vCJD) is a recently identified human prion disease that appears to arise from exposure to the bovine spongiform encephalopathy agent.\nThe clinical features and neuropathology of vCJD are distinctive, particularly the patterns of PrP(sc) accumulation in the brain.\nPrP immunocytochemistry has also demonstrated the accumulation of PrP(sc) in tissues outside the central nervous system, including sensory ganglia and lymphoid tissues.\nThese observations have allowed the use of tonsillar biopsy as an investigation to aid the diagnosis of vCJD, since accumulation of PrP(sc) in lymphoid tissues does not occur in other forms of human prion disease.\nThe patterns of PrP(sc) accumulation in vCJD can be studied by image analysis techniques, using both quantitative and qualitative approaches.\nPreliminary results of textural analysis are presented, which indicate that this approach can be used to discriminate and study the unique features of PrP(sc) accumulation in the brain in vCJD.\nThis technique has major potential as a research tool in human prion diseases, particularly for the characterisation of disease phenotype in large series of cases.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "vCJD",
+      "start": 0,
+      "end": 33,
+      "text": "Variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 33
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "vCJD",
+      "start": 35,
+      "end": 39,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 35,
+          "end": 39
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 66,
+      "end": 85,
+      "text": "human prion disease",
+      "spans": [
+        {
+          "start": 66,
+          "end": 85
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 129,
+      "end": 161,
+      "text": "bovine spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 129,
+          "end": 161
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Autopsy",
+      "start": 195,
+      "end": 209,
+      "text": "neuropathology",
+      "spans": [
+        {
+          "start": 195,
+          "end": 209
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "vCJD",
+      "start": 213,
+      "end": 217,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 213,
+          "end": 217
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy_finding",
+      "start": 264,
+      "end": 284,
+      "text": "PrP(sc) accumulation",
+      "spans": [
+        {
+          "start": 264,
+          "end": 284
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 292,
+      "end": 297,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 292,
+          "end": 297
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Molecular_assay",
+      "start": 303,
+      "end": 322,
+      "text": "immunocytochemistry",
+      "spans": [
+        {
+          "start": 303,
+          "end": 322
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Autopsy_finding",
+      "start": 349,
+      "end": 372,
+      "text": "accumulation of PrP(sc)",
+      "spans": [
+        {
+          "start": 349,
+          "end": 372
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 396,
+      "end": 418,
+      "text": "central nervous system",
+      "spans": [
+        {
+          "start": 396,
+          "end": 418
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 430,
+      "end": 445,
+      "text": "sensory ganglia",
+      "spans": [
+        {
+          "start": 430,
+          "end": 445
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 450,
+      "end": 466,
+      "text": "lymphoid tissues",
+      "spans": [
+        {
+          "start": 450,
+          "end": 466
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Autopsy",
+      "start": 511,
+      "end": 527,
+      "text": "tonsillar biopsy",
+      "spans": [
+        {
+          "start": 511,
+          "end": 527
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "vCJD",
+      "start": 572,
+      "end": 576,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 572,
+          "end": 576
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Autopsy_finding",
+      "start": 584,
+      "end": 607,
+      "text": "accumulation of PrP(sc)",
+      "spans": [
+        {
+          "start": 584,
+          "end": 607
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 611,
+      "end": 627,
+      "text": "lymphoid tissues",
+      "spans": [
+        {
+          "start": 611,
+          "end": 627
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Generic_Prion",
+      "start": 661,
+      "end": 680,
+      "text": "human prion disease",
+      "spans": [
+        {
+          "start": 661,
+          "end": 680
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "vCJD",
+      "start": 722,
+      "end": 726,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 722,
+          "end": 726
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Imaging_test",
+      "start": 745,
+      "end": 770,
+      "text": "image analysis techniques",
+      "spans": [
+        {
+          "start": 745,
+          "end": 770
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 1003,
+      "end": 1008,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 1003,
+          "end": 1008
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "vCJD",
+      "start": 1012,
+      "end": 1016,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1012,
+          "end": 1016
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Generic_Prion",
+      "start": 1075,
+      "end": 1095,
+      "text": "human prion diseases",
+      "spans": [
+        {
+          "start": 1075,
+          "end": 1095
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "doc_id": "prion_0762",
+  "text": "BACKGROUND: Iatrogenic Creutzfeldt-Jakob disease (CJD) transmission via dura mater grafts has been reported in many countries.\nIn September 1998, a 39-year-old Colorado woman was reported as having suspected CJD after receiving a dura mater graft 6 years earlier.\nMETHODS: An investigation was initiated to confirm the diagnosis of CJD and assess the possible source of CJD transmission.\nThe authors determined the presence or absence of other known CJD risk factors, checked for epidemiologic evidence of possible CJD transmission via neurosurgical instruments, and evaluated the procedures used in the collection and processing of the graft, including whether the donor may have had CJD.\nRESULTS: The CJD diagnosis was confirmed in the dural graft recipient by neuropathologic and immunodiagnostic evaluation of the autopsy brain tissue.\nShe had no history of receipt of cadaveric pituitary hormones or corneal grafts or of CJD in her family.\nThe authors found no patients who underwent a neurosurgical procedure within 6 months before or 5 months after the patient's surgery in 1992 who had been diagnosed with CJD.\nThe dura mater was obtained from a 57-year-old man with a history of dysarthria, ataxia, and behavioral changes of uncertain origin.\nThe graft was commercially prepared by use of a process that included treatment with 0.1 N sodium hydroxide and avoided commingling of dura from different donors.\nCONCLUSIONS: The patient's age, absence of evidence for other sources of CJD, the latent period, and the report of an unexplained neurologic illness in the donor of the dura mater indicate that the graft was the most likely source of CJD in this patient.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Acquired_Prion",
+      "start": 12,
+      "end": 48,
+      "text": "Iatrogenic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 12,
+          "end": 48
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 50,
+      "end": 53,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 50,
+          "end": 53
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Treatment",
+      "start": 72,
+      "end": 89,
+      "text": "dura mater grafts",
+      "spans": [
+        {
+          "start": 72,
+          "end": 89
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Time",
+      "start": 130,
+      "end": 144,
+      "text": "September 1998",
+      "spans": [
+        {
+          "start": 130,
+          "end": 144
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 148,
+      "end": 159,
+      "text": "39-year-old",
+      "spans": [
+        {
+          "start": 148,
+          "end": 159
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 208,
+      "end": 211,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 208,
+          "end": 211
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Treatment",
+      "start": 230,
+      "end": 246,
+      "text": "dura mater graft",
+      "spans": [
+        {
+          "start": 230,
+          "end": 246
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time",
+      "start": 247,
+      "end": 262,
+      "text": "6 years earlier",
+      "spans": [
+        {
+          "start": 247,
+          "end": 262
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 332,
+      "end": 335,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 332,
+          "end": 335
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 370,
+      "end": 373,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 370,
+          "end": 373
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 450,
+      "end": 453,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 450,
+          "end": 453
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 515,
+      "end": 518,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 515,
+          "end": 518
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 685,
+      "end": 688,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 685,
+          "end": 688
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 703,
+      "end": 706,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 703,
+          "end": 706
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 763,
+      "end": 778,
+      "text": "neuropathologic",
+      "spans": [
+        {
+          "start": 763,
+          "end": 778
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Test_name",
+      "start": 783,
+      "end": 799,
+      "text": "immunodiagnostic",
+      "spans": [
+        {
+          "start": 783,
+          "end": 799
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Test_name",
+      "start": 818,
+      "end": 825,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 818,
+          "end": 825
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 826,
+      "end": 831,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 826,
+          "end": 831
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Treatment",
+      "start": 873,
+      "end": 901,
+      "text": "cadaveric pituitary hormones",
+      "spans": [
+        {
+          "start": 873,
+          "end": 901
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Treatment",
+      "start": 905,
+      "end": 919,
+      "text": "corneal grafts",
+      "spans": [
+        {
+          "start": 905,
+          "end": 919
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 926,
+      "end": 929,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 926,
+          "end": 929
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Treatment",
+      "start": 991,
+      "end": 1014,
+      "text": "neurosurgical procedure",
+      "spans": [
+        {
+          "start": 991,
+          "end": 1014
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Time",
+      "start": 1015,
+      "end": 1030,
+      "text": "within 6 months",
+      "spans": [
+        {
+          "start": 1015,
+          "end": 1030
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Time",
+      "start": 1041,
+      "end": 1049,
+      "text": "5 months",
+      "spans": [
+        {
+          "start": 1041,
+          "end": 1049
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Time",
+      "start": 1081,
+      "end": 1085,
+      "text": "1992",
+      "spans": [
+        {
+          "start": 1081,
+          "end": 1085
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Generic_Prion",
+      "start": 1114,
+      "end": 1117,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1114,
+          "end": 1117
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Age",
+      "start": 1154,
+      "end": 1165,
+      "text": "57-year-old",
+      "spans": [
+        {
+          "start": 1154,
+          "end": 1165
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Symptom",
+      "start": 1188,
+      "end": 1198,
+      "text": "dysarthria",
+      "spans": [
+        {
+          "start": 1188,
+          "end": 1198
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Symptom",
+      "start": 1200,
+      "end": 1206,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 1200,
+          "end": 1206
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Symptom",
+      "start": 1212,
+      "end": 1230,
+      "text": "behavioral changes",
+      "spans": [
+        {
+          "start": 1212,
+          "end": 1230
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Generic_Prion",
+      "start": 1488,
+      "end": 1491,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1488,
+          "end": 1491
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Generic_Prion",
+      "start": 1649,
+      "end": 1652,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1649,
+          "end": 1652
+        }
+      ]
+    }
+  ]
+}

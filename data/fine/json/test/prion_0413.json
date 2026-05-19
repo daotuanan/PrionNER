@@ -1,0 +1,97 @@
+{
+  "doc_id": "prion_0413",
+  "text": "The authors present two biopsy-proved cases of Creutzfeldt-Jakob disease.\nMR appears to be more sensitive than CT in detecting pathologic changes; signal abnormalities, when found, are predominantly within gray matter and may involve only peripheral cortex.",
+  "entities": [
+    {
+      "id": "T7",
+      "label": "Autopsy",
+      "start": 24,
+      "end": 30,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 24,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 47,
+      "end": 72,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 47,
+          "end": 72
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Imaging_test",
+      "start": 74,
+      "end": 76,
+      "text": "MR",
+      "spans": [
+        {
+          "start": 74,
+          "end": 76
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Imaging_test",
+      "start": 111,
+      "end": 113,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 111,
+          "end": 113
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Imaging_finding",
+      "start": 147,
+      "end": 167,
+      "text": "signal abnormalities",
+      "spans": [
+        {
+          "start": 147,
+          "end": 167
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 206,
+      "end": 217,
+      "text": "gray matter",
+      "spans": [
+        {
+          "start": 206,
+          "end": 217
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 239,
+      "end": 256,
+      "text": "peripheral cortex",
+      "spans": [
+        {
+          "start": 239,
+          "end": 256
+        }
+      ]
+    }
+  ]
+}

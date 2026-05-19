@@ -1,0 +1,9 @@
+T1	Generic_Prion 54 79	Creutzfeldt-Jakob disease
+T2	Autopsy 121 128	autopsy
+T3	Age 132 143	51-year-old
+T4	Age 154 165	63-year-old
+T5	Symptom 201 232	non-specific prodromal symptoms
+T6	Symptom 236 264	rapidly progressive dementia
+T7	Symptom 280 326	cerebellar, pyramidal and extrapyramidal signs
+T8	Choose_Related 476 479	YES
+T9	Choose_Done 487 491	DONE

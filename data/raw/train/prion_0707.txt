@@ -1,0 +1,12 @@
+A 45 year old woman is reported who initially presented with a cerebellar syndrome, severe ataxia, and dysarthria.
+She rapidly deteriorated to coma vigile with bilateral myoclonic jerks, flexion rigidity, and immobility necessitating complete nursing.
+Her EEG showed generalised slow activity and periodic biphasic and triphasic waves.
+The CSF concentration of neuron specific enolase was very high.
+Consequently the diagnosis of Creutzfeldt-Jakob disease was established.
+Eight months later she died of respiratory complications.
+Thirty years earlier the patient had undergone corneal transplantation for keratoconus.
+Review of the organ donor's hospital records showed that death was caused by intercurrent pneumonia subsequent to subacute spongiform encephalopathy confirmed by necropsy.
+In view of two previous case reports in the literature it is presumed that the cadaveric cornea was the source of transmission of Creutzfeldt-Jakob disease in this patient.
+
+<Related> YES or NO
+[DONE]

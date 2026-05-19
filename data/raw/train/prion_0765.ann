@@ -1,0 +1,12 @@
+T1	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T2	Generic_Prion 27 30	CJD
+T3	Autopsy 149 163	autopsy-proven
+T4	Generic_Prion 172 175	CJD
+T5	Differential_Diagnosis 200 228	epilepsia partialis continua
+T6	Generic_Prion 282 285	CJD
+T7	Duration 291 304	several weeks
+T8	Generic_Prion 306 309	CJD
+T9	Differential_Diagnosis 374 402	epilepsia partialis continua
+T10	Choose_Related 425 428	YES
+T11	Differential_Diagnosis 67 88	neurological disorder
+T12	Choose_Done 436 440	DONE

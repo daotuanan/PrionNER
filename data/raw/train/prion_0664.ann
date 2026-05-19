@@ -1,0 +1,18 @@
+T1	Age 2 13	10-year-old
+T3	Duration 169 186	Eight years later
+T4	Symptom 209 217	dementia
+T5	Symptom 222 231	myoclonus
+T6	Electrophysio_test 233 255	Electroencephalography
+T9	Imaging_test 352 376	Computed tomography scan
+T10	Imaging_test 381 407	magnetic resonance imaging
+T12	Autopsy 433 439	biopsy
+T13	Autopsy_finding 450 475	spongiform encephalopathy
+T14	Generic_Prion 483 505	Creutzfeldt-Jakob type
+T18	Generic_Prion 704 728	Creutzfeld-Jakob disease
+T21	Choose_Related 973 976	YES
+T2	Treatment 30 57	posterior fossa craniectomy
+T7	Treatment 141 167	placement of a dural graft
+T8	Treatment 825 843	dural substitutes,
+T11	Choose_Done 984 988	DONE
+T15	Anatomic_location 427 432	Brain
+T16	Anatomic_location 83 93	cerebellar

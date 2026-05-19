@@ -1,0 +1,305 @@
+{
+  "doc_id": "prion_0603",
+  "text": "We studied two cases of ataxic Creutzfeldt-Jakob disease.\nEEG, CT, evoked responses, and CSF were normal in one purely ataxic patient.\nDiagnosis was established by cerebellar biopsy.\nAutopsy demonstrated devastating spongiform changes in the cerebellum, basal ganglia, and thalamus with rare focal changes in cerebral cortex.\nIn the second patient, late generalized changes developed with dementia.\nDiagnostic studies included abnormal visual evoked responses, CSF with abnormal oligoclonal bands and IgG, and subacute spongiform encephalopathy in frontal lobe biopsy.\nEarly diagnosis is best established by biopsy of brain areas most likely to be involved on the basis of clinical neurologic findings.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Symptom",
+      "start": 24,
+      "end": 30,
+      "text": "ataxic",
+      "spans": [
+        {
+          "start": 24,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 31,
+      "end": 56,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 31,
+          "end": 56
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Electrophysio_test",
+      "start": 58,
+      "end": 61,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 58,
+          "end": 61
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Imaging_test",
+      "start": 63,
+      "end": 65,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 63,
+          "end": 65
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Electrophysio_test",
+      "start": 67,
+      "end": 83,
+      "text": "evoked responses",
+      "spans": [
+        {
+          "start": 67,
+          "end": 83
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Blood_biomarker_test",
+      "start": 89,
+      "end": 92,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 89,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 119,
+      "end": 125,
+      "text": "ataxic",
+      "spans": [
+        {
+          "start": 119,
+          "end": 125
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 164,
+      "end": 174,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 164,
+          "end": 174
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy",
+      "start": 175,
+      "end": 181,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 175,
+          "end": 181
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Autopsy",
+      "start": 183,
+      "end": 190,
+      "text": "Autopsy",
+      "spans": [
+        {
+          "start": 183,
+          "end": 190
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Autopsy_finding",
+      "start": 216,
+      "end": 234,
+      "text": "spongiform changes",
+      "spans": [
+        {
+          "start": 216,
+          "end": 234
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 242,
+      "end": 252,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 242,
+          "end": 252
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 254,
+      "end": 267,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 254,
+          "end": 267
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 273,
+      "end": 281,
+      "text": "thalamus",
+      "spans": [
+        {
+          "start": 273,
+          "end": 281
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 309,
+      "end": 324,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 309,
+          "end": 324
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 389,
+      "end": 397,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 389,
+          "end": 397
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Electrophysio_test",
+      "start": 436,
+      "end": 459,
+      "text": "visual evoked responses",
+      "spans": [
+        {
+          "start": 436,
+          "end": 459
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Blood_biomarker_test",
+      "start": 461,
+      "end": 464,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 461,
+          "end": 464
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Autopsy_finding",
+      "start": 510,
+      "end": 544,
+      "text": "subacute spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 510,
+          "end": 544
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Anatomic_location",
+      "start": 548,
+      "end": 560,
+      "text": "frontal lobe",
+      "spans": [
+        {
+          "start": 548,
+          "end": 560
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Autopsy",
+      "start": 561,
+      "end": 567,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 561,
+          "end": 567
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Autopsy",
+      "start": 608,
+      "end": 614,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 608,
+          "end": 614
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Anatomic_location",
+      "start": 618,
+      "end": 623,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 618,
+          "end": 623
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "doc_id": "prion_0710",
+  "text": "Fatal familial insomnia (FFI) is an inherited prion disease linked to a mutation at codon 178 of the PRNP gene that results in aspartic acid to asparagine substitution, in coupling phase with methionine at position 129.\nThe disease is characterized clinically by insomnia with disturbances of the autonomic, endocrine, and motor systems and neuropathologically by selective degeneration of the thalamus.\nPhenotypic variability is well known and has been linked to homozygosity or heterozygosity at PRNP codon 129.\nWe report the clinical, neuropathologic, and biochemical findings and genomic analysis of a patient with FFI from a new Italian kindred.\nAlthough homozygous for methionine at codon 129, this patient showed some clinical and pathologic features most commonly found in heterozygotes.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Familial_Prion",
+      "start": 0,
+      "end": 23,
+      "text": "Fatal familial insomnia",
+      "spans": [
+        {
+          "start": 0,
+          "end": 23
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Familial_Prion",
+      "start": 25,
+      "end": 28,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 25,
+          "end": 28
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 46,
+      "end": 59,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 46,
+          "end": 59
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Test_name",
+      "start": 72,
+      "end": 80,
+      "text": "mutation",
+      "spans": [
+        {
+          "start": 72,
+          "end": 80
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 263,
+      "end": 271,
+      "text": "insomnia",
+      "spans": [
+        {
+          "start": 263,
+          "end": 271
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 277,
+      "end": 336,
+      "text": "disturbances of the autonomic, endocrine, and motor systems",
+      "spans": [
+        {
+          "start": 277,
+          "end": 336
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Findings",
+      "start": 364,
+      "end": 402,
+      "text": "selective degeneration of the thalamus",
+      "spans": [
+        {
+          "start": 364,
+          "end": 402
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 394,
+      "end": 402,
+      "text": "thalamus",
+      "spans": [
+        {
+          "start": 394,
+          "end": 402
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 584,
+      "end": 600,
+      "text": "genomic analysis",
+      "spans": [
+        {
+          "start": 584,
+          "end": 600
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Familial_Prion",
+      "start": 619,
+      "end": 622,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 619,
+          "end": 622
+        }
+      ]
+    }
+  ]
+}

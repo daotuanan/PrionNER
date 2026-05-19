@@ -1,0 +1,6 @@
+T1	Choose_Related 398 401	YES
+T2	Generic_Prion 0 6	Prions
+T3	Treatment 83 112	Ocular tissue transplantation
+T4	Treatment 293 316	scleral transplantation
+T5	Treatment 371 385	ocular surgery
+T6	Choose_Done 409 413	DONE

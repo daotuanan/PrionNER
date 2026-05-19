@@ -1,0 +1,7 @@
+Magnetic resonance (MR) imaging and CT of three patients with Creutzfeldt-Jakob disease (CJD) showed bilateral cortical atrophy and no apparent white matter changes.
+Serial examinations revealed the progressive nature of the atrophy, findings compatible with the patients' clinical deterioration.
+At autopsy some white matter abnormalities were detected in one patient 6 months after MR imaging.
+The available data suggest that the white matter abnormalities, if present, develop during the final stage of CJD.
+
+<Related> YES or NO
+[DONE]

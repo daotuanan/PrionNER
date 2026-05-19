@@ -1,0 +1,17 @@
+T19	Sporadic_Prion 23 57	sporadic Creutzfeldt-Jakob disease
+T20	Sporadic_Prion 59 63	sCJD
+T3	Symptom 80 98	cortical syndromes
+T2	Time 113 122	15 months
+T4	Symptom 143 149	ataxia
+T5	Symptom 161 170	myoclonus
+T6	Test_name 197 213	EEG examinations
+T9	Anatomic_location 271 279	cortical
+T12	Anatomic_location 284 292	striatal
+T7	Anatomic_location 399 408	brainstem
+T8	Anatomic_location 412 422	cerebellum
+T28	Test_name 477 497	immunohistochemistry
+T10	Anatomic_location 552 567	cerebral cortex
+T11	Test_name 569 587	Molecular analysis
+T31	Sporadic_Prion 836 840	sCJD
+T15	Sporadic_Prion 987 991	sCJD
+T18	Sporadic_Prion 1188 1192	sCJD

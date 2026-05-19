@@ -1,0 +1,8 @@
+T1	Generic_Prion 15 40	Creutzfeldt-Jakob disease
+T10	Complication 155 160	death
+T8	Test_name 185 197	pathological
+T6	Findings 185 206	pathological findings
+T2	Findings 226 239	neuronal loss
+T5	Findings 241 253	astrocytosis
+T3	Findings 255 273	spongiform changes
+T9	Findings 300 324	white matter involvement

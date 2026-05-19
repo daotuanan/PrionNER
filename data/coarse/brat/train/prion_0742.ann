@@ -1,0 +1,24 @@
+T1	Generic_Prion 23 48	Creutzfeldt-Jakob disease
+T2	Generic_Prion 50 53	CJD
+T4	Test_name 99 113	neuropathology
+T14	Test_name 145 148	EEG
+T5	Test_name 163 191	cerebrospinal fluid analysis
+T6	Sequences 234 236	T2
+T3	Test_name 237 240	MRI
+T8	Findings 252 268	hyperintensities
+T9	Anatomic_location 276 289	basal ganglia
+T7	Sequences 322 340	diffusion-weighted
+T10	Test_name 341 344	MRI
+T11	Sequences 346 349	DWI
+T13	Sequences 401 404	DWI
+T15	Generic_Prion 449 452	CJD
+T17	Findings 476 503	hyperintense signal changes
+T18	Anatomic_location 511 524	basal ganglia
+T19	Sequences 528 531	DWI
+T21	Sequences 582 585	DWI
+T22	Sequences 594 596	T2
+T23	Sequences 598 603	FLAIR
+T24	Sequences 608 626	PD-weighted images
+T25	Sequences 634 637	DWI
+T26	Generic_Prion 727 730	CJD
+T28	Symptom 828 837	myoclonus

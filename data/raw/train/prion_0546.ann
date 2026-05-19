@@ -1,0 +1,21 @@
+T2	Age 14 25	66-year-old
+T7	Generic_Prion 73 76	CJD
+T8	Generic_Prion 150 153	CJD
+T9	Anatomic_location 210 222	white matter
+T10	Anatomic_location 269 280	gray matter
+T11	Symptom 362 370	diplopia
+T12	Symptom 375 406	vertical eye movement paralysis
+T13	Anatomic_location 533 548	periventricular
+T15	Generic_Prion 736 739	CJD
+T16	Anatomic_location 744 765	cerebral white matter
+T17	Anatomic_location 822 833	gray matter
+T3	Generic_Prion 46 71	Creutzfeldt-Jacob disease
+T4	Autopsy 110 132	Pathologic examination
+T5	Autopsy_finding 184 202	spongiform changes
+T6	Differential_Diagnosis 408 420	Intoxication
+T14	Imaging_test 491 517	Magnetic resonance imaging
+T20	Electrophysio_test 603 606	EEG
+T21	Anatomic_location 709 727	panencephalopathic
+T22	Choose_Related 846 849	YES
+T1	Choose_Done 857 861	DONE
+T18	Imaging_finding 561 601	flat and striped hyperintense structures

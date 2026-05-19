@@ -1,0 +1,186 @@
+{
+  "schema_name": "PrionNER coarse-grained entity types",
+  "source": "Derived from prion_ner_entity_definitions.json and validated against labels present in final_data/coarse/brat/test.",
+  "entity_types": [
+    {
+      "coarse_type": "Generic_Prion",
+      "definition": "Mentions of prion disease when no more specific subtype is stated.",
+      "examples": [
+        "Creutzfeldt-Jakob disease",
+        "CJD",
+        "prion disease",
+        "bovine spongiform encephalopathy",
+        "BSE",
+        "TSE"
+      ]
+    },
+    {
+      "coarse_type": "Sporadic_Prion",
+      "definition": "Mentions of sporadic prion disease subtypes or explicitly sporadic forms of prion disease.",
+      "examples": [
+        "sporadic CJD",
+        "sCJD",
+        "sporadic Creutzfeldt-Jakob disease",
+        "sporadic fatal insomnia",
+        "sFI",
+        "VPSPr"
+      ]
+    },
+    {
+      "coarse_type": "Familial_Prion",
+      "definition": "Mentions of inherited or familial prion disease subtypes.",
+      "examples": [
+        "Fatal Familial Insomnia",
+        "FFI",
+        "familial CJD",
+        "fCJD",
+        "Gerstmann-Straussler-Scheinker disease",
+        "GSS"
+      ]
+    },
+    {
+      "coarse_type": "Acquired_Prion",
+      "definition": "Mentions of acquired prion disease subtypes, including variant, iatrogenic, or exposure-associated forms.",
+      "examples": [
+        "variant CJD",
+        "vCJD",
+        "iatrogenic Creutzfeldt-Jakob disease",
+        "iCJD",
+        "kuru",
+        "human growth hormone derived CJD"
+      ]
+    },
+    {
+      "coarse_type": "Differential_Diagnosis",
+      "definition": "Mentions of non-prion diseases or alternative diagnoses considered in the differential diagnosis.",
+      "examples": [
+        "Alzheimer's disease",
+        "autoimmune encephalitis",
+        "dementia with Lewy bodies",
+        "DLB",
+        "stroke",
+        "viral encephalitis"
+      ]
+    },
+    {
+      "coarse_type": "Symptom",
+      "definition": "Clinical symptoms, signs, neurologic manifestations, or patient-reported complaints.",
+      "examples": [
+        "rapidly progressive dementia",
+        "myoclonus",
+        "ataxia",
+        "visual hallucinations",
+        "parkinsonism",
+        "cognitive decline"
+      ]
+    },
+    {
+      "coarse_type": "Test_name",
+      "definition": "Names of diagnostic tests, procedures, laboratory studies, or examination modalities.",
+      "examples": [
+        "MRI",
+        "EEG",
+        "RT-QuIC",
+        "CSF analysis",
+        "Genetic testing",
+        "brain autopsy"
+      ]
+    },
+    {
+      "coarse_type": "Sequences",
+      "definition": "Names of imaging sequences or acquisition modes used in radiologic evaluation.",
+      "examples": [
+        "DWI",
+        "FLAIR",
+        "T2",
+        "diffusion-weighted imaging",
+        "ADC maps",
+        "DW images"
+      ]
+    },
+    {
+      "coarse_type": "Findings",
+      "definition": "Diagnostic findings or observed abnormalities from imaging, pathology, or other tests.",
+      "examples": [
+        "cortical ribboning",
+        "pulvinar sign",
+        "restricted diffusion",
+        "spongiform change",
+        "neuronal loss",
+        "hyperintense signal abnormalities"
+      ]
+    },
+    {
+      "coarse_type": "Anatomic_location",
+      "definition": "Anatomical structures or body regions where a finding, symptom, or pathological change is located.",
+      "examples": [
+        "thalamus",
+        "cortex",
+        "basal ganglia",
+        "caudate nucleus",
+        "putamen",
+        "deep white matter"
+      ]
+    },
+    {
+      "coarse_type": "Age",
+      "definition": "Mentions of patient age or age at onset.",
+      "examples": [
+        "49-year-old",
+        "58 years",
+        "at age 62",
+        "young",
+        "44 year old",
+        "52.3 years"
+      ]
+    },
+    {
+      "coarse_type": "Treatment",
+      "definition": "Therapeutic interventions, medications, supportive care, or symptom-management approaches.",
+      "examples": [
+        "supportive care",
+        "quinacrine",
+        "clonazepam",
+        "corticosteroids",
+        "haloperidol",
+        "psychiatric treatment"
+      ]
+    },
+    {
+      "coarse_type": "Complication",
+      "definition": "Secondary medical conditions, adverse outcomes, or consequences arising during disease progression or treatment.",
+      "examples": [
+        "pneumonia",
+        "aspiration pneumonia",
+        "respiratory failure",
+        "death",
+        "SIADH",
+        "peripheral sensorimotor polyneuropathy"
+      ]
+    },
+    {
+      "coarse_type": "Time",
+      "definition": "Temporal expressions describing onset, duration, chronology, or timing of symptoms, tests, or disease course.",
+      "examples": [
+        "within 3 months",
+        "over four weeks",
+        "at onset",
+        "the next few weeks",
+        "between January 2006 and July 2021",
+        "within one year"
+      ]
+    },
+    {
+      "coarse_type": "Stats",
+      "definition": "Statistical values or epidemiologic measures related to disease frequency or diagnostic performance.",
+      "examples": [
+        "sensitivity of 85%",
+        "specificity of 92%",
+        "1 per million",
+        "annual incidence of 2 per million",
+        "0.06%",
+        "100%"
+      ]
+    }
+  ]
+}

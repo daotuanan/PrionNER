@@ -1,0 +1,11 @@
+T2	Generic_Prion 30 55	Creutzfeldt-Jakob disease
+T3	Treatment 61 71	amantidine
+T5	Duration 163 173	two months
+T6	Autopsy 207 231	Histological examination
+T7	Anatomic_location 239 244	brain
+T8	Generic_Prion 282 307	Creutzfeldt-Jakob disease
+T9	Generic_Prion 353 378	Creutzfeldt-Jakob disease
+T10	Duration 405 414	30 months
+T12	Treatment 491 501	amantidine
+T14	Complication 201 205	died
+T1	Time_point 425 443	start of treatment

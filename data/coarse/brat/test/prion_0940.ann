@@ -1,0 +1,23 @@
+T1	Sporadic_Prion 41 75	sporadic Creutzfeldt-Jakob disease
+T2	Generic_Prion 77 80	CJD
+T3	Age 98 109	70-year-old
+T4	Time 140 152	over 1 month
+T6	Symptom 172 201	progressive abnormal behavior
+T7	Symptom 207 224	cognitive decline
+T8	Symptom 230 272	generalized asymmetrical myoclonic jerking
+T9	Symptom 274 292	startle phenomenon
+T10	Symptom 298 316	cortical blindness
+T24	Test_name 385 394;413 427	metabolic investigations
+T5	Test_name 399 427	hematological investigations
+T11	Test_name 429 432	MRI
+T25	Test_name 434 460	magnetic resonance imaging
+T12	Test_name 467 470	EEG
+T26	Test_name 472 492	electroencephalogram
+T13	Test_name 528 531	MRI
+T14	Test_name 548 551	EEG
+T15	Sporadic_Prion 571 583	sporadic CJD
+T17	Differential_Diagnosis 591 617	metabolic encephalopathies
+T18	Treatment 639 655	sodium valproate
+T19	Treatment 660 670	clonezepam
+T20	Symptom 676 691	myoclonic jerks
+T21	Generic_Prion 714 717	CJD

@@ -1,0 +1,50 @@
+T1	Test_name 31 38	autopsy
+T2	Generic_Prion 47 50	CJD
+T3	Generic_Prion 88 91	CJD
+T4	Age 192 204	70-years-old
+T54	Complication 220 225	death
+T6	Symptom 241 257	gait disturbance
+T7	Age 261 267	age 68
+T8	Symptom 281 298	memory impairment
+T9	Symptom 300 318	visual disturbance
+T10	Symptom 324 333	myoclonus
+T11	Time 376 384	2 months
+T5	Time 385 408	after the disease onset
+T12	Symptom 418 433	akinetic mutism
+T15	Test_name 514 531	neuroradiological
+T14	Findings 555 574	progressive atrophy
+T16	Anatomic_location 582 587	brain
+T55	Complication 593 597	died
+T17	Complication 601 617	bronchopneumonia
+T18	Time 618 627	25 months
+T20	Time 628 651	after the disease onset
+T19	Anatomic_location 657 662	brain
+T21	Anatomic_location 678 686	cerebrum
+T23	Anatomic_location 694 699	brain
+T24	Anatomic_location 694 703	brainstem
+T25	Anatomic_location 709 719	cerebellum
+T27	Test_name 744 773	neuropathological examination
+T28	Findings 791 798	atrophy
+T29	Anatomic_location 806 814	cerebrum
+T30	Anatomic_location 816 831	caudate nucleus
+T31	Anatomic_location 837 847	cerebellum
+T32	Findings 864 872	necrosis
+T33	Anatomic_location 880 901	cerebral white matter
+T34	Generic_Prion 938 941	CJD
+T35	Findings 969 982	neuronal loss
+T36	Findings 999 1016	spongiform change
+T37	Anatomic_location 1024 1039	cerebral cortex
+T38	Anatomic_location 1041 1062	parahippocampal gyrus
+T39	Anatomic_location 1064 1072	amygdala
+T40	Anatomic_location 1074 1082	striatum
+T41	Anatomic_location 1084 1092	pallidum
+T42	Anatomic_location 1094 1102	thalamus
+T43	Anatomic_location 1104 1119	pontine nucleus
+T44	Anatomic_location 1125 1149	cerebellar granule cells
+T46	Anatomic_location 1210 1218	cerebrum
+T47	Anatomic_location 1223 1233	cerebellum
+T48	Differential_Diagnosis 1328 1347	Alzheimer's disease
+T49	Differential_Diagnosis 1353 1372	Alzheimer's disease
+T50	Anatomic_location 1409 1422	limbic system
+T51	Generic_Prion 1634 1637	CJD
+T52	Differential_Diagnosis 1642 1661	Alzheimer's disease

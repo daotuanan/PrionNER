@@ -1,0 +1,16 @@
+T5	Generic_Prion 69 92	familial prion diseases
+T8	Generic_Prion 178 205	spongiform encephalopathies
+T12	Genetic_test 489 502	analysing DNA
+T16	Molecular_assay 673 699	genetic molecular analysis
+T24	FFI 1116 1139	fatal familial insomnia
+T25	FFI 1141 1144	FFI
+T29	Generic_Prion 1244 1275	Creutzfeldt-Jakob disease (CJD)
+T31	FFI 1436 1439	FFI
+T32	fCJD 1444 1450	CJD178
+T1	Duration 12 50	Between January 1993 and December 2003
+T2	Choose_Done 1729 1733	DONE
+T3	Choose_Related 1718 1721	YES
+T4	Time_point 20 32	January 1993
+T6	Time_point 37 50	December 2003
+T7	Autopsy 406 423	neuropathological
+T9	Autopsy 1348 1360	pathological

@@ -1,0 +1,16 @@
+T1	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T2	Generic_Prion 27 30	CJD
+T4	Generic_Prion 128 153	Creutzfeldt-Jakob disease
+T5	Symptom 158 166	dementia
+T6	Symptom 168 215	pyramidal and extrapyramidal symptoms and signs
+T7	Symptom 217 239	cerebellar dysfunction
+T8	Symptom 245 254	myoclonus
+T9	Symptom 304 320	vegetative state
+T10	Symptom 330 338	comatous
+T11	Duration 370 384	several months
+T12	Generic_Prion 416 441	Creutzfeldt-Jakob disease
+T13	Electrophysio_test 487 490	EEG
+T15	Choose_Related 528 531	YES
+T3	Complication 358 362	dead
+T14	Autopsy 496 506	pathologic
+T16	Choose_Done 539 543	DONE

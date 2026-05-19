@@ -1,0 +1,52 @@
+T1	Choose_Related 1861 1864	YES
+T2	Imaging_sequence 24 50	Diffusion-weighted imaging
+T4	Imaging_finding 73 93	hyperintense lesions
+T5	Generic_Prion 97 122	Creutzfeldt-Jakob disease
+T6	Generic_Prion 124 127	CJD
+T7	Generic_Prion 181 184	CJD
+T8	Imaging_sequence 188 214	diffusion-weighted imaging
+T10	Imaging_sequence 299 325	diffusion-weighted imaging
+T11	Imaging_finding 339 358	CJD-related lesions
+T12	Imaging_sequence 443 469	diffusion-weighted imaging
+T13	Imaging_finding 483 502	CJD-related lesions
+T14	Imaging_sequence 514 565	fluid-attenuated inversion recovery (FLAIR) imaging
+T15	Generic_Prion 632 635	CJD
+T16	Imaging_test 650 660	MR imaging
+T17	Imaging_sequence 672 698	diffusion-weighted imaging
+T19	Duration 745 753	4 months
+T24	Imaging_sequence 958 984	diffusion-weighted imaging
+T25	Imaging_sequence 989 1002	FLAIR imaging
+T28	Anatomic_location 1243 1251	thalamus
+T29	Anatomic_location 1294 1309	globus pallidus
+T30	Imaging_sequence 1357 1383	diffusion-weighted imaging
+T31	Imaging_finding 1397 1404	lesions
+T32	Imaging_sequence 1447 1460	FLAIR imaging
+T34	Imaging_test 1486 1512	diffusion-weighted imaging
+T36	Differential_Diagnosis 1563 1573	infarction
+T38	Duration 1602 1619	2 weeks or longer
+T39	Anatomic_location 1679 1686	striata
+T40	Anatomic_location 1691 1708	cerebral cortices
+T41	Imaging_sequence 1712 1738	diffusion-weighted imaging
+T43	Generic_Prion 1772 1775	CJD
+T44	Imaging_sequence 1777 1803	Diffusion-weighted imaging
+T46	Generic_Prion 1845 1848	CJD
+T18	Time_point 757 774	onset of symptoms
+T20	Time_point 776 787	early stage
+T21	Time_point 833 843	late stage
+T23	Imaging_finding 874 897	distribution of lesions
+T48	Imaging_sequence 901 927	diffusion-weighted imaging
+T49	Imaging_finding 932 954	conspicuity of lesions
+T50	Imaging_finding 1007 1037	chronologic changes in lesions
+T51	Imaging_sequence 1041 1068	diffusion-weighted imaging,
+T52	Imaging_finding 1076 1106	chronologic changes in lesions
+T53	Imaging_sequence 1119 1160	apparent diffusion coefficient (ADC) maps
+T26	Anatomic_location 1184 1192	striatal
+T55	Anatomic_location 1204 1221	cerebral cortical
+T35	Imaging_sequence 1584 1587	ADC
+T58	Imaging_finding 1651 1671	hyperintense changes
+T42	Choose_Done 1872 1876	DONE
+T3	Imaging_finding 1193 1200	lesions
+T9	Imaging_finding 1222 1229	lesions
+T27	Imaging_finding 1462 1482	Hyperintense lesions
+T22	Duration 814 822	4 months
+T33	Imaging_finding 1588 1597	decreased

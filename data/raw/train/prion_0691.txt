@@ -1,0 +1,8 @@
+Over the past 30 years, significant progress has been made in understanding the physiologic mechanisms of sleep.
+Insomnia, a common complaint in general medical practice, and other sleep disorders have become increasingly recognized.
+In 1986, a heritable total insomnia was described and termed fatal familial insomnia; since then, the pathology of this disease has been shown to involve an accumulation of prion particles in the brains of affected patients.
+Prions have been more commonly associated with the transmission of spongiform encephalopathies such as scrapie (in sheep), Creutzfeldt-Jakob disease and Kuru.
+We briefly review the physiological and biochemical characteristics of normal sleep, describe the typical clinical characteristics of fatal familial insomnia and describe the current understanding of how prions cause neurodegenerative diseases, including fatal familial insomnia.
+
+<Related> YES or NO
+[DONE]

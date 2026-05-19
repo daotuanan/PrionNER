@@ -1,0 +1,1 @@
+Figure X. A nested entity example. The Anatomic_location mention "striatum" is fully contained within the Imaging_finding mention "striatum involvement".

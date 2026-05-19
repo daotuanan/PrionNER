@@ -1,0 +1,110 @@
+{
+  "doc_id": "prion_0548",
+  "text": "We report the case history of a 54-year-old man who developed a fatal neurological disorder 4 years after a successful tympanoplasty with homograft pericardium.\nThe final diagnosis of this case was Creutzfeldt-Jakob disease.\nThis infectious spongiform encephalopathy is probably caused by a slow virus that can be transmitted by transplantation materials.\nThe possible accidental transmission of Creutzfeldt-Jacob disease by the use of homograft materials in otologic surgery is discussed.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 32,
+      "end": 43,
+      "text": "54-year-old",
+      "spans": [
+        {
+          "start": 32,
+          "end": 43
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Time",
+      "start": 92,
+      "end": 99,
+      "text": "4 years",
+      "spans": [
+        {
+          "start": 92,
+          "end": 99
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Time",
+      "start": 100,
+      "end": 132,
+      "text": "after a successful tympanoplasty",
+      "spans": [
+        {
+          "start": 100,
+          "end": 132
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Treatment",
+      "start": 119,
+      "end": 159,
+      "text": "tympanoplasty with homograft pericardium",
+      "spans": [
+        {
+          "start": 119,
+          "end": 159
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 198,
+      "end": 223,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 198,
+          "end": 223
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 241,
+      "end": 266,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 241,
+          "end": 266
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 396,
+      "end": 421,
+      "text": "Creutzfeldt-Jacob disease",
+      "spans": [
+        {
+          "start": 396,
+          "end": 421
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Treatment",
+      "start": 459,
+      "end": 475,
+      "text": "otologic surgery",
+      "spans": [
+        {
+          "start": 459,
+          "end": 475
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "doc_id": "prion_0638",
+  "text": "We report a pathologically proven case of Creutzfeldt-Jakob disease (CJD) with striking asymmetry in abnormal high signal intensity of the basal ganglia on long-repetition-time MRI.\nSymmetric or asymmetric high signal intensity of the basal ganglia, in the appropriate clinical setting, may be a specific finding of CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 42,
+      "end": 67,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 42,
+          "end": 67
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 69,
+      "end": 72,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 69,
+          "end": 72
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Imaging_finding",
+      "start": 110,
+      "end": 131,
+      "text": "high signal intensity",
+      "spans": [
+        {
+          "start": 110,
+          "end": 131
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 139,
+      "end": 152,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 139,
+          "end": 152
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Imaging_test",
+      "start": 177,
+      "end": 180,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 177,
+          "end": 180
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Imaging_finding",
+      "start": 206,
+      "end": 227,
+      "text": "high signal intensity",
+      "spans": [
+        {
+          "start": 206,
+          "end": 227
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 235,
+      "end": 248,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 235,
+          "end": 248
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 316,
+      "end": 319,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 316,
+          "end": 319
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "doc_id": "prion_test_0009",
+  "text": "BACKGROUND: The unfavorable prognosis of prion diseases highlights the need for a robust diagnostic approach system to accurately distinguish them from other etiologies of dementia.\nCorrelating biomarkers is crucial for advancing therapies and optimizing patient selection in clinical trials.\nMETHOD: We prospectively enrolled participants with suspected prion disease from hospitals across Thailand from March 2023 to December 2024.\nStandardized questionnaires were developed to collect clinical and demographic data, disease‐specific exposures, and laboratory findings, including blood and CSF tests, brain MRI, and EEG.\nCSF RT‐QuIC was performed in all cases, with NfL and GFAP measured using the SIMOA™ assay (Quanterix) and tau levels determined via ELISA (EUROIMMUN).\nDisease progression is monitored using the MRC Prion Disease Rating Scale.\nBaseline characteristics and investigational biomarkers were compared between sporadic CJD and non‐prion disorders.\nLinear mixed‐effect models were used to evaluated interactions between each biomarker and time, as these interactions directly represent disease progression.\nPredictive biomarkers were dichotomized using median levels as cut‐offs to enable clearer group comparisons.\nRESULT: Among 31 patients, 42% were female with mean age of 67 years.\nThe most common clinical presentation is rapidly progressive dementia (84%) followed by pyramidal weakness, myoclonus and cerebellar dysfunction.\nThere are no significant differences between core clinical features between both groups.\nCSF RT‐QuIC was tested positive in almost all sporadic CJD and non in non‐prion disorders.\nCSF tau is higher in sporadic CJD (4,027 pg/mL vs 377 ng/mL, p‐value<0.001).\n(Table 1) Sporadic CJD diagnosis and higher levels of CSF tau and CSF NfL reported a worse MRC score at baseline.\n(Figure 2A‐C) Linear mixed‐effects models revealed no significant interactions between CSF biomarkers and time to MRC score.\n(Table 2) CONCLUSION: Our study demonstrates a significant main effect of CSF tau and NfL on the MRC score but no interaction effects.\nPatients with higher CSF tau levels generally have worse functional status throughout the clinical course, with similar rates of decline.\nHowever, the limited power of this study may restrict the detection of interaction effects.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 41,
+      "end": 55,
+      "text": "prion diseases",
+      "spans": [
+        {
+          "start": 41,
+          "end": 55
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Differential_Diagnosis",
+      "start": 152,
+      "end": 180,
+      "text": "other etiologies of dementia",
+      "spans": [
+        {
+          "start": 152,
+          "end": 180
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 172,
+      "end": 180,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 172,
+          "end": 180
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 355,
+      "end": 368,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 355,
+          "end": 368
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Duration",
+      "start": 400,
+      "end": 432,
+      "text": "from March 2023 to December 2024",
+      "spans": [
+        {
+          "start": 400,
+          "end": 432
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Blood_biomarker_test",
+      "start": 582,
+      "end": 601,
+      "text": "blood tests",
+      "spans": [
+        {
+          "start": 582,
+          "end": 587
+        },
+        {
+          "start": 596,
+          "end": 601
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T5",
+      "label": "Blood_biomarker_test",
+      "start": 592,
+      "end": 601,
+      "text": "CSF tests",
+      "spans": [
+        {
+          "start": 592,
+          "end": 601
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Anatomic_location",
+      "start": 603,
+      "end": 608,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 603,
+          "end": 608
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Imaging_test",
+      "start": 609,
+      "end": 612,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 609,
+          "end": 612
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Electrophysio_test",
+      "start": 618,
+      "end": 621,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 618,
+          "end": 621
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Molecular_assay",
+      "start": 623,
+      "end": 634,
+      "text": "CSF RT‐QuIC",
+      "spans": [
+        {
+          "start": 623,
+          "end": 634
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Molecular_assay",
+      "start": 700,
+      "end": 711,
+      "text": "SIMOA™ assa",
+      "spans": [
+        {
+          "start": 700,
+          "end": 711
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Molecular_assay",
+      "start": 714,
+      "end": 723,
+      "text": "Quanterix",
+      "spans": [
+        {
+          "start": 714,
+          "end": 723
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Molecular_assay",
+      "start": 755,
+      "end": 760,
+      "text": "ELISA",
+      "spans": [
+        {
+          "start": 755,
+          "end": 760
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Molecular_assay",
+      "start": 762,
+      "end": 771,
+      "text": "EUROIMMUN",
+      "spans": [
+        {
+          "start": 762,
+          "end": 771
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "sCJD",
+      "start": 927,
+      "end": 939,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 927,
+          "end": 939
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Differential_Diagnosis",
+      "start": 944,
+      "end": 963,
+      "text": "non‐prion disorders",
+      "spans": [
+        {
+          "start": 944,
+          "end": 963
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Age",
+      "start": 1292,
+      "end": 1300,
+      "text": "67 years",
+      "spans": [
+        {
+          "start": 1292,
+          "end": 1300
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Symptom",
+      "start": 1343,
+      "end": 1371,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 1343,
+          "end": 1371
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Symptom",
+      "start": 1390,
+      "end": 1408,
+      "text": "pyramidal weakness",
+      "spans": [
+        {
+          "start": 1390,
+          "end": 1408
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Symptom",
+      "start": 1410,
+      "end": 1419,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 1410,
+          "end": 1419
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Symptom",
+      "start": 1424,
+      "end": 1446,
+      "text": "cerebellar dysfunction",
+      "spans": [
+        {
+          "start": 1424,
+          "end": 1446
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Molecular_assay",
+      "start": 1537,
+      "end": 1548,
+      "text": "CSF RT‐QuIC",
+      "spans": [
+        {
+          "start": 1537,
+          "end": 1548
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "sCJD",
+      "start": 1583,
+      "end": 1595,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 1583,
+          "end": 1595
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Differential_Diagnosis",
+      "start": 1607,
+      "end": 1626,
+      "text": "non‐prion disorders",
+      "spans": [
+        {
+          "start": 1607,
+          "end": 1626
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Blood_biomarker_test",
+      "start": 1628,
+      "end": 1631,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1628,
+          "end": 1631
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "sCJD",
+      "start": 1649,
+      "end": 1661,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 1649,
+          "end": 1661
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "sCJD",
+      "start": 1715,
+      "end": 1727,
+      "text": "Sporadic CJD",
+      "spans": [
+        {
+          "start": 1715,
+          "end": 1727
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Blood_biomarker_test",
+      "start": 1759,
+      "end": 1762,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1759,
+          "end": 1762
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Blood_biomarker_test",
+      "start": 1771,
+      "end": 1774,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1771,
+          "end": 1774
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Blood_biomarker_test",
+      "start": 1906,
+      "end": 1909,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1906,
+          "end": 1909
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Blood_biomarker_test",
+      "start": 2018,
+      "end": 2021,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 2018,
+          "end": 2021
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Blood_biomarker_test",
+      "start": 2100,
+      "end": 2103,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 2100,
+          "end": 2103
+        }
+      ]
+    }
+  ]
+}

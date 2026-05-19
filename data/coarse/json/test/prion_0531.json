@@ -1,0 +1,240 @@
+{
+  "doc_id": "prion_0531",
+  "text": "We conducted serial EEG and SPECT studies on one female with Creutzfeldt-Jakob disease (CJD).\nIn an analysis of EEG, a periodic synchronous discharge (PSD) was observed in the middle of the third stage (terminal stage) of Bernoulli's classification.\nThe frequency of PSD was the highest at the beginning of the third stage, followed by a gradual decrease and disappeared at the end of the third stage.\nIn the middle of the third stage, SPECT disclosed blood flow differences between the cerebrum and other regions (the cerebellum and the brainstem), while no such difference was observed by SPECT at the end of the third stage.\nIt was suggested that the appearance of PSD requires the presence of a pathological change in the cerebrum precedent to other regions.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Test_name",
+      "start": 20,
+      "end": 23,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 20,
+          "end": 23
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Test_name",
+      "start": 28,
+      "end": 33,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 28,
+          "end": 33
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 61,
+      "end": 86,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 61,
+          "end": 86
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 88,
+      "end": 91,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 88,
+          "end": 91
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Test_name",
+      "start": 112,
+      "end": 115,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 112,
+          "end": 115
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Time",
+      "start": 176,
+      "end": 201,
+      "text": "middle of the third stage",
+      "spans": [
+        {
+          "start": 176,
+          "end": 201
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Time",
+      "start": 203,
+      "end": 217,
+      "text": "terminal stage",
+      "spans": [
+        {
+          "start": 203,
+          "end": 217
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Time",
+      "start": 294,
+      "end": 322,
+      "text": "beginning of the third stage",
+      "spans": [
+        {
+          "start": 294,
+          "end": 322
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Time",
+      "start": 378,
+      "end": 400,
+      "text": "end of the third stage",
+      "spans": [
+        {
+          "start": 378,
+          "end": 400
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Time",
+      "start": 409,
+      "end": 434,
+      "text": "middle of the third stage",
+      "spans": [
+        {
+          "start": 409,
+          "end": 434
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Test_name",
+      "start": 436,
+      "end": 441,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 436,
+          "end": 441
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Findings",
+      "start": 452,
+      "end": 474,
+      "text": "blood flow differences",
+      "spans": [
+        {
+          "start": 452,
+          "end": 474
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 487,
+      "end": 495,
+      "text": "cerebrum",
+      "spans": [
+        {
+          "start": 487,
+          "end": 495
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 519,
+      "end": 529,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 519,
+          "end": 529
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 538,
+      "end": 547,
+      "text": "brainstem",
+      "spans": [
+        {
+          "start": 538,
+          "end": 547
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Test_name",
+      "start": 591,
+      "end": 596,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 591,
+          "end": 596
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Time",
+      "start": 604,
+      "end": 626,
+      "text": "end of the third stage",
+      "spans": [
+        {
+          "start": 604,
+          "end": 626
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 726,
+      "end": 734,
+      "text": "cerebrum",
+      "spans": [
+        {
+          "start": 726,
+          "end": 734
+        }
+      ]
+    }
+  ]
+}

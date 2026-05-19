@@ -1,0 +1,201 @@
+{
+  "doc_id": "prion_0224",
+  "text": "A 47 year old man is described who developed pathology proven Creutzfeldt-Jakob disease (CJD) 38 years after receiving a low dose of human derived growth hormone (hGH) as part of a diagnostic procedure.\nThe patient presented with a cerebellar syndrome, which is compatible with iatrogenic CJD.\nThis is the longest incubation period described so far for iatrogenic CJD.\nFurthermore, this is the first report of CJD after diagnostic use of hGH.\nSince the patient was one of the first in the world to receive hGH, other cases of iatrogenic CJD can be expected in the coming years.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "47 year old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 45,
+      "end": 54,
+      "text": "pathology",
+      "spans": [
+        {
+          "start": 45,
+          "end": 54
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 62,
+      "end": 87,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 62,
+          "end": 87
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 89,
+      "end": 92,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 89,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Time",
+      "start": 94,
+      "end": 102,
+      "text": "38 years",
+      "spans": [
+        {
+          "start": 94,
+          "end": 102
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Time",
+      "start": 94,
+      "end": 167,
+      "text": "38 years after receiving a low dose of human derived growth hormone (hGH)",
+      "spans": [
+        {
+          "start": 94,
+          "end": 167
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Treatment",
+      "start": 121,
+      "end": 167,
+      "text": "low dose of human derived growth hormone (hGH)",
+      "spans": [
+        {
+          "start": 121,
+          "end": 167
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 232,
+      "end": 242,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 232,
+          "end": 242
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 232,
+      "end": 251,
+      "text": "cerebellar syndrome",
+      "spans": [
+        {
+          "start": 232,
+          "end": 251
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Acquired_Prion",
+      "start": 278,
+      "end": 292,
+      "text": "iatrogenic CJD",
+      "spans": [
+        {
+          "start": 278,
+          "end": 292
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Acquired_Prion",
+      "start": 353,
+      "end": 367,
+      "text": "iatrogenic CJD",
+      "spans": [
+        {
+          "start": 353,
+          "end": 367
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 410,
+      "end": 413,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 410,
+          "end": 413
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Treatment",
+      "start": 438,
+      "end": 441,
+      "text": "hGH",
+      "spans": [
+        {
+          "start": 438,
+          "end": 441
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Treatment",
+      "start": 506,
+      "end": 509,
+      "text": "hGH",
+      "spans": [
+        {
+          "start": 506,
+          "end": 509
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Acquired_Prion",
+      "start": 526,
+      "end": 540,
+      "text": "iatrogenic CJD",
+      "spans": [
+        {
+          "start": 526,
+          "end": 540
+        }
+      ]
+    }
+  ]
+}

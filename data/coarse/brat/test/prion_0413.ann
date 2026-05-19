@@ -1,0 +1,7 @@
+T7	Test_name 24 30	biopsy
+T1	Generic_Prion 47 72	Creutzfeldt-Jakob disease
+T2	Test_name 74 76	MR
+T3	Test_name 111 113	CT
+T8	Findings 147 167	signal abnormalities
+T4	Anatomic_location 206 217	gray matter
+T5	Anatomic_location 239 256	peripheral cortex

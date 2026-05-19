@@ -1,0 +1,279 @@
+{
+  "doc_id": "prion_0707",
+  "text": "A 45 year old woman is reported who initially presented with a cerebellar syndrome, severe ataxia, and dysarthria.\nShe rapidly deteriorated to coma vigile with bilateral myoclonic jerks, flexion rigidity, and immobility necessitating complete nursing.\nHer EEG showed generalised slow activity and periodic biphasic and triphasic waves.\nThe CSF concentration of neuron specific enolase was very high.\nConsequently the diagnosis of Creutzfeldt-Jakob disease was established.\nEight months later she died of respiratory complications.\nThirty years earlier the patient had undergone corneal transplantation for keratoconus.\nReview of the organ donor's hospital records showed that death was caused by intercurrent pneumonia subsequent to subacute spongiform encephalopathy confirmed by necropsy.\nIn view of two previous case reports in the literature it is presumed that the cadaveric cornea was the source of transmission of Creutzfeldt-Jakob disease in this patient.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "45 year old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 63,
+      "end": 82,
+      "text": "cerebellar syndrome",
+      "spans": [
+        {
+          "start": 63,
+          "end": 82
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 84,
+      "end": 97,
+      "text": "severe ataxia",
+      "spans": [
+        {
+          "start": 84,
+          "end": 97
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 103,
+      "end": 113,
+      "text": "dysarthria",
+      "spans": [
+        {
+          "start": 103,
+          "end": 113
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 143,
+      "end": 147,
+      "text": "coma",
+      "spans": [
+        {
+          "start": 143,
+          "end": 147
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 160,
+      "end": 185,
+      "text": "bilateral myoclonic jerks",
+      "spans": [
+        {
+          "start": 160,
+          "end": 185
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 187,
+      "end": 203,
+      "text": "flexion rigidity",
+      "spans": [
+        {
+          "start": 187,
+          "end": 203
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 209,
+      "end": 219,
+      "text": "immobility",
+      "spans": [
+        {
+          "start": 209,
+          "end": 219
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 256,
+      "end": 259,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 256,
+          "end": 259
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 340,
+      "end": 343,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 340,
+          "end": 343
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 430,
+      "end": 455,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 430,
+          "end": 455
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Time",
+      "start": 473,
+      "end": 491,
+      "text": "Eight months later",
+      "spans": [
+        {
+          "start": 473,
+          "end": 491
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Complication",
+      "start": 496,
+      "end": 500,
+      "text": "died",
+      "spans": [
+        {
+          "start": 496,
+          "end": 500
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Complication",
+      "start": 496,
+      "end": 529,
+      "text": "died of respiratory complications",
+      "spans": [
+        {
+          "start": 496,
+          "end": 529
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Time",
+      "start": 531,
+      "end": 551,
+      "text": "Thirty years earlier",
+      "spans": [
+        {
+          "start": 531,
+          "end": 551
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Treatment",
+      "start": 578,
+      "end": 617,
+      "text": "corneal transplantation for keratoconus",
+      "spans": [
+        {
+          "start": 578,
+          "end": 617
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Complication",
+      "start": 676,
+      "end": 681,
+      "text": "death",
+      "spans": [
+        {
+          "start": 676,
+          "end": 681
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Complication",
+      "start": 709,
+      "end": 718,
+      "text": "pneumonia",
+      "spans": [
+        {
+          "start": 709,
+          "end": 718
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Generic_Prion",
+      "start": 733,
+      "end": 767,
+      "text": "subacute spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 733,
+          "end": 767
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Test_name",
+      "start": 781,
+      "end": 789,
+      "text": "necropsy",
+      "spans": [
+        {
+          "start": 781,
+          "end": 789
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Generic_Prion",
+      "start": 921,
+      "end": 946,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 921,
+          "end": 946
+        }
+      ]
+    }
+  ]
+}

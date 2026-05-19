@@ -1,0 +1,500 @@
+{
+  "doc_id": "prion_0549",
+  "text": "Sequential measurements of local cerebral glucose metabolism were performed in a case with Creutzfeldt-Jakob disease.\nThe diagnosis was based on the characteristic clinical symptoms and EEG.\nCerebral glucose metabolism (CMRGlc) was measured by positron emission tomography (PET) and 18F-fluorodeoxyglucose.\nCMRGlc was decreased to about 45% of the normal value.\nAt that time, X-ray CT revealed little brain atrophy.\nThe decrease of CMRGlc was prominent in cerebral cortices, but the metabolic decrease was slight in striatal body, cerebellum, and brainstem.\nThe motor cortex and occipital lobe showed relatively preserved metabolism among the cerebral cortices.\nSix months after the first PET measurement, X-ray CT showed marked brain atrophy.\nDecrease of cerebral glucose metabolism advanced furthermore.\nHowever, the progress of the decrease was relatively small in the basal ganglia, brainstem, and cerebellar nucleus.\nThese findings differ from the findings that was known by pathological study.\nThese results suggest that measurement of CMRGlc by PET is useful for the early detection and for understanding of the pathophysiology of this disease.",
+  "entities": [
+    {
+      "id": "T45",
+      "label": "Anatomic_location",
+      "start": 33,
+      "end": 41,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 33,
+          "end": 41
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Imaging_finding",
+      "start": 33,
+      "end": 60,
+      "text": "cerebral glucose metabolism",
+      "spans": [
+        {
+          "start": 33,
+          "end": 60
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 91,
+      "end": 116,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 91,
+          "end": 116
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Electrophysio_test",
+      "start": 186,
+      "end": 189,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 186,
+          "end": 189
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Anatomic_location",
+      "start": 191,
+      "end": 199,
+      "text": "Cerebral",
+      "spans": [
+        {
+          "start": 191,
+          "end": 199
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Imaging_finding",
+      "start": 191,
+      "end": 218,
+      "text": "Cerebral glucose metabolism",
+      "spans": [
+        {
+          "start": 191,
+          "end": 218
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Imaging_finding",
+      "start": 220,
+      "end": 226,
+      "text": "CMRGlc",
+      "spans": [
+        {
+          "start": 220,
+          "end": 226
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Imaging_test",
+      "start": 244,
+      "end": 272,
+      "text": "positron emission tomography",
+      "spans": [
+        {
+          "start": 244,
+          "end": 272
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Imaging_test",
+      "start": 274,
+      "end": 277,
+      "text": "PET",
+      "spans": [
+        {
+          "start": 274,
+          "end": 277
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Imaging_sequence",
+      "start": 283,
+      "end": 305,
+      "text": "18F-fluorodeoxyglucose",
+      "spans": [
+        {
+          "start": 283,
+          "end": 305
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Imaging_finding",
+      "start": 307,
+      "end": 313,
+      "text": "CMRGlc",
+      "spans": [
+        {
+          "start": 307,
+          "end": 313
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Imaging_test",
+      "start": 376,
+      "end": 384,
+      "text": "X-ray CT",
+      "spans": [
+        {
+          "start": 376,
+          "end": 384
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Anatomic_location",
+      "start": 401,
+      "end": 406,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 401,
+          "end": 406
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Imaging_finding",
+      "start": 407,
+      "end": 414,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 407,
+          "end": 414
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Imaging_finding",
+      "start": 420,
+      "end": 438,
+      "text": "decrease of CMRGlc",
+      "spans": [
+        {
+          "start": 420,
+          "end": 438
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 456,
+      "end": 473,
+      "text": "cerebral cortices",
+      "spans": [
+        {
+          "start": 456,
+          "end": 473
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Imaging_finding",
+      "start": 483,
+      "end": 501,
+      "text": "metabolic decrease",
+      "spans": [
+        {
+          "start": 483,
+          "end": 501
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 516,
+      "end": 529,
+      "text": "striatal body",
+      "spans": [
+        {
+          "start": 516,
+          "end": 529
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 531,
+      "end": 541,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 531,
+          "end": 541
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 547,
+      "end": 556,
+      "text": "brainstem",
+      "spans": [
+        {
+          "start": 547,
+          "end": 556
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 562,
+      "end": 574,
+      "text": "motor cortex",
+      "spans": [
+        {
+          "start": 562,
+          "end": 574
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 579,
+      "end": 593,
+      "text": "occipital lobe",
+      "spans": [
+        {
+          "start": 579,
+          "end": 593
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Imaging_finding",
+      "start": 612,
+      "end": 632,
+      "text": "preserved metabolism",
+      "spans": [
+        {
+          "start": 612,
+          "end": 632
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 643,
+      "end": 660,
+      "text": "cerebral cortices",
+      "spans": [
+        {
+          "start": 643,
+          "end": 660
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Duration",
+      "start": 662,
+      "end": 672,
+      "text": "Six months",
+      "spans": [
+        {
+          "start": 662,
+          "end": 672
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Imaging_test",
+      "start": 689,
+      "end": 692,
+      "text": "PET",
+      "spans": [
+        {
+          "start": 689,
+          "end": 692
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Imaging_test",
+      "start": 706,
+      "end": 714,
+      "text": "X-ray CT",
+      "spans": [
+        {
+          "start": 706,
+          "end": 714
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Anatomic_location",
+      "start": 729,
+      "end": 734,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 729,
+          "end": 734
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Imaging_finding",
+      "start": 735,
+      "end": 742,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 735,
+          "end": 742
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Imaging_finding",
+      "start": 744,
+      "end": 783,
+      "text": "Decrease of cerebral glucose metabolism",
+      "spans": [
+        {
+          "start": 744,
+          "end": 783
+        }
+      ]
+    },
+    {
+      "id": "T49",
+      "label": "Anatomic_location",
+      "start": 756,
+      "end": 764,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 756,
+          "end": 764
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Imaging_finding",
+      "start": 835,
+      "end": 843,
+      "text": "decrease",
+      "spans": [
+        {
+          "start": 835,
+          "end": 843
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 872,
+      "end": 885,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 872,
+          "end": 885
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Anatomic_location",
+      "start": 887,
+      "end": 896,
+      "text": "brainstem",
+      "spans": [
+        {
+          "start": 887,
+          "end": 896
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Anatomic_location",
+      "start": 902,
+      "end": 920,
+      "text": "cerebellar nucleus",
+      "spans": [
+        {
+          "start": 902,
+          "end": 920
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Autopsy",
+      "start": 980,
+      "end": 998,
+      "text": "pathological study",
+      "spans": [
+        {
+          "start": 980,
+          "end": 998
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Imaging_finding",
+      "start": 1042,
+      "end": 1048,
+      "text": "CMRGlc",
+      "spans": [
+        {
+          "start": 1042,
+          "end": 1048
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Imaging_test",
+      "start": 1052,
+      "end": 1055,
+      "text": "PET",
+      "spans": [
+        {
+          "start": 1052,
+          "end": 1055
+        }
+      ]
+    }
+  ]
+}

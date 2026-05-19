@@ -1,0 +1,461 @@
+{
+  "doc_id": "prion_0011",
+  "text": "PURPOSE: To report on quantitative electroencephalograph (EEG) activity during polysomnography (PSG) in a rare case of confirmed Fatal Familial Insomnia (FFI).\nMETHODS: Sleep/wake characteristics of a 32-year-old male patient were quantitatively analysed using central EEG recordings during two PSGs (FFI-1 and FFI-2) first, for investigation of insomnia and PLMS but with no suspicion of FFI and second, 120 days later with suspected but unconfirmed FFI at the time; 89 days prior to death.\nPSG metrics; absolute EEG power in specified frequency bands; EEG slowing ratio of slow-to-fast frequencies ((delta + theta)/ (alpha + sigma + beta)); and sleep spindle density were calculated.\nResults were compared with gender and age-matched insomnia and healthy controls (two of each).\nRESULTS: FFI-1 and FFI-2 PSGs revealed total time in bed of 413.5 and 392 minutes, total sleep times of 208.5 and 7.5 minute, including NREM 153.0 and 2.5 minutes, and REM 55.5 and 5.0 minutes, respectively.\nFFI-1 had approximately 1.5 times lower slow wave activity (SWA, 0.5–4.5Hz) during N3 than insomnia and controls.​ FFI-1 had 2 times and 1.8 times higher slowing ratio during REM than insomnia and controls, respectively.\nSpindle density (per minute of NREM sleep) for FFI-1 was 0.9, compared to pair-averages of 1.2 for insomnia disorder and 4.7 for healthy controls.\nCONCLUSIONS: PSG in FFI revealed poor sleep efficiency that severely deteriorated with disease progression.\nQuantitative analysis of EEG revealed lower spindle density, lower SWA in N3, and higher slowing ratio in REM, when compared to insomnia patients and healthy sleepers.",
+  "entities": [
+    {
+      "id": "T32",
+      "label": "Test_name",
+      "start": 35,
+      "end": 56,
+      "text": "electroencephalograph",
+      "spans": [
+        {
+          "start": 35,
+          "end": 56
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Test_name",
+      "start": 58,
+      "end": 61,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 58,
+          "end": 61
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Test_name",
+      "start": 79,
+      "end": 94,
+      "text": "polysomnography",
+      "spans": [
+        {
+          "start": 79,
+          "end": 94
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Familial_Prion",
+      "start": 129,
+      "end": 152,
+      "text": "Fatal Familial Insomnia",
+      "spans": [
+        {
+          "start": 129,
+          "end": 152
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Familial_Prion",
+      "start": 154,
+      "end": 157,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 154,
+          "end": 157
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Age",
+      "start": 201,
+      "end": 212,
+      "text": "32-year-old",
+      "spans": [
+        {
+          "start": 201,
+          "end": 212
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Test_name",
+      "start": 269,
+      "end": 272,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 269,
+          "end": 272
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Test_name",
+      "start": 295,
+      "end": 299,
+      "text": "PSGs",
+      "spans": [
+        {
+          "start": 295,
+          "end": 299
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Sporadic_Prion",
+      "start": 301,
+      "end": 306,
+      "text": "FFI-1",
+      "spans": [
+        {
+          "start": 301,
+          "end": 306
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Sporadic_Prion",
+      "start": 311,
+      "end": 316,
+      "text": "FFI-2",
+      "spans": [
+        {
+          "start": 311,
+          "end": 316
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Differential_Diagnosis",
+      "start": 346,
+      "end": 354,
+      "text": "insomnia",
+      "spans": [
+        {
+          "start": 346,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 359,
+      "end": 363,
+      "text": "PLMS",
+      "spans": [
+        {
+          "start": 359,
+          "end": 363
+        }
+      ]
+    },
+    {
+      "id": "T71",
+      "label": "Familial_Prion",
+      "start": 389,
+      "end": 392,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 389,
+          "end": 392
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Time",
+      "start": 405,
+      "end": 413,
+      "text": "120 days",
+      "spans": [
+        {
+          "start": 405,
+          "end": 413
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Familial_Prion",
+      "start": 451,
+      "end": 454,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 451,
+          "end": 454
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Time",
+      "start": 468,
+      "end": 475,
+      "text": "89 days",
+      "spans": [
+        {
+          "start": 468,
+          "end": 475
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Complication",
+      "start": 485,
+      "end": 490,
+      "text": "death",
+      "spans": [
+        {
+          "start": 485,
+          "end": 490
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Test_name",
+      "start": 492,
+      "end": 495,
+      "text": "PSG",
+      "spans": [
+        {
+          "start": 492,
+          "end": 495
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Test_name",
+      "start": 514,
+      "end": 517,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 514,
+          "end": 517
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Test_name",
+      "start": 554,
+      "end": 557,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 554,
+          "end": 557
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Symptom",
+      "start": 736,
+      "end": 744,
+      "text": "insomnia",
+      "spans": [
+        {
+          "start": 736,
+          "end": 744
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Familial_Prion",
+      "start": 790,
+      "end": 795,
+      "text": "FFI-1",
+      "spans": [
+        {
+          "start": 790,
+          "end": 795
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Familial_Prion",
+      "start": 800,
+      "end": 805,
+      "text": "FFI-2",
+      "spans": [
+        {
+          "start": 800,
+          "end": 805
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Test_name",
+      "start": 806,
+      "end": 810,
+      "text": "PSGs",
+      "spans": [
+        {
+          "start": 806,
+          "end": 810
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Familial_Prion",
+      "start": 989,
+      "end": 994,
+      "text": "FFI-1",
+      "spans": [
+        {
+          "start": 989,
+          "end": 994
+        }
+      ]
+    },
+    {
+      "id": "T54",
+      "label": "Differential_Diagnosis",
+      "start": 1080,
+      "end": 1088,
+      "text": "insomnia",
+      "spans": [
+        {
+          "start": 1080,
+          "end": 1088
+        }
+      ]
+    },
+    {
+      "id": "T55",
+      "label": "Familial_Prion",
+      "start": 1104,
+      "end": 1109,
+      "text": "FFI-1",
+      "spans": [
+        {
+          "start": 1104,
+          "end": 1109
+        }
+      ]
+    },
+    {
+      "id": "T59",
+      "label": "Differential_Diagnosis",
+      "start": 1173,
+      "end": 1181,
+      "text": "insomnia",
+      "spans": [
+        {
+          "start": 1173,
+          "end": 1181
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Familial_Prion",
+      "start": 1257,
+      "end": 1262,
+      "text": "FFI-1",
+      "spans": [
+        {
+          "start": 1257,
+          "end": 1262
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Differential_Diagnosis",
+      "start": 1309,
+      "end": 1326,
+      "text": "insomnia disorder",
+      "spans": [
+        {
+          "start": 1309,
+          "end": 1326
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Test_name",
+      "start": 1370,
+      "end": 1373,
+      "text": "PSG",
+      "spans": [
+        {
+          "start": 1370,
+          "end": 1373
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Familial_Prion",
+      "start": 1377,
+      "end": 1380,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 1377,
+          "end": 1380
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Symptom",
+      "start": 1390,
+      "end": 1411,
+      "text": "poor sleep efficiency",
+      "spans": [
+        {
+          "start": 1390,
+          "end": 1411
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Test_name",
+      "start": 1490,
+      "end": 1493,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 1490,
+          "end": 1493
+        }
+      ]
+    },
+    {
+      "id": "T58",
+      "label": "Differential_Diagnosis",
+      "start": 1593,
+      "end": 1601,
+      "text": "insomnia",
+      "spans": [
+        {
+          "start": 1593,
+          "end": 1601
+        }
+      ]
+    }
+  ]
+}

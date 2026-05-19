@@ -1,0 +1,35 @@
+T1	Test_name 12 38	Magnetic resonance imaging
+T34	Anatomic_location 46 51	brain
+T2	Generic_Prion 103 128	Creutzfeldt-Jakob disease
+T3	Sequences 147 165	T2-weighted images
+T4	Sequences 272 290	diffusion-weighted
+T6	Test_name 291 316	magnetic resonance images
+T7	Generic_Prion 354 379	Creutzfeldt-Jakob disease
+T8	Age 402 413	61-year-old
+T9	Symptom 425 453	rapidly progressive dementia
+T31	Anatomic_location 471 478	cranial
+T10	Test_name 479 505	magnetic resonance imaging
+T11	Sequences 507 532	Diffusion-weighted images
+T35	Anatomic_location 575 580	Brain
+T12	Test_name 581 587	biopsy
+T13	Generic_Prion 615 640	Creutzfeldt-Jakob disease
+T37	Test_name 641 655	histologically
+T5	Sequences 687 705	diffusion-weighted
+T14	Test_name 706 724	magnetic resonance
+T36	Anatomic_location 725 730	brain
+T15	Findings 782 810	increase in signal intensity
+T16	Anatomic_location 818 832	caudate nuclei
+T17	Anatomic_location 834 842	putamina
+T18	Anatomic_location 844 851	thalami
+T19	Anatomic_location 853 867	cingulate gyri
+T20	Anatomic_location 879 902	inferior frontal cortex
+T22	Findings 961 974	low diffusion
+T24	Anatomic_location 1024 1036	caudate head
+T25	Findings 1067 1087	restricted diffusion
+T26	Sequences 1110 1128	T2-weighted images
+T21	Findings 1151 1167	increased signal
+T28	Anatomic_location 1187 1201	caudate nuclei
+T29	Anatomic_location 1206 1214	putamina
+T23	Sequences 1245 1254	diffusion
+T30	Test_name 1255 1281	magnetic resonance imaging
+T32	Generic_Prion 1346 1371	Creutzfeldt-Jakob disease

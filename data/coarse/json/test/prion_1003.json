@@ -1,0 +1,97 @@
+{
+  "doc_id": "prion_1003",
+  "text": "Prion diseases are a family of progressive neurodegenerative disorders caused by prions.\nThere are four human prion diseases: Creutzfeldt-Jakob disease, Gerstmann-Straussler-Scheinker syndrome, fatal insomnia and Kuru.\nThey can arise in three different ways: acquired, familial or sporadic.\nWe review clinical presentations, pathophysiology, morphological picture, diagnostic procedures and available treatment options of prion diseases.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 14,
+      "text": "Prion diseases",
+      "spans": [
+        {
+          "start": 0,
+          "end": 14
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 110,
+      "end": 124,
+      "text": "prion diseases",
+      "spans": [
+        {
+          "start": 110,
+          "end": 124
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 126,
+      "end": 151,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 126,
+          "end": 151
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Familial_Prion",
+      "start": 153,
+      "end": 192,
+      "text": "Gerstmann-Straussler-Scheinker syndrome",
+      "spans": [
+        {
+          "start": 153,
+          "end": 192
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 194,
+      "end": 208,
+      "text": "fatal insomnia",
+      "spans": [
+        {
+          "start": 194,
+          "end": 208
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Acquired_Prion",
+      "start": 213,
+      "end": 217,
+      "text": "Kuru",
+      "spans": [
+        {
+          "start": 213,
+          "end": 217
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 422,
+      "end": 436,
+      "text": "prion diseases",
+      "spans": [
+        {
+          "start": 422,
+          "end": 436
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+T1	Generic_Prion 30 55	Creutzfeldt-Jakob disease
+T2	Age 222 234	age at onset
+T3	Duration 236 252	disease duration
+T4	Choose_Related 292 295	YES
+T5	sCJD 257 265	sporadic
+T6	Choose_Done 303 307	DONE

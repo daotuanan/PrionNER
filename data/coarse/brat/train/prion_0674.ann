@@ -1,0 +1,34 @@
+T10	Test_name 25 56	magnetic resonance (MR) imaging
+T2	Generic_Prion 71 96	Creutzfeldt-Jakob disease
+T4	Generic_Prion 98 101	CJD
+T3	Test_name 127 136	MR images
+T35	Complication 165 169	died
+T5	Generic_Prion 173 176	CJD
+T6	Age 183 194	53-77 years
+T36	Complication 198 203	death
+T7	Findings 341 367	increased signal intensity
+T8	Anatomic_location 392 399	putamen
+T9	Anatomic_location 404 419	caudate nucleus
+T22	Sequences 423 426	T2-
+T18	Sequences 431 454	proton-density-weighted
+T11	Test_name 455 464	MR images
+T27	Findings 533 563	signal intensity abnormalities
+T12	Sequences 565 583	T1-weighted images
+T28	Findings 596 626	signal intensity abnormalities
+T13	Anatomic_location 694 700	cortex
+T14	Anatomic_location 705 718	basal ganglia
+T15	Test_name 774 784	MR imaging
+T17	Time 838 846	4 months
+T20	Findings 863 874	volume loss
+T16	Test_name 944 954	MR imaging
+T19	Test_name 970 980	MR imaging
+T29	Findings 990 1018	signal intensity alterations
+T21	Generic_Prion 1080 1083	CJD
+T30	Findings 1146 1172	increased signal intensity
+T23	Anatomic_location 1205 1219	caudate nuclei
+T24	Anatomic_location 1228 1236	putamina
+T25	Sequences 1240 1260	long-repetition-time
+T31	Test_name 1261 1270	MR images
+T32	Age 1277 1284	elderly
+T33	Symptom 1318 1326	dementia
+T26	Generic_Prion 1401 1404	CJD

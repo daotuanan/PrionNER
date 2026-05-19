@@ -1,0 +1,22 @@
+T2	Generic_Prion 19 44	Creutzfeldt-Jakob disease
+T3	Findings 62 74	kuru plaques
+T4	Test_name 94 102	necropsy
+T23	Anatomic_location 114 119	brain
+T12	Test_name 120 122	CT
+T13	Findings 130 147	low-density areas
+T5	Anatomic_location 155 176	cerebral white matter
+T16	Anatomic_location 184 192	cortical
+T14	Findings 193 200	atrophy
+T17	Anatomic_location 205 216	ventricular
+T15	Findings 217 228	enlargement
+T19	Findings 275 282;296 303	diffuse lucency
+T6	Anatomic_location 283 295	white matter
+T24	Anatomic_location 315 320	brain
+T20	Findings 321 328	atrophy
+T7	Test_name 333 341	necropsy
+T21	Anatomic_location 360 372	white matter
+T8	Findings 360 384	white matter destruction
+T22	Anatomic_location 415 423	cortical
+T9	Findings 424 437	neuronal loss
+T10	Test_name 446 454	CT scans
+T11	Anatomic_location 534 555	cerebral white matter

@@ -1,0 +1,406 @@
+{
+  "doc_id": "prion_0679",
+  "text": "BACKGROUND: Creutzfeldt-Jakob disease (CJD) or spongiform encephalopathy in humans, is a rare, rapidly progressive and fatal disorder of the central nervous system.\nSince clinical diagnosis is challenging, this retrospective investigation was performed.\nMETHODS: Eight cases who had been diagnosed as CJD from 1987 to 1995 were reviewed thoroughly, with a resulting clinical diagnosis of CJD.\nTwo cases were proved by brain biopsy.\nRESULTS: Four males and four females were included; their ages were 53 to 81 years with a mean of 66 years.\nThe mean illness duration of the six patients who died was six and a half months.\nClinical findings were variable and included dementia, aphasia, ataxic gait, pyramidal, extrapyramidal, myoclonus and visual problems.\nCONCLUSIONS: For diagnosis of CJD, clinical suspicion is very important.\nElectroencephalogram (EEG) remains the most helpful laboratory diagnostic tool; serial recordings are necessary if the initial EEG finding is nonspecific.\nSingle photon emission computed tomography (SPECT) may be helpful for premorten diagnosis of CJD, but sensitivity and specificity need further investigation.\nBrain biopsy seemed to be unnecessary if the clinical, EEG and SPECT findings are typical.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 12,
+      "end": 37,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 12,
+          "end": 37
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 39,
+      "end": 42,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 39,
+          "end": 42
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 47,
+      "end": 72,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 47,
+          "end": 72
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 301,
+      "end": 304,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 301,
+          "end": 304
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Duration",
+      "start": 310,
+      "end": 322,
+      "text": "1987 to 1995",
+      "spans": [
+        {
+          "start": 310,
+          "end": 322
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 388,
+      "end": 391,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 388,
+          "end": 391
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Anatomic_location",
+      "start": 418,
+      "end": 423,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 418,
+          "end": 423
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Autopsy",
+      "start": 424,
+      "end": 430,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 424,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Age",
+      "start": 500,
+      "end": 514,
+      "text": "53 to 81 years",
+      "spans": [
+        {
+          "start": 500,
+          "end": 514
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Age",
+      "start": 530,
+      "end": 538,
+      "text": "66 years",
+      "spans": [
+        {
+          "start": 530,
+          "end": 538
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Complication",
+      "start": 590,
+      "end": 594,
+      "text": "died",
+      "spans": [
+        {
+          "start": 590,
+          "end": 594
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Duration",
+      "start": 599,
+      "end": 620,
+      "text": "six and a half months",
+      "spans": [
+        {
+          "start": 599,
+          "end": 620
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 667,
+      "end": 675,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 667,
+          "end": 675
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 677,
+      "end": 684,
+      "text": "aphasia",
+      "spans": [
+        {
+          "start": 677,
+          "end": 684
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 686,
+      "end": 697,
+      "text": "ataxic gait",
+      "spans": [
+        {
+          "start": 686,
+          "end": 697
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 699,
+      "end": 755,
+      "text": "pyramidal problems",
+      "spans": [
+        {
+          "start": 699,
+          "end": 708
+        },
+        {
+          "start": 747,
+          "end": 755
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 710,
+      "end": 755,
+      "text": "extrapyramidal problems",
+      "spans": [
+        {
+          "start": 710,
+          "end": 724
+        },
+        {
+          "start": 747,
+          "end": 755
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 726,
+      "end": 735,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 726,
+          "end": 735
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Symptom",
+      "start": 740,
+      "end": 755,
+      "text": "visual problems",
+      "spans": [
+        {
+          "start": 740,
+          "end": 755
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Generic_Prion",
+      "start": 787,
+      "end": 790,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 787,
+          "end": 790
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Electrophysio_test",
+      "start": 830,
+      "end": 850,
+      "text": "Electroencephalogram",
+      "spans": [
+        {
+          "start": 830,
+          "end": 850
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Electrophysio_test",
+      "start": 852,
+      "end": 855,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 852,
+          "end": 855
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Electrophysio_test",
+      "start": 957,
+      "end": 960,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 957,
+          "end": 960
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Imaging_test",
+      "start": 985,
+      "end": 1027,
+      "text": "Single photon emission computed tomography",
+      "spans": [
+        {
+          "start": 985,
+          "end": 1027
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Imaging_test",
+      "start": 1029,
+      "end": 1034,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 1029,
+          "end": 1034
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Generic_Prion",
+      "start": 1078,
+      "end": 1081,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1078,
+          "end": 1081
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Anatomic_location",
+      "start": 1143,
+      "end": 1148,
+      "text": "Brain",
+      "spans": [
+        {
+          "start": 1143,
+          "end": 1148
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Autopsy",
+      "start": 1149,
+      "end": 1155,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 1149,
+          "end": 1155
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Electrophysio_test",
+      "start": 1198,
+      "end": 1201,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 1198,
+          "end": 1201
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Imaging_test",
+      "start": 1206,
+      "end": 1211,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 1206,
+          "end": 1211
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "doc_id": "prion_0546",
+  "text": "The case of a 66-year-old woman with atypical Creutzfeldt-Jacob disease (CJD) presents several peculiarities.\nPathologic examination confirmed a rare CJD case with primary generalized spongiform changes of the white matter and only moderate, but typical changes of the gray matter.\nBesides an essentially typical clinical course, the patient developed temporary diplopia and vertical eye movement paralysis.\nIntoxication had been excluded.\nIsoelectric focusing revealed oligoclonal CSF-IgG. Magnetic resonance imaging studies showed periventricular accentuated flat and striped hyperintense structures.\nEEG had CJD-typical periodic 1/s synchronous discharges.\nThis case illustrates for the first time that in panencephalopathic type of CJD the cerebral white matter can be involved primarily and more extensively than the gray matter.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 14,
+      "end": 25,
+      "text": "66-year-old",
+      "spans": [
+        {
+          "start": 14,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 46,
+      "end": 71,
+      "text": "Creutzfeldt-Jacob disease",
+      "spans": [
+        {
+          "start": 46,
+          "end": 71
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 73,
+      "end": 76,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 73,
+          "end": 76
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 110,
+      "end": 132,
+      "text": "Pathologic examination",
+      "spans": [
+        {
+          "start": 110,
+          "end": 132
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 150,
+      "end": 153,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 150,
+          "end": 153
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Findings",
+      "start": 184,
+      "end": 202,
+      "text": "spongiform changes",
+      "spans": [
+        {
+          "start": 184,
+          "end": 202
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 210,
+      "end": 222,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 210,
+          "end": 222
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 269,
+      "end": 280,
+      "text": "gray matter",
+      "spans": [
+        {
+          "start": 269,
+          "end": 280
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 362,
+      "end": 370,
+      "text": "diplopia",
+      "spans": [
+        {
+          "start": 362,
+          "end": 370
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 375,
+      "end": 406,
+      "text": "vertical eye movement paralysis",
+      "spans": [
+        {
+          "start": 375,
+          "end": 406
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Differential_Diagnosis",
+      "start": 408,
+      "end": 420,
+      "text": "Intoxication",
+      "spans": [
+        {
+          "start": 408,
+          "end": 420
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Test_name",
+      "start": 491,
+      "end": 517,
+      "text": "Magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 491,
+          "end": 517
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 533,
+      "end": 548,
+      "text": "periventricular",
+      "spans": [
+        {
+          "start": 533,
+          "end": 548
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Findings",
+      "start": 561,
+      "end": 601,
+      "text": "flat and striped hyperintense structures",
+      "spans": [
+        {
+          "start": 561,
+          "end": 601
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Test_name",
+      "start": 603,
+      "end": 606,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 603,
+          "end": 606
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 709,
+      "end": 727,
+      "text": "panencephalopathic",
+      "spans": [
+        {
+          "start": 709,
+          "end": 727
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 736,
+      "end": 739,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 736,
+          "end": 739
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 744,
+      "end": 765,
+      "text": "cerebral white matter",
+      "spans": [
+        {
+          "start": 744,
+          "end": 765
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 822,
+      "end": 833,
+      "text": "gray matter",
+      "spans": [
+        {
+          "start": 822,
+          "end": 833
+        }
+      ]
+    }
+  ]
+}

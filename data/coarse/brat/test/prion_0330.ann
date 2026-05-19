@@ -1,0 +1,18 @@
+T9	Findings 31 60	accumulation of prion protein
+T3	Anatomic_location 70 86	lymphoid tissues
+T4	Acquired_Prion 103 136	variant Creutzfeldt-Jakob disease
+T5	Acquired_Prion 138 142	vCJD
+T15	Findings 399 434	lymphoreticular accumulation of PrP
+T6	Acquired_Prion 439 443	vCJD
+T2	Anatomic_location 515 538	lymphoreticular tissues
+T17	Differential_Diagnosis 566 585	reactive conditions
+T16	Differential_Diagnosis 598 605	tumours
+T7	Acquired_Prion 618 622	vCJD
+T8	Generic_Prion 645 665	human prion diseases
+T18	Findings 692 708	PrP accumulation
+T21	Test_name 725 744	immunocytochemistry
+T23	Acquired_Prion 852 856	vCJD
+T12	Findings 875 910	lymphoreticular accumulation of PrP
+T13	Findings 985 1020	Lymphoreticular accumulation of PrP
+T10	Test_name 1037 1056	immunocytochemistry
+T11	Acquired_Prion 1101 1105	vCJD

@@ -1,0 +1,17 @@
+T1	Time 6 10	1985
+T2	Generic_Prion 29 54	Creutzfeldt-Jakob disease
+T3	Treatment 74 110	treatment by human cadaveric hormone
+T4	Acquired_Prion 141 157	iatrogenic cases
+T5	Test_name 241 264	Neuropathological study
+T6	Sporadic_Prion 320 363	sporadic cases of Creutzfeldt-Jakob disease
+T9	Findings 392 418	cortical spongiform change
+T7	Findings 433 467	vacuoles within neuronal dendrites
+T10	Findings 477 489	astrogliosis
+T11	Findings 494 507	neuronal loss
+T12	Acquired_Prion 526 542	iatrogenic cases
+T14	Findings 721 733	kuru plaques
+T15	Anatomic_location 756 771	cerebral cortex
+T16	Anatomic_location 777 801	subcortical white matter
+T17	Anatomic_location 813 830	cerebellar cortex
+T18	Acquired_Prion 969 1005	iatrogenic Creutzfeldt-Jakob disease
+T20	Acquired_Prion 1010 1014	kuru

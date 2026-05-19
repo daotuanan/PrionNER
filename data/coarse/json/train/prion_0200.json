@@ -1,0 +1,512 @@
+{
+  "doc_id": "prion_0200",
+  "text": "OBJECTIVE: To compare conventional and diffusion-weighted MR imaging in terms of their depiction of the abnormalities occurring in Creutzfeldt-Jakob disease.\nMATERIALS AND METHODS: We retrospectively analyzed the findings of conventional (T2-weighted and fluid-attenuated inversion recovery) and diffusion-weighted MR imaging in four patients with biopsy-proven Creutzfeldt-Jakob disease.\nThe signal intensity of the lesion was classified by visual assessment as markedly high, slightly high, or isointense, relative to normal brain parenchyma.\nRESULTS: Both conventional and diffusion-weighted MR images demonstrated bilateral high signal intensity in the basal ganglia in all four patients.\nCortical lesions were observed on diffusion-weighted MR images in all four, and on fluid-attenuated inversion recovery MR images in one, but in no patient on T2-weighted images.\nConventional MR images showed slightly high signal intensity in all lesions, while diffusion-weighted images showed markedly high signal intensity in most. CONCLUSION: Diffusion-weighted MR imaging is more sensitive than its conventional counterpart in the depiction of Creutzfeldt-Jakob disease, and permits better detection of the lesion in both the cerebral cortices and basal ganglia.",
+  "entities": [
+    {
+      "id": "T23",
+      "label": "Sequences",
+      "start": 22,
+      "end": 68,
+      "text": "conventional MR imaging",
+      "spans": [
+        {
+          "start": 22,
+          "end": 34
+        },
+        {
+          "start": 58,
+          "end": 68
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T2",
+      "label": "Sequences",
+      "start": 39,
+      "end": 57,
+      "text": "diffusion-weighted",
+      "spans": [
+        {
+          "start": 39,
+          "end": 57
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Test_name",
+      "start": 58,
+      "end": 68,
+      "text": "MR imaging",
+      "spans": [
+        {
+          "start": 58,
+          "end": 68
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 131,
+      "end": 156,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 131,
+          "end": 156
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Sequences",
+      "start": 225,
+      "end": 325,
+      "text": "conventional MR imaging",
+      "spans": [
+        {
+          "start": 225,
+          "end": 237
+        },
+        {
+          "start": 315,
+          "end": 325
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T6",
+      "label": "Sequences",
+      "start": 239,
+      "end": 250,
+      "text": "T2-weighted",
+      "spans": [
+        {
+          "start": 239,
+          "end": 250
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Sequences",
+      "start": 255,
+      "end": 290,
+      "text": "fluid-attenuated inversion recovery",
+      "spans": [
+        {
+          "start": 255,
+          "end": 290
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Sequences",
+      "start": 296,
+      "end": 314,
+      "text": "diffusion-weighted",
+      "spans": [
+        {
+          "start": 296,
+          "end": 314
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Test_name",
+      "start": 315,
+      "end": 325,
+      "text": "MR imaging",
+      "spans": [
+        {
+          "start": 315,
+          "end": 325
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 348,
+      "end": 354,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 348,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 362,
+      "end": 387,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 362,
+          "end": 387
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Findings",
+      "start": 393,
+      "end": 476,
+      "text": "signal intensity of the lesion markedly high",
+      "spans": [
+        {
+          "start": 393,
+          "end": 423
+        },
+        {
+          "start": 463,
+          "end": 476
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T24",
+      "label": "Findings",
+      "start": 393,
+      "end": 491,
+      "text": "signal intensity of the lesion slightly high",
+      "spans": [
+        {
+          "start": 393,
+          "end": 423
+        },
+        {
+          "start": 478,
+          "end": 491
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T26",
+      "label": "Findings",
+      "start": 393,
+      "end": 506,
+      "text": "signal intensity of the lesion isointense",
+      "spans": [
+        {
+          "start": 393,
+          "end": 423
+        },
+        {
+          "start": 496,
+          "end": 506
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T35",
+      "label": "Anatomic_location",
+      "start": 527,
+      "end": 532,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 527,
+          "end": 532
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Sequences",
+      "start": 576,
+      "end": 594,
+      "text": "diffusion-weighted",
+      "spans": [
+        {
+          "start": 576,
+          "end": 594
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Test_name",
+      "start": 595,
+      "end": 604,
+      "text": "MR images",
+      "spans": [
+        {
+          "start": 595,
+          "end": 604
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Findings",
+      "start": 628,
+      "end": 649,
+      "text": "high signal intensity",
+      "spans": [
+        {
+          "start": 628,
+          "end": 649
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 657,
+      "end": 670,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 657,
+          "end": 670
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 693,
+      "end": 701,
+      "text": "Cortical",
+      "spans": [
+        {
+          "start": 693,
+          "end": 701
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Findings",
+      "start": 702,
+      "end": 709,
+      "text": "lesions",
+      "spans": [
+        {
+          "start": 702,
+          "end": 709
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Sequences",
+      "start": 727,
+      "end": 745,
+      "text": "diffusion-weighted",
+      "spans": [
+        {
+          "start": 727,
+          "end": 745
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Test_name",
+      "start": 746,
+      "end": 755,
+      "text": "MR images",
+      "spans": [
+        {
+          "start": 746,
+          "end": 755
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Sequences",
+      "start": 776,
+      "end": 811,
+      "text": "fluid-attenuated inversion recovery",
+      "spans": [
+        {
+          "start": 776,
+          "end": 811
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Test_name",
+      "start": 812,
+      "end": 821,
+      "text": "MR images",
+      "spans": [
+        {
+          "start": 812,
+          "end": 821
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Sequences",
+      "start": 851,
+      "end": 862,
+      "text": "T2-weighted",
+      "spans": [
+        {
+          "start": 851,
+          "end": 862
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Sequences",
+      "start": 871,
+      "end": 893,
+      "text": "Conventional MR images",
+      "spans": [
+        {
+          "start": 871,
+          "end": 893
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Test_name",
+      "start": 884,
+      "end": 893,
+      "text": "MR images",
+      "spans": [
+        {
+          "start": 884,
+          "end": 893
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Findings",
+      "start": 901,
+      "end": 931,
+      "text": "slightly high signal intensity",
+      "spans": [
+        {
+          "start": 901,
+          "end": 931
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Sequences",
+      "start": 954,
+      "end": 979,
+      "text": "diffusion-weighted images",
+      "spans": [
+        {
+          "start": 954,
+          "end": 979
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Findings",
+      "start": 996,
+      "end": 1017,
+      "text": "high signal intensity",
+      "spans": [
+        {
+          "start": 996,
+          "end": 1017
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Sequences",
+      "start": 1039,
+      "end": 1057,
+      "text": "Diffusion-weighted",
+      "spans": [
+        {
+          "start": 1039,
+          "end": 1057
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Test_name",
+      "start": 1058,
+      "end": 1068,
+      "text": "MR imaging",
+      "spans": [
+        {
+          "start": 1058,
+          "end": 1068
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Generic_Prion",
+      "start": 1141,
+      "end": 1166,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 1141,
+          "end": 1166
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Findings",
+      "start": 1204,
+      "end": 1210,
+      "text": "lesion",
+      "spans": [
+        {
+          "start": 1204,
+          "end": 1210
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 1223,
+      "end": 1240,
+      "text": "cerebral cortices",
+      "spans": [
+        {
+          "start": 1223,
+          "end": 1240
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 1245,
+      "end": 1258,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 1245,
+          "end": 1258
+        }
+      ]
+    }
+  ]
+}

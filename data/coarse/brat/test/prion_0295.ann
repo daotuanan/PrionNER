@@ -1,0 +1,54 @@
+T1	Acquired_Prion 24 57	Variant Creutzfeldt-Jakob disease
+T2	Acquired_Prion 59 63	vCJD
+T3	Differential_Diagnosis 98 106	dementia
+T11	Complication 111 116	death
+T19	Age 120 125	young
+T4	Generic_Prion 161 193	bovine spongiform encephalopathy
+T5	Findings 207 221	hyperintensity
+T6	Anatomic_location 229 256	pulvinar (posterior) nuclei
+T7	Anatomic_location 264 272	thalamus
+T10	Anatomic_location 274 282	pulvinar
+T9	Findings 274 287	pulvinar sign
+T80	Anatomic_location 292 297	brain
+T12	Test_name 298 307	MR images
+T13	Acquired_Prion 369 373	vCJD
+T14	Test_name 499 509	MR imaging
+T15	Acquired_Prion 529 533	vCJD
+T16	Test_name 611 620	MR images
+T17	Acquired_Prion 643 647	vCJD
+T18	Time 672 685	6-year period
+T20	Anatomic_location 776 784	pulvinar
+T21	Findings 776 789	pulvinar sign
+T30	Test_name 801 820	neuropathologically
+T23	Findings 913 927	hyperintensity
+T24	Anatomic_location 935 943	pulvinar
+T8	Test_name 967 969	MR
+T25	Findings 1014 1028	hyperintensity
+T81	Anatomic_location 1051 1056	brain
+T27	Anatomic_location 1171 1179	pulvinar
+T28	Findings 1171 1184	pulvinar sign
+T31	Acquired_Prion 1206 1210	vCJD
+T32	Anatomic_location 1244 1252	pulvinar
+T33	Findings 1244 1257	pulvinar sign
+T34	Findings 1273 1287	hyperintensity
+T35	Anatomic_location 1295 1303	pulvinar
+T36	Anatomic_location 1320 1336	anterior putamen
+T41	Sequences 1370 1381	T1-weighted
+T45	Sequences 1399 1410	T2-weighted
+T49	Sequences 1427 1450	proton density-weighted
+T22	Sequences 1472 1507	fluid-attenuated inversion-recovery
+T54	Sequences 1509 1514	FLAIR
+T55	Sequences 1524 1549	Diffusion-weighted images
+T58	Anatomic_location 1604 1612	pulvinar
+T59	Findings 1604 1617	pulvinar sign
+T61	Findings 1646 1660	hyperintensity
+T62	Anatomic_location 1668 1695	dorsomedial thalamic nuclei
+T64	Anatomic_location 1703 1715	caudate head
+T66	Anatomic_location 1727 1753	periaqueductal gray matter
+T68	Sequences 1763 1768	FLAIR
+T70	Anatomic_location 1847 1855	pulvinar
+T71	Findings 1847 1860	pulvinar sign
+T72	Test_name 1864 1873	MR images
+T73	Acquired_Prion 1915 1919	vCJD
+T74	Sequences 1921 1926	FLAIR
+T78	Test_name 1985 1994	MR images

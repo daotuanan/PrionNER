@@ -1,0 +1,31 @@
+T1	Test_name 13 20	autopsy
+T2	Generic_Prion 39 64	Creutzfeldt-Jacob disease
+T3	Generic_Prion 66 69	CJD
+T4	Findings 79 101	diffuse reduced uptake
+T5	Test_name 105 110	SPECT
+T10	Test_name 168 187	cerebrospinal fluid
+T11	Test_name 189 192	CSF
+T12	Age 197 208	75-year-old
+T13	Time 222 229	3-month
+T14	Symptom 241 264	progressive gait ataxia
+T15	Symptom 269 277	dementia
+T6	Time 292 303	Four months
+T16	Time 304 315	after onset
+T17	Symptom 349 364	akinetic mutism
+T19	Test_name 377 379	CT
+T20	Test_name 384 387	MRI
+T21	Test_name 435 457	electroencephalography
+T24	Test_name 509 512	CSF
+T27	Test_name 552 557	SPECT
+T7	Findings 565 587	diffuse reduced uptake
+T30	Anatomic_location 595 616	supratentorial region
+T18	Findings 634 647	spared uptake
+T32	Anatomic_location 655 665	cerebellum
+T8	Complication 671 675	died
+T33	Time 676 685	13 months
+T22	Time 686 697	after onset
+T34	Test_name 722 739	autopsy diagnosis
+T35	Generic_Prion 744 747	CJD
+T36	Test_name 749 754	SPECT
+T39	Anatomic_location 784 787	CSF
+T41	Generic_Prion 877 880	CJD

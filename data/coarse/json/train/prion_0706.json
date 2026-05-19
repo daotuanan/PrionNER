@@ -1,0 +1,331 @@
+{
+  "doc_id": "prion_0706",
+  "text": "BACKGROUND: An apparently new variant of Creutzfeldt-Jakob disease (CJD), new variant CJD (nvCJD), was identified in the UK in 1996.\nThere have now been 21 cases of nvCJD in the UK and one in France.\nPsychiatric symptoms are prominent in the initial presentation in these cases.\nMETHODS: Cases of nvCJD are identified mainly by direct referral from neurologists and neuropathologists.\nDetailed clinical information was obtained by review of case notes and interviewing patients' relatives.\nWe report the psychiatric features of the first 14 cases on nvCJD in the UK.\nPsychiatric notes were examined in all 13 of these cases who were seen by a psychiatrist.\nRESULTS: Eight cases were women.\nAll 14 cases had early psychiatric features and in nine, the first symptom was psychiatric.\n13 cases were seen by a psychiatrist and the majority were diagnosed as suffering from depression or depression secondary to organic disease.\nTwo cases suffered from first-rank symptoms suggestive of psychotic illness and transient delusions and auditory or visual hallucinations occurred in the majority.\nAll cases were referred to a neurologist as the illness evolved and neurological signs developed.\nINTERPRETATION: Psychiatric symptoms are a consistent early clinical feature in nvCJD.\nAnalysis of the psychiatric symptoms does not suggest specific features that readily allow distinction from more common psychiatric disorders, although the occurrence of associated persistent sensory symptoms may raise the possibility of this diagnosis.\nNeurological signs, including ataxia, involuntary movements and cognitive impairment developed in all cases and the evolution of increasing neurological deficits is likely to remain critical to the clinical diagnosis of nvCJD.",
+  "entities": [
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 41,
+      "end": 66,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 41,
+          "end": 66
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 68,
+      "end": 71,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 68,
+          "end": 71
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Acquired_Prion",
+      "start": 74,
+      "end": 89,
+      "text": "new variant CJD",
+      "spans": [
+        {
+          "start": 74,
+          "end": 89
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Acquired_Prion",
+      "start": 91,
+      "end": 96,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 91,
+          "end": 96
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time",
+      "start": 127,
+      "end": 131,
+      "text": "1996",
+      "spans": [
+        {
+          "start": 127,
+          "end": 131
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Acquired_Prion",
+      "start": 165,
+      "end": 170,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 165,
+          "end": 170
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 200,
+      "end": 220,
+      "text": "Psychiatric symptoms",
+      "spans": [
+        {
+          "start": 200,
+          "end": 220
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Acquired_Prion",
+      "start": 297,
+      "end": 302,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 297,
+          "end": 302
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Acquired_Prion",
+      "start": 550,
+      "end": 555,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 550,
+          "end": 555
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 707,
+      "end": 733,
+      "text": "early psychiatric features",
+      "spans": [
+        {
+          "start": 707,
+          "end": 733
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 769,
+      "end": 780,
+      "text": "psychiatric",
+      "spans": [
+        {
+          "start": 769,
+          "end": 780
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Differential_Diagnosis",
+      "start": 869,
+      "end": 879,
+      "text": "depression",
+      "spans": [
+        {
+          "start": 869,
+          "end": 879
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Differential_Diagnosis",
+      "start": 883,
+      "end": 922,
+      "text": "depression secondary to organic disease",
+      "spans": [
+        {
+          "start": 883,
+          "end": 922
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 982,
+      "end": 999,
+      "text": "psychotic illness",
+      "spans": [
+        {
+          "start": 982,
+          "end": 999
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 1014,
+      "end": 1023,
+      "text": "delusions",
+      "spans": [
+        {
+          "start": 1014,
+          "end": 1023
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 1028,
+      "end": 1061,
+      "text": "auditory or visual hallucinations",
+      "spans": [
+        {
+          "start": 1028,
+          "end": 1061
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 1202,
+      "end": 1222,
+      "text": "Psychiatric symptoms",
+      "spans": [
+        {
+          "start": 1202,
+          "end": 1222
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Acquired_Prion",
+      "start": 1266,
+      "end": 1271,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 1266,
+          "end": 1271
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 1289,
+      "end": 1309,
+      "text": "psychiatric symptoms",
+      "spans": [
+        {
+          "start": 1289,
+          "end": 1309
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Differential_Diagnosis",
+      "start": 1393,
+      "end": 1414,
+      "text": "psychiatric disorders",
+      "spans": [
+        {
+          "start": 1393,
+          "end": 1414
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Symptom",
+      "start": 1465,
+      "end": 1481,
+      "text": "sensory symptoms",
+      "spans": [
+        {
+          "start": 1465,
+          "end": 1481
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Symptom",
+      "start": 1557,
+      "end": 1563,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 1557,
+          "end": 1563
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Symptom",
+      "start": 1565,
+      "end": 1586,
+      "text": "involuntary movements",
+      "spans": [
+        {
+          "start": 1565,
+          "end": 1586
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Symptom",
+      "start": 1591,
+      "end": 1611,
+      "text": "cognitive impairment",
+      "spans": [
+        {
+          "start": 1591,
+          "end": 1611
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Acquired_Prion",
+      "start": 1747,
+      "end": 1752,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 1747,
+          "end": 1752
+        }
+      ]
+    }
+  ]
+}

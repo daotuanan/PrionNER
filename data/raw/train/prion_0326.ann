@@ -1,0 +1,8 @@
+T1	Choose_Related 903 906	YES
+T3	Generic_Prion 113 154	transmissible spongiform encephalopathies
+T4	Generic_Prion 168 183	mad cow disease
+T6	Kuru 210 214	kuru
+T8	Generic_Prion 219 244	Creutzfeldt-Jakob disease
+T15	Differential_Diagnosis 75 101	neurodegenerative diseases
+T7	Differential_Diagnosis 865 890	neurodegenerative disease
+T11	Choose_Done 914 918	DONE

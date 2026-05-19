@@ -1,0 +1,58 @@
+{
+  "doc_id": "prion_0509",
+  "text": "A case of Creutzfeldt-Jakob disease treated with amantadine showed considerable initial improvement, followed by a period of almost five years during which the patient remained in a relatively stable condition until he died accidentally.\nThe diagnosis was confirmed histologically.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 10,
+      "end": 35,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 10,
+          "end": 35
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Treatment",
+      "start": 49,
+      "end": 59,
+      "text": "amantadine",
+      "spans": [
+        {
+          "start": 49,
+          "end": 59
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Duration",
+      "start": 125,
+      "end": 142,
+      "text": "almost five years",
+      "spans": [
+        {
+          "start": 125,
+          "end": 142
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Autopsy",
+      "start": 266,
+      "end": 280,
+      "text": "histologically",
+      "spans": [
+        {
+          "start": 266,
+          "end": 280
+        }
+      ]
+    }
+  ]
+}

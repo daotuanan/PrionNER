@@ -1,0 +1,9 @@
+T1	Generic_Prion 36 61	Creutzfeldt-Jakob disease
+T10	Sequences 68 88	fludeoxyglucose F 18
+T2	Test_name 93 121	positron emission tomography
+T12	Anatomic_location 130 138	cerebral
+T3	Findings 139 153	hypometabolism
+T5	Time 194 206	early stages
+T6	Generic_Prion 210 235	Creutzfeldt-Jakob disease
+T7	Findings 244 269	parenchymal abnormalities
+T8	Test_name 286 296	MR imaging

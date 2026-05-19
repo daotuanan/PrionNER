@@ -1,0 +1,227 @@
+{
+  "doc_id": "prion_0656",
+  "text": "Since 1985, several cases of Creutzfeldt-Jakob disease, occurring after a treatment by human cadaveric hormone have been reported.\nThree new iatrogenic cases observed in French patients (two children and one young adult) are described here.\nNeuropathological study displayed the classical aspects of previously reported sporadic cases of Creutzfeldt-Jakob disease in adults, including severe cortical spongiform change with numerous vacuoles within neuronal dendrites, diffuse astrogliosis and neuronal loss.\nIn addition, the iatrogenic cases described here included two more unusual points: (i) they were homozygotic for the PrP gene on codon 129 and therefore a genetic predisposition could be suspected; (ii) numerous kuru plaques were scattered in the cerebral cortex, the subcortical white matter and in the cerebellar cortex.\nThey were decorated with a PrP monoclonal antibody, but not with a beta A4 antibody.\nThis last point underlines the similarities between iatrogenic Creutzfeldt-Jakob disease and kuru.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Time_point",
+      "start": 6,
+      "end": 10,
+      "text": "1985",
+      "spans": [
+        {
+          "start": 6,
+          "end": 10
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 29,
+      "end": 54,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 29,
+          "end": 54
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Treatment",
+      "start": 74,
+      "end": 110,
+      "text": "treatment by human cadaveric hormone",
+      "spans": [
+        {
+          "start": 74,
+          "end": 110
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "iCJD",
+      "start": 141,
+      "end": 157,
+      "text": "iatrogenic cases",
+      "spans": [
+        {
+          "start": 141,
+          "end": 157
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Autopsy",
+      "start": 241,
+      "end": 264,
+      "text": "Neuropathological study",
+      "spans": [
+        {
+          "start": 241,
+          "end": 264
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "sCJD",
+      "start": 320,
+      "end": 363,
+      "text": "sporadic cases of Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 320,
+          "end": 363
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy_finding",
+      "start": 392,
+      "end": 418,
+      "text": "cortical spongiform change",
+      "spans": [
+        {
+          "start": 392,
+          "end": 418
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Autopsy_finding",
+      "start": 433,
+      "end": 467,
+      "text": "vacuoles within neuronal dendrites",
+      "spans": [
+        {
+          "start": 433,
+          "end": 467
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Autopsy_finding",
+      "start": 477,
+      "end": 489,
+      "text": "astrogliosis",
+      "spans": [
+        {
+          "start": 477,
+          "end": 489
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Autopsy_finding",
+      "start": 494,
+      "end": 507,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 494,
+          "end": 507
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "iCJD",
+      "start": 526,
+      "end": 542,
+      "text": "iatrogenic cases",
+      "spans": [
+        {
+          "start": 526,
+          "end": 542
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Autopsy_finding",
+      "start": 721,
+      "end": 733,
+      "text": "kuru plaques",
+      "spans": [
+        {
+          "start": 721,
+          "end": 733
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 756,
+      "end": 771,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 756,
+          "end": 771
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 777,
+      "end": 801,
+      "text": "subcortical white matter",
+      "spans": [
+        {
+          "start": 777,
+          "end": 801
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 813,
+      "end": 830,
+      "text": "cerebellar cortex",
+      "spans": [
+        {
+          "start": 813,
+          "end": 830
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "iCJD",
+      "start": 969,
+      "end": 1005,
+      "text": "iatrogenic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 969,
+          "end": 1005
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Kuru",
+      "start": 1010,
+      "end": 1014,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 1010,
+          "end": 1014
+        }
+      ]
+    }
+  ]
+}

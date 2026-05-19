@@ -1,0 +1,16 @@
+T1	Symptom 0 28	Rapidly progressive dementia
+T2	Imaging_sequence 104 125	T2-weighted sequences
+T4	Imaging_sequence 149 170	T1-weighted sequences
+T5	Anatomic_location 192 208	deep grey matter
+T6	Generic_Prion 226 251	Creutzfeldt-Jakob disease
+T7	Generic_Prion 253 256	CJD
+T8	Anatomic_location 263 280	peripheral cortex
+T9	Anatomic_location 344 384	subcortical periventricular white matter
+T10	Anatomic_location 466 479	basal ganglia
+T11	Anatomic_location 484 504	cortical grey matter
+T12	Differential_Diagnosis 576 585	ischaemia
+T13	Differential_Diagnosis 587 596	infection
+T14	Differential_Diagnosis 600 606	tumour
+T3	Imaging_finding 79 100	high signal intensity
+T16	Imaging_finding 385 406	high signal intensity
+T17	Imaging_finding 431 454	high signal intensities

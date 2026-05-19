@@ -1,0 +1,12 @@
+PURPOSE: To report on quantitative electroencephalograph (EEG) activity during polysomnography (PSG) in a rare case of confirmed Fatal Familial Insomnia (FFI).
+METHODS: Sleep/wake characteristics of a 32-year-old male patient were quantitatively analysed using central EEG recordings during two PSGs (FFI-1 and FFI-2) first, for investigation of insomnia and PLMS but with no suspicion of FFI and second, 120 days later with suspected but unconfirmed FFI at the time; 89 days prior to death.
+PSG metrics; absolute EEG power in specified frequency bands; EEG slowing ratio of slow-to-fast frequencies ((delta + theta)/ (alpha + sigma + beta)); and sleep spindle density were calculated.
+Results were compared with gender and age-matched insomnia and healthy controls (two of each).
+RESULTS: FFI-1 and FFI-2 PSGs revealed total time in bed of 413.5 and 392 minutes, total sleep times of 208.5 and 7.5 minute, including NREM 153.0 and 2.5 minutes, and REM 55.5 and 5.0 minutes, respectively.
+FFI-1 had approximately 1.5 times lower slow wave activity (SWA, 0.5–4.5Hz) during N3 than insomnia and controls.​ FFI-1 had 2 times and 1.8 times higher slowing ratio during REM than insomnia and controls, respectively.
+Spindle density (per minute of NREM sleep) for FFI-1 was 0.9, compared to pair-averages of 1.2 for insomnia disorder and 4.7 for healthy controls.
+CONCLUSIONS: PSG in FFI revealed poor sleep efficiency that severely deteriorated with disease progression.
+Quantitative analysis of EEG revealed lower spindle density, lower SWA in N3, and higher slowing ratio in REM, when compared to insomnia patients and healthy sleepers.
+
+<Related> YES or NO
+[DONE]

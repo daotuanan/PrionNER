@@ -1,0 +1,240 @@
+{
+  "doc_id": "prion_0740",
+  "text": "The authors report a case of Creutzfeldt-Jakob disease in a man aged 60 years from a family without a history of similar disease.\nThe disease extended over 11 months.\nIn the clinical picture initially equilibrium disturbances and dementia with psychotic symptoms predominated, EEG pattern was not typical of CJD.\nNeuropathological examination revealed extensive spongiform lesions in the cortex of all cerebral lobes, in striatum and substantia nigra, moreover a considerable number of kuru plaques was found in cerebellar cortex.\nThe authors consider that the case meets the criteria accepted for the sporadic form of CJD but believe that the final differentiation from the Gerstmann-Streussler-Scheinker syndrome should be based on genetic studies.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 29,
+      "end": 54,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 29,
+          "end": 54
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 64,
+      "end": 77,
+      "text": "aged 60 years",
+      "spans": [
+        {
+          "start": 64,
+          "end": 77
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Duration",
+      "start": 156,
+      "end": 165,
+      "text": "11 months",
+      "spans": [
+        {
+          "start": 156,
+          "end": 165
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 201,
+      "end": 225,
+      "text": "equilibrium disturbances",
+      "spans": [
+        {
+          "start": 201,
+          "end": 225
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 230,
+      "end": 238,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 230,
+          "end": 238
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 244,
+      "end": 262,
+      "text": "psychotic symptoms",
+      "spans": [
+        {
+          "start": 244,
+          "end": 262
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Electrophysio_test",
+      "start": 277,
+      "end": 280,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 277,
+          "end": 280
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 308,
+      "end": 311,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 308,
+          "end": 311
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Autopsy",
+      "start": 313,
+      "end": 342,
+      "text": "Neuropathological examination",
+      "spans": [
+        {
+          "start": 313,
+          "end": 342
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy_finding",
+      "start": 362,
+      "end": 380,
+      "text": "spongiform lesions",
+      "spans": [
+        {
+          "start": 362,
+          "end": 380
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 388,
+      "end": 394,
+      "text": "cortex",
+      "spans": [
+        {
+          "start": 388,
+          "end": 394
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 402,
+      "end": 416,
+      "text": "cerebral lobes",
+      "spans": [
+        {
+          "start": 402,
+          "end": 416
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 421,
+      "end": 429,
+      "text": "striatum",
+      "spans": [
+        {
+          "start": 421,
+          "end": 429
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 434,
+      "end": 450,
+      "text": "substantia nigra",
+      "spans": [
+        {
+          "start": 434,
+          "end": 450
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 512,
+      "end": 529,
+      "text": "cerebellar cortex",
+      "spans": [
+        {
+          "start": 512,
+          "end": 529
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "sCJD",
+      "start": 602,
+      "end": 622,
+      "text": "sporadic form of CJD",
+      "spans": [
+        {
+          "start": 602,
+          "end": 622
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "GSS",
+      "start": 675,
+      "end": 714,
+      "text": "Gerstmann-Streussler-Scheinker syndrome",
+      "spans": [
+        {
+          "start": 675,
+          "end": 714
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Genetic_test",
+      "start": 734,
+      "end": 749,
+      "text": "genetic studies",
+      "spans": [
+        {
+          "start": 734,
+          "end": 749
+        }
+      ]
+    }
+  ]
+}

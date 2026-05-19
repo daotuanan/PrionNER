@@ -1,0 +1,123 @@
+{
+  "doc_id": "prion_0341",
+  "text": "Sudden onset neurological syndromes are almost always vascular but there is a wide range of causes of subacute onset neurological syndromes.\nMost diagnoses will become clear from clinical assessment and, depending on presentation, computed tomography or magnetic resonance imaging of the brain or spine and cerebrospinal fluid examination.\nWhen investigations have proved negative, paraneoplastic neurological diseases and Creutzfeldt-Jakob disease should be considered.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 13,
+      "end": 35,
+      "text": "neurological syndromes",
+      "spans": [
+        {
+          "start": 13,
+          "end": 35
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 117,
+      "end": 139,
+      "text": "neurological syndromes",
+      "spans": [
+        {
+          "start": 117,
+          "end": 139
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 231,
+      "end": 250,
+      "text": "computed tomography",
+      "spans": [
+        {
+          "start": 231,
+          "end": 250
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 254,
+      "end": 280,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 254,
+          "end": 280
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 288,
+      "end": 293,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 288,
+          "end": 293
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 297,
+      "end": 302,
+      "text": "spine",
+      "spans": [
+        {
+          "start": 297,
+          "end": 302
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 307,
+      "end": 338,
+      "text": "cerebrospinal fluid examination",
+      "spans": [
+        {
+          "start": 307,
+          "end": 338
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Differential_Diagnosis",
+      "start": 382,
+      "end": 418,
+      "text": "paraneoplastic neurological diseases",
+      "spans": [
+        {
+          "start": 382,
+          "end": 418
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 423,
+      "end": 448,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 423,
+          "end": 448
+        }
+      ]
+    }
+  ]
+}

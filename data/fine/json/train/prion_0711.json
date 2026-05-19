@@ -1,0 +1,346 @@
+{
+  "doc_id": "prion_0711",
+  "text": "To ascertain whether increased grey matter signal intensity on T2-weighted images in patients with sporadic Creutzfeldt-Jakob disease (CJD) corresponds to the stage and severity of this disease, we correlated MRI findings in four of our own and previously reported patients with sporadic CJD with the clinical variants, neuropathological changes at autopsy, duration of the disease and survival time after MRI examination.\nOf 15 patients with the extrapyramidal type of CJD, 10 showed increased signal in the basal ganglia on T2-weighted images.\nOne of seven patients with the Heidenhain variant had increased signal in the occipital cortex.\nPatients without increased grey matter signal intensity had a longer overall duration of CJD (P = 0.035).\nAlthough the interval between onset of neurological symptoms and MRI was not different, patients without increased grey matter signal also survived longer after MRI examination (P = 0.022).",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Imaging_finding",
+      "start": 21,
+      "end": 59,
+      "text": "increased signal intensity",
+      "spans": [
+        {
+          "start": 21,
+          "end": 30
+        },
+        {
+          "start": 43,
+          "end": 59
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 31,
+      "end": 42,
+      "text": "grey matter",
+      "spans": [
+        {
+          "start": 31,
+          "end": 42
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Imaging_sequence",
+      "start": 63,
+      "end": 74,
+      "text": "T2-weighted",
+      "spans": [
+        {
+          "start": 63,
+          "end": 74
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "sCJD",
+      "start": 99,
+      "end": 133,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 99,
+          "end": 133
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 135,
+      "end": 138,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 135,
+          "end": 138
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Imaging_test",
+      "start": 209,
+      "end": 212,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 209,
+          "end": 212
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "sCJD",
+      "start": 279,
+      "end": 291,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 279,
+          "end": 291
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy",
+      "start": 349,
+      "end": 356,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 349,
+          "end": 356
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Imaging_test",
+      "start": 406,
+      "end": 409,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 406,
+          "end": 409
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 447,
+      "end": 466,
+      "text": "extrapyramidal type",
+      "spans": [
+        {
+          "start": 447,
+          "end": 466
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 470,
+      "end": 473,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 470,
+          "end": 473
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Imaging_finding",
+      "start": 485,
+      "end": 501,
+      "text": "increased signal",
+      "spans": [
+        {
+          "start": 485,
+          "end": 501
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 509,
+      "end": 522,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 509,
+          "end": 522
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Imaging_sequence",
+      "start": 526,
+      "end": 537,
+      "text": "T2-weighted",
+      "spans": [
+        {
+          "start": 526,
+          "end": 537
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "sCJD",
+      "start": 577,
+      "end": 595,
+      "text": "Heidenhain variant",
+      "spans": [
+        {
+          "start": 577,
+          "end": 595
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Imaging_finding",
+      "start": 600,
+      "end": 616,
+      "text": "increased signal",
+      "spans": [
+        {
+          "start": 600,
+          "end": 616
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 624,
+      "end": 640,
+      "text": "occipital cortex",
+      "spans": [
+        {
+          "start": 624,
+          "end": 640
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Imaging_finding",
+      "start": 659,
+      "end": 697,
+      "text": "increased signal intensity",
+      "spans": [
+        {
+          "start": 659,
+          "end": 668
+        },
+        {
+          "start": 681,
+          "end": 697
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 669,
+      "end": 680,
+      "text": "grey matter",
+      "spans": [
+        {
+          "start": 669,
+          "end": 680
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Generic_Prion",
+      "start": 731,
+      "end": 734,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 731,
+          "end": 734
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Time_point",
+      "start": 778,
+      "end": 808,
+      "text": "onset of neurological symptoms",
+      "spans": [
+        {
+          "start": 778,
+          "end": 808
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Imaging_test",
+      "start": 813,
+      "end": 816,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 813,
+          "end": 816
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Imaging_finding",
+      "start": 853,
+      "end": 881,
+      "text": "increased signal",
+      "spans": [
+        {
+          "start": 853,
+          "end": 862
+        },
+        {
+          "start": 875,
+          "end": 881
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 863,
+      "end": 874,
+      "text": "grey matter",
+      "spans": [
+        {
+          "start": 863,
+          "end": 874
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Imaging_test",
+      "start": 909,
+      "end": 912,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 909,
+          "end": 912
+        }
+      ]
+    }
+  ]
+}

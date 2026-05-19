@@ -1,0 +1,110 @@
+{
+  "doc_id": "prion_0847",
+  "text": "Current evidence indicates that variant Creutzfeldt-Jakob disease is caused by the transmission of bovine spongiform encephalopathy to humans.\nThe clinical and investigative features of variant CJD are relatively distinct from sporadic CJD and the neuropathological appearances are novel.\nThe number of cases of vCJD in the UK may have peaked, but the total future number of cases of vCJD is uncertain and the possibility of secondary iatrogenic transmission via blood transfusion has recently been identified.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "vCJD",
+      "start": 32,
+      "end": 65,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 32,
+          "end": 65
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 99,
+      "end": 131,
+      "text": "bovine spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 99,
+          "end": 131
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "vCJD",
+      "start": 186,
+      "end": 197,
+      "text": "variant CJD",
+      "spans": [
+        {
+          "start": 186,
+          "end": 197
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "sCJD",
+      "start": 227,
+      "end": 239,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 227,
+          "end": 239
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Autopsy",
+      "start": 248,
+      "end": 265,
+      "text": "neuropathological",
+      "spans": [
+        {
+          "start": 248,
+          "end": 265
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "vCJD",
+      "start": 312,
+      "end": 316,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 312,
+          "end": 316
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "vCJD",
+      "start": 384,
+      "end": 388,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 384,
+          "end": 388
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "iCJD",
+      "start": 435,
+      "end": 445,
+      "text": "iatrogenic",
+      "spans": [
+        {
+          "start": 435,
+          "end": 445
+        }
+      ]
+    }
+  ]
+}

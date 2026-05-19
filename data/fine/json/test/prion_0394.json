@@ -1,0 +1,333 @@
+{
+  "doc_id": "prion_0394",
+  "text": "OBJECTIVE: To assess cognitive function in variant Creutzfeldt-Jakob disease (vCJD).\nWe describe the neuropsychological profiles of 10 cases and compare these data with cross sectional data obtained from patients with histologically confirmed sporadic CJD and cases with inherited prion disease with confirmed mutations in the prion protein gene.\nMETHODS: Patients referred to the Specialist Cognitive Disorders Clinic at the National Hospital for Neurology and Neurosurgery and the National Prion Clinic at St Mary's Hospital, London for further investigation of suspected CJD were recruited into the study.\nThe neuropsychological test battery evaluated general intelligence, visual and verbal memory, nominal skills, literacy skills, visual perception and visuospatial functions, and visuospatial and executive function.\nRESULTS: The results indicate that moderate to severe cognitive decline is a characteristic feature of vCJD.\nSpecifically, verbal and visual memory impairments and executive dysfunction were pervasive in all disease groups.\nNominal skills were impaired in variant and sporadic CJD, significantly so when compared with the inherited prion disease group.\nPerceptual impairment was less frequent in the vCJD group than in the sporadic and inherited groups.\nCONCLUSION: This study confirms the occurrence of generalised cognitive decline in patients with vCJD.\nAlthough decline in cognitive function ultimately affects all domains, there is a suggestion that some components of visual perception may be spared in vCJD.\nThe results also suggest that nominal function may be preserved in some cases with inherited prion disease.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "vCJD",
+      "start": 43,
+      "end": 76,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 43,
+          "end": 76
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "vCJD",
+      "start": 78,
+      "end": 82,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 78,
+          "end": 82
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Autopsy",
+      "start": 218,
+      "end": 232,
+      "text": "histologically",
+      "spans": [
+        {
+          "start": 218,
+          "end": 232
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "sCJD",
+      "start": 243,
+      "end": 255,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 243,
+          "end": 255
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "fCJD",
+      "start": 271,
+      "end": 294,
+      "text": "inherited prion disease",
+      "spans": [
+        {
+          "start": 271,
+          "end": 294
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 574,
+      "end": 577,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 574,
+          "end": 577
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 877,
+      "end": 894,
+      "text": "cognitive decline",
+      "spans": [
+        {
+          "start": 877,
+          "end": 894
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "vCJD",
+      "start": 926,
+      "end": 930,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 926,
+          "end": 930
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 946,
+      "end": 982,
+      "text": "verbal impairments",
+      "spans": [
+        {
+          "start": 946,
+          "end": 952
+        },
+        {
+          "start": 971,
+          "end": 982
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 957,
+      "end": 982,
+      "text": "visual memory impairments",
+      "spans": [
+        {
+          "start": 957,
+          "end": 982
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 987,
+      "end": 1008,
+      "text": "executive dysfunction",
+      "spans": [
+        {
+          "start": 987,
+          "end": 1008
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 1047,
+      "end": 1075,
+      "text": "Nominal skills impaired",
+      "spans": [
+        {
+          "start": 1047,
+          "end": 1061
+        },
+        {
+          "start": 1067,
+          "end": 1075
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T14",
+      "label": "vCJD",
+      "start": 1079,
+      "end": 1103,
+      "text": "variant CJD",
+      "spans": [
+        {
+          "start": 1079,
+          "end": 1086
+        },
+        {
+          "start": 1100,
+          "end": 1103
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T13",
+      "label": "sCJD",
+      "start": 1091,
+      "end": 1103,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 1091,
+          "end": 1103
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "fCJD",
+      "start": 1145,
+      "end": 1168,
+      "text": "inherited prion disease",
+      "spans": [
+        {
+          "start": 1145,
+          "end": 1168
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 1176,
+      "end": 1197,
+      "text": "Perceptual impairment",
+      "spans": [
+        {
+          "start": 1176,
+          "end": 1197
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "vCJD",
+      "start": 1223,
+      "end": 1227,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1223,
+          "end": 1227
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "sCJD",
+      "start": 1246,
+      "end": 1254,
+      "text": "sporadic",
+      "spans": [
+        {
+          "start": 1246,
+          "end": 1254
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "fCJD",
+      "start": 1259,
+      "end": 1268,
+      "text": "inherited",
+      "spans": [
+        {
+          "start": 1259,
+          "end": 1268
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 1327,
+      "end": 1356,
+      "text": "generalised cognitive decline",
+      "spans": [
+        {
+          "start": 1327,
+          "end": 1356
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "vCJD",
+      "start": 1374,
+      "end": 1378,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1374,
+          "end": 1378
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Symptom",
+      "start": 1389,
+      "end": 1418,
+      "text": "decline in cognitive function",
+      "spans": [
+        {
+          "start": 1389,
+          "end": 1418
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "vCJD",
+      "start": 1532,
+      "end": 1536,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1532,
+          "end": 1536
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "fCJD",
+      "start": 1621,
+      "end": 1644,
+      "text": "inherited prion disease",
+      "spans": [
+        {
+          "start": 1621,
+          "end": 1644
+        }
+      ]
+    }
+  ]
+}

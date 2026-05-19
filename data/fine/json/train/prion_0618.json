@@ -1,0 +1,227 @@
+{
+  "doc_id": "prion_0618",
+  "text": "Kuru was diagnosed in a 42-year-old Melanesian male from the Eastern Highlands Province of Papua New Guinea.\nThe clinical features indicated predominant cerebellar degeneration together with widespread cortical neuronal dysfunction and involvement of the diencephalon, hippocampus and basal ganglia.\nDementia was an early and prominent feature.\nThe duration of clinical illness was about 12 months and atypically he spent the last 7 months in hospital allowing continuous assessment.\nAt autopsy, spongiform encephalopathy was demonstrated, and inoculation of brain tissue into 4 squirrel monkeys and 1 capuchin monkey resulted in the development of kuru.\nThis is the longest continuous study of kuru in a hospital setting to be recorded in the adult human subject.\nThe virus isolated from the brain of this patient has been adopted as a standard reference strain of kuru for future use and repository.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Kuru",
+      "start": 0,
+      "end": 4,
+      "text": "Kuru",
+      "spans": [
+        {
+          "start": 0,
+          "end": 4
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 24,
+      "end": 35,
+      "text": "42-year-old",
+      "spans": [
+        {
+          "start": 24,
+          "end": 35
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 153,
+      "end": 163,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 153,
+          "end": 163
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 202,
+      "end": 210,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 202,
+          "end": 210
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Anatomic_location",
+      "start": 255,
+      "end": 267,
+      "text": "diencephalon",
+      "spans": [
+        {
+          "start": 255,
+          "end": 267
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 269,
+      "end": 280,
+      "text": "hippocampus",
+      "spans": [
+        {
+          "start": 269,
+          "end": 280
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 285,
+      "end": 298,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 285,
+          "end": 298
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 300,
+      "end": 308,
+      "text": "Dementia",
+      "spans": [
+        {
+          "start": 300,
+          "end": 308
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Duration",
+      "start": 388,
+      "end": 397,
+      "text": "12 months",
+      "spans": [
+        {
+          "start": 388,
+          "end": 397
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Duration",
+      "start": 431,
+      "end": 439,
+      "text": "7 months",
+      "spans": [
+        {
+          "start": 431,
+          "end": 439
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy",
+      "start": 487,
+      "end": 494,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 487,
+          "end": 494
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 496,
+      "end": 521,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 496,
+          "end": 521
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 559,
+      "end": 564,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 559,
+          "end": 564
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Kuru",
+      "start": 649,
+      "end": 653,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 649,
+          "end": 653
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Kuru",
+      "start": 695,
+      "end": 699,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 695,
+          "end": 699
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 793,
+      "end": 798,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 793,
+          "end": 798
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Kuru",
+      "start": 866,
+      "end": 870,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 866,
+          "end": 870
+        }
+      ]
+    }
+  ]
+}

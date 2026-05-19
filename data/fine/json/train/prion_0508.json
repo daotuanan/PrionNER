@@ -1,0 +1,253 @@
+{
+  "doc_id": "prion_0508",
+  "text": "The clinico-pathological features of 4 cases of Creutzfeldt-Jakob disease, a transmissible virus dementia, are reported.\nThe onset of the disease varied between 54 and 81 years of age: the course is dramatic and the demise occurs 1-4 months after the onset of symptoms.\nThe clinical picture includes mental deterioration with amnesia, aphasia, apraxia and neurologic symptoms, mainly consisting in progressive rigidity and myoclonus.\nAll cases show the typical 1/sec pseudorithmic spikes on EEG.\nHistological changes include severe astrocytosis of the cerebral cortex, status spongiosus and mild neuronal loss.\nThe changes are more marked in the parieto-occipital lobes.\nCriteria of clinical and pathological diagnosis are reviewed.\nThe precautions to be taken in handling biological as well as bioptic and autoptic specimens are emphasized, in order to avoid accidental transmission of the disease.\nIt seems essential to institute a register of cases of Creutzfeldt-Jakob disease in Italy to assess the incidence and diffusion of the disease in our country.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 48,
+      "end": 73,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 48,
+          "end": 73
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Time_point",
+      "start": 125,
+      "end": 145,
+      "text": "onset of the disease",
+      "spans": [
+        {
+          "start": 125,
+          "end": 145
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 161,
+      "end": 183,
+      "text": "54 and 81 years of age",
+      "spans": [
+        {
+          "start": 161,
+          "end": 183
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Duration",
+      "start": 230,
+      "end": 240,
+      "text": "1-4 months",
+      "spans": [
+        {
+          "start": 230,
+          "end": 240
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Time_point",
+      "start": 230,
+      "end": 268,
+      "text": "1-4 months after the onset of symptoms",
+      "spans": [
+        {
+          "start": 230,
+          "end": 268
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 300,
+      "end": 320,
+      "text": "mental deterioration",
+      "spans": [
+        {
+          "start": 300,
+          "end": 320
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 326,
+      "end": 333,
+      "text": "amnesia",
+      "spans": [
+        {
+          "start": 326,
+          "end": 333
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 335,
+      "end": 342,
+      "text": "aphasia",
+      "spans": [
+        {
+          "start": 335,
+          "end": 342
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 344,
+      "end": 351,
+      "text": "apraxia",
+      "spans": [
+        {
+          "start": 344,
+          "end": 351
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 356,
+      "end": 375,
+      "text": "neurologic symptoms",
+      "spans": [
+        {
+          "start": 356,
+          "end": 375
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 398,
+      "end": 418,
+      "text": "progressive rigidity",
+      "spans": [
+        {
+          "start": 398,
+          "end": 418
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 423,
+      "end": 432,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 423,
+          "end": 432
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Electrophysio_test",
+      "start": 491,
+      "end": 494,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 491,
+          "end": 494
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Autopsy_finding",
+      "start": 532,
+      "end": 544,
+      "text": "astrocytosis",
+      "spans": [
+        {
+          "start": 532,
+          "end": 544
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 552,
+      "end": 567,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 552,
+          "end": 567
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Autopsy_finding",
+      "start": 569,
+      "end": 586,
+      "text": "status spongiosus",
+      "spans": [
+        {
+          "start": 569,
+          "end": 586
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Autopsy_finding",
+      "start": 596,
+      "end": 609,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 596,
+          "end": 609
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 646,
+      "end": 669,
+      "text": "parieto-occipital lobes",
+      "spans": [
+        {
+          "start": 646,
+          "end": 669
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Generic_Prion",
+      "start": 955,
+      "end": 980,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 955,
+          "end": 980
+        }
+      ]
+    }
+  ]
+}

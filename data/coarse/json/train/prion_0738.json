@@ -1,0 +1,331 @@
+{
+  "doc_id": "prion_0738",
+  "text": "We present a 61-year-old male patient with progressive dementia.\nA brain SPECT with Tc-99m-bicisate was performed for confirmation of clinically suspected Alzheimer-dementia.\nAt the time of the SPECT-investigation marked apraxia and aphasia besides severe dementia were present.\nElectrophysiological as well as anatomical neuroimaging findings showed non-diagnostic alterations.\nSPECT revealed distinct perfusion defects, which made Alzheimer Dementia unlikely.\nThe further course of the patient was determined by rapidly progressive deterioration with development of akinetic mutism.\nThereafter, increased levels of neuron-specific enolase as well as 14-3-3 proteins were found in the cerebro-spinal fluid (CSF).\nThe patient finally died with signs of cerebral decortication.\nDue to the clinical course and the CSF-findings the patient's final diagnosis was Creutzfeldt-Jakob-disease, nevertheless no autopsy was performed.\nThe presented case report underscores the clinical utility of perfusion brain SPECT in the differential diagnosis of dementias.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 13,
+      "end": 24,
+      "text": "61-year-old",
+      "spans": [
+        {
+          "start": 13,
+          "end": 24
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 43,
+      "end": 63,
+      "text": "progressive dementia",
+      "spans": [
+        {
+          "start": 43,
+          "end": 63
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Anatomic_location",
+      "start": 67,
+      "end": 72,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 67,
+          "end": 72
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 73,
+      "end": 78,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 73,
+          "end": 78
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Differential_Diagnosis",
+      "start": 155,
+      "end": 173,
+      "text": "Alzheimer-dementia",
+      "spans": [
+        {
+          "start": 155,
+          "end": 173
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 194,
+      "end": 199,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 194,
+          "end": 199
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 221,
+      "end": 228,
+      "text": "apraxia",
+      "spans": [
+        {
+          "start": 221,
+          "end": 228
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 233,
+      "end": 240,
+      "text": "aphasia",
+      "spans": [
+        {
+          "start": 233,
+          "end": 240
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 249,
+      "end": 264,
+      "text": "severe dementia",
+      "spans": [
+        {
+          "start": 249,
+          "end": 264
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 279,
+      "end": 299,
+      "text": "Electrophysiological",
+      "spans": [
+        {
+          "start": 279,
+          "end": 299
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 311,
+      "end": 334,
+      "text": "anatomical neuroimaging",
+      "spans": [
+        {
+          "start": 311,
+          "end": 334
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Test_name",
+      "start": 379,
+      "end": 384,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 379,
+          "end": 384
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Findings",
+      "start": 403,
+      "end": 420,
+      "text": "perfusion defects",
+      "spans": [
+        {
+          "start": 403,
+          "end": 420
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Differential_Diagnosis",
+      "start": 433,
+      "end": 451,
+      "text": "Alzheimer Dementia",
+      "spans": [
+        {
+          "start": 433,
+          "end": 451
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 514,
+      "end": 547,
+      "text": "rapidly progressive deterioration",
+      "spans": [
+        {
+          "start": 514,
+          "end": 547
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Symptom",
+      "start": 568,
+      "end": 583,
+      "text": "akinetic mutism",
+      "spans": [
+        {
+          "start": 568,
+          "end": 583
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Test_name",
+      "start": 686,
+      "end": 712,
+      "text": "cerebro-spinal fluid (CSF)",
+      "spans": [
+        {
+          "start": 686,
+          "end": 712
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Complication",
+      "start": 734,
+      "end": 738,
+      "text": "died",
+      "spans": [
+        {
+          "start": 734,
+          "end": 738
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Symptom",
+      "start": 753,
+      "end": 775,
+      "text": "cerebral decortication",
+      "spans": [
+        {
+          "start": 753,
+          "end": 775
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 812,
+      "end": 815,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 812,
+          "end": 815
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Generic_Prion",
+      "start": 859,
+      "end": 884,
+      "text": "Creutzfeldt-Jakob-disease",
+      "spans": [
+        {
+          "start": 859,
+          "end": 884
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Test_name",
+      "start": 902,
+      "end": 909,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 902,
+          "end": 909
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Anatomic_location",
+      "start": 997,
+      "end": 1002,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 997,
+          "end": 1002
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Test_name",
+      "start": 1003,
+      "end": 1008,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 1003,
+          "end": 1008
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Differential_Diagnosis",
+      "start": 1042,
+      "end": 1051,
+      "text": "dementias",
+      "spans": [
+        {
+          "start": 1042,
+          "end": 1051
+        }
+      ]
+    }
+  ]
+}

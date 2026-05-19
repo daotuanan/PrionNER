@@ -1,0 +1,12 @@
+Sequential measurements of local cerebral glucose metabolism were performed in a case with Creutzfeldt-Jakob disease.
+The diagnosis was based on the characteristic clinical symptoms and EEG.
+Cerebral glucose metabolism (CMRGlc) was measured by positron emission tomography (PET) and 18F-fluorodeoxyglucose.
+CMRGlc was decreased to about 45% of the normal value.
+At that time, X-ray CT revealed little brain atrophy.
+The decrease of CMRGlc was prominent in cerebral cortices, but the metabolic decrease was slight in striatal body, cerebellum, and brainstem.
+The motor cortex and occipital lobe showed relatively preserved metabolism among the cerebral cortices.
+Six months after the first PET measurement, X-ray CT showed marked brain atrophy.
+Decrease of cerebral glucose metabolism advanced furthermore.
+However, the progress of the decrease was relatively small in the basal ganglia, brainstem, and cerebellar nucleus.
+These findings differ from the findings that was known by pathological study.
+These results suggest that measurement of CMRGlc by PET is useful for the early detection and for understanding of the pathophysiology of this disease.

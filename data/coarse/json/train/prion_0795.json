@@ -1,0 +1,318 @@
+{
+  "doc_id": "prion_0795",
+  "text": "Prion diseases are histologically characterized by a spongiform encephalopathy.\nThe early symptoms of Creutzfeldt-Jakob disease (CJD) and variant Creutzfeldt-Jakob disease (vCJD) are unspecific.\nTo date, the definite diagnosis can only be made by histological examination of central nervous tissue, i.e. brain biopsy or post mortem.\nTherefore, diagnostic tests are being elaborated that suffice with cerebrospinal fluid or blood.\nUnlike the sporadic form of Creutzfeldt-Jakob disease, that involves the central nervous system exclusively, in the variant of the Creutzfeldt-Jakob disease the lymphoreticular system including the tonsils is involved, too.\nHence, a tonsillar biopsy can be performed instead of a brain biopsy.\nIn particular, the diagnostic criteria of both CJD and vCJD are described.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 14,
+      "text": "Prion diseases",
+      "spans": [
+        {
+          "start": 0,
+          "end": 14
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 53,
+      "end": 78,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 53,
+          "end": 78
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 102,
+      "end": 127,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 102,
+          "end": 127
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 129,
+      "end": 132,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 129,
+          "end": 132
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Acquired_Prion",
+      "start": 138,
+      "end": 171,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 138,
+          "end": 171
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Acquired_Prion",
+      "start": 173,
+      "end": 177,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 173,
+          "end": 177
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 247,
+      "end": 271,
+      "text": "histological examination",
+      "spans": [
+        {
+          "start": 247,
+          "end": 271
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 275,
+      "end": 297,
+      "text": "central nervous tissue",
+      "spans": [
+        {
+          "start": 275,
+          "end": 297
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Anatomic_location",
+      "start": 304,
+      "end": 309,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 304,
+          "end": 309
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 310,
+      "end": 316,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 310,
+          "end": 316
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Test_name",
+      "start": 320,
+      "end": 331,
+      "text": "post mortem",
+      "spans": [
+        {
+          "start": 320,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Test_name",
+      "start": 344,
+      "end": 360,
+      "text": "diagnostic tests",
+      "spans": [
+        {
+          "start": 344,
+          "end": 360
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 400,
+      "end": 419,
+      "text": "cerebrospinal fluid",
+      "spans": [
+        {
+          "start": 400,
+          "end": 419
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 423,
+      "end": 428,
+      "text": "blood",
+      "spans": [
+        {
+          "start": 423,
+          "end": 428
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Sporadic_Prion",
+      "start": 441,
+      "end": 483,
+      "text": "sporadic form of Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 441,
+          "end": 483
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 503,
+      "end": 525,
+      "text": "central nervous system",
+      "spans": [
+        {
+          "start": 503,
+          "end": 525
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Acquired_Prion",
+      "start": 546,
+      "end": 586,
+      "text": "variant of the Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 546,
+          "end": 586
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 591,
+      "end": 613,
+      "text": "lymphoreticular system",
+      "spans": [
+        {
+          "start": 591,
+          "end": 613
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 628,
+      "end": 635,
+      "text": "tonsils",
+      "spans": [
+        {
+          "start": 628,
+          "end": 635
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Test_name",
+      "start": 663,
+      "end": 679,
+      "text": "tonsillar biopsy",
+      "spans": [
+        {
+          "start": 663,
+          "end": 679
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Anatomic_location",
+      "start": 710,
+      "end": 715,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 710,
+          "end": 715
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Test_name",
+      "start": 716,
+      "end": 722,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 716,
+          "end": 722
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Generic_Prion",
+      "start": 771,
+      "end": 774,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 771,
+          "end": 774
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Acquired_Prion",
+      "start": 779,
+      "end": 783,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 779,
+          "end": 783
+        }
+      ]
+    }
+  ]
+}

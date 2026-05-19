@@ -1,0 +1,14 @@
+T1	GSS 28 66	Gerstmann-Sträussler-Scheinker disease
+T2	Symptom 271 279	dementia
+T3	Symptom 316 325;340 349	pyramidal syndromes
+T4	Symptom 327 349	pseudobulbar syndromes
+T5	Symptom 354 362	dementia
+T6	Anatomic_location 379 390	spinal cord
+T7	Anatomic_location 395 405	cerebellar
+T8	Genetic_test 416 435	Prion gene analysis
+T10	Autopsy 565 573	necropsy
+T14	GSS 817 855	Gerstmann-Sträussler-Scheinker disease
+T15	Choose_Related 883 886	YES
+T9	Symptom 379 390;406 414	spinal cord features
+T11	Symptom 395 414	cerebellar features
+T12	Choose_Done 894 898	DONE

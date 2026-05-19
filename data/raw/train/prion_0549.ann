@@ -1,0 +1,40 @@
+T2	Generic_Prion 91 116	Creutzfeldt-Jakob disease
+T4	Electrophysio_test 186 189	EEG
+T7	Imaging_test 244 272	positron emission tomography
+T8	Imaging_test 274 277	PET
+T14	Imaging_test 376 384	X-ray CT
+T15	Imaging_finding 407 414	atrophy
+T17	Anatomic_location 456 473	cerebral cortices
+T18	Anatomic_location 516 529	striatal body
+T19	Anatomic_location 531 541	cerebellum
+T20	Anatomic_location 547 556	brainstem
+T21	Anatomic_location 562 574	motor cortex
+T22	Anatomic_location 579 593	occipital lobe
+T23	Anatomic_location 643 660	cerebral cortices
+T24	Duration 662 672	Six months
+T25	Imaging_test 689 692	PET
+T26	Imaging_test 706 714	X-ray CT
+T27	Imaging_finding 735 742	atrophy
+T29	Anatomic_location 872 885	basal ganglia
+T30	Anatomic_location 887 896	brainstem
+T31	Anatomic_location 902 920	cerebellar nucleus
+T32	Autopsy 980 998	pathological study
+T34	Imaging_test 1052 1055	PET
+T35	Choose_Related 1163 1166	YES
+T42	Choose_Done 1174 1178	DONE
+T43	Anatomic_location 401 406	brain
+T44	Anatomic_location 729 734	brain
+T1	Imaging_sequence 283 305	18F-fluorodeoxyglucose
+T3	Imaging_finding 191 218	Cerebral glucose metabolism
+T5	Imaging_finding 33 60	cerebral glucose metabolism
+T6	Imaging_finding 220 226	CMRGlc
+T9	Imaging_finding 307 313	CMRGlc
+T10	Imaging_finding 420 438	decrease of CMRGlc
+T11	Imaging_finding 483 501	metabolic decrease
+T12	Imaging_finding 612 632	preserved metabolism
+T13	Imaging_finding 744 783	Decrease of cerebral glucose metabolism
+T16	Imaging_finding 835 843	decrease
+T28	Imaging_finding 1042 1048	CMRGlc
+T45	Anatomic_location 33 41	cerebral
+T46	Anatomic_location 191 199	Cerebral
+T49	Anatomic_location 756 764	cerebral

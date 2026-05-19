@@ -1,0 +1,26 @@
+T1	Age 14 22	59 years
+T2	Generic_Prion 81 106	Creutzfeldt-Jakob disease
+T3	Generic_Prion 108 111	CJD
+T4	Age 126 134	46 years
+T5	Time_point 185 197	3 days later
+T7	Duration 248 265	Twenty six months
+T8	Generic_Prion 304 307	CJD
+T10	Electrophysio_test 323 326	EEG
+T11	Symptom 374 380	ataxic
+T12	Autopsy_finding 407 444	depletion of cerebellar granule cells
+T13	Autopsy_finding 454 466	kuru plaques
+T14	Autopsy_finding 470 482	PrP deposits
+T15	Autopsy_finding 484 496	PrP deposits
+T16	Anatomic_location 541 549	cerebrum
+T17	Anatomic_location 551 562	spinal cord
+T18	Anatomic_location 567 583	peripheral nerve
+T19	Genetic_test 585 611	Molecular genetic analysis
+T24	Generic_Prion 902 905	CJD
+T9	Autopsy 45 51	biopsy
+T21	Anatomic_location 36 44	cortical
+T22	Treatment 146 161	cranial surgery
+T6	Anatomic_location 747 757	cerebellar
+T23	Anatomic_location 855 865	cerebellar
+T27	Anatomic_location 202 207	brain
+T28	Anatomic_location 625 630	brain
+T20	Anatomic_location 420 430	cerebellar

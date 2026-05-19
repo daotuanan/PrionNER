@@ -1,0 +1,18 @@
+T1	Age 2 13	54-year-old
+T2	Symptom 33 39	tremor
+T3	Symptom 44 60	unusual behavior
+T4	Duration 78 88	two months
+T5	Symptom 106 114	dementia
+T6	Symptom 119 128	myoclonus
+T8	Electrophysio_test 183 203	electroencephalogram
+T9	Generic_Prion 255 280	Creutzfeldt-Jakob disease
+T11	Complication 315 324	decubitus
+T12	Symptom 326 343	bowel dysfunction
+T13	Symptom 348 360	hypohidrosis
+T14	Symptom 391 428	autonomic nervous system dysfunctions
+T15	Symptom 437 483	abnormal pupillary response to autonomic drugs
+T16	Symptom 485 533	reduced coefficient of variation of R-R interval
+T17	Symptom 539 580	abnormal diurnal blood pressure variation
+T19	Duration 288 297	two weeks
+T20	Time_point 78 94	two months later
+T7	Time_point 288 313	two weeks after admission

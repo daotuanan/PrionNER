@@ -1,0 +1,227 @@
+{
+  "doc_id": "prion_0521",
+  "text": "The history of a 67-year-old woman with histologically proven Creutzfeldt-Jakob disease (CJD) is presented.\nBefore typical clinical and neurophysiological signs of CJD developed, magnetic resonance imaging (MRI) showed slightly enhanced signal intensity of the caudate nuclei and putamina in T2-weighted and proton density images, corresponding to spongiform degeneration in neuropathological examination.\nFive weeks later characteristical progressive cortical atrophy was demonstrated by follow-up MRI.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 17,
+      "end": 28,
+      "text": "67-year-old",
+      "spans": [
+        {
+          "start": 17,
+          "end": 28
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 62,
+      "end": 87,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 62,
+          "end": 87
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 89,
+      "end": 92,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 89,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 164,
+      "end": 167,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 164,
+          "end": 167
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Test_name",
+      "start": 179,
+      "end": 205,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 179,
+          "end": 205
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 207,
+      "end": 210,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 207,
+          "end": 210
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Findings",
+      "start": 228,
+      "end": 253,
+      "text": "enhanced signal intensity",
+      "spans": [
+        {
+          "start": 228,
+          "end": 253
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 261,
+      "end": 275,
+      "text": "caudate nuclei",
+      "spans": [
+        {
+          "start": 261,
+          "end": 275
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 280,
+      "end": 288,
+      "text": "putamina",
+      "spans": [
+        {
+          "start": 280,
+          "end": 288
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Sequences",
+      "start": 292,
+      "end": 303,
+      "text": "T2-weighted",
+      "spans": [
+        {
+          "start": 292,
+          "end": 303
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Sequences",
+      "start": 308,
+      "end": 329,
+      "text": "proton density images",
+      "spans": [
+        {
+          "start": 308,
+          "end": 329
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Findings",
+      "start": 348,
+      "end": 371,
+      "text": "spongiform degeneration",
+      "spans": [
+        {
+          "start": 348,
+          "end": 371
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 375,
+      "end": 404,
+      "text": "neuropathological examination",
+      "spans": [
+        {
+          "start": 375,
+          "end": 404
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Time",
+      "start": 406,
+      "end": 422,
+      "text": "Five weeks later",
+      "spans": [
+        {
+          "start": 406,
+          "end": 422
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 452,
+      "end": 460,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 452,
+          "end": 460
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Findings",
+      "start": 461,
+      "end": 468,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 461,
+          "end": 468
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Test_name",
+      "start": 499,
+      "end": 502,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 499,
+          "end": 502
+        }
+      ]
+    }
+  ]
+}

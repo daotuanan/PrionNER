@@ -1,0 +1,26 @@
+T1	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T2	Generic_Prion 27 30	CJD
+T3	Generic_Prion 37 71	subacute spongiform encephalopathy
+T4	Generic_Prion 73 76	SSE
+T5	Symptom 151 159	dementia
+T6	Symptom 161 170	myoclonus
+T7	Test_name 188 208	electroencephalogram
+T8	Test_name 210 213	EEG
+T9	Time 219 223	1996
+T10	Generic_Prion 227 245	new variant of CJD
+T11	Acquired_Prion 247 252	nvCJD
+T12	Test_name 308 322	neuropathology
+T13	Age 339 350	adolescents
+T14	Age 355 360	young
+T15	Generic_Prion 417 420	CJD
+T16	Acquired_Prion 440 445	nvCJD
+T18	Generic_Prion 511 514	SSE
+T19	Generic_Prion 534 566	bovine spongiform encephalopathy
+T20	Generic_Prion 568 571	BSE
+T21	Generic_Prion 577 592	mad cow disease
+T24	Test_name 640 649	pathology
+T22	Generic_Prion 681 684	CJD
+T23	Acquired_Prion 686 691	nvCJD
+T26	Generic_Prion 709 713	SSEs
+T27	Generic_Prion 743 746	BSE
+T28	Acquired_Prion 751 756	nvCJD

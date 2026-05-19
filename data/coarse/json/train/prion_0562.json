@@ -1,0 +1,110 @@
+{
+  "doc_id": "prion_0562",
+  "text": "We have presented an unusual case of CJD in which the magnetic resonance images obtained four months before death revealed high signal intensity in the caudate nuclei bilaterally.\nThese findings correspond to severe involvement of this region at autopsy.\nThis radiologic pattern has not generally been included in the differential diagnosis of CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 37,
+      "end": 40,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 37,
+          "end": 40
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Test_name",
+      "start": 54,
+      "end": 79,
+      "text": "magnetic resonance images",
+      "spans": [
+        {
+          "start": 54,
+          "end": 79
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Time",
+      "start": 89,
+      "end": 100,
+      "text": "four months",
+      "spans": [
+        {
+          "start": 89,
+          "end": 100
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Complication",
+      "start": 108,
+      "end": 113,
+      "text": "death",
+      "spans": [
+        {
+          "start": 108,
+          "end": 113
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Findings",
+      "start": 123,
+      "end": 144,
+      "text": "high signal intensity",
+      "spans": [
+        {
+          "start": 123,
+          "end": 144
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 152,
+      "end": 166,
+      "text": "caudate nuclei",
+      "spans": [
+        {
+          "start": 152,
+          "end": 166
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 246,
+      "end": 253,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 246,
+          "end": 253
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 344,
+      "end": 347,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 344,
+          "end": 347
+        }
+      ]
+    }
+  ]
+}

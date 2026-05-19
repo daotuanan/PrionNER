@@ -1,0 +1,388 @@
+{
+  "doc_id": "prion_0744",
+  "text": "We reported a 68-year-old female with Creutzfelt-Jakob disease (CJD) presenting hyperparathyroidism.\nShe was suspected as Creutzfelt-Jakob like syndrome at her initial visit to our hospital because of progressive dementia and high level of serum calcium.\nFinally she was diagnosed as having CJD by the clinical symptoms including progressive dementia and myoclonus and the characteristic patterns of brain CT and electroencephalogram (EEG).\nCJD presents a variety of symptoms including progressive dementia, apathy and myoclonus.\nHyperparathyroidism and toxicity of lithium, delirium and bismuth have been reported to induce similar symptoms of CJD, which are called Creutzfelt-Jakob like syndrome.\nTherefore, the diagnosis of CJD would be difficult in cases with CJD accompanied with Creutzfelt-Jakob like syndrome.\nIt is rare for otolaryngologists to examine patients with dementia like CJD.\nHowever, we have to keep CJD in mind in the diagnosis of hyperparathyroidism.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 14,
+      "end": 25,
+      "text": "68-year-old",
+      "spans": [
+        {
+          "start": 14,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 38,
+      "end": 62,
+      "text": "Creutzfelt-Jakob disease",
+      "spans": [
+        {
+          "start": 38,
+          "end": 62
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 64,
+      "end": 67,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 64,
+          "end": 67
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 80,
+      "end": 99,
+      "text": "hyperparathyroidism",
+      "spans": [
+        {
+          "start": 80,
+          "end": 99
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Differential_Diagnosis",
+      "start": 122,
+      "end": 152,
+      "text": "Creutzfelt-Jakob like syndrome",
+      "spans": [
+        {
+          "start": 122,
+          "end": 152
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 201,
+      "end": 221,
+      "text": "progressive dementia",
+      "spans": [
+        {
+          "start": 201,
+          "end": 221
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 291,
+      "end": 294,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 291,
+          "end": 294
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 330,
+      "end": 350,
+      "text": "progressive dementia",
+      "spans": [
+        {
+          "start": 330,
+          "end": 350
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 355,
+      "end": 364,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 355,
+          "end": 364
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Anatomic_location",
+      "start": 400,
+      "end": 405,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 400,
+          "end": 405
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Test_name",
+      "start": 406,
+      "end": 408,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 406,
+          "end": 408
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Test_name",
+      "start": 413,
+      "end": 439,
+      "text": "electroencephalogram (EEG)",
+      "spans": [
+        {
+          "start": 413,
+          "end": 439
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 441,
+      "end": 444,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 441,
+          "end": 444
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 486,
+      "end": 506,
+      "text": "progressive dementia",
+      "spans": [
+        {
+          "start": 486,
+          "end": 506
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 508,
+      "end": 514,
+      "text": "apathy",
+      "spans": [
+        {
+          "start": 508,
+          "end": 514
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Symptom",
+      "start": 519,
+      "end": 528,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 519,
+          "end": 528
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Differential_Diagnosis",
+      "start": 530,
+      "end": 549,
+      "text": "Hyperparathyroidism",
+      "spans": [
+        {
+          "start": 530,
+          "end": 549
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Differential_Diagnosis",
+      "start": 554,
+      "end": 573,
+      "text": "toxicity of lithium",
+      "spans": [
+        {
+          "start": 554,
+          "end": 573
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Differential_Diagnosis",
+      "start": 554,
+      "end": 595,
+      "text": "toxicity of bismuth",
+      "spans": [
+        {
+          "start": 554,
+          "end": 565
+        },
+        {
+          "start": 588,
+          "end": 595
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T21",
+      "label": "Differential_Diagnosis",
+      "start": 575,
+      "end": 583,
+      "text": "delirium",
+      "spans": [
+        {
+          "start": 575,
+          "end": 583
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Generic_Prion",
+      "start": 645,
+      "end": 648,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 645,
+          "end": 648
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Differential_Diagnosis",
+      "start": 667,
+      "end": 697,
+      "text": "Creutzfelt-Jakob like syndrome",
+      "spans": [
+        {
+          "start": 667,
+          "end": 697
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Generic_Prion",
+      "start": 727,
+      "end": 730,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 727,
+          "end": 730
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Generic_Prion",
+      "start": 764,
+      "end": 767,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 764,
+          "end": 767
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Differential_Diagnosis",
+      "start": 785,
+      "end": 815,
+      "text": "Creutzfelt-Jakob like syndrome",
+      "spans": [
+        {
+          "start": 785,
+          "end": 815
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Symptom",
+      "start": 875,
+      "end": 883,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 875,
+          "end": 883
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Generic_Prion",
+      "start": 889,
+      "end": 892,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 889,
+          "end": 892
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Generic_Prion",
+      "start": 919,
+      "end": 922,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 919,
+          "end": 922
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Differential_Diagnosis",
+      "start": 951,
+      "end": 970,
+      "text": "hyperparathyroidism",
+      "spans": [
+        {
+          "start": 951,
+          "end": 970
+        }
+      ]
+    }
+  ]
+}

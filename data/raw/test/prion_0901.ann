@@ -1,0 +1,33 @@
+T1	Generic_Prion 36 59	inherited prion disease
+T2	GSS 61 64	GSS
+T3	fCJD 66 78	familial CJD
+T4	FFI 83 86	FFI
+T5	GSS 134 137	GSS
+T6	GSS 224 235	GSS (P102L)
+T8	Anatomic_location 240 250	cerebellar
+T9	Symptom 240 259	cerebellar symptoms
+T10	Symptom 264 272	dementia
+T11	Symptom 336 352	gait disturbance
+T12	Symptom 354 365	dysesthesia
+T13	Symptom 370 382	hyporeflexia
+T14	Anatomic_location 390 400	lower legs
+T15	Symptom 415 430	muscle weakness
+T16	Symptom 436 450	truncal ataxia
+T17	Time_point 462 488	early stage of the disease
+T18	Symptom 490 498	Dementia
+T19	Time_point 533 544	early stage
+T21	GSS 590 596	GSS102
+T22	Symptom 601 615	truncal ataxia
+T23	Symptom 617 628	dysesthesia
+T24	Symptom 633 645	hyporeflexia
+T25	Anatomic_location 653 663	lower legs
+T26	Symptom 674 684	dysarthria
+T28	Anatomic_location 693 703	cerebellar
+T31	Anatomic_location 721 729	cerebral
+T32	Imaging_test 730 735	SPECT
+T33	GSS 785 796	GSS (P102L)
+T35	Choose_Related 809 812	YES
+T7	Imaging_test 704 707	MRI
+T27	Choose_Done 820 824	DONE
+T29	Anatomic_location 402 414	proximal leg
+T20	Choose_Done 827 832	CHECK

@@ -1,0 +1,39 @@
+T1	Generic_Prion 23 48	Creutzfeldt-Jakob disease
+T2	Generic_Prion 50 53	CJD
+T3	Symptom 71 85	ocular dipping
+T4	Symptom 87 89	OD
+T5	Age 94 105	65-year-old
+T6	Time 134 144	two months
+T7	Symptom 156 174	progressive ataxia
+T8	Symptom 179 199	mental deterioration
+T9	Time 201 213	On admission
+T10	Symptom 223 233	bed-ridden
+T11	Symptom 238 247	stuporous
+T12	Symptom 253 261	rigidity
+T13	Anatomic_location 269 279	four limbs
+T14	Anatomic_location 290 294	eyes
+T17	Anatomic_location 387 392	nadir
+T18	Symptom 454 476	abnormal eye movements
+T19	Symptom 497 499	OD
+T20	Test_name 513 516	EOG
+T21	Symptom 554 556	OD
+T22	Test_name 558 578	Electroencephalogram
+T25	Test_name 648 674	Magnetic resonance imaging
+T26	Anatomic_location 682 687	brain
+T27	Findings 711 715;725 732	mild atrophy
+T37	Anatomic_location 716 724	cerebral
+T28	Time 733 749	in the beginning
+T16	Findings 772 782;792 799	full-brown atrophy
+T39	Anatomic_location 783 791	cerebral
+T30	Generic_Prion 836 839	CJD
+T31	Generic_Prion 869 872	CJD
+T32	Symptom 889 891	OD
+T33	Symptom 897 899	OD
+T34	Time 932 940	110 days
+T36	Symptom 967 989	abnormal eye movements
+T24	Anatomic_location 1035 1045	brain stem
+T38	Symptom 1035 1057	brain stem dysfunction
+T29	Symptom 1123 1151	diffuse cerebral dysfunction
+T40	Anatomic_location 1166 1181	cerebral cortex
+T41	Anatomic_location 1186 1199	basal ganglia
+T42	Symptom 1235 1237	OD

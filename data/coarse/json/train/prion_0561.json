@@ -1,0 +1,58 @@
+{
+  "doc_id": "prion_0561",
+  "text": "Two familial Italian cases of Creutzfeldt-Jakob disease are reported.\nClinical picture and life history are presented and compared: 1) with the findings in familial cases reported in other countries, 2) with the findings (age at onset, disease duration) in sporadic Italian cases.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 30,
+      "end": 55,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 30,
+          "end": 55
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 222,
+      "end": 234,
+      "text": "age at onset",
+      "spans": [
+        {
+          "start": 222,
+          "end": 234
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Time",
+      "start": 236,
+      "end": 252,
+      "text": "disease duration",
+      "spans": [
+        {
+          "start": 236,
+          "end": 252
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Sporadic_Prion",
+      "start": 257,
+      "end": 265,
+      "text": "sporadic",
+      "spans": [
+        {
+          "start": 257,
+          "end": 265
+        }
+      ]
+    }
+  ]
+}

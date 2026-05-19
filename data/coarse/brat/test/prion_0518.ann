@@ -1,0 +1,12 @@
+T1	Familial_Prion 28 66	Gerstmann-Sträussler-Scheinker disease
+T2	Symptom 271 279	dementia
+T3	Symptom 316 325;340 349	pyramidal syndromes
+T4	Symptom 327 349	pseudobulbar syndromes
+T5	Symptom 354 362	dementia
+T6	Anatomic_location 379 390	spinal cord
+T9	Symptom 379 390;406 414	spinal cord features
+T7	Anatomic_location 395 405	cerebellar
+T11	Symptom 395 414	cerebellar features
+T8	Test_name 416 435	Prion gene analysis
+T10	Test_name 565 573	necropsy
+T14	Familial_Prion 817 855	Gerstmann-Sträussler-Scheinker disease

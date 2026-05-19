@@ -1,0 +1,39 @@
+T1	Age 2 13	64-year-old
+T2	Symptom 68 83	Broca's aphasia
+T3	Duration 101 108	3 weeks
+T5	Symptom 136 145	myoclonus
+T6	Symptom 147 155	rigidity
+T7	Symptom 161 169	dystonia
+T8	Duration 178 185	4 weeks
+T9	Symptom 193 209	globally aphasic
+T10	Duration 226 233	7 weeks
+T12	Symptom 263 271	rigidity
+T13	Symptom 276 285	myoclonus
+T14	Imaging_test 304 306	CT
+T15	Imaging_test 311 314	MRI
+T17	Imaging_test 328 333	SPECT
+T21	Anatomic_location 374 384	hemisphere
+T22	Electrophysio_test 386 389	EEG
+T25	Autopsy 433 440	autopsy
+T26	Anatomic_location 460 468	cortical
+T27	Autopsy_finding 469 486	spongiform change
+T28	Autopsy_finding 488 501	neuronal loss
+T29	Autopsy_finding 507 514	gliosis
+T31	Anatomic_location 535 545	hemisphere
+T32	Anatomic_location 563 579	occipital cortex
+T33	Anatomic_location 604 614	hemisphere
+T34	Autopsy_finding 616 633	spongiform change
+T37	Autopsy_finding 682 699	spongiform change
+T40	Anatomic_location 866 876	cerebellum
+T41	Generic_Prion 878 903	Creutzfeldt-Jakob disease
+T42	Symptom 982 996	cerebral signs
+T43	Symptom 1015 1032	movement disorder
+T44	Choose_Related 1045 1048	YES
+T16	Duration 35 44	three day
+T4	Imaging_finding 341 361	diminished perfusion
+T11	Autopsy_finding 825 837	predominance
+T18	Choose_Done 1056 1060	DONE
+T45	Complication 214 218	died
+T46	Anatomic_location 816 824	cerebral
+T47	Anatomic_location 982 990	cerebral
+T19	Anatomic_location 730 747	cerebellar cortex

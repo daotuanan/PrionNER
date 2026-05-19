@@ -1,0 +1,214 @@
+{
+  "doc_id": "prion_0109",
+  "text": "Clinical differential diagnosis of early-onset dementia (EOD) includes familial Alzheimer disease (FAD) and hereditary prion disease.\nIn both disease entities, postmortem brain histopathological examination is essential for unambiguous diagnosis.\nMutations in the genes encoding the presenilins (PS1 and PS2) and amyloid precursor protein (APP) are associated with FAD, whereas mutations in the prion protein (PrP) gene are associated with prion disease.\nTo investigate the proportion of EOD attributable to known genes, we prospectively (i.e., antemortem) screened these four genes for mutations by sequencing genomic PCR products from patients with EOD before age 60 years.\nFamily history for dementia was positive (PFH) in 16 patients, negative (NFH) in 17 patients, and unknown (UFH) in 3 patients.\nIn 12 patients, we found five novel mutations (in PS1, F105L; in PS2, T122P and M239I; and in PrP, Q160X and T188K) and five previously reported mutations (in APP, in three patients who were most likely unrelated, V717I; in PS1, A79V and M139V; and in PrP, P102L and T183A) that are all considered to be disease causing.\nOf these 12 patients, 9 had PFH.\nThis indicates a detection rate of 56% (9/16) in patients with PFH.\nWe found two mutations (APP V717I) in two of the three UFH patients, and only one mutation (PrP T188K) in 1 of the 17 patients with NFH.\nWe conclude that because of the lack of specific antemortem diagnostic markers for FAD and hereditary prion disease, all four genes should be included in a molecular diagnostic program in patients with EOD who had PFH.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 35,
+      "end": 55,
+      "text": "early-onset dementia",
+      "spans": [
+        {
+          "start": 35,
+          "end": 55
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Symptom",
+      "start": 57,
+      "end": 60,
+      "text": "EOD",
+      "spans": [
+        {
+          "start": 57,
+          "end": 60
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Differential_Diagnosis",
+      "start": 71,
+      "end": 97,
+      "text": "familial Alzheimer disease",
+      "spans": [
+        {
+          "start": 71,
+          "end": 97
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Differential_Diagnosis",
+      "start": 99,
+      "end": 102,
+      "text": "FAD",
+      "spans": [
+        {
+          "start": 99,
+          "end": 102
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 108,
+      "end": 132,
+      "text": "hereditary prion disease",
+      "spans": [
+        {
+          "start": 108,
+          "end": 132
+        }
+      ]
+    },
+    {
+      "id": "T65",
+      "label": "Anatomic_location",
+      "start": 171,
+      "end": 176,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 171,
+          "end": 176
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Test_name",
+      "start": 177,
+      "end": 206,
+      "text": "histopathological examination",
+      "spans": [
+        {
+          "start": 177,
+          "end": 206
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Differential_Diagnosis",
+      "start": 365,
+      "end": 368,
+      "text": "FAD",
+      "spans": [
+        {
+          "start": 365,
+          "end": 368
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 440,
+      "end": 453,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 440,
+          "end": 453
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Symptom",
+      "start": 488,
+      "end": 491,
+      "text": "EOD",
+      "spans": [
+        {
+          "start": 488,
+          "end": 491
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 619,
+      "end": 622,
+      "text": "PCR",
+      "spans": [
+        {
+          "start": 619,
+          "end": 622
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Age",
+      "start": 662,
+      "end": 674,
+      "text": "age 60 years",
+      "spans": [
+        {
+          "start": 662,
+          "end": 674
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Differential_Diagnosis",
+      "start": 695,
+      "end": 703,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 695,
+          "end": 703
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Differential_Diagnosis",
+      "start": 1445,
+      "end": 1448,
+      "text": "FAD",
+      "spans": [
+        {
+          "start": 1445,
+          "end": 1448
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Generic_Prion",
+      "start": 1453,
+      "end": 1477,
+      "text": "hereditary prion disease",
+      "spans": [
+        {
+          "start": 1453,
+          "end": 1477
+        }
+      ]
+    },
+    {
+      "id": "T64",
+      "label": "Symptom",
+      "start": 1564,
+      "end": 1567,
+      "text": "EOD",
+      "spans": [
+        {
+          "start": 1564,
+          "end": 1567
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+T2	Imaging_test 48 51	MRI
+T3	Imaging_sequence 53 56	DWI
+T4	Generic_Prion 76 101	Creutzfeldt-Jakob disease
+T5	Generic_Prion 103 106	CJD
+T6	Imaging_sequence 109 112	DWI
+T7	Imaging_finding 140 169	abnormal hyperintense lesions
+T9	Symptom 237 256	neurologic findings
+T10	Imaging_test 293 296	MRI
+T11	Time_point 305 315	late stage
+T12	Imaging_finding 334 363	abnormal hyperintense lesions
+T13	Imaging_sequence 367 370	DWI
+T14	Imaging_sequence 385 388	DWI
+T15	Generic_Prion 456 459	CJD
+T1	Imaging_sequence 29 47	diffusion-weighted

@@ -1,0 +1,162 @@
+{
+  "doc_id": "prion_0732",
+  "text": "We describe a 68-year-old white woman who initially had symptoms of major depression and was admitted to a psychiatric hospital where she had electroconvulsive therapy.\nWith failure of psychiatric treatment and subsequent rapidly progressive dementia, she had left frontal brain biopsy.\nThe biopsy revealed spongiform changes, the hallmark of Creutzfeldt-Jakob disease (CJD).\nWe report a case of sporadic CJD with unusual initial presentation of psychiatric symptoms.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 14,
+      "end": 25,
+      "text": "68-year-old",
+      "spans": [
+        {
+          "start": 14,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Differential_Diagnosis",
+      "start": 68,
+      "end": 84,
+      "text": "major depression",
+      "spans": [
+        {
+          "start": 68,
+          "end": 84
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 222,
+      "end": 250,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 222,
+          "end": 250
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 265,
+      "end": 272,
+      "text": "frontal",
+      "spans": [
+        {
+          "start": 265,
+          "end": 272
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 273,
+      "end": 278,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 273,
+          "end": 278
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 279,
+      "end": 285,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 279,
+          "end": 285
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 291,
+      "end": 297,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 291,
+          "end": 297
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Findings",
+      "start": 307,
+      "end": 325,
+      "text": "spongiform changes",
+      "spans": [
+        {
+          "start": 307,
+          "end": 325
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 343,
+      "end": 368,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 343,
+          "end": 368
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 370,
+      "end": 373,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 370,
+          "end": 373
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Sporadic_Prion",
+      "start": 396,
+      "end": 408,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 396,
+          "end": 408
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 446,
+      "end": 466,
+      "text": "psychiatric symptoms",
+      "spans": [
+        {
+          "start": 446,
+          "end": 466
+        }
+      ]
+    }
+  ]
+}

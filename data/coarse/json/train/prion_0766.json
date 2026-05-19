@@ -1,0 +1,526 @@
+{
+  "doc_id": "prion_0766",
+  "text": "Shortly after the appearance of bovine spongiform encephalopathy (BSE), Creutzfeldt-Jakob disease (CJD) was identified in young patients with nonclassical presentation such as difficulty in balancing and ataxia.\nThe classical CJD in older patients starts with dementia.\nTo distinguish between the two types, CJD in young persons has been termed \"new variant\" (nvCJD).\nThe distinguishing features of classical CJD include initial presentation with dementia, confluent spongiform changes are very unusual in the cerebellum, and PrP plaques are rarely observed.\nFor nvCJD, initially, difficulty with balancing and ataxia occurs, confluent spongiform changes are seen in the cerebellum, and a large number of PrP plaques are seen.\nThe icelandic observation of sheep scrapie revealed a predominantly ataxic form of scrapie, termed Type II, rather than the itchy form termed Type I. Both types have been known to exist in Europe.\nSince the clinical signs of Type II scrapie in sheep with trembling and ataxia are similar to those seen in BSE and nvCJD, this suggests that Type II is the cause of BSE and nvCJD.\nOver 8 years, from 1989 to 1996, I examined the clinical histories of 33 CJD cases aged between the ages of 18 and 84.\nSix under the age of 40 and 15 over the age of 40 had leading clinical features such as difficulty in balancing and ataxia similar to those seen in the young cases classified as \"nvCJD.\"\nBrains were examined from the six of 15 cases over the age of 40, which revealed similar pathology to that seen in young patients classified as \"nvCJD.\"\nThese findings suggest that all age groups are susceptible to the strain of the agent derived from BSE cattle.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 32,
+      "end": 64,
+      "text": "bovine spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 32,
+          "end": 64
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 66,
+      "end": 69,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 66,
+          "end": 69
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 72,
+      "end": 97,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 72,
+          "end": 97
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 99,
+      "end": 102,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 99,
+          "end": 102
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 176,
+      "end": 199,
+      "text": "difficulty in balancing",
+      "spans": [
+        {
+          "start": 176,
+          "end": 199
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 204,
+      "end": 210,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 204,
+          "end": 210
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 226,
+      "end": 229,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 226,
+          "end": 229
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 260,
+      "end": 268,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 260,
+          "end": 268
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 308,
+      "end": 311,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 308,
+          "end": 311
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Acquired_Prion",
+      "start": 360,
+      "end": 365,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 360,
+          "end": 365
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 409,
+      "end": 412,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 409,
+          "end": 412
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 447,
+      "end": 455,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 447,
+          "end": 455
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Findings",
+      "start": 457,
+      "end": 485,
+      "text": "confluent spongiform changes",
+      "spans": [
+        {
+          "start": 457,
+          "end": 485
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 510,
+      "end": 520,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 510,
+          "end": 520
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Acquired_Prion",
+      "start": 563,
+      "end": 568,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 563,
+          "end": 568
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Symptom",
+      "start": 581,
+      "end": 606,
+      "text": "difficulty with balancing",
+      "spans": [
+        {
+          "start": 581,
+          "end": 606
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 611,
+      "end": 617,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 611,
+          "end": 617
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 626,
+      "end": 654,
+      "text": "confluent spongiform changes",
+      "spans": [
+        {
+          "start": 626,
+          "end": 654
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 671,
+      "end": 681,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 671,
+          "end": 681
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Findings",
+      "start": 689,
+      "end": 716,
+      "text": "large number of PrP plaques",
+      "spans": [
+        {
+          "start": 689,
+          "end": 716
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Symptom",
+      "start": 795,
+      "end": 801,
+      "text": "ataxic",
+      "spans": [
+        {
+          "start": 795,
+          "end": 801
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Symptom",
+      "start": 851,
+      "end": 856,
+      "text": "itchy",
+      "spans": [
+        {
+          "start": 851,
+          "end": 856
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Symptom",
+      "start": 982,
+      "end": 991,
+      "text": "trembling",
+      "spans": [
+        {
+          "start": 982,
+          "end": 991
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Symptom",
+      "start": 996,
+      "end": 1002,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 996,
+          "end": 1002
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Generic_Prion",
+      "start": 1032,
+      "end": 1035,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 1032,
+          "end": 1035
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Acquired_Prion",
+      "start": 1040,
+      "end": 1045,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 1040,
+          "end": 1045
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Generic_Prion",
+      "start": 1090,
+      "end": 1093,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 1090,
+          "end": 1093
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Acquired_Prion",
+      "start": 1098,
+      "end": 1103,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 1098,
+          "end": 1103
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Time",
+      "start": 1110,
+      "end": 1117,
+      "text": "8 years",
+      "spans": [
+        {
+          "start": 1110,
+          "end": 1117
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Time",
+      "start": 1124,
+      "end": 1136,
+      "text": "1989 to 1996",
+      "spans": [
+        {
+          "start": 1124,
+          "end": 1136
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Generic_Prion",
+      "start": 1178,
+      "end": 1181,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1178,
+          "end": 1181
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Age",
+      "start": 1188,
+      "end": 1222,
+      "text": "aged between the ages of 18 and 84",
+      "spans": [
+        {
+          "start": 1188,
+          "end": 1222
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Age",
+      "start": 1228,
+      "end": 1247,
+      "text": "under the age of 40",
+      "spans": [
+        {
+          "start": 1228,
+          "end": 1247
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Age",
+      "start": 1255,
+      "end": 1273,
+      "text": "over the age of 40",
+      "spans": [
+        {
+          "start": 1255,
+          "end": 1273
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Symptom",
+      "start": 1312,
+      "end": 1335,
+      "text": "difficulty in balancing",
+      "spans": [
+        {
+          "start": 1312,
+          "end": 1335
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Symptom",
+      "start": 1340,
+      "end": 1346,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 1340,
+          "end": 1346
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Acquired_Prion",
+      "start": 1403,
+      "end": 1408,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 1403,
+          "end": 1408
+        }
+      ]
+    },
+    {
+      "id": "T45",
+      "label": "Age",
+      "start": 1457,
+      "end": 1475,
+      "text": "over the age of 40",
+      "spans": [
+        {
+          "start": 1457,
+          "end": 1475
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Acquired_Prion",
+      "start": 1556,
+      "end": 1561,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 1556,
+          "end": 1561
+        }
+      ]
+    },
+    {
+      "id": "T48",
+      "label": "Generic_Prion",
+      "start": 1663,
+      "end": 1666,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 1663,
+          "end": 1666
+        }
+      ]
+    }
+  ]
+}

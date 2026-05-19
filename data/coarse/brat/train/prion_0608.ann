@@ -1,0 +1,8 @@
+T1	Generic_Prion 18 43	Creutzfeldt-Jakob disease
+T2	Acquired_Prion 102 106	kuru
+T8	Findings 102 120	kuru-like' plaques
+T3	Anatomic_location 128 138	cerebellum
+T10	Findings 152 171	vacuolated neurones
+T4	Anatomic_location 179 187	striatum
+T5	Generic_Prion 221 246	Creutzfeldt-Jakob disease
+T6	Acquired_Prion 251 255	kuru

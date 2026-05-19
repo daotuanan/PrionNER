@@ -1,0 +1,40 @@
+T3	Generic_Prion 20 45	Creutzfeldt-Jakob disease
+T4	Age 51 62	38-year-old
+T7	Time_point 111 122	August 1985
+T10	Symptom 289 303	blurred vision
+T11	Symptom 308 316	headache
+T13	Time_point 320 329	May, 1990
+T14	Symptom 344 352	dementia
+T15	Symptom 354 363	myoclonus
+T16	Symptom 368 388	urinary incontinence
+T17	Duration 409 417	3 months
+T19	Time_point 454 466	August, 1990
+T20	Symptom 489 498	somnolent
+T21	Symptom 510 526	gait disturbance
+T22	Symptom 528 537	myoclonus
+T26	Imaging_test 722 748	magnetic resonance imaging
+T30	Symptom 936 942	mutism
+T32	Time_point 946 961	September, 1990
+T33	Imaging_test 963 965	CT
+T34	Duration 967 976	11 months
+T36	Anatomic_location 1032 1042	ventricles
+T37	Anatomic_location 1051 1056	sulci
+T38	Generic_Prion 1211 1214	CJD
+T41	Time_point 1405 1409	1988
+T2	Symptom 557 586	elevated deep tendon reflexes
+T6	Blood_biomarker_test 617 628;636 643	analysis of urinary
+T9	Imaging_test 693 712	computed tomography
+T12	Imaging_test 714 716	CT
+T18	Electrophysio_test 774 796	Electroencephalography
+T23	Imaging_finding 1013 1024	enlargement
+T25	Electrophysio_test 1122 1144	electroencephalography
+T27	Imaging_test 1181 1183	CT
+T28	iCJD 1361 1401	CJD transmitted by cadaveric dural graft
+T31	iCJD 1490 1552	Creutzfeldt-Jakob disease transmitted by cadaveric dural graft
+T5	Blood_biomarker_test 617 628;648 667	analysis of cerebrospinal fluid
+T8	Blood_biomarker_test 617 634	analysis of blood
+T24	Time_point 967 997	11 months after clinical onset
+T35	Treatment 85 106	cadaveric dural graft
+T42	Treatment 137 164	cranial nerve decompression
+T43	Treatment 201 222	cadaveric dural graft
+T44	Treatment 1237 1258	cadaveric dural graft

@@ -1,0 +1,25 @@
+T1	Age 12 23	72-year-old
+T2	Generic_Prion 33 58	Creutzfeldt-Jakob disease
+T3	Symptom 72 92	progressive dementia
+T4	Symptom 94 103	myoclonus
+T5	Symptom 115 136	neurological symptoms
+T6	Genetic_test 138 150	DNA analysis
+T12	Electrophysio_test 274 294	electroencephalogram
+T13	Imaging_finding 305 312	atrophy
+T14	Imaging_test 316 323	CT scan
+T15	Imaging_test 328 331	MRI
+T16	Imaging_sequence 333 349	Diffusion images
+T17	Imaging_test 363 366	MRI
+T19	Imaging_finding 378 413	marked increase in signal intensity
+T20	Anatomic_location 421 435	caudate nuclei
+T21	Anatomic_location 437 444	putamen
+T22	Anatomic_location 450 467	cerebral cortices
+T23	Autopsy_finding 497 511	spongy changes
+T24	Imaging_test 559 562	MRI
+T26	Generic_Prion 566 591	Creutzfeldt-Jakob disease
+T27	Choose_Related 604 607	YES
+T7	Choose_Done 615 619	DONE
+T28	Anatomic_location 299 304	brain
+T29	Anatomic_location 357 362	brain
+T30	Anatomic_location 519 524	brain
+T31	Anatomic_location 553 558	brain

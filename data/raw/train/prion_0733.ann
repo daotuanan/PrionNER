@@ -1,0 +1,14 @@
+T1	Duration 6 14	10 years
+T2	Generic_Prion 21 53	bovine spongiform encephalopathy
+T3	Generic_Prion 55 58	BSE
+T4	vCJD 94 130	variant of Creutzfeldt-Jakob disease
+T5	vCJD 132 138	nv-CJD
+T6	Generic_Prion 218 231	classical CJD
+T7	vCJD 319 325	nv-CJD
+T8	Generic_Prion 372 375	BSE
+T9	vCJD 380 386	nv-CJD
+T10	Generic_Prion 556 559	BSE
+T11	vCJD 584 590	nv-CJD
+T12	Choose_Related 649 652	YES
+T13	Choose_Done 660 664	DONE
+T14	Time_point 15 68	after bovine spongiform encephalopathy (BSE) appeared

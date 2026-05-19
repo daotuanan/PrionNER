@@ -1,0 +1,17 @@
+OBJECTIVE: To investigate various cerebrospinal fluid (CSF) markers that could assist in the clinical diagnosis of Creutzfeldt-Jakob disease (CJD).
+METHODS: CSF samples were analysed for the presence of 14-3-3 protein, microtubule associated protein tau, and beta amyloid in 250 patients with possible CJD.
+Densitometric analysis was used to quantify the level of 14-3-3 in all patients.
+RESULTS: Analysis of the clinical data showed that cerebellar signs or myoclonus combined with progressive dementia were the main features leading to a clinical suspicion of CJD.
+While 14-3-3 detection had a sensitivity of 100% and a specificity of 92%, tau determination using a threshold of 1300 pg/ml had a sensitivity of 87% and a specificity of 97%.
+If the protocol for the analysis of 14-3-3 was modified (using densitometric analysis) a higher specificity (97%) could be obtained, but with a lower sensitivity (96%).
+Maximum sensitivity, specificity, and positive predictive value were obtained with a combination of 14-3-3 and beta amyloid determinations.
+The concentrations of 14-3-3 and tau in the CSF were reduced in CJD patients with a long duration of disease (more than one year; p < 0.05).
+The concentrations of 14-3-3 or tau were lowest at the onset or at the end stage of the disease, while the beta amyloid concentration remained low throughout the course of the disease.
+CONCLUSIONS: Both 14-3-3 and tau protein are sensitive and specific biomarkers for CJD.
+The combination of 14-3-3 and beta amyloid analysis resulted in the maximum sensitivity, specificity, and positive predictive value.
+When these biomarkers are used in the diagnosis of CJD, the phase of the disease in which the CSF sample was obtained should be taken into account.
+Disease duration, dependent on the PrP genotype, also has a significant influence on the level of 14-3-3 and tau in the CSF.
+
+<Related> YES or NO
+[DONE]
+[CHECK]

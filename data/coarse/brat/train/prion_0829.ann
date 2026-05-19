@@ -1,0 +1,13 @@
+T1	Sporadic_Prion 0 34	Sporadic Creutzfeldt-Jakob disease
+T2	Generic_Prion 36 39	CJD
+T3	Generic_Prion 60 73	prion disease
+T4	Test_name 114 138	histological examination
+T17	Anatomic_location 142 147	brain
+T6	Test_name 167 173	biopsy
+T7	Test_name 180 187	autopsy
+T8	Test_name 241 248	autopsy
+T18	Anatomic_location 252 257	brain
+T9	Test_name 258 264	biopsy
+T11	Generic_Prion 405 408	CJD
+T12	Test_name 418 425	autopsy
+T13	Generic_Prion 638 641	CJD

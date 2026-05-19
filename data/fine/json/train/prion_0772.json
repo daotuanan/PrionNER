@@ -1,0 +1,141 @@
+{
+  "doc_id": "prion_0772",
+  "text": "We report a 51-year-old woman with the Brownell-Oppenheimer (cerebellar) variant of Creutzfeldt-Jakob disease (CJD).\nShe had the typical findings of bilateral basal ganglion changes on MRI, as well as changes in the cerebellum and hippocampus.\nThis case adds further information to the known imaging characteristics of CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 12,
+      "end": 23,
+      "text": "51-year-old",
+      "spans": [
+        {
+          "start": 12,
+          "end": 23
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "sCJD",
+      "start": 39,
+      "end": 80,
+      "text": "Brownell-Oppenheimer variant",
+      "spans": [
+        {
+          "start": 39,
+          "end": 59
+        },
+        {
+          "start": 73,
+          "end": 80
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 61,
+      "end": 71,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 61,
+          "end": 71
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 84,
+      "end": 109,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 84,
+          "end": 109
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 111,
+      "end": 114,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 111,
+          "end": 114
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 159,
+      "end": 173,
+      "text": "basal ganglion",
+      "spans": [
+        {
+          "start": 159,
+          "end": 173
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Imaging_test",
+      "start": 185,
+      "end": 188,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 185,
+          "end": 188
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 216,
+      "end": 226,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 216,
+          "end": 226
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 231,
+      "end": 242,
+      "text": "hippocampus",
+      "spans": [
+        {
+          "start": 231,
+          "end": 242
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 319,
+      "end": 322,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 319,
+          "end": 322
+        }
+      ]
+    }
+  ]
+}

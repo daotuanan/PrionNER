@@ -1,0 +1,206 @@
+{
+  "doc_id": "prion_0540",
+  "text": "Serial magnetic resonance (MR) imagings of two autopsied patients with Creutzfeldt-Jakob disease (CJD) are presented.\nBoth patients showed a dramatic progression of brain atrophy.\nThe initial MR imagings were, however, interpreted as normal except for localized mild cortical atrophy in one patient.\nWhen a normal MR image is obtained in a demented middle-aged or aged patient, CJD may still need to be ruled out: follow up MR imaging may be useful.",
+  "entities": [
+    {
+      "id": "T4",
+      "label": "Imaging_test",
+      "start": 7,
+      "end": 39,
+      "text": "imagings magnetic resonance",
+      "spans": [
+        {
+          "start": 31,
+          "end": 39
+        },
+        {
+          "start": 7,
+          "end": 25
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T6",
+      "label": "Imaging_test",
+      "start": 27,
+      "end": 29,
+      "text": "MR",
+      "spans": [
+        {
+          "start": 27,
+          "end": 29
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Autopsy",
+      "start": 47,
+      "end": 56,
+      "text": "autopsied",
+      "spans": [
+        {
+          "start": 47,
+          "end": 56
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 71,
+      "end": 96,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 71,
+          "end": 96
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 98,
+      "end": 101,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 98,
+          "end": 101
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 165,
+      "end": 170,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 165,
+          "end": 170
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Autopsy_finding",
+      "start": 171,
+      "end": 178,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 171,
+          "end": 178
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Imaging_test",
+      "start": 192,
+      "end": 203,
+      "text": "MR imagings",
+      "spans": [
+        {
+          "start": 192,
+          "end": 203
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 267,
+      "end": 275,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 267,
+          "end": 275
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Imaging_finding",
+      "start": 276,
+      "end": 283,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 276,
+          "end": 283
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Imaging_test",
+      "start": 314,
+      "end": 322,
+      "text": "MR image",
+      "spans": [
+        {
+          "start": 314,
+          "end": 322
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 340,
+      "end": 348,
+      "text": "demented",
+      "spans": [
+        {
+          "start": 340,
+          "end": 348
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Age",
+      "start": 349,
+      "end": 360,
+      "text": "middle-aged",
+      "spans": [
+        {
+          "start": 349,
+          "end": 360
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 378,
+      "end": 381,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 378,
+          "end": 381
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Imaging_test",
+      "start": 424,
+      "end": 434,
+      "text": "MR imaging",
+      "spans": [
+        {
+          "start": 424,
+          "end": 434
+        }
+      ]
+    }
+  ]
+}

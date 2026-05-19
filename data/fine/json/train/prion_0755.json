@@ -1,0 +1,266 @@
+{
+  "doc_id": "prion_0755",
+  "text": "The term 'prion diseases' refers to a group of neurodegenerative disorders thought to be caused by prions, pathogenic agents with novel modes of replication and transmission.\nPrion diseases are characterized by long incubation periods ranging from months to years and are invariably fatal once clinical symptoms have appeared.\nThey are also called transmissible spongiform encephalopathies (TSE), on account of the predominant neuropathological change observed in the central nervous system.\nThe most important members of this group are Creutzfeldt-Jakob disease (CJD) of man displaying sporadic, inherited and infectious forms, bovine spongiform encephalopathy (BSE, 'mad cow disease') of cattle, and scrapie of sheep.\nDespite their rarity, human prion diseases have recently been covered extensively in the media because of the likely connection between a new variant of human CJD (vCJD) and BSE and the possibility of contamination of human blood and blood products by the vCJD agent.\nThis short review discusses the basic biological properties of prions, followed by a presentation of the clinical and pathological features of the most important human prion diseases.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 10,
+      "end": 24,
+      "text": "prion diseases",
+      "spans": [
+        {
+          "start": 10,
+          "end": 24
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 175,
+      "end": 189,
+      "text": "Prion diseases",
+      "spans": [
+        {
+          "start": 175,
+          "end": 189
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Duration",
+      "start": 248,
+      "end": 263,
+      "text": "months to years",
+      "spans": [
+        {
+          "start": 248,
+          "end": 263
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 294,
+      "end": 311,
+      "text": "clinical symptoms",
+      "spans": [
+        {
+          "start": 294,
+          "end": 311
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 348,
+      "end": 389,
+      "text": "transmissible spongiform encephalopathies",
+      "spans": [
+        {
+          "start": 348,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 391,
+      "end": 394,
+      "text": "TSE",
+      "spans": [
+        {
+          "start": 391,
+          "end": 394
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 468,
+      "end": 490,
+      "text": "central nervous system",
+      "spans": [
+        {
+          "start": 468,
+          "end": 490
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 537,
+      "end": 562,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 537,
+          "end": 562
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 564,
+      "end": 567,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 564,
+          "end": 567
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "sCJD",
+      "start": 587,
+      "end": 595,
+      "text": "sporadic",
+      "spans": [
+        {
+          "start": 587,
+          "end": 595
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "fCJD",
+      "start": 597,
+      "end": 606,
+      "text": "inherited",
+      "spans": [
+        {
+          "start": 597,
+          "end": 606
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "vCJD",
+      "start": 611,
+      "end": 621,
+      "text": "infectious",
+      "spans": [
+        {
+          "start": 611,
+          "end": 621
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Generic_Prion",
+      "start": 629,
+      "end": 661,
+      "text": "bovine spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 629,
+          "end": 661
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Generic_Prion",
+      "start": 663,
+      "end": 666,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 663,
+          "end": 666
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Generic_Prion",
+      "start": 669,
+      "end": 684,
+      "text": "mad cow disease",
+      "spans": [
+        {
+          "start": 669,
+          "end": 684
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Generic_Prion",
+      "start": 742,
+      "end": 762,
+      "text": "human prion diseases",
+      "spans": [
+        {
+          "start": 742,
+          "end": 762
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 879,
+      "end": 882,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 879,
+          "end": 882
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "vCJD",
+      "start": 884,
+      "end": 888,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 884,
+          "end": 888
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Generic_Prion",
+      "start": 894,
+      "end": 897,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 894,
+          "end": 897
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "vCJD",
+      "start": 976,
+      "end": 980,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 976,
+          "end": 980
+        }
+      ]
+    }
+  ]
+}

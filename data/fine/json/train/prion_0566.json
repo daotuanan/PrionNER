@@ -1,0 +1,375 @@
+{
+  "doc_id": "prion_0566",
+  "text": "We present the clinical findings in affected members of a large kindred with Gerstmann-Sträussler-Scheinker disease.\nSixty-four patients exhibited progressive ataxia, dementia, and parkinsonian features.\nInheritance appears to be autosomal dominant.\nImpaired smooth-pursuit eye movements, defective short-term memory, clumsiness of the hands, and ataxia of gait develop in the late 30s to early 60s.\nEye movement abnormalities are characteristic of cerebellar dysfunction.\nDementia progresses gradually over several years.\nLater, rigidity and bradykinesia appear and, at this stage, there is often psychosis or severe depression with rapid weight loss.\nDeath occurs in 6 months to 2 years after onset of rigidity.\nMagnetic resonance imaging in 2 affected individuals showed cerebellar atrophy.\nThere is decreased T2 signal in the basal ganglia, consistent with iron deposition.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "GSS",
+      "start": 77,
+      "end": 115,
+      "text": "Gerstmann-Sträussler-Scheinker disease",
+      "spans": [
+        {
+          "start": 77,
+          "end": 115
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 147,
+      "end": 165,
+      "text": "progressive ataxia",
+      "spans": [
+        {
+          "start": 147,
+          "end": 165
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 167,
+      "end": 175,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 167,
+          "end": 175
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 181,
+      "end": 202,
+      "text": "parkinsonian features",
+      "spans": [
+        {
+          "start": 181,
+          "end": 202
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 250,
+      "end": 287,
+      "text": "Impaired smooth-pursuit eye movements",
+      "spans": [
+        {
+          "start": 250,
+          "end": 287
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 289,
+      "end": 316,
+      "text": "defective short-term memory",
+      "spans": [
+        {
+          "start": 289,
+          "end": 316
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 318,
+      "end": 341,
+      "text": "clumsiness of the hands",
+      "spans": [
+        {
+          "start": 318,
+          "end": 341
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 347,
+      "end": 361,
+      "text": "ataxia of gait",
+      "spans": [
+        {
+          "start": 347,
+          "end": 361
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Age",
+      "start": 377,
+      "end": 398,
+      "text": "late 30s to early 60s",
+      "spans": [
+        {
+          "start": 377,
+          "end": 398
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 400,
+      "end": 426,
+      "text": "Eye movement abnormalities",
+      "spans": [
+        {
+          "start": 400,
+          "end": 426
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 449,
+      "end": 471,
+      "text": "cerebellar dysfunction",
+      "spans": [
+        {
+          "start": 449,
+          "end": 471
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 473,
+      "end": 481,
+      "text": "Dementia",
+      "spans": [
+        {
+          "start": 473,
+          "end": 481
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Duration",
+      "start": 508,
+      "end": 521,
+      "text": "several years",
+      "spans": [
+        {
+          "start": 508,
+          "end": 521
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 530,
+      "end": 538,
+      "text": "rigidity",
+      "spans": [
+        {
+          "start": 530,
+          "end": 538
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 543,
+      "end": 555,
+      "text": "bradykinesia",
+      "spans": [
+        {
+          "start": 543,
+          "end": 555
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Symptom",
+      "start": 598,
+      "end": 607,
+      "text": "psychosis",
+      "spans": [
+        {
+          "start": 598,
+          "end": 607
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 611,
+      "end": 628,
+      "text": "severe depression",
+      "spans": [
+        {
+          "start": 611,
+          "end": 628
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Symptom",
+      "start": 634,
+      "end": 651,
+      "text": "rapid weight loss",
+      "spans": [
+        {
+          "start": 634,
+          "end": 651
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Complication",
+      "start": 653,
+      "end": 658,
+      "text": "Death",
+      "spans": [
+        {
+          "start": 653,
+          "end": 658
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Duration",
+      "start": 669,
+      "end": 688,
+      "text": "6 months to 2 years",
+      "spans": [
+        {
+          "start": 669,
+          "end": 688
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Time_point",
+      "start": 689,
+      "end": 700,
+      "text": "after onset",
+      "spans": [
+        {
+          "start": 689,
+          "end": 700
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Symptom",
+      "start": 704,
+      "end": 712,
+      "text": "rigidity",
+      "spans": [
+        {
+          "start": 704,
+          "end": 712
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Imaging_test",
+      "start": 714,
+      "end": 740,
+      "text": "Magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 714,
+          "end": 740
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Anatomic_location",
+      "start": 774,
+      "end": 784,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 774,
+          "end": 784
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Imaging_finding",
+      "start": 785,
+      "end": 792,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 785,
+          "end": 792
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Imaging_finding",
+      "start": 803,
+      "end": 822,
+      "text": "decreased signal",
+      "spans": [
+        {
+          "start": 803,
+          "end": 812
+        },
+        {
+          "start": 816,
+          "end": 822
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T15",
+      "label": "Imaging_sequence",
+      "start": 813,
+      "end": 815,
+      "text": "T2",
+      "spans": [
+        {
+          "start": 813,
+          "end": 815
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Anatomic_location",
+      "start": 830,
+      "end": 843,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 830,
+          "end": 843
+        }
+      ]
+    }
+  ]
+}

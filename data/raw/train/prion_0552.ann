@@ -1,0 +1,13 @@
+T1	Generic_Prion 66 91	Creutzfeldt-Jakob disease
+T2	Generic_Prion 93 96	CJD
+T3	Generic_Prion 156 159	CJD
+T4	Duration 226 234	53 years
+T5	Duration 324 332	51 years
+T8	Generic_Prion 663 666	CJD
+T9	Duration 706 717	seven years
+T10	Generic_Prion 808 811	CJD
+T11	Generic_Prion 868 871	CJD
+T12	Choose_Related 904 907	YES
+T15	Duration 219 221;229 234	51 years
+T16	Choose_Done 915 919	DONE
+T17	Complication 368 373	death

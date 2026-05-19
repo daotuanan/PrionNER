@@ -1,0 +1,9 @@
+T1	Generic_Prion 21 46	Creutzfeldt-Jakob disease
+T2	Anatomic_location 90 105	cerebral cortex
+T3	Anatomic_location 107 115	striatum
+T4	Anatomic_location 124 135	spinal cord
+T5	Autopsy 149 176	Anatomopathological studies
+T6	Autopsy_finding 184 205	neuronal degeneration
+T7	Autopsy_finding 207 231	astrocytic proliferation
+T8	Autopsy_finding 279 302	spongiform degeneration
+T10	Autopsy_finding 241 267	lymphoplasmocytic activity

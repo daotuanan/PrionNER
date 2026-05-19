@@ -1,0 +1,5 @@
+A conformational change of the prion protein is responsible for a class of neurodegenerative diseases called the transmissible spongiform encephalopathies that include mad cow disease and the human afflictions kuru and Creutzfeldt-Jakob disease.
+Despite the attention given to these diseases, the normal function of the prion protein in healthy tissue is unknown.
+Research over the past few years, however, demonstrates that the prion protein is a copper binding protein with high selectivity for Cu(2+).
+The structural features of the Cu(2+) binding sites have now been characterized and are providing important clues about the normal function of the prion protein and perhaps how metals or loss of protein function play a role in disease.
+The link between prion protein and copper may provide insight into the general, and recently appreciated, role of metals in neurodegenerative disease.

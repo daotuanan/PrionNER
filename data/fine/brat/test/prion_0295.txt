@@ -1,0 +1,14 @@
+BACKGROUND AND PURPOSE: Variant Creutzfeldt-Jakob disease (vCJD) is a rare but important cause of dementia and death in young patients and is causally linked to bovine spongiform encephalopathy.
+Symmetrical hyperintensity in the pulvinar (posterior) nuclei of the thalamus (pulvinar sign) on brain MR images was described as a specific, noninvasive, diagnostic sign of vCJD in a previous small series.
+This purpose of this larger study was to evaluate this sign prospectively and further define the MR imaging characteristics of vCJD.
+METHODS: As part of the ongoing surveillance program in the United Kingdom, MR images of suspected cases of vCJD were collected during a 6-year period.
+All available images were assessed prospectively by one observer for the presence of the pulvinar sign.
+Images of neuropathologically confirmed cases were then assessed independently by two neuroradiologists for the degree of hyperintensity of the pulvinar on images of different MR sequences, and for the presence of abnormal hyperintensity in other areas of the brain.
+Discrepancies were reviewed jointly and a consensus opinion formed.
+RESULTS: Prospective analysis identified the pulvinar sign in 74 of 82 cases of vCJD.
+In the retrospective study, the pulvinar sign, as defined by hyperintensity of the pulvinar relative to the anterior putamen, was present on seven (9%) of 75 T1-weighted, 77 (71%) of 108 T2-weighted, 47 (81%) of 58 proton density-weighted, and 30 (100%) of 30 fluid-attenuated inversion-recovery (FLAIR) images.
+Diffusion-weighted images were available in two cases and were positive for the pulvinar sign in one.
+Other features were hyperintensity of the dorsomedial thalamic nuclei (93%), caudate head (40%), and periaqueductal gray matter (83%) on FLAIR images.
+CONCLUSION: In the appropriate clinical context, demonstration of the pulvinar sign on MR images is a highly accurate diagnostic sign for vCJD.
+FLAIR sequence is more sensitive than other sequences.
+Positive MR images may obviate more invasive diagnostic tests in most cases.

@@ -1,0 +1,20 @@
+T2	Generic_Prion 50 75	Creutzfeldt-Jakob disease
+T3	Generic_Prion 77 80	CJD
+T5	Generic_Prion 255 258	CJD
+T6	Time_point 262 269	1974-89
+T8	Generic_Prion 347 350	CJD
+T10	Time_point 429 441	at the onset
+T11	Age 461 471	62.5 years
+T12	Duration 492 502	4.5 months
+T13	Age 529 537	49 years
+T14	Duration 542 553	20.5 months
+T15	fCJD 557 569	familial CJD
+T18	Symptom 639 648	myoclonus
+T19	Electrophysio_test 667 670	EEG
+T22	Electrophysio_test 783 786	EEG
+T1	sCJD 149 157	sporadic
+T4	fCJD 162 170	familial
+T7	sCJD 185 193	sporadic
+T9	fCJD 289 297	familial
+T16	sCJD 604 612	sporadic
+T17	fCJD 617 625	familial

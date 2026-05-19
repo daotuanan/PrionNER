@@ -1,0 +1,188 @@
+{
+  "doc_id": "prion_0652",
+  "text": "Creutzfeldt-Jakob disease (CJD) is characterized by a rapidly progressive dementia that often leads to death within a few months of onset.\nHowever, some cases evolve over a much longer period of time and have a clinical picture that is difficult to distinguish from other progressive dementias that occur in the adult, especially Alzheimer's disease (AD).\nWe examine the clinical features of 3 patients with pathologically confirmed CJD whose course was slow (4-5 years) and who were initially diagnosed as having AD.\nOnly two of them had shown signs of CJD in the terminal stages.\nIn this study we examine the clinical characteristics of these patients, and discuss of differentiating CJD from other entities, especially from AD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 54,
+      "end": 82,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 54,
+          "end": 82
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Complication",
+      "start": 103,
+      "end": 108,
+      "text": "death",
+      "spans": [
+        {
+          "start": 103,
+          "end": 108
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time",
+      "start": 109,
+      "end": 137,
+      "text": "within a few months of onset",
+      "spans": [
+        {
+          "start": 109,
+          "end": 137
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Differential_Diagnosis",
+      "start": 272,
+      "end": 293,
+      "text": "progressive dementias",
+      "spans": [
+        {
+          "start": 272,
+          "end": 293
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Differential_Diagnosis",
+      "start": 330,
+      "end": 349,
+      "text": "Alzheimer's disease",
+      "spans": [
+        {
+          "start": 330,
+          "end": 349
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Differential_Diagnosis",
+      "start": 351,
+      "end": 353,
+      "text": "AD",
+      "spans": [
+        {
+          "start": 351,
+          "end": 353
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 433,
+      "end": 436,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 433,
+          "end": 436
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Time",
+      "start": 460,
+      "end": 469,
+      "text": "4-5 years",
+      "spans": [
+        {
+          "start": 460,
+          "end": 469
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Differential_Diagnosis",
+      "start": 514,
+      "end": 516,
+      "text": "AD",
+      "spans": [
+        {
+          "start": 514,
+          "end": 516
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 554,
+      "end": 557,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 554,
+          "end": 557
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 686,
+      "end": 689,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 686,
+          "end": 689
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Differential_Diagnosis",
+      "start": 727,
+      "end": 729,
+      "text": "AD",
+      "spans": [
+        {
+          "start": 727,
+          "end": 729
+        }
+      ]
+    }
+  ]
+}

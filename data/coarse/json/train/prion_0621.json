@@ -1,0 +1,201 @@
+{
+  "doc_id": "prion_0621",
+  "text": "Necropsy findings consistent with spongiform encephalopathy of the Creutzfeldt-Jakob type are described in the brain of a 48-year-old woman whose prolonged course and clinical features had suggested Alzheimer's presenile dementia.\nSix other members of her family in two generations have also died of progressive presenile dementing illnesses of Alzheimer type, lasting 5-10 years.\nAutopsies showed a post-viral temporal lobe encephalopathy in one and spongiform (C-J) lesions in another.\nNeuropathological studies in this family add weight to the idea that Alzheimer's disease and Creutzfeldt-Jakob disease represent different manifestations of a genetic predisposition to \"slow virus\" encephalopathies.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Test_name",
+      "start": 0,
+      "end": 8,
+      "text": "Necropsy",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 34,
+      "end": 59,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 34,
+          "end": 59
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 67,
+      "end": 84,
+      "text": "Creutzfeldt-Jakob",
+      "spans": [
+        {
+          "start": 67,
+          "end": 84
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 111,
+      "end": 116,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 111,
+          "end": 116
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Age",
+      "start": 122,
+      "end": 133,
+      "text": "48-year-old",
+      "spans": [
+        {
+          "start": 122,
+          "end": 133
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Differential_Diagnosis",
+      "start": 199,
+      "end": 229,
+      "text": "Alzheimer's presenile dementia",
+      "spans": [
+        {
+          "start": 199,
+          "end": 229
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Complication",
+      "start": 292,
+      "end": 296,
+      "text": "died",
+      "spans": [
+        {
+          "start": 292,
+          "end": 296
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 369,
+      "end": 379,
+      "text": "5-10 years",
+      "spans": [
+        {
+          "start": 369,
+          "end": 379
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 381,
+      "end": 390,
+      "text": "Autopsies",
+      "spans": [
+        {
+          "start": 381,
+          "end": 390
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Differential_Diagnosis",
+      "start": 400,
+      "end": 439,
+      "text": "post-viral temporal lobe encephalopathy",
+      "spans": [
+        {
+          "start": 400,
+          "end": 439
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 411,
+      "end": 424,
+      "text": "temporal lobe",
+      "spans": [
+        {
+          "start": 411,
+          "end": 424
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Findings",
+      "start": 451,
+      "end": 475,
+      "text": "spongiform (C-J) lesions",
+      "spans": [
+        {
+          "start": 451,
+          "end": 475
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Test_name",
+      "start": 488,
+      "end": 513,
+      "text": "Neuropathological studies",
+      "spans": [
+        {
+          "start": 488,
+          "end": 513
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Differential_Diagnosis",
+      "start": 557,
+      "end": 576,
+      "text": "Alzheimer's disease",
+      "spans": [
+        {
+          "start": 557,
+          "end": 576
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 581,
+      "end": 606,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 581,
+          "end": 606
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+A postmortem case of an atypical form of dural graft associated Creutzfeldt-Jakob disease (CJD) is described.
+A 42 year old man developed progressive spastic paresis 163 months after a cadaveric dura mater graft.
+He presented with no myoclonus and very late occurrence of periodic synchronous discharges on EEG.
+The prion protein (PrP) gene was homozygous for methionine at the polymorphic codon 129.
+Neuropathological examination disclosed plaque-like PrP deposits with atypical distribution of synaptic PrP accumulations in the brain.
+This patient represents an atypical form of dural graft associated CJD characterised by unusual clinicopathological features.
+
+<Related> YES or NO
+[DONE]

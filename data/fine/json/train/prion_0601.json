@@ -1,0 +1,267 @@
+{
+  "doc_id": "prion_0601",
+  "text": "In this consecutive series of 230 patients with neuropathologically verified Creutzfeldt-Jakob disease (CJD), the disease was found to affect men and women with approximately equal frequency in a peak plateau between the ages of 55 and 75 years (mean, 61.5 years).\nFamilial cases accounted for 4 to 8% of the total series.\nNonspecific prodromal symptoms occurred in one third of the patients, and the neurological presentation, although usually a gradually evolving mental deterioration, was of rapid onset in 20% of patients and in 36% of patients consisted exclusively of neurological symptoms.\nThe great majority of these symptoms were of cerebellar or visual origin.\nExtrapyramidal muscular rigidity, myoclonus, and characteristic periodic electroencephalographic (EEG) complexes were observed comparatively late in the illness, and some type of involuntary movement or periodic EEG activity was seen in over 95% of the patients.\nThe median duration of illness was 4 months (mean, 7.6 months); 90% of patients died within a year of onset.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Autopsy",
+      "start": 48,
+      "end": 67,
+      "text": "neuropathologically",
+      "spans": [
+        {
+          "start": 48,
+          "end": 67
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 77,
+      "end": 102,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 77,
+          "end": 102
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 104,
+      "end": 107,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 104,
+          "end": 107
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Age",
+      "start": 221,
+      "end": 244,
+      "text": "ages of 55 and 75 years",
+      "spans": [
+        {
+          "start": 221,
+          "end": 244
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "fCJD",
+      "start": 265,
+      "end": 279,
+      "text": "Familial cases",
+      "spans": [
+        {
+          "start": 265,
+          "end": 279
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 466,
+      "end": 486,
+      "text": "mental deterioration",
+      "spans": [
+        {
+          "start": 466,
+          "end": 486
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 574,
+      "end": 595,
+      "text": "neurological symptoms",
+      "spans": [
+        {
+          "start": 574,
+          "end": 595
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 625,
+      "end": 669,
+      "text": "symptoms of cerebellar origin",
+      "spans": [
+        {
+          "start": 625,
+          "end": 633
+        },
+        {
+          "start": 639,
+          "end": 652
+        },
+        {
+          "start": 663,
+          "end": 669
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 625,
+      "end": 669,
+      "text": "symptoms visual origin",
+      "spans": [
+        {
+          "start": 625,
+          "end": 633
+        },
+        {
+          "start": 656,
+          "end": 669
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 642,
+      "end": 652,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 642,
+          "end": 652
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 671,
+      "end": 703,
+      "text": "Extrapyramidal muscular rigidity",
+      "spans": [
+        {
+          "start": 671,
+          "end": 703
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 705,
+      "end": 714,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 705,
+          "end": 714
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Electrophysio_test",
+      "start": 744,
+      "end": 767,
+      "text": "electroencephalographic",
+      "spans": [
+        {
+          "start": 744,
+          "end": 767
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Electrophysio_test",
+      "start": 769,
+      "end": 772,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 769,
+          "end": 772
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Symptom",
+      "start": 850,
+      "end": 870,
+      "text": "involuntary movement",
+      "spans": [
+        {
+          "start": 850,
+          "end": 870
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Electrophysio_test",
+      "start": 883,
+      "end": 886,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 883,
+          "end": 886
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Duration",
+      "start": 969,
+      "end": 977,
+      "text": "4 months",
+      "spans": [
+        {
+          "start": 969,
+          "end": 977
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Complication",
+      "start": 1014,
+      "end": 1018,
+      "text": "died",
+      "spans": [
+        {
+          "start": 1014,
+          "end": 1018
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Duration",
+      "start": 1019,
+      "end": 1032,
+      "text": "within a year",
+      "spans": [
+        {
+          "start": 1019,
+          "end": 1032
+        }
+      ]
+    }
+  ]
+}

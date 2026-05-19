@@ -1,0 +1,370 @@
+{
+  "doc_id": "prion_0586",
+  "text": "Decreased perfusion of the left frontal and left temporoparietal cortex has been shown in [123I] HIPDM planar and single photon emission computed tomographic images of a patient with Creutzfeldt-Jakob disease (CJD) that was proven by brain biopsy and subsequent autopsy.\nAn EEG showed diffuse, periodic discharges most prominent to the left hemisphere.\nConcurrent head computed tomography (CT), nuclear magnetic resonance (NMR), and cerebral angiographic studies were negative.\nAbnormalities demonstrated by [123I]HPDM imaging and by EEG may represent changes in neurophysiological and neurochemical status while cerebral angiography, CT, and possibly NMR register only anatomic or structural lesions.\nPremortem diagnosis of CJD depends on brain biopsy; the availability of the [123I] HIPDM study may provide regional cerebral neurochemical and neurophysiological information, guiding or avoiding brain biopsy in the appropriate clinical setting.",
+  "entities": [
+    {
+      "id": "T24",
+      "label": "Imaging_finding",
+      "start": 0,
+      "end": 19,
+      "text": "Decreased perfusion",
+      "spans": [
+        {
+          "start": 0,
+          "end": 19
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Anatomic_location",
+      "start": 32,
+      "end": 39,
+      "text": "frontal",
+      "spans": [
+        {
+          "start": 32,
+          "end": 39
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 49,
+      "end": 71,
+      "text": "temporoparietal cortex",
+      "spans": [
+        {
+          "start": 49,
+          "end": 71
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Imaging_test",
+      "start": 97,
+      "end": 109,
+      "text": "HIPDM planar",
+      "spans": [
+        {
+          "start": 97,
+          "end": 109
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Imaging_test",
+      "start": 114,
+      "end": 157,
+      "text": "single photon emission computed tomographic",
+      "spans": [
+        {
+          "start": 114,
+          "end": 157
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 183,
+      "end": 208,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 183,
+          "end": 208
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 210,
+      "end": 213,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 210,
+          "end": 213
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Anatomic_location",
+      "start": 234,
+      "end": 239,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 234,
+          "end": 239
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Autopsy",
+      "start": 240,
+      "end": 246,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 240,
+          "end": 246
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Autopsy",
+      "start": 262,
+      "end": 269,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 262,
+          "end": 269
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Electrophysio_test",
+      "start": 274,
+      "end": 277,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 274,
+          "end": 277
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 341,
+      "end": 351,
+      "text": "hemisphere",
+      "spans": [
+        {
+          "start": 341,
+          "end": 351
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Imaging_test",
+      "start": 369,
+      "end": 388,
+      "text": "computed tomography",
+      "spans": [
+        {
+          "start": 369,
+          "end": 388
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Imaging_test",
+      "start": 390,
+      "end": 392,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 390,
+          "end": 392
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Imaging_test",
+      "start": 395,
+      "end": 421,
+      "text": "nuclear magnetic resonance",
+      "spans": [
+        {
+          "start": 395,
+          "end": 421
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Imaging_test",
+      "start": 423,
+      "end": 426,
+      "text": "NMR",
+      "spans": [
+        {
+          "start": 423,
+          "end": 426
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Imaging_test",
+      "start": 433,
+      "end": 462,
+      "text": "cerebral angiographic studies",
+      "spans": [
+        {
+          "start": 433,
+          "end": 462
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Imaging_test",
+      "start": 508,
+      "end": 526,
+      "text": "[123I]HPDM imaging",
+      "spans": [
+        {
+          "start": 508,
+          "end": 526
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Electrophysio_test",
+      "start": 534,
+      "end": 537,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 534,
+          "end": 537
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Imaging_test",
+      "start": 613,
+      "end": 633,
+      "text": "cerebral angiography",
+      "spans": [
+        {
+          "start": 613,
+          "end": 633
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Imaging_test",
+      "start": 635,
+      "end": 637,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 635,
+          "end": 637
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Imaging_test",
+      "start": 652,
+      "end": 655,
+      "text": "NMR",
+      "spans": [
+        {
+          "start": 652,
+          "end": 655
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Generic_Prion",
+      "start": 725,
+      "end": 728,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 725,
+          "end": 728
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 740,
+      "end": 745,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 740,
+          "end": 745
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Autopsy",
+      "start": 746,
+      "end": 752,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 746,
+          "end": 752
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Imaging_test",
+      "start": 778,
+      "end": 796,
+      "text": "[123I] HIPDM study",
+      "spans": [
+        {
+          "start": 778,
+          "end": 796
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Anatomic_location",
+      "start": 897,
+      "end": 902,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 897,
+          "end": 902
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Autopsy",
+      "start": 903,
+      "end": 909,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 903,
+          "end": 909
+        }
+      ]
+    }
+  ]
+}

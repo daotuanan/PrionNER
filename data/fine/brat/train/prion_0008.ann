@@ -1,0 +1,34 @@
+T2	Generic_Prion 41 55	prion diseases
+T3	Generic_Prion 355 368	prion disease
+T4	Electrophysio_test 618 621	EEG
+T5	Molecular_assay 700 712	SIMOA™ assay
+T6	Generic_Prion 821 834	Prion Disease
+T7	sCJD 927 939	sporadic CJD
+T9	Symptom 1390 1408	pyramidal weakness
+T10	Symptom 1410 1419	myoclonus
+T13	Symptom 1424 1446	cerebellar dysfunction
+T14	Molecular_assay 1537 1548	CSF RT‐QuIC
+T16	sCJD 1583 1595	sporadic CJD
+T18	Differential_Diagnosis 1607 1626	non‐prion disorders
+T19	sCJD 1649 1661	sporadic CJD
+T23	sCJD 1715 1727	Sporadic CJD
+T27	Differential_Diagnosis 152 180	other etiologies of dementia
+T28	Time_point 405 415	March 2023
+T29	Time_point 419 432	December 2024
+T30	Blood_biomarker_test 582 587;596 601	blood tests
+T32	Imaging_test 609 612	MRI
+T33	Molecular_assay 623 634	CSF RT‐QuIC
+T36	Molecular_assay 714 723	Quanterix
+T38	Molecular_assay 755 760	ELISA
+T39	Molecular_assay 762 771	EUROIMMUN
+T8	Differential_Diagnosis 944 963	non‐prion disorders
+T42	Age 1292 1300	67 years
+T43	Symptom 1343 1371	rapidly progressive dementia
+T17	Blood_biomarker_test 1628 1631	CSF
+T24	Blood_biomarker_test 1759 1762	CSF
+T47	Blood_biomarker_test 1771 1774	CSF
+T49	Blood_biomarker_test 2018 2021	CSF
+T54	Blood_biomarker_test 2100 2103	CSF
+T55	Symptom 2130 2153	worse functional status
+T57	Anatomic_location 603 608	brain
+T11	Duration 400 432	from March 2023 to December 2024

@@ -1,0 +1,15 @@
+T1	Age 27 40	aged 43 years
+T17	Anatomic_location 82 92	cerebellar
+T2	Symptom 82 98	cerebellar signs
+T3	Symptom 103 123	progressive dementia
+T4	Time 144 151	4 month
+T5	Test_name 175 204	Neuropathological examination
+T6	Findings 218 252	subacute spongiform encephalopathy
+T7	Anatomic_location 310 327	cerebellar cortex
+T14	Symptom 359 365	ataxic
+T8	Time 399 403	1965
+T9	Generic_Prion 434 459	Creutzfeldt-Jakob disease
+T16	Anatomic_location 460 470	cerebellar
+T10	Symptom 460 476	cerebellar signs
+T11	Symptom 516 525	myoclonia
+T12	Test_name 545 548	EEG

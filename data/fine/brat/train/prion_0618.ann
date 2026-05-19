@@ -1,0 +1,17 @@
+T1	Kuru 0 4	Kuru
+T2	Age 24 35	42-year-old
+T3	Anatomic_location 255 267	diencephalon
+T4	Anatomic_location 269 280	hippocampus
+T5	Anatomic_location 285 298	basal ganglia
+T6	Symptom 300 308	Dementia
+T7	Duration 388 397	12 months
+T8	Duration 431 439	7 months
+T9	Autopsy 487 494	autopsy
+T10	Generic_Prion 496 521	spongiform encephalopathy
+T11	Anatomic_location 559 564	brain
+T12	Kuru 649 653	kuru
+T13	Kuru 695 699	kuru
+T14	Anatomic_location 793 798	brain
+T15	Kuru 866 870	kuru
+T17	Anatomic_location 153 163	cerebellar
+T18	Anatomic_location 202 210	cortical

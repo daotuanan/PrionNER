@@ -1,0 +1,175 @@
+{
+  "doc_id": "prion_0580",
+  "text": "A 46-year-old female is described with prolonged, progressive dementia and a brain biopsy consistent with Creutzfeldt-Jakob disease (CJD).\nShe had neither myoclonic jerks nor an electroencephalogram with periodic spikes and suppression.\nFive of her close relatives were also demented.\nThe nosology of CJD was discussed in the light of this case in which histopathology was characteristic of spongiform encephalopathy but the clinical features were atypical.\nWe concluded that it would be premature to expand the traditional diagnostic criteria to include such cases as having CJD but, at the same time, it would be prudent to handle tissue, linens and surgical instruments as if they were contaminated by the resistant agent of CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "46-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 62,
+      "end": 70,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 62,
+          "end": 70
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 77,
+      "end": 82,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 77,
+          "end": 82
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Autopsy",
+      "start": 83,
+      "end": 89,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 83,
+          "end": 89
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 106,
+      "end": 131,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 106,
+          "end": 131
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 133,
+      "end": 136,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 133,
+          "end": 136
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 155,
+      "end": 170,
+      "text": "myoclonic jerks",
+      "spans": [
+        {
+          "start": 155,
+          "end": 170
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Electrophysio_test",
+      "start": 178,
+      "end": 198,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 178,
+          "end": 198
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 275,
+      "end": 283,
+      "text": "demented",
+      "spans": [
+        {
+          "start": 275,
+          "end": 283
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 301,
+      "end": 304,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 301,
+          "end": 304
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 391,
+      "end": 416,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 391,
+          "end": 416
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 576,
+      "end": 579,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 576,
+          "end": 579
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 728,
+      "end": 731,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 728,
+          "end": 731
+        }
+      ]
+    }
+  ]
+}

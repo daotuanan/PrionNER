@@ -1,0 +1,28 @@
+T9	Test_name 44 75	SPECT cerebral blood flow (CBF)
+T10	Sporadic_Prion 116 134	Heidenhain variant
+T1	Generic_Prion 138 163	Creutzfeldt-Jakob disease
+T2	Age 190 201	60-year-old
+T3	Symptom 215 234	visual disturbances
+T4	Symptom 246 262	left hemianopsia
+T5	Test_name 267 287	electroencephalogram
+T6	Test_name 289 315	magnetic resonance imaging
+T12	Test_name 317 337	cerebral arteriogram
+T7	Test_name 356 373	SPECT CBF imaging
+T32	Complication 455 460	death
+T8	Test_name 465 472	autopsy
+T14	Test_name 501 524	electroencephalographic
+T11	Test_name 561 587	magnetic resonance imaging
+T15	Test_name 609 629	cerebral arteriogram
+T13	Test_name 675 685	SPECT scan
+T22	Findings 702 725	depression of perfusion
+T17	Anatomic_location 733 741;756 764	parietal cortices
+T31	Anatomic_location 746 764	occipital cortices
+T18	Test_name 827 834	Autopsy
+T19	Generic_Prion 864 867	CJD
+T20	Generic_Prion 963 988	Creutzfeldt-Jakob disease
+T24	Sporadic_Prion 994 1012	Heidenhain variant
+T21	Symptom 1076 1102	profound changes in vision
+T26	Findings 1123 1134	CBF changes
+T25	Findings 1174 1197	depression of perfusion
+T23	Anatomic_location 1233 1246	visual cortex
+T28	Differential_Diagnosis 1516 1535	Alzheimer's disease

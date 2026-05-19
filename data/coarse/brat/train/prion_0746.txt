@@ -1,0 +1,7 @@
+OBJECTIVE: To describe a rare phenotypic variant of P102L Gerstmann-Sträussler-Scheinker disease (GSS).
+BACKGROUND: Classic GSS is characterized by an early age at onset, prominent cerebellar signs with a slowly evolving dementia, and a neuropathology including multifocal PrP-positive plaques and variable but usually modest spongiform change.
+METHODS: Clinical, neuropathologic, immunohistochemical, and molecular genetic analysis of three sisters in a Hungarian family was performed.
+RESULTS: The clinical course of all three sisters was indistinguishable from sporadic Creutzfeldt-Jakob disease (CJD).
+Neuropathologic examination revealed spongiform changes, PrP (prion)-positive unicentric "kuru" or multicentric plaques, and abundant beta-A4-positive senile plaques.
+Molecular genetic analysis of the PRNP gene showed the heterozygous codon P102L mutation of classic GSS, with the methionine encoding allele of a heterozygous codon 129 coupled to the mutant 102 allele.
+CONCLUSION: The authors report the second recorded example of a sporadic CJD phenotype occurring in association with the P102L GSS genotype, and the first instance in which the phenotype was the rule rather than the exception, or was associated with prominent beta-A4 plaque formation.

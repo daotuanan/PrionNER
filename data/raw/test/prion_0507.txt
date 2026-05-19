@@ -1,0 +1,10 @@
+A 49-year-old man developed ataxia, myoclonic jerks, cortical blindness, and dementia.
+In 3 1/2 months, he rapidly deteriorated and died.
+Clinical and autopsy diagnosis confirmed Creutzfeldt-Jakob disease.
+The eyes were examined and bilateral optic atrophy was noted.
+No other ocular changes were noted.
+Optic atrophy had not been noted before death.
+
+<Related> YES or NO
+[DONE]
+[CHECK]

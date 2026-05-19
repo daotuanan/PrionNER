@@ -1,0 +1,3 @@
+We describe the MRI changes preceding the onset of myoclonus in two patients whose post-mortem examination confirmed the diagnosis of Creutzfeldt-Jakob disease (CJD).
+MRI showed changes in the striatum early in the course of CJD (2-6 months after the onset of apathy, interpreted as depression, and 1-2 months before the onset of further clinical symptoms).
+Only in one patient did electroencephalography record the typical triphasic sharp-waves, 1 month after MRI.

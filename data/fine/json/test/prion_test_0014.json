@@ -1,0 +1,739 @@
+{
+  "doc_id": "prion_test_0014",
+  "text": "BACKGROUND: Fatal Familial Insomnia (FFI) is a rare autosomal dominant prion disease.\nHerein, we present a case of a patient who was diagnosed with FFI, with symptoms initially resembling dementia with Lewy bodies (DLB).\nMETHOD: A 48‐year‐old Brazilian male with a six‐year history of insomnia presented with rapidly progressive dementia with predominant amnestic, dysexecutive, and visuospatial impairments; marked cognitive fluctuations; complex visual hallucinations; delusions; parkinsonism; severe dysautonomia; neuroleptic hypersensitivity; REM sleep behavior disorder; agrypnia excitata; and cerebellar ataxia.\nSeveral family members exhibited similar symptoms in an autosomal dominant pattern (Figure 1).\nSerum workup was unremarkable.\nCSF analysis was normal, except for 14‐3‐3 protein, which was elevated (3439 AU/ml).\nTau protein was low and RT‐QuIC was negative.\nBrain MRI showed cortical, basal nuclei and thalamic atrophy compared to the previous image from 2019 (Figure 2).\nFDG‐PET indicated glycolytic metabolism deficit predominantly in the left frontal and parietal regions (Figure 3A), and TRODAT SPECT showed a bilateral reduction in dopamine transporter availability, especially in the left striatum and putamen (Figure 3B).\nPolysomnography revealed severe altered sleep architecture, reduced REM sleep, and increased microarousals and abnormal motor activity during sleep.\nGenetic testing was performed, and a pathogenic variant c.532G>A:p (Asp178Asn) in heterozygosis in exon 2 was found in the prion protein (PRNP) gene.\nRESULT: FFI is caused by a missense mutation in the PRNP gene involving a substitution of aspartic acid (D) with asparagine (N) at codon 178, known as the D178N mutation.\nThe FFI phenotypes are strongly linked to the methionine (Met) / valine (Val) codon 129 polymorphism on the same allele as the D178N mutation.\nIn our case, although glycolytic hypometabolism on the thalamus had not been seen, there was a marked striatum involvement in TRODAT SPECT, in congruence with his parkinsonism.\nRare cases of FFI were reported in Latin American countries, and we have found in the literature only one case report regarding FFI that mimicked DLB symptoms. CONCLUSION: FFI can present with a heterogeneous phenotype.\nPatients with symptoms resembling DLB but showing alarm signs (rapid progressive dementia, multiple sleep abnormalities, strong family history) should prompt a more thorough investigation.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "FFI",
+      "start": 12,
+      "end": 35,
+      "text": "Fatal Familial Insomnia",
+      "spans": [
+        {
+          "start": 12,
+          "end": 35
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "FFI",
+      "start": 37,
+      "end": 40,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 37,
+          "end": 40
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Generic_Prion",
+      "start": 71,
+      "end": 84,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 71,
+          "end": 84
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "FFI",
+      "start": 148,
+      "end": 151,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 148,
+          "end": 151
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Differential_Diagnosis",
+      "start": 188,
+      "end": 213,
+      "text": "dementia with Lewy bodies",
+      "spans": [
+        {
+          "start": 188,
+          "end": 213
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Differential_Diagnosis",
+      "start": 215,
+      "end": 218,
+      "text": "DLB",
+      "spans": [
+        {
+          "start": 215,
+          "end": 218
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Age",
+      "start": 231,
+      "end": 242,
+      "text": "48‐year‐old",
+      "spans": [
+        {
+          "start": 231,
+          "end": 242
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Duration",
+      "start": 265,
+      "end": 273,
+      "text": "six‐year",
+      "spans": [
+        {
+          "start": 265,
+          "end": 273
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 285,
+      "end": 293,
+      "text": "insomnia",
+      "spans": [
+        {
+          "start": 285,
+          "end": 293
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 309,
+      "end": 337,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 309,
+          "end": 337
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 355,
+      "end": 363,
+      "text": "amnestic",
+      "spans": [
+        {
+          "start": 355,
+          "end": 363
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 365,
+      "end": 377,
+      "text": "dysexecutive",
+      "spans": [
+        {
+          "start": 365,
+          "end": 377
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 383,
+      "end": 407,
+      "text": "visuospatial impairments",
+      "spans": [
+        {
+          "start": 383,
+          "end": 407
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 416,
+      "end": 438,
+      "text": "cognitive fluctuations",
+      "spans": [
+        {
+          "start": 416,
+          "end": 438
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 448,
+      "end": 470,
+      "text": "visual hallucinations;",
+      "spans": [
+        {
+          "start": 448,
+          "end": 470
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 471,
+      "end": 480,
+      "text": "delusions",
+      "spans": [
+        {
+          "start": 471,
+          "end": 480
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 482,
+      "end": 494,
+      "text": "parkinsonism",
+      "spans": [
+        {
+          "start": 482,
+          "end": 494
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 503,
+      "end": 515,
+      "text": "dysautonomia",
+      "spans": [
+        {
+          "start": 503,
+          "end": 515
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 517,
+      "end": 545,
+      "text": "neuroleptic hypersensitivity",
+      "spans": [
+        {
+          "start": 517,
+          "end": 545
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Symptom",
+      "start": 547,
+      "end": 574,
+      "text": "REM sleep behavior disorder",
+      "spans": [
+        {
+          "start": 547,
+          "end": 574
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 576,
+      "end": 593,
+      "text": "agrypnia excitata",
+      "spans": [
+        {
+          "start": 576,
+          "end": 593
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Symptom",
+      "start": 599,
+      "end": 616,
+      "text": "cerebellar ataxia",
+      "spans": [
+        {
+          "start": 599,
+          "end": 616
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Blood_biomarker_test",
+      "start": 713,
+      "end": 725,
+      "text": "Serum workup",
+      "spans": [
+        {
+          "start": 713,
+          "end": 725
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Blood_biomarker_test",
+      "start": 744,
+      "end": 756,
+      "text": "CSF analysis",
+      "spans": [
+        {
+          "start": 744,
+          "end": 756
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Molecular_assay",
+      "start": 853,
+      "end": 860,
+      "text": "RT‐QuIC",
+      "spans": [
+        {
+          "start": 853,
+          "end": 860
+        }
+      ]
+    },
+    {
+      "id": "T62",
+      "label": "Anatomic_location",
+      "start": 875,
+      "end": 880,
+      "text": "Brain",
+      "spans": [
+        {
+          "start": 875,
+          "end": 880
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Imaging_test",
+      "start": 881,
+      "end": 884,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 881,
+          "end": 884
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 892,
+      "end": 900,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 892,
+          "end": 900
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Anatomic_location",
+      "start": 902,
+      "end": 914,
+      "text": "basal nuclei",
+      "spans": [
+        {
+          "start": 902,
+          "end": 914
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 919,
+      "end": 927,
+      "text": "thalamic",
+      "spans": [
+        {
+          "start": 919,
+          "end": 927
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Imaging_finding",
+      "start": 928,
+      "end": 935,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 928,
+          "end": 935
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Imaging_test",
+      "start": 989,
+      "end": 996,
+      "text": "FDG‐PET",
+      "spans": [
+        {
+          "start": 989,
+          "end": 996
+        }
+      ]
+    },
+    {
+      "id": "T48",
+      "label": "Imaging_finding",
+      "start": 1007,
+      "end": 1036,
+      "text": "glycolytic metabolism deficit",
+      "spans": [
+        {
+          "start": 1007,
+          "end": 1036
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Anatomic_location",
+      "start": 1063,
+      "end": 1091,
+      "text": "frontal regions",
+      "spans": [
+        {
+          "start": 1063,
+          "end": 1070
+        },
+        {
+          "start": 1084,
+          "end": 1091
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 1075,
+      "end": 1091,
+      "text": "parietal regions",
+      "spans": [
+        {
+          "start": 1075,
+          "end": 1091
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Imaging_test",
+      "start": 1109,
+      "end": 1121,
+      "text": "TRODAT SPECT",
+      "spans": [
+        {
+          "start": 1109,
+          "end": 1121
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Imaging_finding",
+      "start": 1141,
+      "end": 1187,
+      "text": "reduction in dopamine transporter availability",
+      "spans": [
+        {
+          "start": 1141,
+          "end": 1187
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Anatomic_location",
+      "start": 1212,
+      "end": 1220,
+      "text": "striatum",
+      "spans": [
+        {
+          "start": 1212,
+          "end": 1220
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Anatomic_location",
+      "start": 1225,
+      "end": 1232,
+      "text": "putamen",
+      "spans": [
+        {
+          "start": 1225,
+          "end": 1232
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Electrophysio_test",
+      "start": 1246,
+      "end": 1261,
+      "text": "Polysomnography",
+      "spans": [
+        {
+          "start": 1246,
+          "end": 1261
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Genetic_test",
+      "start": 1395,
+      "end": 1410,
+      "text": "Genetic testing",
+      "spans": [
+        {
+          "start": 1395,
+          "end": 1410
+        }
+      ]
+    },
+    {
+      "id": "T47",
+      "label": "FFI",
+      "start": 1553,
+      "end": 1556,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 1553,
+          "end": 1556
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "FFI",
+      "start": 1720,
+      "end": 1723,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 1720,
+          "end": 1723
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Imaging_finding",
+      "start": 1881,
+      "end": 1906,
+      "text": "glycolytic hypometabolism",
+      "spans": [
+        {
+          "start": 1881,
+          "end": 1906
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Anatomic_location",
+      "start": 1914,
+      "end": 1922,
+      "text": "thalamus",
+      "spans": [
+        {
+          "start": 1914,
+          "end": 1922
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Anatomic_location",
+      "start": 1961,
+      "end": 1969,
+      "text": "striatum",
+      "spans": [
+        {
+          "start": 1961,
+          "end": 1969
+        }
+      ]
+    },
+    {
+      "id": "T49",
+      "label": "Imaging_finding",
+      "start": 1961,
+      "end": 1981,
+      "text": "striatum involvement",
+      "spans": [
+        {
+          "start": 1961,
+          "end": 1981
+        }
+      ]
+    },
+    {
+      "id": "T53",
+      "label": "Imaging_test",
+      "start": 1985,
+      "end": 1997,
+      "text": "TRODAT SPECT",
+      "spans": [
+        {
+          "start": 1985,
+          "end": 1997
+        }
+      ]
+    },
+    {
+      "id": "T54",
+      "label": "Symptom",
+      "start": 2022,
+      "end": 2034,
+      "text": "parkinsonism",
+      "spans": [
+        {
+          "start": 2022,
+          "end": 2034
+        }
+      ]
+    },
+    {
+      "id": "T55",
+      "label": "FFI",
+      "start": 2050,
+      "end": 2053,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 2050,
+          "end": 2053
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "FFI",
+      "start": 2164,
+      "end": 2167,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 2164,
+          "end": 2167
+        }
+      ]
+    },
+    {
+      "id": "T56",
+      "label": "Differential_Diagnosis",
+      "start": 2182,
+      "end": 2185,
+      "text": "DLB",
+      "spans": [
+        {
+          "start": 2182,
+          "end": 2185
+        }
+      ]
+    },
+    {
+      "id": "T57",
+      "label": "FFI",
+      "start": 2208,
+      "end": 2211,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 2208,
+          "end": 2211
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Differential_Diagnosis",
+      "start": 2290,
+      "end": 2293,
+      "text": "DLB",
+      "spans": [
+        {
+          "start": 2290,
+          "end": 2293
+        }
+      ]
+    },
+    {
+      "id": "T58",
+      "label": "Symptom",
+      "start": 2319,
+      "end": 2345,
+      "text": "rapid progressive dementia",
+      "spans": [
+        {
+          "start": 2319,
+          "end": 2345
+        }
+      ]
+    },
+    {
+      "id": "T59",
+      "label": "Symptom",
+      "start": 2347,
+      "end": 2375,
+      "text": "multiple sleep abnormalities",
+      "spans": [
+        {
+          "start": 2347,
+          "end": 2375
+        }
+      ]
+    }
+  ]
+}

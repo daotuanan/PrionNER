@@ -1,0 +1,34 @@
+T1	iCJD 12 48	Iatrogenic Creutzfeldt-Jakob disease
+T2	Generic_Prion 50 53	CJD
+T3	Age 148 159	39-year-old
+T4	Generic_Prion 208 211	CJD
+T5	Time_point 247 262	6 years earlier
+T6	Generic_Prion 332 335	CJD
+T7	Generic_Prion 370 373	CJD
+T8	Generic_Prion 450 453	CJD
+T9	Generic_Prion 515 518	CJD
+T10	Generic_Prion 685 688	CJD
+T11	Generic_Prion 703 706	CJD
+T13	Autopsy 818 825	autopsy
+T15	Generic_Prion 926 929	CJD
+T18	Time_point 1081 1085	1992
+T19	Generic_Prion 1114 1117	CJD
+T20	Age 1154 1165	57-year-old
+T21	Symptom 1188 1198	dysarthria
+T22	Symptom 1200 1206	ataxia
+T23	Symptom 1212 1230	behavioral changes
+T24	Generic_Prion 1488 1491	CJD
+T25	Generic_Prion 1649 1652	CJD
+T26	Choose_Related 1681 1684	YES
+T27	Time_point 130 144	September 1998
+T12	Autopsy 763 778	neuropathologic
+T28	Molecular_assay 783 799	immunodiagnostic
+T16	Choose_Done 1692 1696	DONE
+T29	Anatomic_location 826 831	brain
+T17	Treatment 72 89	dura mater grafts
+T30	Treatment 230 246	dura mater graft
+T14	Treatment 873 901	cadaveric pituitary hormones
+T31	Treatment 905 919	corneal grafts
+T32	Treatment 991 1014	neurosurgical procedure
+T33	Duration 1015 1030	within 6 months
+T34	Duration 1041 1049	5 months

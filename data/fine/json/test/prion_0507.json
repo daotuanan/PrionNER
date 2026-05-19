@@ -1,0 +1,188 @@
+{
+  "doc_id": "prion_0507",
+  "text": "A 49-year-old man developed ataxia, myoclonic jerks, cortical blindness, and dementia.\nIn 3 1/2 months, he rapidly deteriorated and died.\nClinical and autopsy diagnosis confirmed Creutzfeldt-Jakob disease.\nThe eyes were examined and bilateral optic atrophy was noted.\nNo other ocular changes were noted.\nOptic atrophy had not been noted before death.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "49-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 28,
+      "end": 34,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 28,
+          "end": 34
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 36,
+      "end": 51,
+      "text": "myoclonic jerks",
+      "spans": [
+        {
+          "start": 36,
+          "end": 51
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 53,
+      "end": 61,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 53,
+          "end": 61
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 53,
+      "end": 71,
+      "text": "cortical blindness",
+      "spans": [
+        {
+          "start": 53,
+          "end": 71
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 77,
+      "end": 85,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 77,
+          "end": 85
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Duration",
+      "start": 90,
+      "end": 102,
+      "text": "3 1/2 months",
+      "spans": [
+        {
+          "start": 90,
+          "end": 102
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Complication",
+      "start": 132,
+      "end": 136,
+      "text": "died",
+      "spans": [
+        {
+          "start": 132,
+          "end": 136
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Autopsy",
+      "start": 151,
+      "end": 158,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 151,
+          "end": 158
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 179,
+      "end": 204,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 179,
+          "end": 204
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 210,
+      "end": 214,
+      "text": "eyes",
+      "spans": [
+        {
+          "start": 210,
+          "end": 214
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 233,
+      "end": 256,
+      "text": "bilateral optic atrophy",
+      "spans": [
+        {
+          "start": 233,
+          "end": 256
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 304,
+      "end": 317,
+      "text": "Optic atrophy",
+      "spans": [
+        {
+          "start": 304,
+          "end": 317
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Complication",
+      "start": 344,
+      "end": 349,
+      "text": "death",
+      "spans": [
+        {
+          "start": 344,
+          "end": 349
+        }
+      ]
+    }
+  ]
+}

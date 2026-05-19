@@ -1,0 +1,36 @@
+T1	Test_name 51 70	computed tomography
+T2	Test_name 80 106	magnetic resonance imaging
+T9	Test_name 108 111	MRI
+T3	Test_name 118 149	magnetic resonance spectroscopy
+T4	Generic_Prion 205 230	Creutzfeldt-Jakob disease
+T5	Generic_Prion 232 235	CJD
+T8	Sequences 420 438	diffusion-weighted
+T6	Test_name 439 443	MRIs
+T10	Generic_Prion 470 473	CJD
+T11	Sequences 484 502	Diffusion-weighted
+T7	Test_name 503 507	MRIs
+T14	Generic_Prion 541 544	CJD
+T12	Test_name 566 569	MRI
+T26	Anatomic_location 570 575	brain
+T15	Sequences 617 635	diffusion-weighted
+T13	Test_name 636 640	MRIs
+T19	Anatomic_location 648 653	brain
+T20	Findings 677 691	hyperintensity
+T22	Anatomic_location 699 712	basal ganglia
+T17	Findings 749 760	abnormality
+T24	Sequences 769 794	diffusion-weighted images
+T25	Anatomic_location 806 814	thalamus
+T16	Findings 847 861	hyperintensity
+T27	Anatomic_location 869 884	cerebral cortex
+T28	Sequences 888 913	diffusion-weighted images
+T21	Sequences 981 1003	non-diffusion-weighted
+T18	Test_name 1005 1009	MRIs
+T29	Sequences 1011 1020	Diffusion
+T23	Findings 1021 1034	abnormalities
+T33	Time 1061 1075	within 1 month
+T35	Time 1079 1092	symptom onset
+T36	Time 1197 1205	7 months
+T30	Sequences 1221 1239	Diffusion-weighted
+T31	Test_name 1240 1243	MRI
+T38	Generic_Prion 1308 1311	CJD
+T40	Generic_Prion 1414 1417	CJD

@@ -1,0 +1,11 @@
+T1	vCJD 32 65	variant Creutzfeldt-Jakob disease
+T2	Generic_Prion 99 131	bovine spongiform encephalopathy
+T3	vCJD 186 197	variant CJD
+T4	sCJD 227 239	sporadic CJD
+T5	vCJD 312 316	vCJD
+T7	vCJD 384 388	vCJD
+T9	Choose_Related 522 525	YES
+T6	Choose_Done 533 537	DONE
+T8	Choose_Done 540 545	CHECK
+T10	Autopsy 248 265	neuropathological
+T11	iCJD 435 445	iatrogenic

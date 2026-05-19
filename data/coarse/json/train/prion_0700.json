@@ -1,0 +1,344 @@
+{
+  "doc_id": "prion_0700",
+  "text": "A woman, aged 59 years, underwent a cortical biopsy that led to the diagnosis of Creutzfeldt-Jakob disease (CJD).\nA man, aged 46 years, underwent cranial surgery in the same department 3 days later for brain contusion, with an uneventful recovery.\nTwenty six months later, he developed clinical signs of CJD with a typical EEG pattern.\nBoth cases exhibited features of the 'ataxic' form of the disease with depletion of cerebellar granule cells, without kuru plaques or PrP deposits.\nPrP deposits were immuno-histochemically observed in the cerebrum, spinal cord and peripheral nerve.\nMolecular genetic analysis performed on brain tissue revealed the codon 129 polymorphism to be Met129Met in the donor and Met129Val in the recipient.\nThe shared 'cerebellar' phenotype and the genotypic discrepancy between the two patients lead us to postulate that the 'cerebellar' agent strain plays a major role in CJD phenotype and transmission.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 14,
+      "end": 22,
+      "text": "59 years",
+      "spans": [
+        {
+          "start": 14,
+          "end": 22
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 36,
+      "end": 44,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 36,
+          "end": 44
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 45,
+      "end": 51,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 45,
+          "end": 51
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 81,
+      "end": 106,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 81,
+          "end": 106
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 108,
+      "end": 111,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 108,
+          "end": 111
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Age",
+      "start": 126,
+      "end": 134,
+      "text": "46 years",
+      "spans": [
+        {
+          "start": 126,
+          "end": 134
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Treatment",
+      "start": 146,
+      "end": 161,
+      "text": "cranial surgery",
+      "spans": [
+        {
+          "start": 146,
+          "end": 161
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time",
+      "start": 185,
+      "end": 197,
+      "text": "3 days later",
+      "spans": [
+        {
+          "start": 185,
+          "end": 197
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Anatomic_location",
+      "start": 202,
+      "end": 207,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 202,
+          "end": 207
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 248,
+      "end": 265,
+      "text": "Twenty six months",
+      "spans": [
+        {
+          "start": 248,
+          "end": 265
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 304,
+      "end": 307,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 304,
+          "end": 307
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 323,
+      "end": 326,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 323,
+          "end": 326
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 374,
+      "end": 380,
+      "text": "ataxic",
+      "spans": [
+        {
+          "start": 374,
+          "end": 380
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 407,
+      "end": 444,
+      "text": "depletion of cerebellar granule cells",
+      "spans": [
+        {
+          "start": 407,
+          "end": 444
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 420,
+      "end": 430,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 420,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Findings",
+      "start": 454,
+      "end": 466,
+      "text": "kuru plaques",
+      "spans": [
+        {
+          "start": 454,
+          "end": 466
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Findings",
+      "start": 470,
+      "end": 482,
+      "text": "PrP deposits",
+      "spans": [
+        {
+          "start": 470,
+          "end": 482
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Findings",
+      "start": 484,
+      "end": 496,
+      "text": "PrP deposits",
+      "spans": [
+        {
+          "start": 484,
+          "end": 496
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 541,
+      "end": 549,
+      "text": "cerebrum",
+      "spans": [
+        {
+          "start": 541,
+          "end": 549
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 551,
+      "end": 562,
+      "text": "spinal cord",
+      "spans": [
+        {
+          "start": 551,
+          "end": 562
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 567,
+      "end": 583,
+      "text": "peripheral nerve",
+      "spans": [
+        {
+          "start": 567,
+          "end": 583
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Test_name",
+      "start": 585,
+      "end": 611,
+      "text": "Molecular genetic analysis",
+      "spans": [
+        {
+          "start": 585,
+          "end": 611
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Anatomic_location",
+      "start": 625,
+      "end": 630,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 625,
+          "end": 630
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 747,
+      "end": 757,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 747,
+          "end": 757
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 855,
+      "end": 865,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 855,
+          "end": 865
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Generic_Prion",
+      "start": 902,
+      "end": 905,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 902,
+          "end": 905
+        }
+      ]
+    }
+  ]
+}

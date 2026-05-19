@@ -1,0 +1,5 @@
+T1	Generic_Prion 45 70	Creutzfeldt-Jakob disease
+T2	Differential_Diagnosis 74 108	rapidly progressive encephalopathy
+T3	Symptom 134 158	early behavioral changes
+T4	Test_name 203 223	electroencephalogram
+T6	Test_name 225 228	EEG

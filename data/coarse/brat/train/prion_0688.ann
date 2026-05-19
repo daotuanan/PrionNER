@@ -1,0 +1,23 @@
+T1	Generic_Prion 27 52	Creutzfeldt-Jakob disease
+T2	Generic_Prion 54 57	CJD
+T3	Generic_Prion 120 133	prion disease
+T4	Generic_Prion 145 148	BSE
+T5	Generic_Prion 256 259	CJD
+T6	Differential_Diagnosis 351 359	dementia
+T7	Time 420 441	between 1964 and 1990
+T8	Generic_Prion 469 494	spongiform encephalopathy
+T9	Time 527 539	before death
+T27	Complication 534 539	death
+T10	Generic_Prion 603 606	CJD
+T11	Symptom 608 639	relentless mental deterioration
+T13	Symptom 651 662	motor signs
+T12	Complication 667 672	death
+T14	Time 680 686	a year
+T16	Time 899 914	3 years or more
+T17	Symptom 916 927	motor signs
+T19	Symptom 963 971	dementia
+T18	Anatomic_location 1041 1049	cerebral
+T20	Findings 1050 1057	atrophy
+T21	Generic_Prion 1100 1113	prion disease
+T22	Generic_Prion 1148 1173	spongiform encephalopathy
+T24	Generic_Prion 1233 1252	human prion disease

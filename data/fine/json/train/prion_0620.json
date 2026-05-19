@@ -1,0 +1,84 @@
+{
+  "doc_id": "prion_0620",
+  "text": "The electroencephalogram (EEG) of three patients with typical Creutzfeldt-Jakob disease (CJD) was characterized by periodic lateralized epileptiform complexes (PLEDs), which persisted and became bilateral.\nThis unusual pattern preceded the characteristic EEG change of CJD.\nPersistence of PLEDs should suggest the diagnosis of CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Electrophysio_test",
+      "start": 4,
+      "end": 30,
+      "text": "electroencephalogram (EEG)",
+      "spans": [
+        {
+          "start": 4,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 62,
+      "end": 87,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 62,
+          "end": 87
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 89,
+      "end": 92,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 89,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Electrophysio_test",
+      "start": 255,
+      "end": 258,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 255,
+          "end": 258
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 269,
+      "end": 272,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 269,
+          "end": 272
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 327,
+      "end": 330,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 327,
+          "end": 330
+        }
+      ]
+    }
+  ]
+}

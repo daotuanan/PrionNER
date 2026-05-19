@@ -1,0 +1,17 @@
+T1	Imaging_sequence 0 18	Diffusion-weighted
+T2	Imaging_sequence 24 27	DWI
+T4	sCJD 76 110	sporadic Creutzfeldt-Jakob disease
+T5	Generic_Prion 112 115	CJD
+T6	Imaging_sequence 196 199	DWI
+T7	Generic_Prion 226 229	CJD
+T9	Generic_Prion 373 376	CJD
+T10	Anatomic_location 449 457	cortical
+T11	Imaging_sequence 473 476	DWI
+T12	Choose_Related 489 492	YES
+T3	Imaging_test 19 22	MRI
+T13	Autopsy 61 68	autopsy
+T14	Imaging_sequence 401 403;424 432	T2 weighted
+T15	Imaging_sequence 409 432	proton density-weighted
+T16	Imaging_finding 449 469	cortical involvement
+T17	Choose_Done 500 504	DONE
+T18	Imaging_finding 381 397	no abnormalities

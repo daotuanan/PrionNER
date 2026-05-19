@@ -1,0 +1,6 @@
+Spongiform encephalopathies (prion diseases) are a group of neurodegenerative disorders that affect both humans and animals and have common pathologic (spongiform changes, astrogliosis and neuronal loss) and clinical features.
+The paper shows clinical presentations of human spongioform encephalopathies: Creutzfeldt-Jakob disease, Gerstmann-Straussler-Scheinker disease and fatal familiar insomnia.
+A new variant of Jakob-Creutzfeld disease, with unique clinical (earlier onset, psychiatric symptoms and lack of the characteristic EEG abnormalities) and pathological features was described.
+
+<Related> YES or NO
+[DONE]

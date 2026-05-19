@@ -1,0 +1,19 @@
+T17	Test_name 41 58	neuropathological
+T18	Test_name 73 83	genotyping
+T2	Familial_Prion 135 158	fatal familial insomnia
+T4	Symptom 251 259	insomnia
+T5	Symptom 264 285	behavioural disorders
+T3	Complication 314 318	died
+T7	Time 327 342	5 and 10 months
+T6	Time 327 373	5 and 10 months after the onset of the illness
+T19	Anatomic_location 375 382	Frontal
+T25	Anatomic_location 383 388	brain
+T20	Test_name 389 395	biopsy
+T21	Findings 441 451	spongiosis
+T9	Test_name 462 491	neuropathological examination
+T22	Anatomic_location 516 524	thalamic
+T10	Anatomic_location 529 536	olivary
+T8	Findings 537 549	degeneration
+T24	Anatomic_location 570 578	cortical
+T13	Findings 579 589	spongiosis
+T11	Test_name 591 610	Genetic examination

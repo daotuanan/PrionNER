@@ -1,0 +1,8 @@
+To ascertain whether increased grey matter signal intensity on T2-weighted images in patients with sporadic Creutzfeldt-Jakob disease (CJD) corresponds to the stage and severity of this disease, we correlated MRI findings in four of our own and previously reported patients with sporadic CJD with the clinical variants, neuropathological changes at autopsy, duration of the disease and survival time after MRI examination.
+Of 15 patients with the extrapyramidal type of CJD, 10 showed increased signal in the basal ganglia on T2-weighted images.
+One of seven patients with the Heidenhain variant had increased signal in the occipital cortex.
+Patients without increased grey matter signal intensity had a longer overall duration of CJD (P = 0.035).
+Although the interval between onset of neurological symptoms and MRI was not different, patients without increased grey matter signal also survived longer after MRI examination (P = 0.022).
+
+<Related> YES or NO
+[DONE]

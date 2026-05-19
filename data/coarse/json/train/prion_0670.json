@@ -1,0 +1,474 @@
+{
+  "doc_id": "prion_0670",
+  "text": "Creutzfeldt-Jakob disease (CJD) is one of the \"prion\" diseases.\nMRI has been reported to detect some findings in this disease, particularly high intensity in the basal ganglia on T2WI.\nWe reviewed six cases of CJD, and found additional characteristic findings.\nCerebral atrophy was detected in two of six cases, and in one of these two, it progressed markedly during 8 months.\nNo abnormal density or abnormal signal intensity was detected on CT or T1WI of MRI.\nCerebral angiography was done in one patient, and no abnormality was detected.\nHigh signal intensity on T2WI in the basal ganglia was detected in five of six cases (83%).\nT2WI showed high signal intensity in the cerebral cortex in four of six cases (67%), and in three cases the temporal cortex was involved.\nThe high signal intensity in the temporal cortex appeared prior to the appearance of abnormal intensity in the basal ganglia in two cases.\nWe conclude that the high signal intensity in the temporal cortex on T2WI is an important sign and can lead to early diagnosis of CJD.\nWe consider that these MR findings may represent a \"prion\" disease, not only CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 46,
+      "end": 61,
+      "text": "\"prion\" disease",
+      "spans": [
+        {
+          "start": 46,
+          "end": 61
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Test_name",
+      "start": 64,
+      "end": 67,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 64,
+          "end": 67
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Findings",
+      "start": 140,
+      "end": 154,
+      "text": "high intensity",
+      "spans": [
+        {
+          "start": 140,
+          "end": 154
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 162,
+      "end": 175,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 162,
+          "end": 175
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Sequences",
+      "start": 179,
+      "end": 183,
+      "text": "T2WI",
+      "spans": [
+        {
+          "start": 179,
+          "end": 183
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 210,
+      "end": 213,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 210,
+          "end": 213
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 261,
+      "end": 269,
+      "text": "Cerebral",
+      "spans": [
+        {
+          "start": 261,
+          "end": 269
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Findings",
+      "start": 270,
+      "end": 277,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 270,
+          "end": 277
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Time",
+      "start": 367,
+      "end": 375,
+      "text": "8 months",
+      "spans": [
+        {
+          "start": 367,
+          "end": 375
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Findings",
+      "start": 380,
+      "end": 396,
+      "text": "abnormal density",
+      "spans": [
+        {
+          "start": 380,
+          "end": 396
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Findings",
+      "start": 400,
+      "end": 425,
+      "text": "abnormal signal intensity",
+      "spans": [
+        {
+          "start": 400,
+          "end": 425
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 442,
+      "end": 444,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 442,
+          "end": 444
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Sequences",
+      "start": 448,
+      "end": 452,
+      "text": "T1WI",
+      "spans": [
+        {
+          "start": 448,
+          "end": 452
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Test_name",
+      "start": 456,
+      "end": 459,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 456,
+          "end": 459
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Anatomic_location",
+      "start": 461,
+      "end": 469,
+      "text": "Cerebral",
+      "spans": [
+        {
+          "start": 461,
+          "end": 469
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Test_name",
+      "start": 470,
+      "end": 481,
+      "text": "angiography",
+      "spans": [
+        {
+          "start": 470,
+          "end": 481
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Findings",
+      "start": 540,
+      "end": 561,
+      "text": "High signal intensity",
+      "spans": [
+        {
+          "start": 540,
+          "end": 561
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Sequences",
+      "start": 565,
+      "end": 569,
+      "text": "T2WI",
+      "spans": [
+        {
+          "start": 565,
+          "end": 569
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 577,
+      "end": 590,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 577,
+          "end": 590
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Sequences",
+      "start": 632,
+      "end": 636,
+      "text": "T2WI",
+      "spans": [
+        {
+          "start": 632,
+          "end": 636
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Findings",
+      "start": 644,
+      "end": 665,
+      "text": "high signal intensity",
+      "spans": [
+        {
+          "start": 644,
+          "end": 665
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 673,
+      "end": 688,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 673,
+          "end": 688
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 740,
+      "end": 755,
+      "text": "temporal cortex",
+      "spans": [
+        {
+          "start": 740,
+          "end": 755
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Findings",
+      "start": 774,
+      "end": 795,
+      "text": "high signal intensity",
+      "spans": [
+        {
+          "start": 774,
+          "end": 795
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Anatomic_location",
+      "start": 803,
+      "end": 818,
+      "text": "temporal cortex",
+      "spans": [
+        {
+          "start": 803,
+          "end": 818
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Findings",
+      "start": 855,
+      "end": 873,
+      "text": "abnormal intensity",
+      "spans": [
+        {
+          "start": 855,
+          "end": 873
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Anatomic_location",
+      "start": 881,
+      "end": 894,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 881,
+          "end": 894
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Findings",
+      "start": 930,
+      "end": 951,
+      "text": "high signal intensity",
+      "spans": [
+        {
+          "start": 930,
+          "end": 951
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 959,
+      "end": 974,
+      "text": "temporal cortex",
+      "spans": [
+        {
+          "start": 959,
+          "end": 974
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Sequences",
+      "start": 978,
+      "end": 982,
+      "text": "T2WI",
+      "spans": [
+        {
+          "start": 978,
+          "end": 982
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Generic_Prion",
+      "start": 1039,
+      "end": 1042,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1039,
+          "end": 1042
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Test_name",
+      "start": 1067,
+      "end": 1069,
+      "text": "MR",
+      "spans": [
+        {
+          "start": 1067,
+          "end": 1069
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Generic_Prion",
+      "start": 1095,
+      "end": 1110,
+      "text": "\"prion\" disease",
+      "spans": [
+        {
+          "start": 1095,
+          "end": 1110
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Generic_Prion",
+      "start": 1121,
+      "end": 1124,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1121,
+          "end": 1124
+        }
+      ]
+    }
+  ]
+}

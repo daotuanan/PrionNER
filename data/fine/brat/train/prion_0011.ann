@@ -1,0 +1,35 @@
+T2	Electrophysio_test 79 94	polysomnography
+T3	FFI 129 152	Fatal Familial Insomnia
+T4	FFI 154 157	FFI
+T5	Age 201 212	32-year-old
+T6	sFI 301 306	FFI-1
+T7	sFI 311 316	FFI-2
+T8	Differential_Diagnosis 346 354	insomnia
+T9	Electrophysio_test 359 363	PLMS
+T10	Duration 405 413	120 days
+T11	FFI 451 454	FFI
+T13	Duration 468 475	89 days
+T14	FFI 790 795	FFI-1
+T15	FFI 800 805	FFI-2
+T16	Electrophysio_test 806 810	PSGs
+T22	FFI 989 994	FFI-1
+T23	FFI 1257 1262	FFI-1
+T26	Differential_Diagnosis 1309 1326	insomnia disorder
+T28	Electrophysio_test 1370 1373	PSG
+T29	FFI 1377 1380	FFI
+T31	Symptom 1390 1411	poor sleep efficiency
+T32	Electrophysio_test 35 56	electroencephalograph
+T33	Electrophysio_test 58 61	EEG
+T35	Electrophysio_test 269 272	EEG
+T36	Electrophysio_test 295 299	PSGs
+T37	Complication 485 490	death
+T38	Electrophysio_test 492 495	PSG
+T39	Electrophysio_test 514 517	EEG
+T40	Electrophysio_test 554 557	EEG
+T44	Symptom 736 744	insomnia
+T54	Differential_Diagnosis 1080 1088	insomnia
+T55	FFI 1104 1109	FFI-1
+T59	Differential_Diagnosis 1173 1181	insomnia
+T30	Electrophysio_test 1490 1493	EEG
+T58	Differential_Diagnosis 1593 1601	insomnia
+T71	FFI 389 392	FFI

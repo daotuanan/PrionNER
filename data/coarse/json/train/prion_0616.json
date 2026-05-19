@@ -1,0 +1,162 @@
+{
+  "doc_id": "prion_0616",
+  "text": "Long-term observations of five patients aged 40 to 70 years made it possible to diagnose Creutzfeld-Jacob's disease (CJD) in their life time.\nIn three cases, the diagnosis of CJD was confirmed at autopsy; one patient died at home.\nThe works of I. Kreutzfeld and A. Jacob and the authors' observations confirm that the disease lasts 4-5 years or more.\nMarked manifestations of the disease were observed for two years.\nSome differential diagnostic criteria are presented permitting the differentiation of CJD from other atrophic processes described by Alzheimer, Pick and others.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 40,
+      "end": 59,
+      "text": "aged 40 to 70 years",
+      "spans": [
+        {
+          "start": 40,
+          "end": 59
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 89,
+      "end": 115,
+      "text": "Creutzfeld-Jacob's disease",
+      "spans": [
+        {
+          "start": 89,
+          "end": 115
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 117,
+      "end": 120,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 117,
+          "end": 120
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 175,
+      "end": 178,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 175,
+          "end": 178
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 196,
+      "end": 203,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 196,
+          "end": 203
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Complication",
+      "start": 217,
+      "end": 221,
+      "text": "died",
+      "spans": [
+        {
+          "start": 217,
+          "end": 221
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 332,
+      "end": 349,
+      "text": "4-5 years or more",
+      "spans": [
+        {
+          "start": 332,
+          "end": 349
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Time",
+      "start": 406,
+      "end": 415,
+      "text": "two years",
+      "spans": [
+        {
+          "start": 406,
+          "end": 415
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 503,
+      "end": 506,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 503,
+          "end": 506
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Differential_Diagnosis",
+      "start": 518,
+      "end": 536,
+      "text": "atrophic processes",
+      "spans": [
+        {
+          "start": 518,
+          "end": 536
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Differential_Diagnosis",
+      "start": 550,
+      "end": 559,
+      "text": "Alzheimer",
+      "spans": [
+        {
+          "start": 550,
+          "end": 559
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Differential_Diagnosis",
+      "start": 561,
+      "end": 565,
+      "text": "Pick",
+      "spans": [
+        {
+          "start": 561,
+          "end": 565
+        }
+      ]
+    }
+  ]
+}

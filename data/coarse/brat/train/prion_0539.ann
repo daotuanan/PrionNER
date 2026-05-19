@@ -1,0 +1,9 @@
+T1	Generic_Prion 11 36	Creutzfeldt-Jakob disease
+T2	Generic_Prion 198 223	Creutzfeldt-Jakob disease
+T7	Symptom 571 586	myoclonic jerks
+T8	Test_name 600 603	EEG
+T10	Symptom 701 709	headache
+T11	Symptom 759 769	depression
+T12	Symptom 774 795	loss of concentration
+T13	Familial_Prion 833 841	familial
+T14	Generic_Prion 846 857	nonfamilial

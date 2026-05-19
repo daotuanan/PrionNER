@@ -1,0 +1,27 @@
+T1	Age 2 13	47-year-old
+T2	Symptom 39 65	progressive truncal ataxia
+T3	Symptom 70 88	mental alterations
+T4	Differential_Diagnosis 100 127	Wernicke-Korsakoff syndrome
+T5	Symptom 139 156	confusional state
+T6	Symptom 158 172	hallucinations
+T7	Symptom 174 194	delirium of jealousy
+T8	Symptom 209 236	impairment of recent memory
+T9	Duration 264 273	13 months
+T11	Symptom 324 334	myoclonias
+T13	Electrophysio_test 391 405	EEG-recordings
+T15	Autopsy 431 454	Macroscopic examination
+T16	Anatomic_location 462 467	brain
+T18	Anatomic_location 497 514	mammillary bodies
+T19	Anatomic_location 519 534	superior vermis
+T20	Autopsy 549 570	histological features
+T21	Generic_Prion 592 617	Creutzfeldt-Jakob disease
+T22	Generic_Prion 619 622	CJD
+T23	Generic_Prion 728 731	CJD
+T24	Anatomic_location 761 764	CNS
+T25	Time_point 856 867	final stage
+T26	Anatomic_location 924 935	gray matter
+T27	Generic_Prion 965 968	CJD
+T28	Anatomic_location 984 1018	cerebello-mammillo-thalamic system
+T12	Autopsy_finding 482 489	atrophy
+T14	Symptom 1041 1073	Wernicke-Korsakoff-like syndrome
+T10	Autopsy 877 889	pathological

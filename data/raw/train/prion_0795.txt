@@ -1,0 +1,10 @@
+Prion diseases are histologically characterized by a spongiform encephalopathy.
+The early symptoms of Creutzfeldt-Jakob disease (CJD) and variant Creutzfeldt-Jakob disease (vCJD) are unspecific.
+To date, the definite diagnosis can only be made by histological examination of central nervous tissue, i.e. brain biopsy or post mortem.
+Therefore, diagnostic tests are being elaborated that suffice with cerebrospinal fluid or blood.
+Unlike the sporadic form of Creutzfeldt-Jakob disease, that involves the central nervous system exclusively, in the variant of the Creutzfeldt-Jakob disease the lymphoreticular system including the tonsils is involved, too.
+Hence, a tonsillar biopsy can be performed instead of a brain biopsy.
+In particular, the diagnostic criteria of both CJD and vCJD are described.
+
+<Related> YES or NO
+[DONE]

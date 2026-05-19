@@ -1,0 +1,9 @@
+T1	Choose_Related 378 381	YES
+T2	Imaging_sequence 21 39	diffusion-weighted
+T5	Anatomic_location 227 242	cerebral cortex
+T6	Imaging_sequence 246 271	diffusion-weighted images
+T7	Electrophysio_test 345 365	electroencephalogram
+T4	sCJD 148 182	sporadic Creutzfeldt-Jakob disease
+T11	Choose_Done 389 393	DONE
+T3	Imaging_finding 184 219	Ribbon-like areas of hyperintensity
+T8	Imaging_test 40 50	MR imaging

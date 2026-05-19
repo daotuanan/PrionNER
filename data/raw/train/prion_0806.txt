@@ -1,0 +1,6 @@
+Variant Creutzfeldt-Jakob disease is caused by the transmission of bovine spongiform encephalopathy to humans.
+The clinical and investigative features of variant CJD are relatively distinct from sporadic CJD.
+The number of cases of vCJD are increasing with time in the UK, but the total future number of cases of vCJD is uncertain.
+
+<Related> YES or NO
+[DONE]

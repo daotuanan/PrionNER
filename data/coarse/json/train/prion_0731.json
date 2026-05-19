@@ -1,0 +1,323 @@
+{
+  "doc_id": "prion_0731",
+  "text": "BACKGROUND: Creutzfeldt-Jakob disease (CJD) is a rare transmissible disease that typically causes a rapidly progressive dementia and leads to death in less than 1 year.\nAlthough a few anecdotal reports suggest that diffusion-weighted magnetic resonance imaging may help substantiate premortem diagnosis of CJD, detailed correlation between radiographic data and clinical, electrophysiologic, and metabolic parameters is not available.\nMETHODS: Signal abnormalities on diffusion-weighted images in 3 consecutive patients with probable CJD were correlated with psychometric features, electroencephalographic findings, and functional images with either positron emission tomography or single photon emission computed tomography.\nRESULTS: Focality of abnormalities on diffusion-weighted image, not apparent on routine magnetic resonance images, correlated closely with clinical manifestations of CJD.\nThe topographic distribution of signal abnormality on diffusion-weighted image corresponded with abnormal metabolism or perfusion on positron emission and single photon emission computed tomographic scans.\nIn 2 cases, the laterality of diffusion abnormalities correlated with periodic sharp wave activity on electroencephalograms.\nCONCLUSION: These findings extend previous observations that suggested a diagnostic and localizing utility of diffusion-weighted imaging in CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 12,
+      "end": 37,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 12,
+          "end": 37
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 39,
+      "end": 42,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 39,
+          "end": 42
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 100,
+      "end": 128,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 100,
+          "end": 128
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Complication",
+      "start": 142,
+      "end": 147,
+      "text": "death",
+      "spans": [
+        {
+          "start": 142,
+          "end": 147
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time",
+      "start": 161,
+      "end": 167,
+      "text": "1 year",
+      "spans": [
+        {
+          "start": 161,
+          "end": 167
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Sequences",
+      "start": 215,
+      "end": 233,
+      "text": "diffusion-weighted",
+      "spans": [
+        {
+          "start": 215,
+          "end": 233
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 234,
+      "end": 260,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 234,
+          "end": 260
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 306,
+      "end": 309,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 306,
+          "end": 309
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Sequences",
+      "start": 468,
+      "end": 493,
+      "text": "diffusion-weighted images",
+      "spans": [
+        {
+          "start": 468,
+          "end": 493
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 534,
+      "end": 537,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 534,
+          "end": 537
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 582,
+      "end": 605,
+      "text": "electroencephalographic",
+      "spans": [
+        {
+          "start": 582,
+          "end": 605
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Test_name",
+      "start": 650,
+      "end": 678,
+      "text": "positron emission tomography",
+      "spans": [
+        {
+          "start": 650,
+          "end": 678
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Test_name",
+      "start": 682,
+      "end": 724,
+      "text": "single photon emission computed tomography",
+      "spans": [
+        {
+          "start": 682,
+          "end": 724
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Sequences",
+      "start": 764,
+      "end": 782,
+      "text": "diffusion-weighted",
+      "spans": [
+        {
+          "start": 764,
+          "end": 782
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Test_name",
+      "start": 814,
+      "end": 839,
+      "text": "magnetic resonance images",
+      "spans": [
+        {
+          "start": 814,
+          "end": 839
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Generic_Prion",
+      "start": 892,
+      "end": 895,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 892,
+          "end": 895
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Sequences",
+      "start": 951,
+      "end": 975,
+      "text": "diffusion-weighted image",
+      "spans": [
+        {
+          "start": 951,
+          "end": 975
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Findings",
+      "start": 994,
+      "end": 1013,
+      "text": "abnormal metabolism",
+      "spans": [
+        {
+          "start": 994,
+          "end": 1013
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 994,
+      "end": 1026,
+      "text": "perfusion abnormal",
+      "spans": [
+        {
+          "start": 1017,
+          "end": 1026
+        },
+        {
+          "start": 994,
+          "end": 1002
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T22",
+      "label": "Test_name",
+      "start": 1030,
+      "end": 1047,
+      "text": "positron emission",
+      "spans": [
+        {
+          "start": 1030,
+          "end": 1047
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Test_name",
+      "start": 1052,
+      "end": 1095,
+      "text": "single photon emission computed tomographic",
+      "spans": [
+        {
+          "start": 1052,
+          "end": 1095
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Test_name",
+      "start": 1205,
+      "end": 1226,
+      "text": "electroencephalograms",
+      "spans": [
+        {
+          "start": 1205,
+          "end": 1226
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Sequences",
+      "start": 1338,
+      "end": 1364,
+      "text": "diffusion-weighted imaging",
+      "spans": [
+        {
+          "start": 1338,
+          "end": 1364
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Generic_Prion",
+      "start": 1368,
+      "end": 1371,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1368,
+          "end": 1371
+        }
+      ]
+    }
+  ]
+}

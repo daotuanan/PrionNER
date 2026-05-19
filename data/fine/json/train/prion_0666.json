@@ -1,0 +1,201 @@
+{
+  "doc_id": "prion_0666",
+  "text": "We describe the MRI changes preceding the onset of myoclonus in two patients whose post-mortem examination confirmed the diagnosis of Creutzfeldt-Jakob disease (CJD).\nMRI showed changes in the striatum early in the course of CJD (2-6 months after the onset of apathy, interpreted as depression, and 1-2 months before the onset of further clinical symptoms).\nOnly in one patient did electroencephalography record the typical triphasic sharp-waves, 1 month after MRI.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Imaging_test",
+      "start": 16,
+      "end": 19,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 16,
+          "end": 19
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 51,
+      "end": 60,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 51,
+          "end": 60
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Autopsy",
+      "start": 83,
+      "end": 106,
+      "text": "post-mortem examination",
+      "spans": [
+        {
+          "start": 83,
+          "end": 106
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 134,
+      "end": 159,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 134,
+          "end": 159
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 161,
+      "end": 164,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 161,
+          "end": 164
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Imaging_test",
+      "start": 167,
+      "end": 170,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 167,
+          "end": 170
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 193,
+      "end": 201,
+      "text": "striatum",
+      "spans": [
+        {
+          "start": 193,
+          "end": 201
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 225,
+      "end": 228,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 225,
+          "end": 228
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Duration",
+      "start": 230,
+      "end": 266,
+      "text": "2-6 months after the onset of apathy",
+      "spans": [
+        {
+          "start": 230,
+          "end": 266
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 260,
+      "end": 266,
+      "text": "apathy",
+      "spans": [
+        {
+          "start": 260,
+          "end": 266
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Differential_Diagnosis",
+      "start": 283,
+      "end": 293,
+      "text": "depression",
+      "spans": [
+        {
+          "start": 283,
+          "end": 293
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Duration",
+      "start": 299,
+      "end": 355,
+      "text": "1-2 months before the onset of further clinical symptoms",
+      "spans": [
+        {
+          "start": 299,
+          "end": 355
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Electrophysio_test",
+      "start": 382,
+      "end": 404,
+      "text": "electroencephalography",
+      "spans": [
+        {
+          "start": 382,
+          "end": 404
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Duration",
+      "start": 447,
+      "end": 464,
+      "text": "1 month after MRI",
+      "spans": [
+        {
+          "start": 447,
+          "end": 464
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Imaging_test",
+      "start": 461,
+      "end": 464,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 461,
+          "end": 464
+        }
+      ]
+    }
+  ]
+}

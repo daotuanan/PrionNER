@@ -1,0 +1,34 @@
+T1	Time 34 42	18-month
+T2	Symptom 68 91	abnormal sleep patterns
+T3	Symptom 93 105	paresthesias
+T4	Symptom 111 140	necrotizing cutaneous lesions
+T5	Symptom 146 156	vasculitis
+T7	Symptom 161 251	signs of cerebral, brainstem, vestibulocerebellar, and progressive spinal cord involvement
+T6	Anatomic_location 170 178	cerebral
+T8	Anatomic_location 180 189	brainstem
+T37	Anatomic_location 191 210	vestibulocerebellar
+T9	Anatomic_location 228 239	spinal cord
+T10	Test_name 253 259	Biopsy
+T11	Differential_Diagnosis 304 314	vasculitis
+T28	Findings 320 355	endovascular cellular proliferation
+T29	Findings 376 398	Köhlmeier-Degos lesion
+T12	Findings 409 427	epidermal necrosis
+T13	Symptom 429 443	Mental changes
+T14	Symptom 448 467	cranial-nerve signs
+T15	Symptom 479 488	Myoclonus
+T17	Symptom 525 540	Akinetic mutism
+T18	Test_name 552 559	autopsy
+T33	Findings 567 580	abnormalities
+T35	Anatomic_location 601 615	nervous system
+T34	Anatomic_location 620 624	skin
+T19	Generic_Prion 626 651	Spongiform encephalopathy
+T20	Generic_Prion 663 688	Creutzfeldt-Jakob disease
+T21	Findings 704 724	amyloid kuru plaques
+T16	Findings 728 745	cribriform change
+T22	Findings 764 781	spongiform change
+T23	Anatomic_location 806 818	white matter
+T30	Complication 820 840	Scarred skin lesions
+T31	Complication 865 887	obliterative arteritis
+T24	Anatomic_location 915 920	brain
+T25	Anatomic_location 925 929	lung
+T26	Generic_Prion 967 992	spongiform encephalopathy

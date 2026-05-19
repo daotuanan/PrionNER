@@ -1,0 +1,14 @@
+T1	Symptom 34 51	subacute dementia
+T2	Symptom 56 62	ataxia
+T3	Symptom 77 112	acute asending polyradiculoneuritis
+T4	Autopsy 117 125	necropsy
+T5	Anatomic_location 145 153	cerebral
+T6	Anatomic_location 158 168	cerebellar
+T7	Generic_Prion 197 222	Creutzfeldt-Jakob disease
+T8	Anatomic_location 243 263	spinal motor neurons
+T9	Anatomic_location 269 283	spinal ganglia
+T10	Anatomic_location 296 301	roots
+T11	Anatomic_location 306 323	peripheral nerves
+T12	Differential_Diagnosis 357 387	Guillain-Barré-Landry syndrome
+T13	Generic_Prion 539 564	Creutzfeldt-Jakob disease
+T15	Autopsy_finding 228 235	lesions

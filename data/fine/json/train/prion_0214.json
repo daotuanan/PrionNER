@@ -1,0 +1,97 @@
+{
+  "doc_id": "prion_0214",
+  "text": "We report the use of diffusion-weighted MR imaging in the early diagnosis and monitoring of the progression of a histopathologically proved case of sporadic Creutzfeldt-Jakob disease.\nRibbon-like areas of hyperintensity in the cerebral cortex on diffusion-weighted images corresponded to the localization of periodic sharp-wave complexes on the electroencephalogram.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Imaging_sequence",
+      "start": 21,
+      "end": 39,
+      "text": "diffusion-weighted",
+      "spans": [
+        {
+          "start": 21,
+          "end": 39
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Imaging_test",
+      "start": 40,
+      "end": 50,
+      "text": "MR imaging",
+      "spans": [
+        {
+          "start": 40,
+          "end": 50
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "sCJD",
+      "start": 148,
+      "end": 182,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 148,
+          "end": 182
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Imaging_finding",
+      "start": 184,
+      "end": 219,
+      "text": "Ribbon-like areas of hyperintensity",
+      "spans": [
+        {
+          "start": 184,
+          "end": 219
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 227,
+      "end": 242,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 227,
+          "end": 242
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Imaging_sequence",
+      "start": 246,
+      "end": 271,
+      "text": "diffusion-weighted images",
+      "spans": [
+        {
+          "start": 246,
+          "end": 271
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Electrophysio_test",
+      "start": 345,
+      "end": 365,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 345,
+          "end": 365
+        }
+      ]
+    }
+  ]
+}

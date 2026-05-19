@@ -1,0 +1,12 @@
+T1	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T2	Generic_Prion 27 30	CJD
+T13	Anatomic_location 71 76	brain
+T4	Symptom 135 143	dementia
+T5	Symptom 145 160	myoclonic jerks
+T3	Test_name 180 183	EEG
+T7	Time 245 256	early phase
+T14	Anatomic_location 273 281	Cerebral
+T8	Test_name 282 288	biopsy
+T6	Test_name 458 472	histologically
+T10	Generic_Prion 483 486	CJD
+T11	Test_name 504 507	MRI

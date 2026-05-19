@@ -1,0 +1,28 @@
+T1	Choose_Related 1724 1727	YES
+T2	Generic_Prion 12 36	Creutzfeld‐Jakob disease
+T3	Generic_Prion 38 41	CJD
+T6	Symptom 262 290	rapidly progressive dementia
+T7	Symptom 292 298	ataxia
+T8	Symptom 300 323	extrapyramidal symptoms
+T9	Symptom 329 338	myoclonus
+T11	Generic_Prion 640 643	CJD
+T12	Imaging_test 834 860	magnetic resonance imaging
+T13	Electrophysio_test 875 895	electroencephalogram
+T15	sCJD 1114 1126	sporadic CJD
+T17	Generic_Prion 1147 1150	CJD
+T19	Treatment 1291 1315	glucocorticoid treatment
+T20	Treatment 1403 1418	corticosteroids
+T21	Treatment 1489 1503	antipsychotics
+T22	Generic_Prion 1624 1627	CJD
+T23	Duration 1632 1640	7 months
+T24	Treatment 1653 1667	antipsychotics
+T5	sCJD 344 357	sporadic form
+T26	Duration 461 469	5 months
+T10	Time_point 751 763	January 2006
+T27	Time_point 768 777	July 2021
+T31	Age 1021 1029	64 years
+T33	fCJD 1061 1072	genetic CJD
+T37	Duration 1352 1360	7 months
+T39	Choose_Done 1735 1739	DONE
+T40	Anatomic_location 868 873	brain
+T4	Duration 743 777	between January 2006 and July 2021

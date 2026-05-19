@@ -1,0 +1,11 @@
+Four patients who received dural grafts of cadaveric origin in the course of posterior fossa procedures subsequently developed Creutzfeldt-Jakob disease (CJD).
+The interval from dural placement to clinical onset of CJD ranged from 16 months to nine years.
+Initial clinical presentation consisted of cerebellar symptoms, with dementia and myoclonus developing in later stages of the disease.
+EEGs showed diffuse slowing that evolved to a periodic activity pattern.
+CT and MRI were unremarkable in the early stages but pronounced cerebral and cerebellar atrophy with widened sulci and collections of fluid over the convexities were seen in the late stages of disease.
+The diagnosis was histologically proved by brain biopsy in all four cases.
+Molecular genetic analysis showed that the four patients were homozygous for methionine at codon 129 of the PrP gene.
+From this experience, and from six previous descriptions of this occurrence in the literature, it is manifest that awareness of the means of iatrogenic transmission of CJD, and the adoption of preventive measures, constitute the only effective way to stop the spread of CJD among patients who have neurosurgery.
+
+<Related> YES or NO
+[DONE]

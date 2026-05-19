@@ -1,0 +1,162 @@
+{
+  "doc_id": "prion_0733",
+  "text": "About 10 years after bovine spongiform encephalopathy (BSE) appeared in British cattle, a new variant of Creutzfeldt-Jakob disease (nv-CJD) was described in the United Kingdom.\nThis new disease is distinguishable from classical CJD in its aetiology, epidemiology, clinical profile, and neuropathology.\nThe emergence of nv-CJD raised fears of a causal relationship between BSE and nv-CJD and of a human epidemic of indeterminate size.\nThis paper reviews our knowledge of this group of diseases, and examines recent scientific evidence, which indicates that BSE is indeed the source of nv-CJD, and discusses the public health implications.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Duration",
+      "start": 6,
+      "end": 14,
+      "text": "10 years",
+      "spans": [
+        {
+          "start": 6,
+          "end": 14
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Time_point",
+      "start": 15,
+      "end": 68,
+      "text": "after bovine spongiform encephalopathy (BSE) appeared",
+      "spans": [
+        {
+          "start": 15,
+          "end": 68
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 21,
+      "end": 53,
+      "text": "bovine spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 21,
+          "end": 53
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 55,
+      "end": 58,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 55,
+          "end": 58
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "vCJD",
+      "start": 94,
+      "end": 130,
+      "text": "variant of Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 94,
+          "end": 130
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "vCJD",
+      "start": 132,
+      "end": 138,
+      "text": "nv-CJD",
+      "spans": [
+        {
+          "start": 132,
+          "end": 138
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 218,
+      "end": 231,
+      "text": "classical CJD",
+      "spans": [
+        {
+          "start": 218,
+          "end": 231
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "vCJD",
+      "start": 319,
+      "end": 325,
+      "text": "nv-CJD",
+      "spans": [
+        {
+          "start": 319,
+          "end": 325
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 372,
+      "end": 375,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 372,
+          "end": 375
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "vCJD",
+      "start": 380,
+      "end": 386,
+      "text": "nv-CJD",
+      "spans": [
+        {
+          "start": 380,
+          "end": 386
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 556,
+      "end": 559,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 556,
+          "end": 559
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "vCJD",
+      "start": 584,
+      "end": 590,
+      "text": "nv-CJD",
+      "spans": [
+        {
+          "start": 584,
+          "end": 590
+        }
+      ]
+    }
+  ]
+}

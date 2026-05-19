@@ -1,0 +1,13 @@
+T1	Generic_Prion 0 33	Chronic Creutzfeldt-Jakob disease
+T3	Differential_Diagnosis 98 123	other dementing illnesses
+T4	Symptom 180 189	myoclonus
+T5	Test_name 194 217	electroencephalographic
+T7	Symptom 260 287	slowly progressive dementia
+T6	Findings 332 357	spongiform encephalopathy
+T10	Generic_Prion 332 357	spongiform encephalopathy
+T11	Test_name 361 368	autopsy
+T13	Symptom 392 421	early extrapyramidal rigidity
+T14	Symptom 423 441	primitive reflexes
+T17	Symptom 538 546	dementia
+T18	Generic_Prion 588 621	chronic Creutzfeldt-Jakob disease
+T19	Test_name 649 680	electroencephalographic studies

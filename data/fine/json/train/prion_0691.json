@@ -1,0 +1,123 @@
+{
+  "doc_id": "prion_0691",
+  "text": "Over the past 30 years, significant progress has been made in understanding the physiologic mechanisms of sleep.\nInsomnia, a common complaint in general medical practice, and other sleep disorders have become increasingly recognized.\nIn 1986, a heritable total insomnia was described and termed fatal familial insomnia; since then, the pathology of this disease has been shown to involve an accumulation of prion particles in the brains of affected patients.\nPrions have been more commonly associated with the transmission of spongiform encephalopathies such as scrapie (in sheep), Creutzfeldt-Jakob disease and Kuru.\nWe briefly review the physiological and biochemical characteristics of normal sleep, describe the typical clinical characteristics of fatal familial insomnia and describe the current understanding of how prions cause neurodegenerative diseases, including fatal familial insomnia.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 113,
+      "end": 121,
+      "text": "Insomnia",
+      "spans": [
+        {
+          "start": 113,
+          "end": 121
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Time_point",
+      "start": 237,
+      "end": 241,
+      "text": "1986",
+      "spans": [
+        {
+          "start": 237,
+          "end": 241
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "FFI",
+      "start": 295,
+      "end": 318,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 295,
+          "end": 318
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 459,
+      "end": 465,
+      "text": "Prions",
+      "spans": [
+        {
+          "start": 459,
+          "end": 465
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 562,
+      "end": 569,
+      "text": "scrapie",
+      "spans": [
+        {
+          "start": 562,
+          "end": 569
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 582,
+      "end": 607,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 582,
+          "end": 607
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Kuru",
+      "start": 612,
+      "end": 616,
+      "text": "Kuru",
+      "spans": [
+        {
+          "start": 612,
+          "end": 616
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "FFI",
+      "start": 752,
+      "end": 775,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 752,
+          "end": 775
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "FFI",
+      "start": 873,
+      "end": 896,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 873,
+          "end": 896
+        }
+      ]
+    }
+  ]
+}

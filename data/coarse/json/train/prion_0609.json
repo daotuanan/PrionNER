@@ -1,0 +1,149 @@
+{
+  "doc_id": "prion_0609",
+  "text": "The treatment of two cases of Creutzfeldt-Jakob disease with amantidine is described.\nThe first case made a remarkable initial improvement which was sustained for two months, but then deteriorated and died.\nHistological examination of the brain showed changes consistent with early Creutzfeldt-Jakob disease.\nThe second case which was clinically one of Creutzfeldt-Jakob disease has now been followed for 30 months since the start of treatment and appears to be cured.\nIt is considered that amantidine has a definite effect in this disease and it is suggested that its mode of action, though unknown, is more likely to be metabolic than antiviral.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 30,
+      "end": 55,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 30,
+          "end": 55
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Treatment",
+      "start": 61,
+      "end": 71,
+      "text": "amantidine",
+      "spans": [
+        {
+          "start": 61,
+          "end": 71
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time",
+      "start": 163,
+      "end": 173,
+      "text": "two months",
+      "spans": [
+        {
+          "start": 163,
+          "end": 173
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Complication",
+      "start": 201,
+      "end": 205,
+      "text": "died",
+      "spans": [
+        {
+          "start": 201,
+          "end": 205
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 207,
+      "end": 231,
+      "text": "Histological examination",
+      "spans": [
+        {
+          "start": 207,
+          "end": 231
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 239,
+      "end": 244,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 239,
+          "end": 244
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 282,
+      "end": 307,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 282,
+          "end": 307
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 353,
+      "end": 378,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 353,
+          "end": 378
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Time",
+      "start": 405,
+      "end": 414,
+      "text": "30 months",
+      "spans": [
+        {
+          "start": 405,
+          "end": 414
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Time",
+      "start": 425,
+      "end": 443,
+      "text": "start of treatment",
+      "spans": [
+        {
+          "start": 425,
+          "end": 443
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Treatment",
+      "start": 491,
+      "end": 501,
+      "text": "amantidine",
+      "spans": [
+        {
+          "start": 491,
+          "end": 501
+        }
+      ]
+    }
+  ]
+}

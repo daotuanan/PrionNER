@@ -1,0 +1,17 @@
+T1	Generic_Prion 13 38	Creutzfeldt-Jakob Disease
+T2	Generic_Prion 40 43	CJD
+T3	Imaging_test 100 126	magnetic resonance imaging
+T4	Imaging_test 128 131	MRI
+T5	Anatomic_location 178 191	basal ganglia
+T6	Time_point 193 227	early in the course of the disease
+T7	Imaging_test 233 240	CT scan
+T8	Imaging_test 272 275	MRI
+T9	Electrophysio_test 327 349	electroencephalography
+T10	Electrophysio_test 351 354	EEG
+T12	Duration 444 451	1 month
+T13	Imaging_test 476 479	MRI
+T14	Choose_Related 504 507	YES
+T11	Autopsy 74 88	pathologically
+T15	Imaging_finding 150 170	altered signal areas
+T16	Choose_Done 515 519	DONE
+T17	Time_point 452 491	after the appearance of MRI alterations

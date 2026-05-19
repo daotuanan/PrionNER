@@ -1,0 +1,15 @@
+T1	Generic_Prion 80 105	Creutzfeldt-Jakob disease
+T2	Age 119 139	sixty-five-years-old
+T3	Symptom 266 274	dementia
+T4	Symptom 276 290	incoordination
+T5	Symptom 295 316	generalized myoclonia
+T6	Test_name 322 342	electroencephalogram
+T15	Complication 392 396	died
+T8	Time 397 409	eight months
+T16	Time 397 437	eight months after initiated the disease
+T9	Anatomic_location 443 451	cerebral
+T17	Test_name 452 467	histopathologic
+T10	Generic_Prion 496 521	Creutzfeldt-Jakob disease
+T11	Findings 523 540	status spongiform
+T12	Findings 542 555	neuronal loss
+T13	Findings 560 584	non-inflammatory gliosis

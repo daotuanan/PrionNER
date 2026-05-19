@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="278" viewBox="0 0 700 278">
+  <defs>
+    <style>
+      .panel-title { font: 700 17px 'DejaVu Sans', Arial, sans-serif; fill: #182026; }
+      .body { font: 15px 'DejaVu Sans Mono', monospace; fill: #182026; }
+      .label { font: 600 13px 'DejaVu Sans', Arial, sans-serif; fill: #182026; }
+      .small { font: 12px 'DejaVu Sans', Arial, sans-serif; fill: #5b6770; }
+      .panel { fill: #ffffff; stroke: #d8dee4; stroke-width: 1.5; rx: 16; ry: 16; }
+      .overlap-a { fill: #f6d743; opacity: 0.82; }
+      .overlap-b { fill: #f28b82; opacity: 0.78; }
+      .overlap-shared { fill: #d97706; opacity: 0.38; }
+      .line-overlap-a { stroke: #b7791f; stroke-width: 3; fill: none; }
+      .line-overlap-b { stroke: #c53030; stroke-width: 3; fill: none; }
+      .tag-overlap-a { fill: #fffbea; stroke: #b7791f; stroke-width: 1.5; rx: 8; ry: 8; }
+      .tag-overlap-b { fill: #fff5f5; stroke: #c53030; stroke-width: 1.5; rx: 8; ry: 8; }
+      .connector { stroke: #6b7280; stroke-width: 1.6; fill: none; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="700" height="278" fill="#f7fafc" />
+  <rect class="panel" x="24" y="14" width="652" height="242" />
+
+  <rect class="overlap-a" x="81" y="82" width="282" height="22" rx="4" ry="4" />
+  <rect class="overlap-b" x="249" y="82" width="366" height="22" rx="4" ry="4" />
+  <rect class="overlap-shared" x="249" y="82" width="114" height="22" rx="4" ry="4" />
+  <text class="body" y="100" xml:space="preserve">
+    <tspan x="44">... </tspan>
+    <tspan x="81">after a successful </tspan>
+    <tspan x="249">tympanoplasty</tspan>
+    <tspan x="365"> with homograft pericardium </tspan>
+    <tspan x="620">...</tspan>
+  </text>
+  <path class="line-overlap-a" d="M83 109 L361 109" />
+  <path class="line-overlap-b" d="M251 116 L612 116" />
+  <path class="connector" d="M158 112 C158 130, 158 130, 158 153" />
+  <path class="connector" d="M424 119 C424 145, 424 145, 424 187" />
+  <rect class="tag-overlap-a" x="54" y="153" width="308" height="24" />
+  <text class="label" x="64" y="170">Time_point: after a successful tympanoplasty</text>
+  <rect class="tag-overlap-b" x="232" y="187" width="348" height="24" />
+  <text class="label" x="242" y="204">Treatment: tympanoplasty with homograft pericardium</text>
+  <text class="small" x="44" y="236">Shared text, no full containment.</text>
+</svg>

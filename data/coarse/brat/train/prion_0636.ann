@@ -1,0 +1,12 @@
+T2	Differential_Diagnosis 48 65	Alzheimer disease
+T6	Findings 70 85	amyloid plaques
+T3	Acquired_Prion 97 109	kuru plaques
+T4	Anatomic_location 117 127	cerebellum
+T12	Differential_Diagnosis 156 164;169 178	dementia presenile
+T7	Symptom 268 287	neurologic symptoms
+T5	Findings 318 325	plaques
+T13	Differential_Diagnosis 374 400	familial Alzheimer disease
+T8	Differential_Diagnosis 411 436	spongiform encephalopathy
+T15	Anatomic_location 505 510	brain
+T10	Differential_Diagnosis 565 591	familial Alzheimer disease
+T11	Differential_Diagnosis 624 639	senile dementia

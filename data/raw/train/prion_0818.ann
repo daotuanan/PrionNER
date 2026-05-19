@@ -1,0 +1,20 @@
+T1	Generic_Prion 45 58	prion disease
+T2	sCJD 189 223	sporadic Creutzfeldt-Jakob disease
+T3	sCJD 225 229	sCJD
+T4	Electrophysio_test 270 290	electroencephalogram
+T5	Imaging_test 295 321	magnetic resonance imaging
+T6	vCJD 347 358	variant CJD
+T7	vCJD 360 364	vCJD
+T8	Electrophysio_test 398 418	electroencephalogram
+T10	sCJD 438 442	sCJD
+T11	Autopsy 467 473	biopsy
+T12	Imaging_sequence 566 584	diffusion-weighted
+T13	Anatomic_location 585 593	pulvinar
+T14	Imaging_finding 594 608	hyperintensity
+T16	vCJD 656 660	vCJD
+T17	sCJD 665 669	sCJD
+T18	vCJD 728 732	vCJD
+T19	Choose_Related 745 748	YES
+T9	Choose_Done 756 760	DONE
+T20	Anatomic_location 461 466	brain
+T21	Imaging_sequence 558 560;575 584	T2 -weighted

@@ -1,0 +1,14 @@
+T1	Generic_Prion 10 35	Creutzfeldt-Jakob disease
+T2	Generic_Prion 37 40	CJD
+T3	Age 47 58	32 year old
+T4	Symptom 109 135	rapid progressive dementia
+T5	Symptom 152 158	ataxia
+T6	Symptom 160 174	global aphasia
+T7	Symptom 176 185	myoclonus
+T8	Symptom 190 205	pyramidal signs
+T15	Complication 207 212	death
+T9	Time 228 237	13 months
+T10	Generic_Prion 256 259	CJD
+T11	Test_name 277 279	CT
+T12	Test_name 284 309	neuropathological studies
+T13	Generic_Prion 339 342	CJD

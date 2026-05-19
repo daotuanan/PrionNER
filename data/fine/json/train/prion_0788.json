@@ -1,0 +1,84 @@
+{
+  "doc_id": "prion_0788",
+  "text": "We report the case of a 76 year old woman who presented with a clinical picture initially typical of a vascular dementia.\nThe diagnosis was revised to Creutzfeldt-Jacob Disease in the terminal stages.\nWhile Creutzfeldt-Jacob Disease is rare, one must consider it in the differential diagnosis as it can mimic other dementias particularly in the chronic form which we describe here.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 24,
+      "end": 35,
+      "text": "76 year old",
+      "spans": [
+        {
+          "start": 24,
+          "end": 35
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Differential_Diagnosis",
+      "start": 103,
+      "end": 120,
+      "text": "vascular dementia",
+      "spans": [
+        {
+          "start": 103,
+          "end": 120
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 151,
+      "end": 176,
+      "text": "Creutzfeldt-Jacob Disease",
+      "spans": [
+        {
+          "start": 151,
+          "end": 176
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Time_point",
+      "start": 184,
+      "end": 199,
+      "text": "terminal stages",
+      "spans": [
+        {
+          "start": 184,
+          "end": 199
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 207,
+      "end": 232,
+      "text": "Creutzfeldt-Jacob Disease",
+      "spans": [
+        {
+          "start": 207,
+          "end": 232
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Differential_Diagnosis",
+      "start": 315,
+      "end": 324,
+      "text": "dementias",
+      "spans": [
+        {
+          "start": 315,
+          "end": 324
+        }
+      ]
+    }
+  ]
+}

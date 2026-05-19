@@ -1,0 +1,15 @@
+T1	Age 2 13	61-year-old
+T2	Generic_Prion 24 49	Creutzfeldt-Jakob disease
+T10	Sporadic_Prion 56 66	Heidenhain
+T3	Time 88 96	4 months
+T17	Complication 103 108	death
+T5	Test_name 176 183	autopsy
+T16	Anatomic_location 197 202	brain
+T6	Test_name 203 222	computed tomography
+T7	Test_name 224 250	magnetic resonance imaging
+T12	Test_name 252 275	blood flow measurements
+T8	Test_name 277 299	electroencephalography
+T9	Test_name 301 304	EEG
+T15	Test_name 311 335	routine laboratory tests
+T11	Test_name 424 427	EEG
+T13	Generic_Prion 464 489	Creutzfeldt-Jakob disease

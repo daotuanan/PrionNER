@@ -1,0 +1,175 @@
+{
+  "doc_id": "prion_0650",
+  "text": "Chronic Creutzfeldt-Jakob disease, presenting in later life, may be difficult to distinguish from other dementing illnesses.\nPatients with this disease may lack the characteristic myoclonus and electroencephalographic complexes.\nWe report four patients with a slowly progressive dementia who were misdiagnosed during life and had a spongiform encephalopathy at autopsy.\nAll four patients had early extrapyramidal rigidity, primitive reflexes, and other neurologic signs.\nThe presence of these neurologic findings early in the course of a dementia suggests that clinicians should consider chronic Creutzfeldt-Jakob disease, evaluate the patient with electroencephalographic studies, and emphasize universal tissue precautions.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 33,
+      "text": "Chronic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 33
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Differential_Diagnosis",
+      "start": 98,
+      "end": 123,
+      "text": "other dementing illnesses",
+      "spans": [
+        {
+          "start": 98,
+          "end": 123
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 180,
+      "end": 189,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 180,
+          "end": 189
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Electrophysio_test",
+      "start": 194,
+      "end": 217,
+      "text": "electroencephalographic",
+      "spans": [
+        {
+          "start": 194,
+          "end": 217
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 260,
+      "end": 287,
+      "text": "slowly progressive dementia",
+      "spans": [
+        {
+          "start": 260,
+          "end": 287
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Autopsy_finding",
+      "start": 332,
+      "end": 357,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 332,
+          "end": 357
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 332,
+      "end": 357,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 332,
+          "end": 357
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Autopsy",
+      "start": 361,
+      "end": 368,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 361,
+          "end": 368
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 392,
+      "end": 421,
+      "text": "early extrapyramidal rigidity",
+      "spans": [
+        {
+          "start": 392,
+          "end": 421
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 423,
+      "end": 441,
+      "text": "primitive reflexes",
+      "spans": [
+        {
+          "start": 423,
+          "end": 441
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 538,
+      "end": 546,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 538,
+          "end": 546
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Generic_Prion",
+      "start": 588,
+      "end": 621,
+      "text": "chronic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 588,
+          "end": 621
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Electrophysio_test",
+      "start": 649,
+      "end": 680,
+      "text": "electroencephalographic studies",
+      "spans": [
+        {
+          "start": 649,
+          "end": 680
+        }
+      ]
+    }
+  ]
+}

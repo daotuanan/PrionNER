@@ -1,0 +1,22 @@
+T1	Generic_Prion 0 41	Transmissible spongiform encephalopathies
+T2	Generic_Prion 43 46	TSE
+T3	Symptom 52 70	dementing diseases
+T4	Duration 117 125	90 years
+T5	sCJD 159 201	sporadic form of Creutzfeldt-Jakob disease
+T6	sCJD 203 207	sCJD
+T7	fCJD 226 234	familial
+T8	fCJD 236 240	fCJD
+T9	iCJD 249 259	iatrogenic
+T10	iCJD 261 265	iCJD
+T11	Time_point 273 277	1996
+T12	vCJD 280 294	variant of CJD
+T13	vCJD 296 300	vCJD
+T15	vCJD 471 475	vCJD
+T16	sCJD 480 484	sCJD
+T17	vCJD 517 521	vCJD
+T18	Generic_Prion 548 558	BSE prions
+T19	Generic_Prion 644 647	TSE
+T20	Generic_Prion 767 777	BSE prions
+T21	vCJD 799 803	vCJD
+T22	Time_point 862 866	2001
+T23	sCJD 910 914	sCJD

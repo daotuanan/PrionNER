@@ -1,0 +1,12 @@
+T1	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T2	Generic_Prion 27 30	CJD
+T3	Symptom 102 124	neuromuscular symptoms
+T4	Symptom 135 143	dementia
+T5	Generic_Prion 284 287	CJD
+T6	Autopsy 315 340	postmortem neuropathology
+T7	Generic_Prion 353 356	CJD
+T8	sCJD 453 487	sporadic Creutzfeldt-Jakob disease
+T10	sCJD 489 493	sCJD
+T12	Treatment 607 622	supportive care
+T9	Complication 149 154	death
+T14	Complication 669 674	death

@@ -1,0 +1,12 @@
+T1	Generic_Prion 4 31	spongiform encephalopathies
+T2	Generic_Prion 159 184	Creutzfeldt-Jakob disease
+T3	Symptom 227 235	dementia
+T4	Symptom 237 258	pyramidal tract signs
+T5	Symptom 264 296	extrapyramidal movement disorder
+T6	Symptom 407 415	dementia
+T7	Autopsy 482 489	autopsy
+T10	Generic_Prion 585 610	Creutzfeldt-Jakob disease
+T11	Autopsy 674 681	autopsy
+T13	Autopsy 1102 1109	autopsy
+T14	Generic_Prion 1141 1166	Creutzfeldt-Jakob disease
+T16	Anatomic_location 504 509	brain

@@ -1,0 +1,149 @@
+{
+  "doc_id": "prion_0122",
+  "text": "This study examined trends in mortality from sporadic Creutzfeldt-Jakob disease in France for 1992-7 by age, genotype at the codon 129 of the prion protein gene, and geographical area.\nCase ascertainment was based on notifications by neurologists, neuropathologists, and laboratories; 324 deaths from definite or probable Creutzfeldt-Jakob disease were registered during the study period.\nThe yearly number of deaths increased significantly between 1992 and 1997.\nThe rise was higher for older age groups.\nIt was also higher in those who were homozygous for valine compared with other genotypes.\nEighteen departments (geographical administrative areas) out of 95 showed a significant increase in the number of deaths from sporadic Creutzfeldt-Jakob disease.\nIntensive epidemiological surveillance is a likely explanation for the apparent increase in the number of sporadic cases of Creutzfeldt-Jakob disease over the 1992-7 period, particularly in older age groups and in departments with low mortality rate at the beginning of the study period.\nIntensive surveillance may also have led to a better identification of atypical valine homozygous cases.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 54,
+      "end": 79,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 54,
+          "end": 79
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Duration",
+      "start": 94,
+      "end": 100,
+      "text": "1992-7",
+      "spans": [
+        {
+          "start": 94,
+          "end": 100
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Complication",
+      "start": 289,
+      "end": 295,
+      "text": "deaths",
+      "spans": [
+        {
+          "start": 289,
+          "end": 295
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 322,
+      "end": 347,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 322,
+          "end": 347
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time_point",
+      "start": 441,
+      "end": 462,
+      "text": "between 1992 and 1997",
+      "spans": [
+        {
+          "start": 441,
+          "end": 462
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Age",
+      "start": 488,
+      "end": 493,
+      "text": "older",
+      "spans": [
+        {
+          "start": 488,
+          "end": 493
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Complication",
+      "start": 710,
+      "end": 716,
+      "text": "deaths",
+      "spans": [
+        {
+          "start": 710,
+          "end": 716
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "sCJD",
+      "start": 722,
+      "end": 756,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 722,
+          "end": 756
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "sCJD",
+      "start": 864,
+      "end": 907,
+      "text": "sporadic cases of Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 864,
+          "end": 907
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Duration",
+      "start": 917,
+      "end": 923,
+      "text": "1992-7",
+      "spans": [
+        {
+          "start": 917,
+          "end": 923
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Age",
+      "start": 948,
+      "end": 953,
+      "text": "older",
+      "spans": [
+        {
+          "start": 948,
+          "end": 953
+        }
+      ]
+    }
+  ]
+}

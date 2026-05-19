@@ -1,0 +1,201 @@
+{
+  "doc_id": "prion_0791",
+  "text": "Creutzfeldt-Jakob disease is a degenerative disorder of the central nervous system that frequently presents with behavioral symptoms including depression.\nWe report here a patient with Creutzfeldt-Jakob disease in whom electroconvulsive therapy (ECT) was highly effective in relieving depressive symptoms.\nAdditionally, ECT had little or no effect on cognition in this patient, even transiently improving her cognitive function.\nGiven its rapid onset of action, ECT may be considered safe and effective in depressive disorders associated with Creutzfeldt-Jakob disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Differential_Diagnosis",
+      "start": 31,
+      "end": 52,
+      "text": "degenerative disorder",
+      "spans": [
+        {
+          "start": 31,
+          "end": 52
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Anatomic_location",
+      "start": 60,
+      "end": 82,
+      "text": "central nervous system",
+      "spans": [
+        {
+          "start": 60,
+          "end": 82
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 113,
+      "end": 132,
+      "text": "behavioral symptoms",
+      "spans": [
+        {
+          "start": 113,
+          "end": 132
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 143,
+      "end": 153,
+      "text": "depression",
+      "spans": [
+        {
+          "start": 143,
+          "end": 153
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 185,
+      "end": 210,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 185,
+          "end": 210
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Treatment",
+      "start": 219,
+      "end": 244,
+      "text": "electroconvulsive therapy",
+      "spans": [
+        {
+          "start": 219,
+          "end": 244
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Treatment",
+      "start": 246,
+      "end": 249,
+      "text": "ECT",
+      "spans": [
+        {
+          "start": 246,
+          "end": 249
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 285,
+      "end": 304,
+      "text": "depressive symptoms",
+      "spans": [
+        {
+          "start": 285,
+          "end": 304
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Treatment",
+      "start": 320,
+      "end": 323,
+      "text": "ECT",
+      "spans": [
+        {
+          "start": 320,
+          "end": 323
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 351,
+      "end": 360,
+      "text": "cognition",
+      "spans": [
+        {
+          "start": 351,
+          "end": 360
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 409,
+      "end": 427,
+      "text": "cognitive function",
+      "spans": [
+        {
+          "start": 409,
+          "end": 427
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Treatment",
+      "start": 462,
+      "end": 465,
+      "text": "ECT",
+      "spans": [
+        {
+          "start": 462,
+          "end": 465
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Differential_Diagnosis",
+      "start": 506,
+      "end": 526,
+      "text": "depressive disorders",
+      "spans": [
+        {
+          "start": 506,
+          "end": 526
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 543,
+      "end": 568,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 543,
+          "end": 568
+        }
+      ]
+    }
+  ]
+}

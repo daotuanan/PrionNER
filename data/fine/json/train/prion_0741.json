@@ -1,0 +1,357 @@
+{
+  "doc_id": "prion_0741",
+  "text": "High signal intensity within the posterior thalamus (pulvinar nucleus) has been noted on MRI in patients with new variant Creutzfeldt-Jakob disease (nvCJD).\nIn this study MRI examinations from three patients with proven nvCJD were compared with MRI examinations from a control group of 14 age-matched subjects with no neurological abnormalities.\nMean signal intensity from seven target areas (periaqueductal tissue, posterior thalamus, dorsomedial thalamus, anterior thalamus, putamen, caudate head and frontal white matter) was calculated in each case.\nAbsolute signal intensity measurements were not significantly different between the groups.\nPatients with nvCJD showed significantly higher signal intensity within dorsomedial thalamus, posterior thalamus and periaqueductal region than control patients when these measurements were normalized to the signal intensity of normal appearing white matter.\nHighly significant differences in posterior thalamus/putamen signal intensity ratio (PPR) and posterior thalamus/caudate ratio (PCR) were observed between the groups.\nFor proton density images, PPR and PCR were greater than 1 for all nvCJD patients and less than 1 for all control patients.\nBoth PPR and PCR are simple to calculate and offer a simple, non-invasive indicator of nvCJD.",
+  "entities": [
+    {
+      "id": "T8",
+      "label": "Imaging_finding",
+      "start": 0,
+      "end": 21,
+      "text": "High signal intensity",
+      "spans": [
+        {
+          "start": 0,
+          "end": 21
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Anatomic_location",
+      "start": 33,
+      "end": 51,
+      "text": "posterior thalamus",
+      "spans": [
+        {
+          "start": 33,
+          "end": 51
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Anatomic_location",
+      "start": 53,
+      "end": 69,
+      "text": "pulvinar nucleus",
+      "spans": [
+        {
+          "start": 53,
+          "end": 69
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Imaging_test",
+      "start": 89,
+      "end": 92,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 89,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "vCJD",
+      "start": 110,
+      "end": 147,
+      "text": "new variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 110,
+          "end": 147
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "vCJD",
+      "start": 149,
+      "end": 154,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 149,
+          "end": 154
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Imaging_test",
+      "start": 171,
+      "end": 174,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 171,
+          "end": 174
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "vCJD",
+      "start": 220,
+      "end": 225,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 220,
+          "end": 225
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Imaging_test",
+      "start": 245,
+      "end": 248,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 245,
+          "end": 248
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 393,
+      "end": 414,
+      "text": "periaqueductal tissue",
+      "spans": [
+        {
+          "start": 393,
+          "end": 414
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 416,
+      "end": 434,
+      "text": "posterior thalamus",
+      "spans": [
+        {
+          "start": 416,
+          "end": 434
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 436,
+      "end": 456,
+      "text": "dorsomedial thalamus",
+      "spans": [
+        {
+          "start": 436,
+          "end": 456
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 458,
+      "end": 475,
+      "text": "anterior thalamus",
+      "spans": [
+        {
+          "start": 458,
+          "end": 475
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 477,
+      "end": 484,
+      "text": "putamen",
+      "spans": [
+        {
+          "start": 477,
+          "end": 484
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 486,
+      "end": 498,
+      "text": "caudate head",
+      "spans": [
+        {
+          "start": 486,
+          "end": 498
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 503,
+      "end": 523,
+      "text": "frontal white matter",
+      "spans": [
+        {
+          "start": 503,
+          "end": 523
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "vCJD",
+      "start": 660,
+      "end": 665,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 660,
+          "end": 665
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Anatomic_location",
+      "start": 718,
+      "end": 738,
+      "text": "dorsomedial thalamus",
+      "spans": [
+        {
+          "start": 718,
+          "end": 738
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 740,
+      "end": 758,
+      "text": "posterior thalamus",
+      "spans": [
+        {
+          "start": 740,
+          "end": 758
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Anatomic_location",
+      "start": 763,
+      "end": 784,
+      "text": "periaqueductal region",
+      "spans": [
+        {
+          "start": 763,
+          "end": 784
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 939,
+      "end": 957,
+      "text": "posterior thalamus",
+      "spans": [
+        {
+          "start": 939,
+          "end": 957
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Anatomic_location",
+      "start": 958,
+      "end": 965,
+      "text": "putamen",
+      "spans": [
+        {
+          "start": 958,
+          "end": 965
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Anatomic_location",
+      "start": 999,
+      "end": 1017,
+      "text": "posterior thalamus",
+      "spans": [
+        {
+          "start": 999,
+          "end": 1017
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Anatomic_location",
+      "start": 1018,
+      "end": 1025,
+      "text": "caudate",
+      "spans": [
+        {
+          "start": 1018,
+          "end": 1025
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Imaging_test",
+      "start": 1076,
+      "end": 1097,
+      "text": "proton density images",
+      "spans": [
+        {
+          "start": 1076,
+          "end": 1097
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "vCJD",
+      "start": 1139,
+      "end": 1144,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 1139,
+          "end": 1144
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "vCJD",
+      "start": 1283,
+      "end": 1288,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 1283,
+          "end": 1288
+        }
+      ]
+    }
+  ]
+}

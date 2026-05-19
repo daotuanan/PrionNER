@@ -1,0 +1,19 @@
+T1	Generic_Prion 30 55	Creutzfeldt-Jakob disease
+T2	Complication 72 83	myocarditis
+T3	Age 87 98	77 year-old
+T4	Symptom 151 189	rapidly progressive visual disturbance
+T5	Symptom 191 200	myoclonus
+T6	Symptom 205 213	dementia
+T7	Electrophysio_test 215 235	Electroencephalogram
+T9	Generic_Prion 282 307	Creutzfeldt-Jakob disease
+T10	Complication 363 380	acute myocarditis
+T13	Electrophysio_test 415 432	electrocardiogram
+T16	Imaging_test 494 508	echocardiogram
+T17	Electrophysio_test 535 554	electrocardiography
+T18	Imaging_test 559 575	echocardiography
+T23	Complication 791 802	myocarditis
+T24	Generic_Prion 857 882	Creutzfeldt-Jakob disease
+T25	Generic_Prion 934 959	Creutzfeldt-Jakob disease
+T26	Complication 977 988	myocarditis
+T27	Choose_Related 1001 1004	YES
+T8	Choose_Done 1012 1016	DONE

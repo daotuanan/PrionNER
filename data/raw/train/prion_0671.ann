@@ -1,0 +1,8 @@
+T1	Generic_Prion 18 43	Creutzfeldt-Jakob disease
+T2	Symptom 111 126	visual symptoms
+T3	Autopsy 141 148	autopsy
+T6	Electrophysio_test 318 338	electroencephalogram
+T8	Choose_Related 455 458	YES
+T4	sCJD 45 60	Heidenhain type
+T5	Time_point 94 107	initial onset
+T7	Choose_Done 466 470	DONE

@@ -1,0 +1,19 @@
+T2	Generic_Prion 48 73	Creutzfeldt-Jakob disease
+T1	Time 125 145	onset of the disease
+T3	Age 161 183	54 and 81 years of age
+T5	Time 230 240	1-4 months
+T4	Time 230 268	1-4 months after the onset of symptoms
+T7	Symptom 300 320	mental deterioration
+T8	Symptom 326 333	amnesia
+T9	Symptom 335 342	aphasia
+T10	Symptom 344 351	apraxia
+T11	Symptom 356 375	neurologic symptoms
+T12	Symptom 398 418	progressive rigidity
+T13	Symptom 423 432	myoclonus
+T15	Test_name 491 494	EEG
+T6	Findings 532 544	astrocytosis
+T17	Anatomic_location 552 567	cerebral cortex
+T18	Findings 569 586	status spongiosus
+T19	Findings 596 609	neuronal loss
+T20	Anatomic_location 646 669	parieto-occipital lobes
+T21	Generic_Prion 955 980	Creutzfeldt-Jakob disease

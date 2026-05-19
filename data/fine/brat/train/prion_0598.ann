@@ -1,0 +1,16 @@
+T1	Generic_Prion 10 35	Creutzfeldt-Jakob disease
+T2	Symptom 107 125	cortical blindness
+T3	Symptom 130 144	visual agnosia
+T4	Age 182 198	aged sixty three
+T5	Symptom 249 269	mental deterioration
+T6	Symptom 274 312	pyramido-extrapyramidal manifestations
+T7	Duration 329 340	five months
+T8	Electrophysio_test 346 369	electroencephalographic
+T11	Autopsy 409 440	anatomopathological examination
+T13	Autopsy_finding 448 469	neuronal degeneration
+T14	Autopsy_finding 471 488	status spongiosus
+T15	Autopsy_finding 493 526	proliferation of astroglial cells
+T16	Electrophysio_test 542 565	electroencephalographic
+T17	Autopsy 567 579	pathological
+T10	sCJD 37 54	Heidenhain's form
+T19	Complication 318 322	died

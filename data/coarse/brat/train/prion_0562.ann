@@ -1,0 +1,8 @@
+T1	Generic_Prion 37 40	CJD
+T2	Test_name 54 79	magnetic resonance images
+T3	Time 89 100	four months
+T10	Complication 108 113	death
+T4	Findings 123 144	high signal intensity
+T5	Anatomic_location 152 166	caudate nuclei
+T6	Test_name 246 253	autopsy
+T7	Generic_Prion 344 347	CJD

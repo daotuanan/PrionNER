@@ -1,0 +1,23 @@
+T1	Familial_Prion 58 96	Gerstmann-Sträussler-Scheinker disease
+T2	Familial_Prion 98 101	GSS
+T4	Familial_Prion 124 127	GSS
+T5	Symptom 181 197	cerebellar signs
+T6	Symptom 221 229	dementia
+T3	Test_name 237 251	neuropathology
+T7	Findings 273 293	PrP-positive plaques
+T9	Findings 326 343	spongiform change
+T8	Test_name 364 379	neuropathologic
+T20	Test_name 381 400	immunohistochemical
+T10	Test_name 406 432	molecular genetic analysis
+T11	Sporadic_Prion 564 598	sporadic Creutzfeldt-Jakob disease
+T12	Generic_Prion 600 603	CJD
+T13	Test_name 606 633	Neuropathologic examination
+T15	Findings 643 661	spongiform changes
+T17	Findings 663 701;718 725	PrP (prion)-positive unicentric "kuru" plaques
+T14	Findings 705 717;718 725	multicentric plaques
+T18	Findings 740 763;764 771	beta-A4-positive senile plaques
+T19	Test_name 773 799	Molecular genetic analysis
+T23	Familial_Prion 873 876	GSS
+T25	Sporadic_Prion 1040 1052	sporadic CJD
+T28	Familial_Prion 1103 1106	GSS
+T29	Findings 1236 1260	beta-A4 plaque formation

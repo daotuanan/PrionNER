@@ -1,0 +1,29 @@
+T1	Blood_biomarker_test 34 53;60 67	cerebrospinal fluid markers
+T2	Blood_biomarker_test 55 58	CSF
+T3	Generic_Prion 115 140	Creutzfeldt-Jakob disease
+T4	Generic_Prion 142 145	CJD
+T12	Generic_Prion 302 305	CJD
+T13	Molecular_assay 307 329	Densitometric analysis
+T15	Symptom 439 455	cerebellar signs
+T16	Symptom 459 468	myoclonus
+T17	Symptom 483 503	progressive dementia
+T18	Generic_Prion 562 565	CJD
+T35	Molecular_assay 806 828	densitometric analysis
+T50	Generic_Prion 1116 1119	CJD
+T52	Duration 1162 1180	more than one year
+T57	Time_point 1241 1253	at the onset
+T58	Time_point 1257 1273	at the end stage
+T62	Duration 1340 1376	throughout the course of the disease
+T66	Generic_Prion 1461 1464	CJD
+T72	Generic_Prion 1650 1653	CJD
+T6	Blood_biomarker_test 157 160	CSF
+T7	Anatomic_location 439 449	cerebellar
+T8	Sensitivity 611 615	100%
+T9	Specificity 637 640	92%
+T10	Sensitivity 713 716	87%
+T11	Specificity 738 741	97%
+T14	Specificity 852 855	97%
+T19	Sensitivity 906 909	96%
+T20	Blood_biomarker_test 1096 1099	CSF
+T21	Blood_biomarker_test 1693 1696	CSF
+T22	Blood_biomarker_test 1867 1870	CSF

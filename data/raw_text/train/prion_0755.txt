@@ -1,0 +1,6 @@
+The term 'prion diseases' refers to a group of neurodegenerative disorders thought to be caused by prions, pathogenic agents with novel modes of replication and transmission.
+Prion diseases are characterized by long incubation periods ranging from months to years and are invariably fatal once clinical symptoms have appeared.
+They are also called transmissible spongiform encephalopathies (TSE), on account of the predominant neuropathological change observed in the central nervous system.
+The most important members of this group are Creutzfeldt-Jakob disease (CJD) of man displaying sporadic, inherited and infectious forms, bovine spongiform encephalopathy (BSE, 'mad cow disease') of cattle, and scrapie of sheep.
+Despite their rarity, human prion diseases have recently been covered extensively in the media because of the likely connection between a new variant of human CJD (vCJD) and BSE and the possibility of contamination of human blood and blood products by the vCJD agent.
+This short review discusses the basic biological properties of prions, followed by a presentation of the clinical and pathological features of the most important human prion diseases.

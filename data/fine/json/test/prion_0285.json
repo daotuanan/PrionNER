@@ -1,0 +1,266 @@
+{
+  "doc_id": "prion_0285",
+  "text": "Florid plaques indistinguishable from those found in vCJD were identified at a postmortem examination in the brain of a 58-year-old clinical suspect case of Creutzfeldt-Jakob disease (CJD).\nWestern blotting of brain tissue revealed an unusual prion protein type.\nSince the patient had received a dura mater graft 20 years prior to death and florid plaques are not only found in new variant CJD, the findings argue in favor of an iatrogenic origin of the disease with the longest incubation time following a dura mater graft reported to date even though he may have been exposed to BSE.\nThe peculiar pathological, clinical and biochemical features may define a new type of human prion disease.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Autopsy_finding",
+      "start": 0,
+      "end": 14,
+      "text": "Florid plaques",
+      "spans": [
+        {
+          "start": 0,
+          "end": 14
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "vCJD",
+      "start": 53,
+      "end": 57,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 53,
+          "end": 57
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Autopsy",
+      "start": 79,
+      "end": 101,
+      "text": "postmortem examination",
+      "spans": [
+        {
+          "start": 79,
+          "end": 101
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 109,
+      "end": 114,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 109,
+          "end": 114
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Age",
+      "start": 120,
+      "end": 131,
+      "text": "58-year-old",
+      "spans": [
+        {
+          "start": 120,
+          "end": 131
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 157,
+      "end": 182,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 157,
+          "end": 182
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 184,
+      "end": 187,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 184,
+          "end": 187
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Molecular_assay",
+      "start": 190,
+      "end": 206,
+      "text": "Western blotting",
+      "spans": [
+        {
+          "start": 190,
+          "end": 206
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 210,
+      "end": 215,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 210,
+          "end": 215
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Treatment",
+      "start": 296,
+      "end": 312,
+      "text": "dura mater graft",
+      "spans": [
+        {
+          "start": 296,
+          "end": 312
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Time_point",
+      "start": 313,
+      "end": 327,
+      "text": "20 years prior",
+      "spans": [
+        {
+          "start": 313,
+          "end": 327
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Complication",
+      "start": 331,
+      "end": 336,
+      "text": "death",
+      "spans": [
+        {
+          "start": 331,
+          "end": 336
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Autopsy_finding",
+      "start": 341,
+      "end": 355,
+      "text": "florid plaques",
+      "spans": [
+        {
+          "start": 341,
+          "end": 355
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "vCJD",
+      "start": 382,
+      "end": 393,
+      "text": "variant CJD",
+      "spans": [
+        {
+          "start": 382,
+          "end": 393
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "iCJD",
+      "start": 429,
+      "end": 439,
+      "text": "iatrogenic",
+      "spans": [
+        {
+          "start": 429,
+          "end": 439
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Duration",
+      "start": 471,
+      "end": 494,
+      "text": "longest incubation time",
+      "spans": [
+        {
+          "start": 471,
+          "end": 494
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Treatment",
+      "start": 507,
+      "end": 523,
+      "text": "dura mater graft",
+      "spans": [
+        {
+          "start": 507,
+          "end": 523
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Generic_Prion",
+      "start": 581,
+      "end": 584,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 581,
+          "end": 584
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Autopsy",
+      "start": 599,
+      "end": 611,
+      "text": "pathological",
+      "spans": [
+        {
+          "start": 599,
+          "end": 611
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 678,
+      "end": 691,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 678,
+          "end": 691
+        }
+      ]
+    }
+  ]
+}

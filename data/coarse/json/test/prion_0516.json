@@ -1,0 +1,136 @@
+{
+  "doc_id": "prion_0516",
+  "text": "A case of Creutzfeldt-Jakob disease of cerebellar type is reported.\nIn this case the cerebellar cortex exhibited classical Kuru-plaques.\nFrom a comparison of this finding with 50 cerebella from senile patients and patients with cerebellar atrophies it is concluded that the Kuru-plaque is specific for Creutzfeldt-Jakob disease, possible even for its cerebellar variant.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 10,
+      "end": 35,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 10,
+          "end": 35
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Anatomic_location",
+      "start": 39,
+      "end": 48,
+      "text": "cerebella",
+      "spans": [
+        {
+          "start": 39,
+          "end": 48
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 85,
+      "end": 102,
+      "text": "cerebellar cortex",
+      "spans": [
+        {
+          "start": 85,
+          "end": 102
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Findings",
+      "start": 123,
+      "end": 134,
+      "text": "Kuru-plaque",
+      "spans": [
+        {
+          "start": 123,
+          "end": 134
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 179,
+      "end": 188,
+      "text": "cerebella",
+      "spans": [
+        {
+          "start": 179,
+          "end": 188
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 228,
+      "end": 237,
+      "text": "cerebella",
+      "spans": [
+        {
+          "start": 228,
+          "end": 237
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Findings",
+      "start": 239,
+      "end": 248,
+      "text": "atrophies",
+      "spans": [
+        {
+          "start": 239,
+          "end": 248
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Findings",
+      "start": 274,
+      "end": 285,
+      "text": "Kuru-plaque",
+      "spans": [
+        {
+          "start": 274,
+          "end": 285
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 302,
+      "end": 327,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 302,
+          "end": 327
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 351,
+      "end": 360,
+      "text": "cerebella",
+      "spans": [
+        {
+          "start": 351,
+          "end": 360
+        }
+      ]
+    }
+  ]
+}

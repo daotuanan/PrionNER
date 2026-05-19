@@ -1,0 +1,292 @@
+{
+  "doc_id": "prion_1006",
+  "text": "A case of 50 years of age, male with sporadic Creutzfeldt Jakob Disease (sCJD) is reported.\nPatient had dementia, behavioural abnormalities, unsteady gait and myoclonic jerks.\nMagnetic resonance imaging (MRI) brain T2 weighted and Fluid Attenuated Inverse Recovery (FLAIR) images showed abnormally increased signal intensity in caudate nucleus and putamen.\nScalp electroencephalogram (EEG) revealed periodic synchronous biphasic sharp wave complexes.\nOn the basis of history, clinical findings, typical MRI brain and EEG changes, diagnosis of sporadic CJD was made.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 10,
+      "end": 18,
+      "text": "50 years",
+      "spans": [
+        {
+          "start": 10,
+          "end": 18
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Sporadic_Prion",
+      "start": 37,
+      "end": 71,
+      "text": "sporadic Creutzfeldt Jakob Disease",
+      "spans": [
+        {
+          "start": 37,
+          "end": 71
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Sporadic_Prion",
+      "start": 73,
+      "end": 77,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 73,
+          "end": 77
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 104,
+      "end": 112,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 104,
+          "end": 112
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 114,
+      "end": 139,
+      "text": "behavioural abnormalities",
+      "spans": [
+        {
+          "start": 114,
+          "end": 139
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 141,
+      "end": 154,
+      "text": "unsteady gait",
+      "spans": [
+        {
+          "start": 141,
+          "end": 154
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 159,
+      "end": 174,
+      "text": "myoclonic jerks",
+      "spans": [
+        {
+          "start": 159,
+          "end": 174
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 176,
+      "end": 202,
+      "text": "Magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 176,
+          "end": 202
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 204,
+      "end": 207,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 204,
+          "end": 207
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 209,
+      "end": 214,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 209,
+          "end": 214
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Sequences",
+      "start": 215,
+      "end": 226,
+      "text": "T2 weighted",
+      "spans": [
+        {
+          "start": 215,
+          "end": 226
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Sequences",
+      "start": 231,
+      "end": 264,
+      "text": "Fluid Attenuated Inverse Recovery",
+      "spans": [
+        {
+          "start": 231,
+          "end": 264
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Sequences",
+      "start": 266,
+      "end": 271,
+      "text": "FLAIR",
+      "spans": [
+        {
+          "start": 266,
+          "end": 271
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 298,
+      "end": 324,
+      "text": "increased signal intensity",
+      "spans": [
+        {
+          "start": 298,
+          "end": 324
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 328,
+      "end": 343,
+      "text": "caudate nucleus",
+      "spans": [
+        {
+          "start": 328,
+          "end": 343
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 348,
+      "end": 355,
+      "text": "putamen",
+      "spans": [
+        {
+          "start": 348,
+          "end": 355
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Test_name",
+      "start": 363,
+      "end": 383,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 363,
+          "end": 383
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Test_name",
+      "start": 385,
+      "end": 388,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 385,
+          "end": 388
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Test_name",
+      "start": 503,
+      "end": 506,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 503,
+          "end": 506
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Anatomic_location",
+      "start": 507,
+      "end": 512,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 507,
+          "end": 512
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Test_name",
+      "start": 517,
+      "end": 520,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 517,
+          "end": 520
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Sporadic_Prion",
+      "start": 543,
+      "end": 555,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 543,
+          "end": 555
+        }
+      ]
+    }
+  ]
+}

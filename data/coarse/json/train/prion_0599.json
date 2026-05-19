@@ -1,0 +1,255 @@
+{
+  "doc_id": "prion_0599",
+  "text": "We describe a kindred with 7 confirmed and 2 probable cases of subacute dementia accompanied by myoclonus.\nThe inheritance pattern is consistent with autosomal dominance and shows anticipation.\nThe pathological changes involve marked gliosis with neuronal loss of the dorsomedial and midline thalamic nuclei, with lesser involvement of the anterior, lateral, and posterior thalamic nuclei.\nMedullary olivary hypertrophy is prominent.\nSpongiform change is minimal or absent.\nAttempted disease transmission to primates from 3 affected family members has been unsuccessful; Western immunoblot tests have likewise failed to detect the presence of specifically reactive 27-30 kD Mr proteins in brain tissue from 2 of these patients.\nWe conclude that this family has a rare inherited neurological systems degeneration with associated thalamic dementia, the clinical course of which is very similar to Creutzfeldt-Jakob disease.",
+  "entities": [
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 72,
+      "end": 80,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 72,
+          "end": 80
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Differential_Diagnosis",
+      "start": 96,
+      "end": 105,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 96,
+          "end": 105
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 198,
+      "end": 210,
+      "text": "pathological",
+      "spans": [
+        {
+          "start": 198,
+          "end": 210
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 234,
+      "end": 241,
+      "text": "gliosis",
+      "spans": [
+        {
+          "start": 234,
+          "end": 241
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Findings",
+      "start": 247,
+      "end": 260,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 247,
+          "end": 260
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 268,
+      "end": 307,
+      "text": "dorsomedial thalamic nuclei",
+      "spans": [
+        {
+          "start": 268,
+          "end": 279
+        },
+        {
+          "start": 292,
+          "end": 307
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 284,
+      "end": 307,
+      "text": "midline thalamic nuclei",
+      "spans": [
+        {
+          "start": 284,
+          "end": 307
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 340,
+      "end": 388,
+      "text": "anterior thalamic nuclei",
+      "spans": [
+        {
+          "start": 340,
+          "end": 348
+        },
+        {
+          "start": 373,
+          "end": 388
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 350,
+      "end": 389,
+      "text": "lateral thalamic nuclei.",
+      "spans": [
+        {
+          "start": 350,
+          "end": 357
+        },
+        {
+          "start": 373,
+          "end": 389
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 363,
+      "end": 388,
+      "text": "posterior thalamic nuclei",
+      "spans": [
+        {
+          "start": 363,
+          "end": 388
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 390,
+      "end": 407,
+      "text": "Medullary olivary",
+      "spans": [
+        {
+          "start": 390,
+          "end": 407
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Findings",
+      "start": 390,
+      "end": 419,
+      "text": "Medullary olivary hypertrophy",
+      "spans": [
+        {
+          "start": 390,
+          "end": 419
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Findings",
+      "start": 434,
+      "end": 451,
+      "text": "Spongiform change",
+      "spans": [
+        {
+          "start": 434,
+          "end": 451
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Test_name",
+      "start": 571,
+      "end": 595,
+      "text": "Western immunoblot tests",
+      "spans": [
+        {
+          "start": 571,
+          "end": 595
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 689,
+      "end": 694,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 689,
+          "end": 694
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Differential_Diagnosis",
+      "start": 768,
+      "end": 811,
+      "text": "inherited neurological systems degeneration",
+      "spans": [
+        {
+          "start": 768,
+          "end": 811
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 828,
+      "end": 845,
+      "text": "thalamic dementia",
+      "spans": [
+        {
+          "start": 828,
+          "end": 845
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 895,
+      "end": 920,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 895,
+          "end": 920
+        }
+      ]
+    }
+  ]
+}

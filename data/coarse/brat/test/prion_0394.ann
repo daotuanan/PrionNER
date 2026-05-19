@@ -1,0 +1,24 @@
+T2	Acquired_Prion 43 76	variant Creutzfeldt-Jakob disease
+T3	Acquired_Prion 78 82	vCJD
+T26	Test_name 218 232	histologically
+T4	Sporadic_Prion 243 255	sporadic CJD
+T5	Familial_Prion 271 294	inherited prion disease
+T7	Generic_Prion 574 577	CJD
+T8	Symptom 877 894	cognitive decline
+T9	Acquired_Prion 926 930	vCJD
+T6	Symptom 946 952;971 982	verbal impairments
+T10	Symptom 957 982	visual memory impairments
+T11	Symptom 987 1008	executive dysfunction
+T12	Symptom 1047 1061;1067 1075	Nominal skills impaired
+T14	Acquired_Prion 1079 1086;1100 1103	variant CJD
+T13	Sporadic_Prion 1091 1103	sporadic CJD
+T15	Familial_Prion 1145 1168	inherited prion disease
+T16	Symptom 1176 1197	Perceptual impairment
+T22	Acquired_Prion 1223 1227	vCJD
+T23	Sporadic_Prion 1246 1254	sporadic
+T24	Familial_Prion 1259 1268	inherited
+T17	Symptom 1327 1356	generalised cognitive decline
+T18	Acquired_Prion 1374 1378	vCJD
+T25	Symptom 1389 1418	decline in cognitive function
+T19	Acquired_Prion 1532 1536	vCJD
+T20	Familial_Prion 1621 1644	inherited prion disease

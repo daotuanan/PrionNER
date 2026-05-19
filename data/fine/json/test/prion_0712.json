@@ -1,0 +1,526 @@
+{
+  "doc_id": "prion_0712",
+  "text": "Acquired transmissible spongiform encephalopathies in humans include Kuru (a disease which was associated with ritualistic cannibalism in Papua New Guinea), iatrogenic Creutzfeldt-Jakob disease and a newly recognized variant form of Creutzfeldt-Jakob disease (nvCJD).\nClinical and neuropathological features of nvCJD are reminiscent of Kuru: early and progressive cerebellar ataxia and numerous characteristic Kuru-type amyloid plaques surrounded by spongiform change.\nIn contrast to typical cases of sporadic CJD, Kuru and nvCJD affect young patients.\nThe newly recognized form of CJD has been identified in ten young people in the UK in 1996, approximately 10 years after the beginning of the bovine spongiform encephalopathy (BSE) epidemic in the UK.\nMolecular analysis has shown that nvCJD has strain characteristics that are distinct from other types of CJD but similar to those of BSE.\nIn the UK an estimated half a million BSE-infected cows entered the human food chain before the bovine offal ban of 1989.\nTo be effective the oral route probably requires high-infectivity titers which are encountered only in the brain, spinal cord and eyes of naturally infected cows.\nIn patients with Kuru, titers of more than 10(8) infectious doses per gram were reported in the brain tissues.\nAs a result of the estimated very long incubation period of nvCJD (10 to 30 years or more) the predicted nvCJD epidemic will have the shape of a normal distribution curve with a peak expected in 2009.\nThe epidemic may extend until 2030.\nThere is already an example to illustrate such a curve in its descending line: the decline of Kuru deaths following the interruption of ritual cannibalism.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 9,
+      "end": 50,
+      "text": "transmissible spongiform encephalopathies",
+      "spans": [
+        {
+          "start": 9,
+          "end": 50
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Kuru",
+      "start": 69,
+      "end": 73,
+      "text": "Kuru",
+      "spans": [
+        {
+          "start": 69,
+          "end": 73
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "iCJD",
+      "start": 157,
+      "end": 193,
+      "text": "iatrogenic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 157,
+          "end": 193
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "vCJD",
+      "start": 217,
+      "end": 258,
+      "text": "variant form of Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 217,
+          "end": 258
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "vCJD",
+      "start": 260,
+      "end": 265,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 260,
+          "end": 265
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Autopsy",
+      "start": 281,
+      "end": 298,
+      "text": "neuropathological",
+      "spans": [
+        {
+          "start": 281,
+          "end": 298
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "vCJD",
+      "start": 311,
+      "end": 316,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 311,
+          "end": 316
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Kuru",
+      "start": 336,
+      "end": 340,
+      "text": "Kuru",
+      "spans": [
+        {
+          "start": 336,
+          "end": 340
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 364,
+      "end": 374,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 364,
+          "end": 374
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 364,
+      "end": 381,
+      "text": "cerebellar ataxia",
+      "spans": [
+        {
+          "start": 364,
+          "end": 381
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Autopsy_finding",
+      "start": 410,
+      "end": 435,
+      "text": "Kuru-type amyloid plaques",
+      "spans": [
+        {
+          "start": 410,
+          "end": 435
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Autopsy_finding",
+      "start": 450,
+      "end": 467,
+      "text": "spongiform change",
+      "spans": [
+        {
+          "start": 450,
+          "end": 467
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "sCJD",
+      "start": 501,
+      "end": 513,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 501,
+          "end": 513
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Kuru",
+      "start": 515,
+      "end": 519,
+      "text": "Kuru",
+      "spans": [
+        {
+          "start": 515,
+          "end": 519
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "vCJD",
+      "start": 524,
+      "end": 529,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 524,
+          "end": 529
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Age",
+      "start": 537,
+      "end": 542,
+      "text": "young",
+      "spans": [
+        {
+          "start": 537,
+          "end": 542
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Generic_Prion",
+      "start": 582,
+      "end": 585,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 582,
+          "end": 585
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Age",
+      "start": 613,
+      "end": 618,
+      "text": "young",
+      "spans": [
+        {
+          "start": 613,
+          "end": 618
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Time_point",
+      "start": 639,
+      "end": 643,
+      "text": "1996",
+      "spans": [
+        {
+          "start": 639,
+          "end": 643
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Duration",
+      "start": 659,
+      "end": 667,
+      "text": "10 years",
+      "spans": [
+        {
+          "start": 659,
+          "end": 667
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Time_point",
+      "start": 678,
+      "end": 752,
+      "text": "beginning of the bovine spongiform encephalopathy (BSE) epidemic in the UK",
+      "spans": [
+        {
+          "start": 678,
+          "end": 752
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Generic_Prion",
+      "start": 695,
+      "end": 727,
+      "text": "bovine spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 695,
+          "end": 727
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Generic_Prion",
+      "start": 729,
+      "end": 732,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 729,
+          "end": 732
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Molecular_assay",
+      "start": 754,
+      "end": 772,
+      "text": "Molecular analysis",
+      "spans": [
+        {
+          "start": 754,
+          "end": 772
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "vCJD",
+      "start": 788,
+      "end": 793,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 788,
+          "end": 793
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Generic_Prion",
+      "start": 859,
+      "end": 862,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 859,
+          "end": 862
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Generic_Prion",
+      "start": 887,
+      "end": 890,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 887,
+          "end": 890
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Generic_Prion",
+      "start": 930,
+      "end": 933,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 930,
+          "end": 933
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Time_point",
+      "start": 1008,
+      "end": 1012,
+      "text": "1989",
+      "spans": [
+        {
+          "start": 1008,
+          "end": 1012
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Anatomic_location",
+      "start": 1121,
+      "end": 1126,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 1121,
+          "end": 1126
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Anatomic_location",
+      "start": 1128,
+      "end": 1139,
+      "text": "spinal cord",
+      "spans": [
+        {
+          "start": 1128,
+          "end": 1139
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Anatomic_location",
+      "start": 1144,
+      "end": 1148,
+      "text": "eyes",
+      "spans": [
+        {
+          "start": 1144,
+          "end": 1148
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Kuru",
+      "start": 1194,
+      "end": 1198,
+      "text": "Kuru",
+      "spans": [
+        {
+          "start": 1194,
+          "end": 1198
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Anatomic_location",
+      "start": 1273,
+      "end": 1278,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 1273,
+          "end": 1278
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "vCJD",
+      "start": 1348,
+      "end": 1353,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 1348,
+          "end": 1353
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Duration",
+      "start": 1355,
+      "end": 1377,
+      "text": "10 to 30 years or more",
+      "spans": [
+        {
+          "start": 1355,
+          "end": 1377
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "vCJD",
+      "start": 1393,
+      "end": 1398,
+      "text": "nvCJD",
+      "spans": [
+        {
+          "start": 1393,
+          "end": 1398
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Time_point",
+      "start": 1483,
+      "end": 1487,
+      "text": "2009",
+      "spans": [
+        {
+          "start": 1483,
+          "end": 1487
+        }
+      ]
+    },
+    {
+      "id": "T48",
+      "label": "Time_point",
+      "start": 1519,
+      "end": 1523,
+      "text": "2030",
+      "spans": [
+        {
+          "start": 1519,
+          "end": 1523
+        }
+      ]
+    },
+    {
+      "id": "T49",
+      "label": "Kuru",
+      "start": 1619,
+      "end": 1623,
+      "text": "Kuru",
+      "spans": [
+        {
+          "start": 1619,
+          "end": 1623
+        }
+      ]
+    }
+  ]
+}

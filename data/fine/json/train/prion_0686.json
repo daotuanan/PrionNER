@@ -1,0 +1,253 @@
+{
+  "doc_id": "prion_0686",
+  "text": "In a patient with the occipitoparietal form of Creutzfeldt-Jakob disease (CJD) (Heidenhain type) positron emission tomography (PET) demonstrated decreased glucose utilization in the occipital lobes and adjacent cortical regions.\nSingle photon emission computed tomography (SPECT) with 99mTc-bicisate showed a \"coupled\" decrease in blood flow in identical cortical areas in this patient.\nIn contrast, magnetic resonance imaging (MRI) was normal.\nIn the early stage of CJD, when still no major morphological abnormalities can be observed, functional imaging is useful for differential diagnosis, particularly to exclude other causes of dementia or pathological EEG patterns.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 47,
+      "end": 72,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 47,
+          "end": 72
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 74,
+      "end": 77,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 74,
+          "end": 77
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "sCJD",
+      "start": 80,
+      "end": 95,
+      "text": "Heidenhain type",
+      "spans": [
+        {
+          "start": 80,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Imaging_test",
+      "start": 97,
+      "end": 125,
+      "text": "positron emission tomography",
+      "spans": [
+        {
+          "start": 97,
+          "end": 125
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Imaging_test",
+      "start": 127,
+      "end": 130,
+      "text": "PET",
+      "spans": [
+        {
+          "start": 127,
+          "end": 130
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Imaging_finding",
+      "start": 145,
+      "end": 174,
+      "text": "decreased glucose utilization",
+      "spans": [
+        {
+          "start": 145,
+          "end": 174
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 182,
+      "end": 197,
+      "text": "occipital lobes",
+      "spans": [
+        {
+          "start": 182,
+          "end": 197
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 202,
+      "end": 228,
+      "text": "adjacent cortical regions.",
+      "spans": [
+        {
+          "start": 202,
+          "end": 228
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Imaging_test",
+      "start": 229,
+      "end": 271,
+      "text": "Single photon emission computed tomography",
+      "spans": [
+        {
+          "start": 229,
+          "end": 271
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Imaging_test",
+      "start": 273,
+      "end": 278,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 273,
+          "end": 278
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Imaging_sequence",
+      "start": 285,
+      "end": 299,
+      "text": "99mTc-bicisate",
+      "spans": [
+        {
+          "start": 285,
+          "end": 299
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Imaging_finding",
+      "start": 309,
+      "end": 341,
+      "text": "\"coupled\" decrease in blood flow",
+      "spans": [
+        {
+          "start": 309,
+          "end": 341
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 355,
+      "end": 369,
+      "text": "cortical areas",
+      "spans": [
+        {
+          "start": 355,
+          "end": 369
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Imaging_test",
+      "start": 400,
+      "end": 426,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 400,
+          "end": 426
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Imaging_test",
+      "start": 428,
+      "end": 431,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 428,
+          "end": 431
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Time_point",
+      "start": 452,
+      "end": 463,
+      "text": "early stage",
+      "spans": [
+        {
+          "start": 452,
+          "end": 463
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Generic_Prion",
+      "start": 467,
+      "end": 470,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 467,
+          "end": 470
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Differential_Diagnosis",
+      "start": 634,
+      "end": 642,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 634,
+          "end": 642
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Electrophysio_test",
+      "start": 659,
+      "end": 662,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 659,
+          "end": 662
+        }
+      ]
+    }
+  ]
+}

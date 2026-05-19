@@ -1,0 +1,214 @@
+{
+  "doc_id": "prion_0598",
+  "text": "A case of Creutzfeldt-Jakob disease, Heidenhain's form is reported.\nThe first clinical manifestations were cortical blindness and visual agnosia.\nThe patient here concerned, a woman aged sixty three, during the clinical course of the disease showed mental deterioration and pyramido-extrapyramidal manifestations.\nShe died after five months.\nThe electroencephalographic findings showed periodic activity.\nThe anatomopathological examination showed neuronal degeneration, status spongiosus and proliferation of astroglial cells.\nThe clinical, electroencephalographic, pathological and etiopathogenical aspects are discussed.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 10,
+      "end": 35,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 10,
+          "end": 35
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Sporadic_Prion",
+      "start": 37,
+      "end": 54,
+      "text": "Heidenhain's form",
+      "spans": [
+        {
+          "start": 37,
+          "end": 54
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 107,
+      "end": 125,
+      "text": "cortical blindness",
+      "spans": [
+        {
+          "start": 107,
+          "end": 125
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 130,
+      "end": 144,
+      "text": "visual agnosia",
+      "spans": [
+        {
+          "start": 130,
+          "end": 144
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Age",
+      "start": 182,
+      "end": 198,
+      "text": "aged sixty three",
+      "spans": [
+        {
+          "start": 182,
+          "end": 198
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 249,
+      "end": 269,
+      "text": "mental deterioration",
+      "spans": [
+        {
+          "start": 249,
+          "end": 269
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 274,
+      "end": 312,
+      "text": "pyramido-extrapyramidal manifestations",
+      "spans": [
+        {
+          "start": 274,
+          "end": 312
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Complication",
+      "start": 318,
+      "end": 322,
+      "text": "died",
+      "spans": [
+        {
+          "start": 318,
+          "end": 322
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 329,
+      "end": 340,
+      "text": "five months",
+      "spans": [
+        {
+          "start": 329,
+          "end": 340
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 346,
+      "end": 369,
+      "text": "electroencephalographic",
+      "spans": [
+        {
+          "start": 346,
+          "end": 369
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 409,
+      "end": 440,
+      "text": "anatomopathological examination",
+      "spans": [
+        {
+          "start": 409,
+          "end": 440
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Findings",
+      "start": 448,
+      "end": 469,
+      "text": "neuronal degeneration",
+      "spans": [
+        {
+          "start": 448,
+          "end": 469
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Findings",
+      "start": 471,
+      "end": 488,
+      "text": "status spongiosus",
+      "spans": [
+        {
+          "start": 471,
+          "end": 488
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Findings",
+      "start": 493,
+      "end": 526,
+      "text": "proliferation of astroglial cells",
+      "spans": [
+        {
+          "start": 493,
+          "end": 526
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Test_name",
+      "start": 542,
+      "end": 565,
+      "text": "electroencephalographic",
+      "spans": [
+        {
+          "start": 542,
+          "end": 565
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Test_name",
+      "start": 567,
+      "end": 579,
+      "text": "pathological",
+      "spans": [
+        {
+          "start": 567,
+          "end": 579
+        }
+      ]
+    }
+  ]
+}

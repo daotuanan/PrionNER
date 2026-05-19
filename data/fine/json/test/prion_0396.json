@@ -1,0 +1,453 @@
+{
+  "doc_id": "prion_0396",
+  "text": "With the discovery of the prion protein (PrP), immunodiagnostic procedures were applied to diagnose Creutzfeldt-Jakob disease (CJD).\nBefore development of the conformation-dependent immunoassay (CDI), all immunoassays for the disease-causing PrP isoform (PrPSc) used limited proteolysis to digest the precursor cellular PrP (PrPC).\nBecause the CDI is the only immunoassay that measures both the protease-resistant and protease-sensitive forms of PrPSc, we used the CDI to diagnose human prion disease.\nThe CDI gave a positive signal for PrPSc in all 10-24 brain regions (100%) examined from 28 CJD patients.\nA subset of 18 brain regions from 8 patients with sporadic CJD (sCJD) was examined by histology, immunohistochemistry (IHC), and the CDI.\nThree of the 18 regions (17%) were consistently positive by histology and 4 of 18 (22%) by IHC for the 8 sCJD patients.\nIn contrast, the CDI was positive in all 18 regions (100%) for all 8 sCJD patients.\nIn both gray and white matter, approximately 90% of the total PrPSc was protease-sensitive and, thus, would have been degraded by procedures using proteases to eliminate PrPC.\nOur findings argue that the CDI should be used to establish or rule out the diagnosis of prion disease when a small number of samples is available as is the case with brain biopsy.\nMoreover, IHC should not be used as the standard against which all other immunodiagnostic techniques are compared because an immunoassay, such as the CDI, is substantially more sensitive.",
+  "entities": [
+    {
+      "id": "T28",
+      "label": "Molecular_assay",
+      "start": 47,
+      "end": 74,
+      "text": "immunodiagnostic procedures",
+      "spans": [
+        {
+          "start": 47,
+          "end": 74
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 100,
+      "end": 125,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 100,
+          "end": 125
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 127,
+      "end": 130,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 127,
+          "end": 130
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Molecular_assay",
+      "start": 159,
+      "end": 193,
+      "text": "conformation-dependent immunoassay",
+      "spans": [
+        {
+          "start": 159,
+          "end": 193
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Molecular_assay",
+      "start": 195,
+      "end": 198,
+      "text": "CDI",
+      "spans": [
+        {
+          "start": 195,
+          "end": 198
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Molecular_assay",
+      "start": 344,
+      "end": 347,
+      "text": "CDI",
+      "spans": [
+        {
+          "start": 344,
+          "end": 347
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Molecular_assay",
+      "start": 360,
+      "end": 371,
+      "text": "immunoassay",
+      "spans": [
+        {
+          "start": 360,
+          "end": 371
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Molecular_assay",
+      "start": 465,
+      "end": 468,
+      "text": "CDI",
+      "spans": [
+        {
+          "start": 465,
+          "end": 468
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 487,
+      "end": 500,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 487,
+          "end": 500
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Molecular_assay",
+      "start": 506,
+      "end": 509,
+      "text": "CDI",
+      "spans": [
+        {
+          "start": 506,
+          "end": 509
+        }
+      ]
+    },
+    {
+      "id": "T54",
+      "label": "Anatomic_location",
+      "start": 556,
+      "end": 561,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 556,
+          "end": 561
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 594,
+      "end": 597,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 594,
+          "end": 597
+        }
+      ]
+    },
+    {
+      "id": "T55",
+      "label": "Anatomic_location",
+      "start": 623,
+      "end": 628,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 623,
+          "end": 628
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "sCJD",
+      "start": 658,
+      "end": 670,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 658,
+          "end": 670
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "sCJD",
+      "start": 672,
+      "end": 676,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 672,
+          "end": 676
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Autopsy",
+      "start": 694,
+      "end": 703,
+      "text": "histology",
+      "spans": [
+        {
+          "start": 694,
+          "end": 703
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Molecular_assay",
+      "start": 705,
+      "end": 725,
+      "text": "immunohistochemistry",
+      "spans": [
+        {
+          "start": 705,
+          "end": 725
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Molecular_assay",
+      "start": 727,
+      "end": 730,
+      "text": "IHC",
+      "spans": [
+        {
+          "start": 727,
+          "end": 730
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Molecular_assay",
+      "start": 741,
+      "end": 744,
+      "text": "CDI",
+      "spans": [
+        {
+          "start": 741,
+          "end": 744
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Autopsy",
+      "start": 806,
+      "end": 815,
+      "text": "histology",
+      "spans": [
+        {
+          "start": 806,
+          "end": 815
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Molecular_assay",
+      "start": 837,
+      "end": 840,
+      "text": "IHC",
+      "spans": [
+        {
+          "start": 837,
+          "end": 840
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "sCJD",
+      "start": 851,
+      "end": 855,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 851,
+          "end": 855
+        }
+      ]
+    },
+    {
+      "id": "T45",
+      "label": "Molecular_assay",
+      "start": 883,
+      "end": 886,
+      "text": "CDI",
+      "spans": [
+        {
+          "start": 883,
+          "end": 886
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "sCJD",
+      "start": 935,
+      "end": 939,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 935,
+          "end": 939
+        }
+      ]
+    },
+    {
+      "id": "T48",
+      "label": "Anatomic_location",
+      "start": 958,
+      "end": 979,
+      "text": "gray matter",
+      "spans": [
+        {
+          "start": 958,
+          "end": 962
+        },
+        {
+          "start": 973,
+          "end": 979
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T49",
+      "label": "Anatomic_location",
+      "start": 967,
+      "end": 979,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 967,
+          "end": 979
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Molecular_assay",
+      "start": 1154,
+      "end": 1157,
+      "text": "CDI",
+      "spans": [
+        {
+          "start": 1154,
+          "end": 1157
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Generic_Prion",
+      "start": 1215,
+      "end": 1228,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 1215,
+          "end": 1228
+        }
+      ]
+    },
+    {
+      "id": "T56",
+      "label": "Anatomic_location",
+      "start": 1293,
+      "end": 1298,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 1293,
+          "end": 1298
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Autopsy",
+      "start": 1299,
+      "end": 1305,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 1299,
+          "end": 1305
+        }
+      ]
+    },
+    {
+      "id": "T50",
+      "label": "Molecular_assay",
+      "start": 1317,
+      "end": 1320,
+      "text": "IHC",
+      "spans": [
+        {
+          "start": 1317,
+          "end": 1320
+        }
+      ]
+    },
+    {
+      "id": "T53",
+      "label": "Molecular_assay",
+      "start": 1380,
+      "end": 1407,
+      "text": "immunodiagnostic techniques",
+      "spans": [
+        {
+          "start": 1380,
+          "end": 1407
+        }
+      ]
+    },
+    {
+      "id": "T51",
+      "label": "Molecular_assay",
+      "start": 1432,
+      "end": 1443,
+      "text": "immunoassay",
+      "spans": [
+        {
+          "start": 1432,
+          "end": 1443
+        }
+      ]
+    },
+    {
+      "id": "T52",
+      "label": "Molecular_assay",
+      "start": 1457,
+      "end": 1460,
+      "text": "CDI",
+      "spans": [
+        {
+          "start": 1457,
+          "end": 1460
+        }
+      ]
+    }
+  ]
+}

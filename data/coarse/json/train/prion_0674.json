@@ -1,0 +1,448 @@
+{
+  "doc_id": "prion_0674",
+  "text": "PURPOSE: To describe the magnetic resonance (MR) imaging appearance of Creutzfeldt-Jakob disease (CJD).\nMATERIALS AND METHODS: MR images obtained in 29 patients who died of CJD (aged 53-77 years at death) were retrospectively reviewed by three neuroradiologists blinded to the diagnosis.\nRESULTS: Moderate to marked bilateral, symmetrically increased signal intensity was demonstrated in the putamen and caudate nucleus on T2- and proton-density-weighted MR images in 23 patients (79%).\nIn six patients (21%), images showed no major signal intensity abnormalities.\nT1-weighted images revealed no signal intensity abnormalities and no contrast material enhancement.\nThe degree of atrophy in the cortex and basal ganglia corresponded to the time between onset of symptoms and MR imaging.\nAll patients with a disease duration of longer than 4 months had substantial volume loss.\nCONCLUSION: Although approximately 20% of the patients did not have MR imaging abnormalities, MR imaging did show signal intensity alterations due to gliosis and spongiform changes early in the course of CJD in the remaining 80%.\nThe demonstration of bilateral areas of increased signal intensity that predominantly affected the caudate nuclei and the putamina on long-repetition-time MR images in an elderly patient with rapidly progressive dementia represents a specific finding and clearly should suggest the diagnosis of CJD.",
+  "entities": [
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 25,
+      "end": 56,
+      "text": "magnetic resonance (MR) imaging",
+      "spans": [
+        {
+          "start": 25,
+          "end": 56
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 71,
+      "end": 96,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 71,
+          "end": 96
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 98,
+      "end": 101,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 98,
+          "end": 101
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 127,
+      "end": 136,
+      "text": "MR images",
+      "spans": [
+        {
+          "start": 127,
+          "end": 136
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Complication",
+      "start": 165,
+      "end": 169,
+      "text": "died",
+      "spans": [
+        {
+          "start": 165,
+          "end": 169
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 173,
+      "end": 176,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 173,
+          "end": 176
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Age",
+      "start": 183,
+      "end": 194,
+      "text": "53-77 years",
+      "spans": [
+        {
+          "start": 183,
+          "end": 194
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Complication",
+      "start": 198,
+      "end": 203,
+      "text": "death",
+      "spans": [
+        {
+          "start": 198,
+          "end": 203
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Findings",
+      "start": 341,
+      "end": 367,
+      "text": "increased signal intensity",
+      "spans": [
+        {
+          "start": 341,
+          "end": 367
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 392,
+      "end": 399,
+      "text": "putamen",
+      "spans": [
+        {
+          "start": 392,
+          "end": 399
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 404,
+      "end": 419,
+      "text": "caudate nucleus",
+      "spans": [
+        {
+          "start": 404,
+          "end": 419
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Sequences",
+      "start": 423,
+      "end": 426,
+      "text": "T2-",
+      "spans": [
+        {
+          "start": 423,
+          "end": 426
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Sequences",
+      "start": 431,
+      "end": 454,
+      "text": "proton-density-weighted",
+      "spans": [
+        {
+          "start": 431,
+          "end": 454
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 455,
+      "end": 464,
+      "text": "MR images",
+      "spans": [
+        {
+          "start": 455,
+          "end": 464
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Findings",
+      "start": 533,
+      "end": 563,
+      "text": "signal intensity abnormalities",
+      "spans": [
+        {
+          "start": 533,
+          "end": 563
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Sequences",
+      "start": 565,
+      "end": 583,
+      "text": "T1-weighted images",
+      "spans": [
+        {
+          "start": 565,
+          "end": 583
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Findings",
+      "start": 596,
+      "end": 626,
+      "text": "signal intensity abnormalities",
+      "spans": [
+        {
+          "start": 596,
+          "end": 626
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 694,
+      "end": 700,
+      "text": "cortex",
+      "spans": [
+        {
+          "start": 694,
+          "end": 700
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 705,
+      "end": 718,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 705,
+          "end": 718
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Test_name",
+      "start": 774,
+      "end": 784,
+      "text": "MR imaging",
+      "spans": [
+        {
+          "start": 774,
+          "end": 784
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Time",
+      "start": 838,
+      "end": 846,
+      "text": "4 months",
+      "spans": [
+        {
+          "start": 838,
+          "end": 846
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Findings",
+      "start": 863,
+      "end": 874,
+      "text": "volume loss",
+      "spans": [
+        {
+          "start": 863,
+          "end": 874
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Test_name",
+      "start": 944,
+      "end": 954,
+      "text": "MR imaging",
+      "spans": [
+        {
+          "start": 944,
+          "end": 954
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Test_name",
+      "start": 970,
+      "end": 980,
+      "text": "MR imaging",
+      "spans": [
+        {
+          "start": 970,
+          "end": 980
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Findings",
+      "start": 990,
+      "end": 1018,
+      "text": "signal intensity alterations",
+      "spans": [
+        {
+          "start": 990,
+          "end": 1018
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Generic_Prion",
+      "start": 1080,
+      "end": 1083,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1080,
+          "end": 1083
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Findings",
+      "start": 1146,
+      "end": 1172,
+      "text": "increased signal intensity",
+      "spans": [
+        {
+          "start": 1146,
+          "end": 1172
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 1205,
+      "end": 1219,
+      "text": "caudate nuclei",
+      "spans": [
+        {
+          "start": 1205,
+          "end": 1219
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Anatomic_location",
+      "start": 1228,
+      "end": 1236,
+      "text": "putamina",
+      "spans": [
+        {
+          "start": 1228,
+          "end": 1236
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Sequences",
+      "start": 1240,
+      "end": 1260,
+      "text": "long-repetition-time",
+      "spans": [
+        {
+          "start": 1240,
+          "end": 1260
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Test_name",
+      "start": 1261,
+      "end": 1270,
+      "text": "MR images",
+      "spans": [
+        {
+          "start": 1261,
+          "end": 1270
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Age",
+      "start": 1277,
+      "end": 1284,
+      "text": "elderly",
+      "spans": [
+        {
+          "start": 1277,
+          "end": 1284
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Symptom",
+      "start": 1318,
+      "end": 1326,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 1318,
+          "end": 1326
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Generic_Prion",
+      "start": 1401,
+      "end": 1404,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1401,
+          "end": 1404
+        }
+      ]
+    }
+  ]
+}

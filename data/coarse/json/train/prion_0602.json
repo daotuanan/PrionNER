@@ -1,0 +1,227 @@
+{
+  "doc_id": "prion_0602",
+  "text": "Magnetic resonance (MR) imaging and CT of three patients with Creutzfeldt-Jakob disease (CJD) showed bilateral cortical atrophy and no apparent white matter changes.\nSerial examinations revealed the progressive nature of the atrophy, findings compatible with the patients' clinical deterioration.\nAt autopsy some white matter abnormalities were detected in one patient 6 months after MR imaging.\nThe available data suggest that the white matter abnormalities, if present, develop during the final stage of CJD.",
+  "entities": [
+    {
+      "id": "T16",
+      "label": "Test_name",
+      "start": 0,
+      "end": 31,
+      "text": "Magnetic resonance (MR) imaging",
+      "spans": [
+        {
+          "start": 0,
+          "end": 31
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Test_name",
+      "start": 36,
+      "end": 38,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 36,
+          "end": 38
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 62,
+      "end": 87,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 62,
+          "end": 87
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 89,
+      "end": 92,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 89,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 111,
+      "end": 119,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 111,
+          "end": 119
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Findings",
+      "start": 111,
+      "end": 127,
+      "text": "cortical atrophy",
+      "spans": [
+        {
+          "start": 111,
+          "end": 127
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 144,
+      "end": 156,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 144,
+          "end": 156
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Findings",
+      "start": 144,
+      "end": 164,
+      "text": "white matter changes",
+      "spans": [
+        {
+          "start": 144,
+          "end": 164
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 300,
+      "end": 307,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 300,
+          "end": 307
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Anatomic_location",
+      "start": 313,
+      "end": 325,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 313,
+          "end": 325
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Findings",
+      "start": 313,
+      "end": 339,
+      "text": "white matter abnormalities",
+      "spans": [
+        {
+          "start": 313,
+          "end": 339
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Time",
+      "start": 369,
+      "end": 377,
+      "text": "6 months",
+      "spans": [
+        {
+          "start": 369,
+          "end": 377
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 384,
+      "end": 394,
+      "text": "MR imaging",
+      "spans": [
+        {
+          "start": 384,
+          "end": 394
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 432,
+      "end": 444,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 432,
+          "end": 444
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 432,
+      "end": 458,
+      "text": "white matter abnormalities",
+      "spans": [
+        {
+          "start": 432,
+          "end": 458
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Time",
+      "start": 491,
+      "end": 502,
+      "text": "final stage",
+      "spans": [
+        {
+          "start": 491,
+          "end": 502
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 506,
+      "end": 509,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 506,
+          "end": 509
+        }
+      ]
+    }
+  ]
+}

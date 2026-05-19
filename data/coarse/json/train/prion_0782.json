@@ -1,0 +1,136 @@
+{
+  "doc_id": "prion_0782",
+  "text": "The case reported here is that of a 50-year-old man from Saltillo, Coahuila, Mexico, who during the previous 15 months developed a demential syndrome and myoclonia.\nThe brain biopsy led to establish a diagnosis of spongiform encephalopathy.\nThe EEG showed periodic sharp wave complexes over the right hemisphere.\nA review on about prion diseases is included.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 36,
+      "end": 47,
+      "text": "50-year-old",
+      "spans": [
+        {
+          "start": 36,
+          "end": 47
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Time",
+      "start": 109,
+      "end": 118,
+      "text": "15 months",
+      "spans": [
+        {
+          "start": 109,
+          "end": 118
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 131,
+      "end": 149,
+      "text": "demential syndrome",
+      "spans": [
+        {
+          "start": 131,
+          "end": 149
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 154,
+      "end": 163,
+      "text": "myoclonia",
+      "spans": [
+        {
+          "start": 154,
+          "end": 163
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 169,
+      "end": 174,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 169,
+          "end": 174
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Test_name",
+      "start": 175,
+      "end": 181,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 175,
+          "end": 181
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 214,
+      "end": 239,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 214,
+          "end": 239
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 245,
+      "end": 248,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 245,
+          "end": 248
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 301,
+      "end": 311,
+      "text": "hemisphere",
+      "spans": [
+        {
+          "start": 301,
+          "end": 311
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 331,
+      "end": 345,
+      "text": "prion diseases",
+      "spans": [
+        {
+          "start": 331,
+          "end": 345
+        }
+      ]
+    }
+  ]
+}

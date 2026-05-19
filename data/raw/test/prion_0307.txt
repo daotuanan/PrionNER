@@ -1,0 +1,12 @@
+BACKGROUND: Most cases of Creutzfeldt-Jakob disease (CJD) in recipients of human cadaveric growth hormone present with a cerebellar syndrome.
+Dementia is thought to occur late and as a minor feature of the illness.
+However, neuropsychology data published on these cases are largely qualitative and anecdotal. The first published case does include a neuropsychological assessment seven months after the onset of a cerebellar syndrome, showing evidence of intellectual decline.
+Subsequent reports hint that cognitive problems may be present in the initial stages of the illness.
+OBJECTIVE: To assess early cognition in Creutzfeldt-Jakob disease in recipients of pituitary derived human growth hormone.
+METHODS: Detailed neuropsychology assessment is reported at referral (mean 4.5 months from the onset of symptoms; range 4 to 6 months) in five patients with histologically proven human growth hormone derived CJD.
+RESULTS: All cases presented with a cerebellar syndrome and only one had noticed mild memory problems. On formal testing, however, four had demonstrable mild intellectual decline, as measured on the WAIS-R. One case showed selective visual memory impairment and frontal executive dysfunction.
+CONCLUSIONS: These findings suggest that, although not the presenting feature, mild cognitive decline may be evident in the early stages of CJD associated with human cadaveric growth hormone treatment.
+
+<Related> YES or NO
+[DONE]
+[CHECK]

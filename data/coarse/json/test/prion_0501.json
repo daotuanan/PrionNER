@@ -1,0 +1,266 @@
+{
+  "doc_id": "prion_0501",
+  "text": "Histopathological findings in three temporo-spatially linked cases of Creutzfeldt-Jakob disease (CJD) are reported.\nThe patients were males, unrelated and without positive family history.\nTheir mean age at the onset of the disease was 52.3 years.\nThe mean duration of the illness was 6.6 months; the clinical symptomatology differed considerably.\nNeurohistology revealed in all patients a neuronal loss, intracyoplasmic vacuolation, spongiosis and astrocytosis.\nBesides the cortical regions, basal ganglia and cerebella were severely affected.\nAll cases were pathologically suggestive of the cortico-striato-cerebella variant of CJD.\nAttention is drawn to this apparent topical similarity of most pronounced lesions.\nThe possible significance of the pathoanatomical consistency, observed in the cases studied, for the unusual pattern of natural occurrence of CJD is considered.",
+  "entities": [
+    {
+      "id": "T22",
+      "label": "Test_name",
+      "start": 0,
+      "end": 17,
+      "text": "Histopathological",
+      "spans": [
+        {
+          "start": 0,
+          "end": 17
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 70,
+      "end": 95,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 70,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 97,
+      "end": 100,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 97,
+          "end": 100
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Time",
+      "start": 203,
+      "end": 215,
+      "text": "at the onset",
+      "spans": [
+        {
+          "start": 203,
+          "end": 215
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 235,
+      "end": 245,
+      "text": "52.3 years",
+      "spans": [
+        {
+          "start": 235,
+          "end": 245
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time",
+      "start": 284,
+      "end": 294,
+      "text": "6.6 months",
+      "spans": [
+        {
+          "start": 284,
+          "end": 294
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Test_name",
+      "start": 347,
+      "end": 361,
+      "text": "Neurohistology",
+      "spans": [
+        {
+          "start": 347,
+          "end": 361
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Findings",
+      "start": 389,
+      "end": 402,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 389,
+          "end": 402
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Findings",
+      "start": 404,
+      "end": 431,
+      "text": "intracyoplasmic vacuolation",
+      "spans": [
+        {
+          "start": 404,
+          "end": 431
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Findings",
+      "start": 433,
+      "end": 443,
+      "text": "spongiosis",
+      "spans": [
+        {
+          "start": 433,
+          "end": 443
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Findings",
+      "start": 448,
+      "end": 460,
+      "text": "astrocytosis",
+      "spans": [
+        {
+          "start": 448,
+          "end": 460
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 474,
+      "end": 490,
+      "text": "cortical regions",
+      "spans": [
+        {
+          "start": 474,
+          "end": 490
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 492,
+      "end": 505,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 492,
+          "end": 505
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 510,
+      "end": 519,
+      "text": "cerebella",
+      "spans": [
+        {
+          "start": 510,
+          "end": 519
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Test_name",
+      "start": 559,
+      "end": 573,
+      "text": "pathologically",
+      "spans": [
+        {
+          "start": 559,
+          "end": 573
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 592,
+      "end": 599,
+      "text": "cortico",
+      "spans": [
+        {
+          "start": 592,
+          "end": 599
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 600,
+      "end": 607,
+      "text": "striato",
+      "spans": [
+        {
+          "start": 600,
+          "end": 607
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 608,
+      "end": 617,
+      "text": "cerebella",
+      "spans": [
+        {
+          "start": 608,
+          "end": 617
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 629,
+      "end": 632,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 629,
+          "end": 632
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 859,
+      "end": 862,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 859,
+          "end": 862
+        }
+      ]
+    }
+  ]
+}

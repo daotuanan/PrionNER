@@ -1,0 +1,188 @@
+{
+  "doc_id": "prion_0505",
+  "text": "A patient is described who showed subacute dementia and ataxia and, finally, acute asending polyradiculoneuritis.\nAt necropsy, together with the cerebral and cerebellar lesions that are typical of Creutzfeldt-Jakob disease, the lesions of the spinal motor neurons, the spinal ganglia, and of the roots and peripheral nerves were analogous with those of the Guillain-Barré-Landry syndrome.\nThe aetiological possibility is discussed either that this is a simple and unique association, or that the disorder is related to the virus nature of Creutzfeldt-Jakob disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Symptom",
+      "start": 34,
+      "end": 51,
+      "text": "subacute dementia",
+      "spans": [
+        {
+          "start": 34,
+          "end": 51
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 56,
+      "end": 62,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 56,
+          "end": 62
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 77,
+      "end": 112,
+      "text": "acute asending polyradiculoneuritis",
+      "spans": [
+        {
+          "start": 77,
+          "end": 112
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 117,
+      "end": 125,
+      "text": "necropsy",
+      "spans": [
+        {
+          "start": 117,
+          "end": 125
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 145,
+      "end": 153,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 145,
+          "end": 153
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 158,
+      "end": 168,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 158,
+          "end": 168
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 197,
+      "end": 222,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 197,
+          "end": 222
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Findings",
+      "start": 228,
+      "end": 235,
+      "text": "lesions",
+      "spans": [
+        {
+          "start": 228,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 243,
+      "end": 263,
+      "text": "spinal motor neurons",
+      "spans": [
+        {
+          "start": 243,
+          "end": 263
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 269,
+      "end": 283,
+      "text": "spinal ganglia",
+      "spans": [
+        {
+          "start": 269,
+          "end": 283
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 296,
+      "end": 301,
+      "text": "roots",
+      "spans": [
+        {
+          "start": 296,
+          "end": 301
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 306,
+      "end": 323,
+      "text": "peripheral nerves",
+      "spans": [
+        {
+          "start": 306,
+          "end": 323
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Differential_Diagnosis",
+      "start": 357,
+      "end": 387,
+      "text": "Guillain-Barré-Landry syndrome",
+      "spans": [
+        {
+          "start": 357,
+          "end": 387
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 539,
+      "end": 564,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 539,
+          "end": 564
+        }
+      ]
+    }
+  ]
+}

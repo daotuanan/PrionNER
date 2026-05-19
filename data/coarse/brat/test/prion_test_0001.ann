@@ -1,0 +1,61 @@
+T1	Generic_Prion 6 31	Creutzfeldt-Jakob disease
+T2	Generic_Prion 33 36	CJD
+T5	Symptom 184 213	progressive cognitive decline
+T6	Symptom 215 237	cerebellar dysfunction
+T7	Symptom 239 258	personality changes
+T8	Symptom 264 283	visual disturbances
+T9	Symptom 294 314	psychiatric symptoms
+T10	Generic_Prion 360 363	CJD
+T11	Symptom 483 501	psychotic symptoms
+T12	Generic_Prion 524 527	CJD
+T13	Age 551 562	49-year-old
+T14	Symptom 671 689	psychotic symptoms
+T15	Symptom 713 736	auditory hallucinations
+T16	Symptom 738 746	paranoia
+T17	Symptom 752 768	thought disorder
+T3	Treatment 791 805	antipsychotics
+T36	Time 810 825	over four weeks
+T20	Symptom 894 903	psychosis
+T18	Symptom 918 935	cognitive decline
+T19	Symptom 937 943	mutism
+T44	Symptom 967 988	neurological symptoms
+T21	Symptom 997 1016	jerky body movement
+T22	Symptom 1018 1024	ataxia
+T23	Symptom 1030 1035	falls
+T24	Test_name 1051 1062	blood tests
+T25	Test_name 1064 1075	chest X-ray
+T26	Test_name 1081 1091	CT abdomen
+T27	Test_name 1109 1112	MRI
+T29	Findings 1146 1150;1160 1166	high signal
+T4	Sequences 1151 1153	T2
+T28	Sequences 1154 1159	FLAIR
+T49	Anatomic_location 1174 1191	deep white matter
+T30	Test_name 1193 1212	Cerebrospinal fluid
+T34	Sporadic_Prion 1288 1300	sporadic CJD
+T33	Sporadic_Prion 1302 1306	sCJD
+T35	Symptom 1375 1383	comatose
+T56	Complication 1388 1392	died
+T60	Time 1393 1404	four months
+T61	Time 1415 1459	appearance of the first psychiatric symptoms
+T37	Generic_Prion 1504 1507	CJD
+T38	Differential_Diagnosis 1555 1571;1594 1604	neuropsychiatric conditions
+T39	Differential_Diagnosis 1576 1604	neurodegenerative conditions
+T40	Test_name 1681 1684	CSF
+T41	Test_name 1686 1689	EEG
+T42	Test_name 1694 1697	MRI
+T43	Symptom 1791 1800	psychosis
+T62	Symptom 1853 1871	neurological signs
+T31	Test_name 1929 1932	MRI
+T45	Sporadic_Prion 1972 1976	sCJD
+T46	Test_name 1991 1994	EEG
+T47	Sporadic_Prion 2011 2015	sCJD
+T48	Acquired_Prion 2035 2046	variant CJD
+T51	Symptom 2092 2112	psychiatric symptoms
+T50	Symptom 2126 2144	neurological signs
+T52	Generic_Prion 2158 2183	Creutzfeldt-Jakob disease
+T53	Time 2244 2259	within one year
+T54	Generic_Prion 2434 2437	CJD
+T55	Generic_Prion 2547 2550	CJD
+T57	Generic_Prion 2650 2653	CJD
+T58	Symptom 2687 2706	new-onset psychosis
+T63	Treatment 2769 2790	psychiatric treatment

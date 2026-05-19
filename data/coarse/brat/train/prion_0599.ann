@@ -1,0 +1,18 @@
+T7	Symptom 72 80	dementia
+T2	Differential_Diagnosis 96 105	myoclonus
+T11	Test_name 198 210	pathological
+T12	Findings 234 241	gliosis
+T3	Findings 247 260	neuronal loss
+T13	Anatomic_location 268 279;292 307	dorsomedial thalamic nuclei
+T4	Anatomic_location 284 307	midline thalamic nuclei
+T14	Anatomic_location 340 348;373 388	anterior thalamic nuclei
+T15	Anatomic_location 350 357;373 389	lateral thalamic nuclei.
+T5	Anatomic_location 363 388	posterior thalamic nuclei
+T17	Anatomic_location 390 407	Medullary olivary
+T16	Findings 390 419	Medullary olivary hypertrophy
+T6	Findings 434 451	Spongiform change
+T18	Test_name 571 595	Western immunoblot tests
+T22	Anatomic_location 689 694	brain
+T19	Differential_Diagnosis 768 811	inherited neurological systems degeneration
+T20	Symptom 828 845	thalamic dementia
+T10	Generic_Prion 895 920	Creutzfeldt-Jakob disease

@@ -1,0 +1,71 @@
+{
+  "doc_id": "prion_0577",
+  "text": "The author presents a case of a patient with Creutzfeldt-Jakob disease, a rapidly progressive encephalopathy that is characterized by early behavioral changes.\nBecause of the nature of this disease, the electroencephalogram (EEG) is helpful in establishing a diagnosis.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 45,
+      "end": 70,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 45,
+          "end": 70
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Differential_Diagnosis",
+      "start": 74,
+      "end": 108,
+      "text": "rapidly progressive encephalopathy",
+      "spans": [
+        {
+          "start": 74,
+          "end": 108
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 134,
+      "end": 158,
+      "text": "early behavioral changes",
+      "spans": [
+        {
+          "start": 134,
+          "end": 158
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Electrophysio_test",
+      "start": 203,
+      "end": 223,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 203,
+          "end": 223
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Electrophysio_test",
+      "start": 225,
+      "end": 228,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 225,
+          "end": 228
+        }
+      ]
+    }
+  ]
+}

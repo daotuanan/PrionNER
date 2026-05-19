@@ -1,0 +1,16 @@
+T1	Generic_Prion 79 104	Creutzfeldt-Jakob disease
+T2	Generic_Prion 106 109	CJD
+T3	Symptom 165 185	progressive dementia
+T5	Molecular_assay 412 437	polymerase chain reaction
+T6	Generic_Prion 612 615	CJD
+T7	Symptom 624 633	myoclonus
+T8	Electrophysio_test 645 677	electroencephalographic findings
+T9	Symptom 679 702	Supranuclear gaze palsy
+T16	Generic_Prion 1003 1006	CJD
+T17	Symptom 1012 1041	early supranuclear gaze palsy
+T18	Symptom 1054 1063	myoclonus
+T19	Electrophysio_test 1082 1126	electroencephalographic periodicity patterns
+T23	Generic_Prion 1187 1190	CJD
+T24	fCJD 1237 1249	familial CJD
+T4	Autopsy 772 791	neuropathologically
+T27	Anatomic_location 293 298	brain

@@ -1,0 +1,175 @@
+{
+  "doc_id": "prion_0510",
+  "text": "One hundred twenty-four consecutive cases of Creutzfeldt-Jakob disease (CJD) in France, verified by biopsy or autopsy between 1968 and 1977, were analyzed with respect to their clinical characteristics.\nThe series comprised equal numbers of men and women, with the most frequent age at onset being 60 to 64 years and the most frequent duration, two to three months.\nA prodromal illness was observed in more than one-third of the patients.\nClinical presentations and symptom frequencies are tabulated, and a multifactor analysis has been performed to obtain those combinations of symptoms and signs which occurred at least as often as the triad of dementia, myoclonus, and a positive electroencephalogram.\nTwo groups of atypical cases are also emphasized: one with sudden, strokelike presentation and rapidly evolving illness of less than 2 months' duration, and the other with a long clinical course of between 2 and 10 years.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 45,
+      "end": 70,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 45,
+          "end": 70
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 72,
+      "end": 75,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 72,
+          "end": 75
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 110,
+      "end": 117,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 110,
+          "end": 117
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Time",
+      "start": 118,
+      "end": 139,
+      "text": "between 1968 and 1977",
+      "spans": [
+        {
+          "start": 118,
+          "end": 139
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Age",
+      "start": 298,
+      "end": 312,
+      "text": "60 to 64 years",
+      "spans": [
+        {
+          "start": 298,
+          "end": 312
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Time",
+      "start": 345,
+      "end": 364,
+      "text": "two to three months",
+      "spans": [
+        {
+          "start": 345,
+          "end": 364
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 368,
+      "end": 385,
+      "text": "prodromal illness",
+      "spans": [
+        {
+          "start": 368,
+          "end": 385
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 647,
+      "end": 655,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 647,
+          "end": 655
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 657,
+      "end": 666,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 657,
+          "end": 666
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Test_name",
+      "start": 683,
+      "end": 703,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 683,
+          "end": 703
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 772,
+      "end": 795,
+      "text": "strokelike presentation",
+      "spans": [
+        {
+          "start": 772,
+          "end": 795
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Time",
+      "start": 828,
+      "end": 846,
+      "text": "less than 2 months",
+      "spans": [
+        {
+          "start": 828,
+          "end": 846
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Time",
+      "start": 903,
+      "end": 925,
+      "text": "between 2 and 10 years",
+      "spans": [
+        {
+          "start": 903,
+          "end": 925
+        }
+      ]
+    }
+  ]
+}

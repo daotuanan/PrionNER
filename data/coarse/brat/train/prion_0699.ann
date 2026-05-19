@@ -1,0 +1,22 @@
+T1	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T2	Generic_Prion 27 30	CJD
+T5	Generic_Prion 247 250	CJD
+T6	Time 414 422	15 years
+T7	Generic_Prion 471 474	CJD
+T8	Test_name 510 513	EEG
+T32	Anatomic_location 526 531	brain
+T9	Test_name 532 540	biopsies
+T12	Generic_Prion 663 666	CJD
+T13	Symptom 671 691	psychiatric symptoms
+T3	Symptom 702 717	changes of mood
+T4	Symptom 702 712;719 726	changes of thought
+T10	Symptom 702 712;728 736	changes of behavior
+T11	Symptom 702 712;741 751	changes of perception
+T20	Treatment 978 1005	electroconvulsive treatment
+T23	Differential_Diagnosis 1067 1097	neuroleptic malignant syndrome
+T24	Generic_Prion 1151 1154	CJD
+T25	Time 1177 1200	early stages of disease
+T26	Generic_Prion 1202 1205	CJD
+T27	Test_name 1233 1237	EEGs
+T28	Symptom 1343 1372	unusual neurological symptoms
+T29	Symptom 1403 1423	psychiatric symptoms

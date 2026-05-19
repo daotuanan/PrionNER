@@ -1,0 +1,20 @@
+T3	Time_point 92 96	1985
+T4	Generic_Prion 101 126	Creutzfeldt-Jakob disease
+T6	Symptom 305 324	cerebellar syndrome
+T7	Time_point 325 333	at onset
+T8	sCJD 380 414	sporadic Creutzfeldt-Jakob disease
+T13	Anatomic_location 549 562	basal ganglia
+T14	Anatomic_location 567 582	cerebral cortex
+T15	Autopsy 716 739	post mortem examination
+T16	Anatomic_location 747 752	brain
+T17	Autopsy_finding 760 788	prominent amyloid deposition
+T18	Anatomic_location 796 806	cerebellum
+T19	iCJD 851 902	pituitary-hormone related Creutzfeldt-Jakob disease
+T21	iCJD 938 986	growth hormone-related Creutzfeldt-Jakob disease
+T23	Choose_Related 1079 1082	YES
+T1	Imaging_test 460 499	single photon emission tomographic scan
+T2	Imaging_finding 514 541	impairment of tracer uptake
+T5	Anatomic_location 637 647	cerebellar
+T9	Choose_Done 1090 1094	DONE
+T10	Anatomic_location 305 315	cerebellar
+T11	Treatment 144 164	human growth hormone

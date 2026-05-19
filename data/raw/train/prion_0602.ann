@@ -1,0 +1,19 @@
+T2	Imaging_test 36 38	CT
+T3	Generic_Prion 62 87	Creutzfeldt-Jakob disease
+T4	Generic_Prion 89 92	CJD
+T5	Imaging_finding 111 127	cortical atrophy
+T6	Imaging_finding 144 164	white matter changes
+T8	Autopsy 300 307	autopsy
+T9	Autopsy_finding 313 339	white matter abnormalities
+T10	Duration 369 377	6 months
+T11	Imaging_test 384 394	MR imaging
+T12	Autopsy_finding 432 458	white matter abnormalities
+T13	Time_point 491 502	final stage
+T14	Generic_Prion 506 509	CJD
+T15	Choose_Related 522 525	YES
+T16	Imaging_test 0 31	Magnetic resonance (MR) imaging
+T17	Choose_Done 533 537	DONE
+T18	Anatomic_location 111 119	cortical
+T19	Anatomic_location 144 156	white matter
+T1	Anatomic_location 313 325	white matter
+T7	Anatomic_location 432 444	white matter

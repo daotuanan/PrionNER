@@ -1,0 +1,431 @@
+{
+  "schema_name": "PrionNER diagnostic entity types",
+  "source": "Aligned to BRAT label names using definitions and examples from the LaTeX schema table.",
+  "entity_types": [
+    {
+      "coarse_type": "Generic_Prion",
+      "definition": "Prion disease mentions without specific subtype classification.",
+      "examples": [
+        "prion disease",
+        "CJD",
+        "bovine spongiform encephalopathy",
+        "BSE",
+        "mad cow disease",
+        "Transmissible Spongiform Encephalopathy",
+        "TSE"
+      ],
+      "fine_types": [
+        {
+          "fine_type": "Generic_Prion",
+          "brat_label": "Generic_Prion",
+          "definition": "Prion disease mentions without specific subtype classification.",
+          "examples": [
+            "prion disease",
+            "CJD",
+            "bovine spongiform encephalopathy",
+            "BSE",
+            "mad cow disease",
+            "Transmissible Spongiform Encephalopathy",
+            "TSE"
+          ]
+        }
+      ]
+    },
+    {
+      "coarse_type": "Sporadic_Prion",
+      "definition": "Sporadic prion disease subtype.",
+      "examples": [
+        "sCJD",
+        "sporadic Creutzfeldt-Jakob disease",
+        "sFI",
+        "sporadic fatal insomnia",
+        "VPSPr",
+        "variably protease-sensitive prionopathy"
+      ],
+      "fine_types": [
+        {
+          "fine_type": "sCJD",
+          "brat_label": "sCJD",
+          "definition": "Sporadic Creutzfeldt-Jakob Disease",
+          "examples": [
+            "sCJD",
+            "sporadic Creutzfeldt-Jakob disease"
+          ]
+        },
+        {
+          "fine_type": "sFI",
+          "brat_label": "sFI",
+          "definition": "Sporadic Fatal Insomnia",
+          "examples": [
+            "sFI",
+            "sporadic fatal insomnia"
+          ]
+        },
+        {
+          "fine_type": "VPSPr",
+          "brat_label": "VPSPr",
+          "definition": "Variably Protease-Sensitive Prionopathy",
+          "examples": [
+            "VPSPr",
+            "variably protease-sensitive prionopathy"
+          ]
+        }
+      ]
+    },
+    {
+      "coarse_type": "Familial_Prion",
+      "definition": "Familial prion disease subtype.",
+      "fine_types": [
+        {
+          "fine_type": "fCJD",
+          "brat_label": "fCJD",
+          "definition": "Familial Creutzfeldt-Jakob Disease"
+        },
+        {
+          "fine_type": "GSS",
+          "brat_label": "GSS",
+          "definition": "Gerstmann-Sträussler-Scheinker Syndrome"
+        },
+        {
+          "fine_type": "FFI",
+          "brat_label": "FFI",
+          "definition": "Fatal Familial Insomnia"
+        }
+      ]
+    },
+    {
+      "coarse_type": "Acquired_Prion",
+      "definition": "Acquired prion disease subtype.",
+      "fine_types": [
+        {
+          "fine_type": "vCJD",
+          "brat_label": "vCJD",
+          "definition": "Variant Creutzfeldt-Jakob Disease"
+        },
+        {
+          "fine_type": "iCJD",
+          "brat_label": "iCJD",
+          "definition": "Iatrogenic Creutzfeldt-Jakob Disease"
+        },
+        {
+          "fine_type": "Kuru",
+          "brat_label": "Kuru",
+          "definition": "Kuru"
+        }
+      ]
+    },
+    {
+      "coarse_type": "Differential_Diagnosis",
+      "definition": "Non-prion diseases used for differential diagnosis (no fine-grained subtypes in this schema).",
+      "examples": [
+        "Alzheimer's disease",
+        "autoimmune encephalitis",
+        "viral encephalitis",
+        "Parkinson's disease"
+      ],
+      "fine_types": [
+        {
+          "fine_type": "Differential_Diagnosis",
+          "brat_label": "Differential_Diagnosis",
+          "definition": "Non-prion diseases used for differential diagnosis (no fine-grained subtypes in this schema).",
+          "examples": [
+            "Alzheimer's disease",
+            "autoimmune encephalitis",
+            "viral encephalitis",
+            "Parkinson's disease"
+          ]
+        }
+      ]
+    },
+    {
+      "coarse_type": "Symptom",
+      "definition": "Any subjective experience reported by the patient or objective observation made by a clinician.",
+      "examples": [
+        "memory loss",
+        "fatigue",
+        "hyperreflexia",
+        "Babinski sign",
+        "rigidity",
+        "startle response"
+      ],
+      "fine_types": [
+        {
+          "fine_type": "Symptom",
+          "brat_label": "Symptom",
+          "definition": "Any subjective experience reported by the patient or objective observation made by a clinician.",
+          "examples": [
+            "memory loss",
+            "fatigue",
+            "hyperreflexia",
+            "Babinski sign",
+            "rigidity",
+            "startle response"
+          ]
+        }
+      ]
+    },
+    {
+      "coarse_type": "Test_name",
+      "definition": "Name or category of a diagnostic test.",
+      "fine_types": [
+        {
+          "fine_type": "Imaging_test",
+          "brat_label": "Imaging_test",
+          "definition": "MRI; CT scan; PET scan",
+          "examples": [
+            "MRI",
+            "CT scan",
+            "PET scan"
+          ]
+        },
+        {
+          "fine_type": "Electrophysio_test",
+          "brat_label": "Electrophysio_test",
+          "definition": "nerve conduction study, Polysomnography",
+          "examples": [
+            "nerve conduction study",
+            "Polysomnography"
+          ]
+        },
+        {
+          "fine_type": "Blood_biomarker_test",
+          "brat_label": "Blood_biomarker_test",
+          "definition": "CSF 14-3-3 assay; tau assay; complete blood count",
+          "examples": [
+            "CSF 14-3-3 assay",
+            "tau assay",
+            "complete blood count"
+          ]
+        },
+        {
+          "fine_type": "Genetic_test",
+          "brat_label": "Genetic_test",
+          "definition": "PRNP genetic testing; mutation analysis; gene panel testing",
+          "examples": [
+            "PRNP genetic testing",
+            "mutation analysis",
+            "gene panel testing"
+          ]
+        },
+        {
+          "fine_type": "Molecular_assay",
+          "brat_label": "Molecular_assay",
+          "definition": "RT-QuIC; PCR; Western blot",
+          "examples": [
+            "RT-QuIC",
+            "PCR",
+            "Western blot"
+          ]
+        },
+        {
+          "fine_type": "Autopsy",
+          "brat_label": "Autopsy",
+          "definition": "brain autopsy; neuropathological examination; postmortem analysis",
+          "examples": [
+            "brain autopsy",
+            "neuropathological examination",
+            "postmortem analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "coarse_type": "Sequences",
+      "definition": "Imaging sequences used in diagnostic evaluation.",
+      "fine_types": [
+        {
+          "fine_type": "Imaging_sequence",
+          "brat_label": "Imaging_sequence",
+          "definition": "DWI; FLAIR; diffusion-weighted imaging; ADC maps",
+          "examples": [
+            "DWI",
+            "FLAIR",
+            "diffusion-weighted imaging",
+            "ADC maps"
+          ]
+        }
+      ]
+    },
+    {
+      "coarse_type": "Findings",
+      "definition": "Diagnostic findings observed from imaging or autopsy.",
+      "fine_types": [
+        {
+          "fine_type": "Imaging_finding",
+          "brat_label": "Imaging_finding",
+          "definition": "pulvinar sign; restricted diffusion; cortical ribboning",
+          "examples": [
+            "pulvinar sign",
+            "restricted diffusion",
+            "cortical ribboning"
+          ]
+        },
+        {
+          "fine_type": "Autopsy_finding",
+          "brat_label": "Autopsy_finding",
+          "definition": "spongiform change; neuronal loss; astrogliosis",
+          "examples": [
+            "spongiform change",
+            "neuronal loss",
+            "astrogliosis"
+          ]
+        }
+      ]
+    },
+    {
+      "coarse_type": "Anatomic_location",
+      "definition": "A specific anatomical structure where a clinical finding or pathological change is observed.",
+      "examples": [
+        "cortex",
+        "basal ganglia",
+        "thalamus",
+        "caudate nucleus",
+        "cerebral cortex"
+      ],
+      "fine_types": [
+        {
+          "fine_type": "Anatomic_location",
+          "brat_label": "Anatomic_location",
+          "definition": "A specific anatomical structure where a clinical finding or pathological change is observed.",
+          "examples": [
+            "cortex",
+            "basal ganglia",
+            "thalamus",
+            "caudate nucleus",
+            "cerebral cortex"
+          ]
+        }
+      ]
+    },
+    {
+      "coarse_type": "Age",
+      "definition": "The age of a patient at disease onset.",
+      "examples": [
+        "age 62",
+        "45-year-old",
+        "at 58 years"
+      ],
+      "fine_types": [
+        {
+          "fine_type": "Age",
+          "brat_label": "Age",
+          "definition": "The age of a patient at disease onset.",
+          "examples": [
+            "age 62",
+            "45-year-old",
+            "at 58 years"
+          ]
+        }
+      ]
+    },
+    {
+      "coarse_type": "Treatment",
+      "definition": "A therapeutic intervention, medication used to manage a disease or its symptoms.",
+      "examples": [
+        "supportive care",
+        "quinacrine",
+        "doxycycline",
+        "symptomatic treatment"
+      ],
+      "fine_types": [
+        {
+          "fine_type": "Treatment",
+          "brat_label": "Treatment",
+          "definition": "A therapeutic intervention, medication used to manage a disease or its symptoms.",
+          "examples": [
+            "supportive care",
+            "quinacrine",
+            "doxycycline",
+            "symptomatic treatment"
+          ]
+        }
+      ]
+    },
+    {
+      "coarse_type": "Complication",
+      "definition": "A secondary medical condition that arises as a consequence of disease progression.",
+      "examples": [
+        "pneumonia",
+        "aspiration pneumonia",
+        "respiratory failure"
+      ],
+      "fine_types": [
+        {
+          "fine_type": "Complication",
+          "brat_label": "Complication",
+          "definition": "A secondary medical condition that arises as a consequence of disease progression.",
+          "examples": [
+            "pneumonia",
+            "aspiration pneumonia",
+            "respiratory failure"
+          ]
+        }
+      ]
+    },
+    {
+      "coarse_type": "Time",
+      "definition": "Temporal information associated with disease course, symptoms, testing, or events.",
+      "fine_types": [
+        {
+          "fine_type": "Duration",
+          "brat_label": "Duration",
+          "definition": "A span or length of time over which a clinical event, symptom, or disease progression occurs.",
+          "examples": [
+            "within 3 months",
+            "over 2 years",
+            "rapidly progressive over weeks"
+          ]
+        },
+        {
+          "fine_type": "Time_point",
+          "brat_label": "Time_point",
+          "definition": "A specific point in time associated with clinical symptoms or a specific event.",
+          "examples": [
+            "at onset",
+            "at age 62",
+            "in 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "coarse_type": "Stats",
+      "definition": "Statistical information related to disease or diagnostic tests.",
+      "fine_types": [
+        {
+          "fine_type": "Sensitivity",
+          "brat_label": "Sensitivity",
+          "definition": "The true positive rate for a diagnostic test.",
+          "examples": [
+            "sensitivity of 85%"
+          ]
+        },
+        {
+          "fine_type": "Specificity",
+          "brat_label": "Specificity",
+          "definition": "The true negative rate for a diagnostic test.",
+          "examples": [
+            "specificity of 92%"
+          ]
+        },
+        {
+          "fine_type": "Prevalence",
+          "brat_label": "Prevalence",
+          "definition": "Disease frequency within a population.",
+          "examples": [
+            "1 per million",
+            "prevalence of 0.5%"
+          ]
+        },
+        {
+          "fine_type": "Incidence",
+          "brat_label": "Incidence",
+          "definition": "The rate at which new cases of a disease occur in a population during a specified time period.",
+          "examples": [
+            "annual incidence of 2 per million"
+          ]
+        }
+      ]
+    }
+  ]
+}

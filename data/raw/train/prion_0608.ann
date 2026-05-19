@@ -1,0 +1,10 @@
+T1	Generic_Prion 18 43	Creutzfeldt-Jakob disease
+T2	Kuru 102 106	kuru
+T3	Anatomic_location 128 138	cerebellum
+T4	Anatomic_location 179 187	striatum
+T5	Generic_Prion 221 246	Creutzfeldt-Jakob disease
+T6	Kuru 251 255	kuru
+T7	Choose_Related 268 271	YES
+T8	Autopsy_finding 102 120	kuru-like' plaques
+T9	Choose_Done 279 283	DONE
+T10	Autopsy_finding 152 171	vacuolated neurones

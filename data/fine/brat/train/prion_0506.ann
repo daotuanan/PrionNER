@@ -1,0 +1,12 @@
+T1	Age 22 34	53 years old
+T2	Symptom 57 76	cortical impairment
+T3	Symptom 81 102	pyramidal disfunction
+T5	Symptom 127 142	acinetic mutism
+T6	Autopsy 160 174	histopathology
+T7	Generic_Prion 201 225	Creutzeldt-Jakob disease
+T8	Autopsy_finding 232 245	neuronal loss
+T9	Autopsy_finding 247 254	gliosis
+T10	Autopsy_finding 259 276	status spongiosus
+T11	Autopsy 282 314	electron-microscopic examination
+T12	Autopsy_finding 331 348	status spongiosus
+T4	Duration 115 123	6 months

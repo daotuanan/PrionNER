@@ -1,0 +1,22 @@
+T1	vCJD 0 11	Variant CJD
+T2	vCJD 13 17	vCJD
+T3	Time_point 64 68	1996
+T4	Generic_Prion 95 114	human prion disease
+T5	Generic_Prion 188 220	bovine spongiform encephalopathy
+T6	Generic_Prion 222 225	BSE
+T7	Generic_Prion 336 355	human prion disease
+T8	Generic_Prion 482 485	BSE
+T9	vCJD 541 545	vCJD
+T10	Autopsy 862 869	autopsy
+T11	Autopsy 894 900	biopsy
+T12	Imaging_finding 1036 1049	pulvinar sign
+T13	Imaging_test 1062 1080	magnetic resonance
+T14	Blood_biomarker_test 1123 1134	blood tests
+T17	vCJD 1188 1192	vCJD
+T21	Choose_Related 1279 1282	YES
+T15	Choose_Done 1290 1294	DONE
+T16	Autopsy 824 838	neuropathology
+T18	Anatomic_location 888 893	brain
+T19	Anatomic_location 1036 1044	pulvinar
+T20	Anatomic_location 1053 1061	cerebral
+T22	Choose_Done 1297 1302	CHECK

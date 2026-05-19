@@ -1,0 +1,523 @@
+{
+  "doc_id": "prion_0715",
+  "text": "We presented a case of Creutzfeldt-Jakob disease (CJD) associated with ocular dipping (OD).\nA 65-year-old woman was hospitalized with two months history of progressive ataxia and mental deterioration.\nOn admission, she was bed-ridden and stuporous with rigidity of the four limbs.\nHer both eyes were noted to deviate downward slowly from midpossition, taking 1 to 3 seconds to reach the nadir and rapidly returned to midpossition.\nIt was felt that these abnormal eye movements are compatible with OD.\nFindings of EOG were compatible with that of typical OD.\nElectroencephalogram obtained a few months later revealed periodic synchronous discharge.\nMagnetic resonance imaging of the brain which had demonstrated mild cerebral atrophy in the beginning subsequently revealed full-brown cerebral atrophy.\nHence, she was diagnosed of having CJD.\nThere has been no report of CJD associated with OD.\nThe OD was observed to last as long as 110 days.\nWhen the above described abnormal eye movements were noted, there was no signs indicative of brain stem dysfunction present.\nTherefore, we feel that the present case suggest that a diffuse cerebral dysfunction involving the cerebral cortex and basal ganglia may underlie in the development of OD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 23,
+      "end": 48,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 23,
+          "end": 48
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 50,
+      "end": 53,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 50,
+          "end": 53
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 71,
+      "end": 85,
+      "text": "ocular dipping",
+      "spans": [
+        {
+          "start": 71,
+          "end": 85
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 87,
+      "end": 89,
+      "text": "OD",
+      "spans": [
+        {
+          "start": 87,
+          "end": 89
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Age",
+      "start": 94,
+      "end": 105,
+      "text": "65-year-old",
+      "spans": [
+        {
+          "start": 94,
+          "end": 105
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Time",
+      "start": 134,
+      "end": 144,
+      "text": "two months",
+      "spans": [
+        {
+          "start": 134,
+          "end": 144
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 156,
+      "end": 174,
+      "text": "progressive ataxia",
+      "spans": [
+        {
+          "start": 156,
+          "end": 174
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 179,
+      "end": 199,
+      "text": "mental deterioration",
+      "spans": [
+        {
+          "start": 179,
+          "end": 199
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Time",
+      "start": 201,
+      "end": 213,
+      "text": "On admission",
+      "spans": [
+        {
+          "start": 201,
+          "end": 213
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 223,
+      "end": 233,
+      "text": "bed-ridden",
+      "spans": [
+        {
+          "start": 223,
+          "end": 233
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 238,
+      "end": 247,
+      "text": "stuporous",
+      "spans": [
+        {
+          "start": 238,
+          "end": 247
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 253,
+      "end": 261,
+      "text": "rigidity",
+      "spans": [
+        {
+          "start": 253,
+          "end": 261
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 269,
+      "end": 279,
+      "text": "four limbs",
+      "spans": [
+        {
+          "start": 269,
+          "end": 279
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 290,
+      "end": 294,
+      "text": "eyes",
+      "spans": [
+        {
+          "start": 290,
+          "end": 294
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 387,
+      "end": 392,
+      "text": "nadir",
+      "spans": [
+        {
+          "start": 387,
+          "end": 392
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 454,
+      "end": 476,
+      "text": "abnormal eye movements",
+      "spans": [
+        {
+          "start": 454,
+          "end": 476
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Symptom",
+      "start": 497,
+      "end": 499,
+      "text": "OD",
+      "spans": [
+        {
+          "start": 497,
+          "end": 499
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Test_name",
+      "start": 513,
+      "end": 516,
+      "text": "EOG",
+      "spans": [
+        {
+          "start": 513,
+          "end": 516
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Symptom",
+      "start": 554,
+      "end": 556,
+      "text": "OD",
+      "spans": [
+        {
+          "start": 554,
+          "end": 556
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Test_name",
+      "start": 558,
+      "end": 578,
+      "text": "Electroencephalogram",
+      "spans": [
+        {
+          "start": 558,
+          "end": 578
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Test_name",
+      "start": 648,
+      "end": 674,
+      "text": "Magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 648,
+          "end": 674
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 682,
+      "end": 687,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 682,
+          "end": 687
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Findings",
+      "start": 711,
+      "end": 732,
+      "text": "mild atrophy",
+      "spans": [
+        {
+          "start": 711,
+          "end": 715
+        },
+        {
+          "start": 725,
+          "end": 732
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T37",
+      "label": "Anatomic_location",
+      "start": 716,
+      "end": 724,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 716,
+          "end": 724
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Time",
+      "start": 733,
+      "end": 749,
+      "text": "in the beginning",
+      "spans": [
+        {
+          "start": 733,
+          "end": 749
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Findings",
+      "start": 772,
+      "end": 799,
+      "text": "full-brown atrophy",
+      "spans": [
+        {
+          "start": 772,
+          "end": 782
+        },
+        {
+          "start": 792,
+          "end": 799
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T39",
+      "label": "Anatomic_location",
+      "start": 783,
+      "end": 791,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 783,
+          "end": 791
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Generic_Prion",
+      "start": 836,
+      "end": 839,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 836,
+          "end": 839
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Generic_Prion",
+      "start": 869,
+      "end": 872,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 869,
+          "end": 872
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Symptom",
+      "start": 889,
+      "end": 891,
+      "text": "OD",
+      "spans": [
+        {
+          "start": 889,
+          "end": 891
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Symptom",
+      "start": 897,
+      "end": 899,
+      "text": "OD",
+      "spans": [
+        {
+          "start": 897,
+          "end": 899
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Time",
+      "start": 932,
+      "end": 940,
+      "text": "110 days",
+      "spans": [
+        {
+          "start": 932,
+          "end": 940
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Symptom",
+      "start": 967,
+      "end": 989,
+      "text": "abnormal eye movements",
+      "spans": [
+        {
+          "start": 967,
+          "end": 989
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Anatomic_location",
+      "start": 1035,
+      "end": 1045,
+      "text": "brain stem",
+      "spans": [
+        {
+          "start": 1035,
+          "end": 1045
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Symptom",
+      "start": 1035,
+      "end": 1057,
+      "text": "brain stem dysfunction",
+      "spans": [
+        {
+          "start": 1035,
+          "end": 1057
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Symptom",
+      "start": 1123,
+      "end": 1151,
+      "text": "diffuse cerebral dysfunction",
+      "spans": [
+        {
+          "start": 1123,
+          "end": 1151
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Anatomic_location",
+      "start": 1166,
+      "end": 1181,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 1166,
+          "end": 1181
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Anatomic_location",
+      "start": 1186,
+      "end": 1199,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 1186,
+          "end": 1199
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Symptom",
+      "start": 1235,
+      "end": 1237,
+      "text": "OD",
+      "spans": [
+        {
+          "start": 1235,
+          "end": 1237
+        }
+      ]
+    }
+  ]
+}

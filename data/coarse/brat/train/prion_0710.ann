@@ -1,0 +1,10 @@
+T1	Familial_Prion 0 23	Fatal familial insomnia
+T3	Familial_Prion 25 28	FFI
+T4	Generic_Prion 46 59	prion disease
+T5	Test_name 72 80	mutation
+T8	Symptom 263 271	insomnia
+T9	Symptom 277 336	disturbances of the autonomic, endocrine, and motor systems
+T2	Findings 364 402	selective degeneration of the thalamus
+T10	Anatomic_location 394 402	thalamus
+T12	Test_name 584 600	genomic analysis
+T13	Familial_Prion 619 622	FFI

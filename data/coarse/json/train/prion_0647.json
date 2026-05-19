@@ -1,0 +1,227 @@
+{
+  "doc_id": "prion_0647",
+  "text": "The authors report two cases of Creutzfeldt Jakob disease in a 48 year old woman and a 60 year old man.\nThis demential disorder is induced by a non conventional virus and its characterized from a clinical point of view by progressive dementia, myoclonus and seizures, it follows a subacute course with progressive deteriorization that invariably leads to death.\nNeuropathological features include: neuronal loss, astrocytosis and neuropil vacuolization in cortical areas of the brain.\nA review of the medical literature suggests that these constitute the fourth and fifth case respectively reported in Venezuela, of this unusual neurological disorder.\nThis paper emphasizes the clinical and neuropathological features of this entity and suggests its inclussion among the differential diagnoses of the different demential processes.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 32,
+      "end": 57,
+      "text": "Creutzfeldt Jakob disease",
+      "spans": [
+        {
+          "start": 32,
+          "end": 57
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 63,
+      "end": 74,
+      "text": "48 year old",
+      "spans": [
+        {
+          "start": 63,
+          "end": 74
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 87,
+      "end": 98,
+      "text": "60 year old",
+      "spans": [
+        {
+          "start": 87,
+          "end": 98
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Differential_Diagnosis",
+      "start": 109,
+      "end": 127,
+      "text": "demential disorder",
+      "spans": [
+        {
+          "start": 109,
+          "end": 127
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 222,
+      "end": 242,
+      "text": "progressive dementia",
+      "spans": [
+        {
+          "start": 222,
+          "end": 242
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 244,
+      "end": 253,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 244,
+          "end": 253
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 258,
+      "end": 266,
+      "text": "seizures",
+      "spans": [
+        {
+          "start": 258,
+          "end": 266
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 302,
+      "end": 329,
+      "text": "progressive deteriorization",
+      "spans": [
+        {
+          "start": 302,
+          "end": 329
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Complication",
+      "start": 355,
+      "end": 360,
+      "text": "death",
+      "spans": [
+        {
+          "start": 355,
+          "end": 360
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Test_name",
+      "start": 362,
+      "end": 379,
+      "text": "Neuropathological",
+      "spans": [
+        {
+          "start": 362,
+          "end": 379
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Findings",
+      "start": 398,
+      "end": 411,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 398,
+          "end": 411
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Findings",
+      "start": 413,
+      "end": 425,
+      "text": "astrocytosis",
+      "spans": [
+        {
+          "start": 413,
+          "end": 425
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Findings",
+      "start": 430,
+      "end": 452,
+      "text": "neuropil vacuolization",
+      "spans": [
+        {
+          "start": 430,
+          "end": 452
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 456,
+      "end": 470,
+      "text": "cortical areas",
+      "spans": [
+        {
+          "start": 456,
+          "end": 470
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 478,
+      "end": 483,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 478,
+          "end": 483
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Differential_Diagnosis",
+      "start": 629,
+      "end": 650,
+      "text": "neurological disorder",
+      "spans": [
+        {
+          "start": 629,
+          "end": 650
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Differential_Diagnosis",
+      "start": 801,
+      "end": 830,
+      "text": "different demential processes",
+      "spans": [
+        {
+          "start": 801,
+          "end": 830
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+T1	Test_name 48 67	neuropathologically
+T2	Generic_Prion 77 102	Creutzfeldt-Jakob disease
+T3	Generic_Prion 104 107	CJD
+T4	Age 221 244	ages of 55 and 75 years
+T7	Familial_Prion 265 279	Familial cases
+T10	Symptom 466 486	mental deterioration
+T14	Symptom 574 595	neurological symptoms
+T5	Symptom 625 633;639 652;663 669	symptoms of cerebellar origin
+T6	Symptom 625 633;656 669	symptoms visual origin
+T15	Anatomic_location 642 652	cerebellar
+T17	Symptom 671 703	Extrapyramidal muscular rigidity
+T18	Symptom 705 714	myoclonus
+T20	Test_name 744 767	electroencephalographic
+T13	Test_name 769 772	EEG
+T22	Symptom 850 870	involuntary movement
+T8	Test_name 883 886	EEG
+T25	Time 969 977	4 months
+T11	Complication 1014 1018	died
+T16	Time 1019 1032	within a year

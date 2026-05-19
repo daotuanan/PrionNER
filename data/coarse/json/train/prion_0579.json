@@ -1,0 +1,71 @@
+{
+  "doc_id": "prion_0579",
+  "text": "We present a definite case of Creutzfeldt-Jakob disease (CJD) with visual evoked response (VER) and CSF oligoclonal band abnormalities and discuss the neurobiological significance and diagnostic value of these findings.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 30,
+      "end": 55,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 30,
+          "end": 55
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 57,
+      "end": 60,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 57,
+          "end": 60
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 67,
+      "end": 89,
+      "text": "visual evoked response",
+      "spans": [
+        {
+          "start": 67,
+          "end": 89
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 91,
+      "end": 94,
+      "text": "VER",
+      "spans": [
+        {
+          "start": 91,
+          "end": 94
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 100,
+      "end": 103,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 100,
+          "end": 103
+        }
+      ]
+    }
+  ]
+}

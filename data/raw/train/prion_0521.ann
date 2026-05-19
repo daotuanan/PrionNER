@@ -1,0 +1,19 @@
+T1	Age 17 28	67-year-old
+T2	Generic_Prion 62 87	Creutzfeldt-Jakob disease
+T3	Generic_Prion 89 92	CJD
+T4	Generic_Prion 164 167	CJD
+T5	Imaging_test 179 205	magnetic resonance imaging
+T6	Imaging_test 207 210	MRI
+T8	Anatomic_location 261 275	caudate nuclei
+T9	Anatomic_location 280 288	putamina
+T10	Imaging_sequence 292 303	T2-weighted
+T11	Autopsy_finding 348 371	spongiform degeneration
+T12	Autopsy 375 404	neuropathological examination
+T13	Duration 406 422	Five weeks later
+T14	Imaging_finding 461 468	atrophy
+T15	Imaging_test 499 502	MRI
+T16	Choose_Related 515 518	YES
+T7	Imaging_finding 228 253	enhanced signal intensity
+T17	Imaging_sequence 308 329	proton density images
+T18	Choose_Done 526 530	DONE
+T19	Anatomic_location 452 460	cortical

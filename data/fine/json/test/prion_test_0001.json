@@ -1,0 +1,809 @@
+{
+  "doc_id": "prion_test_0001",
+  "text": "AIMS: Creutzfeldt-Jakob disease (CJD) is a rare, progressive, fatal neurodegenerative disorder caused by an abnormal glycoprotein known as the prion protein.\nThe core features include progressive cognitive decline, cerebellar dysfunction, personality changes, and visual disturbances.\nAlthough psychiatric symptoms are rare, they can be the primary symptom of CJD, and such presentations can pose diagnostic difficulties.\nIn this paper, we describe the case of Ms. R, who manifested psychotic symptoms as the first signs of CJD.\nMETHODS: Ms. R, was a 49-year-old white British female not previously known to psychiatric services, who presented with acute onset of florid psychotic symptoms. Her symptoms included auditory hallucinations, paranoia, and thought disorder.\nShe was treated with antipsychotics for over four weeks, following her admission, but no improvement was seen.\nInstead, her psychosis worsened with cognitive decline, mutism, and the appearance of neurological symptoms such as jerky body movement, ataxia, and falls.\nAll screening blood tests, chest X-ray, and CT abdomen were normal. The MRI, however revealed few patches of high T2/FLAIR signal in the deep white matter.\nCerebrospinal fluid showed increased protein.\nNeurologist reviews suggested the possibility of sporadic CJD (sCJD) as a probable diagnosis.\nAs her condition deteriorated, she became comatose and died four months after the appearance of the first psychiatric symptoms. RESULTS: It can be challenging to diagnose CJD since the clinical picture overlaps with other neuropsychiatric and neurodegenerative conditions.\nIt requires the presence of relevant clinical findings along with positive CSF, EEG, or MRI findings to make a probable diagnosis.\nRegarding our case, some noteworthy observations were psychosis as the initial symptom, relatively delayed onset of neurological signs, rapid deterioration with brief duration of illness.\nThe MRI findings were typical of those seen in sCJD, although the EEG did not suggest sCJD.\nA differential of variant CJD was considered because of her age, prominent psychiatric symptoms, and delayed neurological signs.\nCONCLUSION: Creutzfeldt-Jakob disease course is rapidly progressive, and majority of patients die within one year.\nTherefore, awareness of early clinical features is of great significance.\nAmong other things, this would enable patients and their families time to understand the nature of CJD, prognosis and prepare advanced directives.\nThis case adds to the growing number of atypical presentation of CJD as well as pointing to an expanding spectrum of the disease.\nTherefore, clinicians should consider CJD in the differential diagnosis of new-onset psychosis, particularly if symptoms persist and worsen despite standard psychiatric treatment.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 6,
+      "end": 31,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 6,
+          "end": 31
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 33,
+      "end": 36,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 33,
+          "end": 36
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 184,
+      "end": 213,
+      "text": "progressive cognitive decline",
+      "spans": [
+        {
+          "start": 184,
+          "end": 213
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 215,
+      "end": 237,
+      "text": "cerebellar dysfunction",
+      "spans": [
+        {
+          "start": 215,
+          "end": 237
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 239,
+      "end": 258,
+      "text": "personality changes",
+      "spans": [
+        {
+          "start": 239,
+          "end": 258
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 264,
+      "end": 283,
+      "text": "visual disturbances",
+      "spans": [
+        {
+          "start": 264,
+          "end": 283
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 294,
+      "end": 314,
+      "text": "psychiatric symptoms",
+      "spans": [
+        {
+          "start": 294,
+          "end": 314
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 360,
+      "end": 363,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 360,
+          "end": 363
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 483,
+      "end": 501,
+      "text": "psychotic symptoms",
+      "spans": [
+        {
+          "start": 483,
+          "end": 501
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 524,
+      "end": 527,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 524,
+          "end": 527
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Age",
+      "start": 551,
+      "end": 562,
+      "text": "49-year-old",
+      "spans": [
+        {
+          "start": 551,
+          "end": 562
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 671,
+      "end": 689,
+      "text": "psychotic symptoms",
+      "spans": [
+        {
+          "start": 671,
+          "end": 689
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 713,
+      "end": 736,
+      "text": "auditory hallucinations",
+      "spans": [
+        {
+          "start": 713,
+          "end": 736
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 738,
+      "end": 746,
+      "text": "paranoia",
+      "spans": [
+        {
+          "start": 738,
+          "end": 746
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 752,
+      "end": 768,
+      "text": "thought disorder",
+      "spans": [
+        {
+          "start": 752,
+          "end": 768
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Treatment",
+      "start": 791,
+      "end": 805,
+      "text": "antipsychotics",
+      "spans": [
+        {
+          "start": 791,
+          "end": 805
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Duration",
+      "start": 810,
+      "end": 825,
+      "text": "over four weeks",
+      "spans": [
+        {
+          "start": 810,
+          "end": 825
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 894,
+      "end": 903,
+      "text": "psychosis",
+      "spans": [
+        {
+          "start": 894,
+          "end": 903
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 918,
+      "end": 935,
+      "text": "cognitive decline",
+      "spans": [
+        {
+          "start": 918,
+          "end": 935
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Symptom",
+      "start": 937,
+      "end": 943,
+      "text": "mutism",
+      "spans": [
+        {
+          "start": 937,
+          "end": 943
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Symptom",
+      "start": 967,
+      "end": 988,
+      "text": "neurological symptoms",
+      "spans": [
+        {
+          "start": 967,
+          "end": 988
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Symptom",
+      "start": 997,
+      "end": 1016,
+      "text": "jerky body movement",
+      "spans": [
+        {
+          "start": 997,
+          "end": 1016
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Symptom",
+      "start": 1018,
+      "end": 1024,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 1018,
+          "end": 1024
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Symptom",
+      "start": 1030,
+      "end": 1035,
+      "text": "falls",
+      "spans": [
+        {
+          "start": 1030,
+          "end": 1035
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Blood_biomarker_test",
+      "start": 1051,
+      "end": 1062,
+      "text": "blood tests",
+      "spans": [
+        {
+          "start": 1051,
+          "end": 1062
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Imaging_test",
+      "start": 1064,
+      "end": 1075,
+      "text": "chest X-ray",
+      "spans": [
+        {
+          "start": 1064,
+          "end": 1075
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Imaging_test",
+      "start": 1081,
+      "end": 1091,
+      "text": "CT abdomen",
+      "spans": [
+        {
+          "start": 1081,
+          "end": 1091
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Imaging_test",
+      "start": 1109,
+      "end": 1112,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 1109,
+          "end": 1112
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Imaging_finding",
+      "start": 1146,
+      "end": 1166,
+      "text": "high signal",
+      "spans": [
+        {
+          "start": 1146,
+          "end": 1150
+        },
+        {
+          "start": 1160,
+          "end": 1166
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T4",
+      "label": "Imaging_sequence",
+      "start": 1151,
+      "end": 1153,
+      "text": "T2",
+      "spans": [
+        {
+          "start": 1151,
+          "end": 1153
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Imaging_sequence",
+      "start": 1154,
+      "end": 1159,
+      "text": "FLAIR",
+      "spans": [
+        {
+          "start": 1154,
+          "end": 1159
+        }
+      ]
+    },
+    {
+      "id": "T49",
+      "label": "Anatomic_location",
+      "start": 1174,
+      "end": 1191,
+      "text": "deep white matter",
+      "spans": [
+        {
+          "start": 1174,
+          "end": 1191
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Blood_biomarker_test",
+      "start": 1193,
+      "end": 1212,
+      "text": "Cerebrospinal fluid",
+      "spans": [
+        {
+          "start": 1193,
+          "end": 1212
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "sCJD",
+      "start": 1288,
+      "end": 1300,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 1288,
+          "end": 1300
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "sCJD",
+      "start": 1302,
+      "end": 1306,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 1302,
+          "end": 1306
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Symptom",
+      "start": 1375,
+      "end": 1383,
+      "text": "comatose",
+      "spans": [
+        {
+          "start": 1375,
+          "end": 1383
+        }
+      ]
+    },
+    {
+      "id": "T56",
+      "label": "Complication",
+      "start": 1388,
+      "end": 1392,
+      "text": "died",
+      "spans": [
+        {
+          "start": 1388,
+          "end": 1392
+        }
+      ]
+    },
+    {
+      "id": "T60",
+      "label": "Duration",
+      "start": 1393,
+      "end": 1404,
+      "text": "four months",
+      "spans": [
+        {
+          "start": 1393,
+          "end": 1404
+        }
+      ]
+    },
+    {
+      "id": "T61",
+      "label": "Time_point",
+      "start": 1415,
+      "end": 1459,
+      "text": "appearance of the first psychiatric symptoms",
+      "spans": [
+        {
+          "start": 1415,
+          "end": 1459
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Generic_Prion",
+      "start": 1504,
+      "end": 1507,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1504,
+          "end": 1507
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Differential_Diagnosis",
+      "start": 1555,
+      "end": 1604,
+      "text": "neuropsychiatric conditions",
+      "spans": [
+        {
+          "start": 1555,
+          "end": 1571
+        },
+        {
+          "start": 1594,
+          "end": 1604
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T39",
+      "label": "Differential_Diagnosis",
+      "start": 1576,
+      "end": 1604,
+      "text": "neurodegenerative conditions",
+      "spans": [
+        {
+          "start": 1576,
+          "end": 1604
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Blood_biomarker_test",
+      "start": 1681,
+      "end": 1684,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1681,
+          "end": 1684
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Electrophysio_test",
+      "start": 1686,
+      "end": 1689,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 1686,
+          "end": 1689
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Imaging_test",
+      "start": 1694,
+      "end": 1697,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 1694,
+          "end": 1697
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Symptom",
+      "start": 1791,
+      "end": 1800,
+      "text": "psychosis",
+      "spans": [
+        {
+          "start": 1791,
+          "end": 1800
+        }
+      ]
+    },
+    {
+      "id": "T62",
+      "label": "Symptom",
+      "start": 1853,
+      "end": 1871,
+      "text": "neurological signs",
+      "spans": [
+        {
+          "start": 1853,
+          "end": 1871
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Imaging_test",
+      "start": 1929,
+      "end": 1932,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 1929,
+          "end": 1932
+        }
+      ]
+    },
+    {
+      "id": "T45",
+      "label": "sCJD",
+      "start": 1972,
+      "end": 1976,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 1972,
+          "end": 1976
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Electrophysio_test",
+      "start": 1991,
+      "end": 1994,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 1991,
+          "end": 1994
+        }
+      ]
+    },
+    {
+      "id": "T47",
+      "label": "sCJD",
+      "start": 2011,
+      "end": 2015,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 2011,
+          "end": 2015
+        }
+      ]
+    },
+    {
+      "id": "T48",
+      "label": "vCJD",
+      "start": 2035,
+      "end": 2046,
+      "text": "variant CJD",
+      "spans": [
+        {
+          "start": 2035,
+          "end": 2046
+        }
+      ]
+    },
+    {
+      "id": "T51",
+      "label": "Symptom",
+      "start": 2092,
+      "end": 2112,
+      "text": "psychiatric symptoms",
+      "spans": [
+        {
+          "start": 2092,
+          "end": 2112
+        }
+      ]
+    },
+    {
+      "id": "T50",
+      "label": "Symptom",
+      "start": 2126,
+      "end": 2144,
+      "text": "neurological signs",
+      "spans": [
+        {
+          "start": 2126,
+          "end": 2144
+        }
+      ]
+    },
+    {
+      "id": "T52",
+      "label": "Generic_Prion",
+      "start": 2158,
+      "end": 2183,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 2158,
+          "end": 2183
+        }
+      ]
+    },
+    {
+      "id": "T53",
+      "label": "Duration",
+      "start": 2244,
+      "end": 2259,
+      "text": "within one year",
+      "spans": [
+        {
+          "start": 2244,
+          "end": 2259
+        }
+      ]
+    },
+    {
+      "id": "T54",
+      "label": "Generic_Prion",
+      "start": 2434,
+      "end": 2437,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 2434,
+          "end": 2437
+        }
+      ]
+    },
+    {
+      "id": "T55",
+      "label": "Generic_Prion",
+      "start": 2547,
+      "end": 2550,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 2547,
+          "end": 2550
+        }
+      ]
+    },
+    {
+      "id": "T57",
+      "label": "Generic_Prion",
+      "start": 2650,
+      "end": 2653,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 2650,
+          "end": 2653
+        }
+      ]
+    },
+    {
+      "id": "T58",
+      "label": "Symptom",
+      "start": 2687,
+      "end": 2706,
+      "text": "new-onset psychosis",
+      "spans": [
+        {
+          "start": 2687,
+          "end": 2706
+        }
+      ]
+    },
+    {
+      "id": "T63",
+      "label": "Treatment",
+      "start": 2769,
+      "end": 2790,
+      "text": "psychiatric treatment",
+      "spans": [
+        {
+          "start": 2769,
+          "end": 2790
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "doc_id": "prion_0159",
+  "text": "A postmortem case of an atypical form of dural graft associated Creutzfeldt-Jakob disease (CJD) is described.\nA 42 year old man developed progressive spastic paresis 163 months after a cadaveric dura mater graft.\nHe presented with no myoclonus and very late occurrence of periodic synchronous discharges on EEG.\nThe prion protein (PrP) gene was homozygous for methionine at the polymorphic codon 129.\nNeuropathological examination disclosed plaque-like PrP deposits with atypical distribution of synaptic PrP accumulations in the brain.\nThis patient represents an atypical form of dural graft associated CJD characterised by unusual clinicopathological features.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "iCJD",
+      "start": 41,
+      "end": 89,
+      "text": "dural graft associated Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 41,
+          "end": 89
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 91,
+      "end": 94,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 91,
+          "end": 94
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Age",
+      "start": 112,
+      "end": 123,
+      "text": "42 year old",
+      "spans": [
+        {
+          "start": 112,
+          "end": 123
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 150,
+      "end": 165,
+      "text": "spastic paresis",
+      "spans": [
+        {
+          "start": 150,
+          "end": 165
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Duration",
+      "start": 166,
+      "end": 176,
+      "text": "163 months",
+      "spans": [
+        {
+          "start": 166,
+          "end": 176
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Treatment",
+      "start": 185,
+      "end": 211,
+      "text": "cadaveric dura mater graft",
+      "spans": [
+        {
+          "start": 185,
+          "end": 211
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 234,
+      "end": 243,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 234,
+          "end": 243
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Electrophysio_test",
+      "start": 307,
+      "end": 310,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 307,
+          "end": 310
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Autopsy",
+      "start": 401,
+      "end": 430,
+      "text": "Neuropathological examination",
+      "spans": [
+        {
+          "start": 401,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Autopsy_finding",
+      "start": 441,
+      "end": 465,
+      "text": "plaque-like PrP deposits",
+      "spans": [
+        {
+          "start": 441,
+          "end": 465
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy_finding",
+      "start": 496,
+      "end": 522,
+      "text": "synaptic PrP accumulations",
+      "spans": [
+        {
+          "start": 496,
+          "end": 522
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 530,
+      "end": 535,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 530,
+          "end": 535
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "iCJD",
+      "start": 581,
+      "end": 607,
+      "text": "dural graft associated CJD",
+      "spans": [
+        {
+          "start": 581,
+          "end": 607
+        }
+      ]
+    }
+  ]
+}

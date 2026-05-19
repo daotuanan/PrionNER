@@ -1,0 +1,20 @@
+T1	Age 2 13	48-year-old
+T7	Test_name 52 79	electroencephalographically
+T2	Symptom 92 100	dementia
+T3	Test_name 105 108	MRI
+T4	Sequences 125 150	diffusion-weighted images
+T5	Sequences 152 155	DWI
+T6	Anatomic_location 164 170	cortex
+T22	Test_name 190 202	pathological
+T8	Findings 212 219	atrophy
+T9	Anatomic_location 224 237	basal ganglia
+T19	Findings 238 252	signal changes
+T21	Time 267 275	9 months
+T10	Time 276 291	after the onset
+T20	Anatomic_location 293 298	Brain
+T11	Test_name 299 305	biopsy
+T12	Generic_Prion 316 341	Creutzfeldt-Jakob disease
+T13	Generic_Prion 343 346	CJD
+T14	Symptom 352 380	rapidly progressive dementia
+T16	Sequences 395 398	DWI
+T17	Generic_Prion 422 425	CJD

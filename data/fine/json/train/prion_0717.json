@@ -1,0 +1,201 @@
+{
+  "doc_id": "prion_0717",
+  "text": "We report two young patients who had repeated neurosurgical procedures and who were thought to be at risk of developing Creutzfeldt-Jakob disease (CJD).\nThe first patient had been given a lyophilized dural graft in the course of removal of a cerebellar medulloblastoma 15 yr previously.\nThe second patient had received pituitary-derived growth hormone for treatment of growth hormone deficiency, secondary to a third ventricle teratoma, exised 13 yr earlier.\nThe presence of cerebellar symptoms together with being recipients of growth hormone or dural graft of cadaveric extraction arose suspicion of a diagnosis of CJD in both individuals.\nPrecautions in the anaesthetic and surgical management of these two patients are discussed, and pertinent literature is reviewed briefly.",
+  "entities": [
+    {
+      "id": "T5",
+      "label": "Treatment",
+      "start": 46,
+      "end": 70,
+      "text": "neurosurgical procedures",
+      "spans": [
+        {
+          "start": 46,
+          "end": 70
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 120,
+      "end": 145,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 120,
+          "end": 145
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 147,
+      "end": 150,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 147,
+          "end": 150
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Treatment",
+      "start": 188,
+      "end": 211,
+      "text": "lyophilized dural graft",
+      "spans": [
+        {
+          "start": 188,
+          "end": 211
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 242,
+      "end": 252,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 242,
+          "end": 252
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Time_point",
+      "start": 269,
+      "end": 285,
+      "text": "15 yr previously",
+      "spans": [
+        {
+          "start": 269,
+          "end": 285
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Treatment",
+      "start": 319,
+      "end": 351,
+      "text": "pituitary-derived growth hormone",
+      "spans": [
+        {
+          "start": 319,
+          "end": 351
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Treatment",
+      "start": 356,
+      "end": 394,
+      "text": "treatment of growth hormone deficiency",
+      "spans": [
+        {
+          "start": 356,
+          "end": 394
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 411,
+      "end": 426,
+      "text": "third ventricle",
+      "spans": [
+        {
+          "start": 411,
+          "end": 426
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Time_point",
+      "start": 444,
+      "end": 457,
+      "text": "13 yr earlier",
+      "spans": [
+        {
+          "start": 444,
+          "end": 457
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 475,
+      "end": 485,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 475,
+          "end": 485
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 475,
+      "end": 494,
+      "text": "cerebellar symptoms",
+      "spans": [
+        {
+          "start": 475,
+          "end": 494
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Treatment",
+      "start": 529,
+      "end": 543,
+      "text": "growth hormone",
+      "spans": [
+        {
+          "start": 529,
+          "end": 543
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Treatment",
+      "start": 547,
+      "end": 582,
+      "text": "dural graft of cadaveric extraction",
+      "spans": [
+        {
+          "start": 547,
+          "end": 582
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 617,
+      "end": 620,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 617,
+          "end": 620
+        }
+      ]
+    }
+  ]
+}

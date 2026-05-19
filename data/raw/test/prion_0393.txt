@@ -1,0 +1,13 @@
+OBJECTIVE: To investigate abnormal prion protein (PrP) deposition in the peripheral nervous system (PNS) in human prion diseases.
+METHODS: Eight patients with prion diseases were examined: three with sporadic Creutzfeldt-Jakob disease (sCJD), two with dural graft associated CJD (dCJD), one with Gerstmann-Straussler-Scheinker disease (GSS) with a PrP P102L mutation (GSS102), and two with a P105L mutation (GSS105).
+An atypical case of sCJD with PrP plaques in the brain presented clinically with peripheral neuropathy, and showed demyelination in 12% of the teased fibres of the sural nerve.
+The PNS was investigated by immunohistochemical and western blotting analyses of PrP.
+RESULTS: In immunohistochemical studies, granular PrP deposits were detected in some neurones of dorsal root ganglia and a few fibres of peripheral nerves and spinal posterior roots in one sCJD and two dCJD patients, but not in GSS102 or GSS105 patients.
+The atypical case of sCJD with peripheral neuropathy showed no obvious PrP deposition in the nerves.
+Western blotting analysis of the PNS from the dCJD patients revealed a small amount of protease K resistant PrP in the dorsal root ganglia and peripheral nerves.
+CONCLUSIONS: Abnormal PrP deposition occurs in the dorsal root ganglia and peripheral nerves in sCJD and dCJD.
+The PrP deposits in the PNS are not correlated with clinical manifestation of peripheral neuropathy in CJD.
+
+<Related> YES or NO
+[DONE]
+[CHECK]

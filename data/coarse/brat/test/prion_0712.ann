@@ -1,0 +1,40 @@
+T1	Generic_Prion 9 50	transmissible spongiform encephalopathies
+T2	Acquired_Prion 69 73	Kuru
+T3	Acquired_Prion 157 193	iatrogenic Creutzfeldt-Jakob disease
+T4	Acquired_Prion 217 258	variant form of Creutzfeldt-Jakob disease
+T5	Acquired_Prion 260 265	nvCJD
+T8	Test_name 281 298	neuropathological
+T7	Acquired_Prion 311 316	nvCJD
+T9	Acquired_Prion 336 340	Kuru
+T14	Anatomic_location 364 374	cerebellar
+T10	Symptom 364 381	cerebellar ataxia
+T6	Findings 410 435	Kuru-type amyloid plaques
+T12	Findings 450 467	spongiform change
+T13	Sporadic_Prion 501 513	sporadic CJD
+T15	Acquired_Prion 515 519	Kuru
+T16	Acquired_Prion 524 529	nvCJD
+T18	Age 537 542	young
+T19	Generic_Prion 582 585	CJD
+T21	Age 613 618	young
+T22	Time 639 643	1996
+T17	Time 659 667	10 years
+T20	Time 678 752	beginning of the bovine spongiform encephalopathy (BSE) epidemic in the UK
+T24	Generic_Prion 695 727	bovine spongiform encephalopathy
+T25	Generic_Prion 729 732	BSE
+T26	Test_name 754 772	Molecular analysis
+T27	Acquired_Prion 788 793	nvCJD
+T29	Generic_Prion 859 862	CJD
+T30	Generic_Prion 887 890	BSE
+T32	Generic_Prion 930 933	BSE
+T23	Time 1008 1012	1989
+T34	Anatomic_location 1121 1126	brain
+T35	Anatomic_location 1128 1139	spinal cord
+T36	Anatomic_location 1144 1148	eyes
+T37	Acquired_Prion 1194 1198	Kuru
+T31	Anatomic_location 1273 1278	brain
+T41	Acquired_Prion 1348 1353	nvCJD
+T43	Time 1355 1377	10 to 30 years or more
+T44	Acquired_Prion 1393 1398	nvCJD
+T46	Time 1483 1487	2009
+T48	Time 1519 1523	2030
+T49	Acquired_Prion 1619 1623	Kuru

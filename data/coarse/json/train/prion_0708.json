@@ -1,0 +1,461 @@
+{
+  "doc_id": "prion_0708",
+  "text": "BACKGROUND: Magnetic resonance imaging of the brain has been of limited usefulness in the diagnosis of Creutzfeldt-Jakob disease.\nAbnormalities on T2-weighted images have been described, but these are neither highly sensitive nor specific.\nOBJECTIVE: To determine whether diffusion-weighted magnetic resonance images might be useful in the evaluation of Creutzfeldt-Jakob disease.\nCASE PRESENTATION: A 61-year-old woman with rapidly progressive dementia was referred for cranial magnetic resonance imaging.\nDiffusion-weighted images were obtained as part of the examination.\nBrain biopsy confirmed the diagnosis of Creutzfeldt-Jakob disease histologically.\nFINDINGS AND CONCLUSIONS: The diffusion-weighted magnetic resonance brain images demonstrated bilaterally symmetrical marked increase in signal intensity in the caudate nuclei, putamina, thalami, cingulate gyri, and right inferior frontal cortex.\nThe apparent diffusion coefficient map showed abnormally low diffusion in these regions (as low as 40% of normal in the caudate head).\nThis suggests that there is restricted diffusion in these regions.\nThe T2-weighted images demonstrated slightly increased signal bilaterally in the caudate nuclei and putamina.\nThese findings indicate that diffusion magnetic resonance imaging might be a sensitive means of imaging the abnormalities seen in Creutzfeldt-Jakob disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Test_name",
+      "start": 12,
+      "end": 38,
+      "text": "Magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 12,
+          "end": 38
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Anatomic_location",
+      "start": 46,
+      "end": 51,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 46,
+          "end": 51
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 103,
+      "end": 128,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 103,
+          "end": 128
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Sequences",
+      "start": 147,
+      "end": 165,
+      "text": "T2-weighted images",
+      "spans": [
+        {
+          "start": 147,
+          "end": 165
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Sequences",
+      "start": 272,
+      "end": 290,
+      "text": "diffusion-weighted",
+      "spans": [
+        {
+          "start": 272,
+          "end": 290
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 291,
+      "end": 316,
+      "text": "magnetic resonance images",
+      "spans": [
+        {
+          "start": 291,
+          "end": 316
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 354,
+      "end": 379,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 354,
+          "end": 379
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Age",
+      "start": 402,
+      "end": 413,
+      "text": "61-year-old",
+      "spans": [
+        {
+          "start": 402,
+          "end": 413
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 425,
+      "end": 453,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 425,
+          "end": 453
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Anatomic_location",
+      "start": 471,
+      "end": 478,
+      "text": "cranial",
+      "spans": [
+        {
+          "start": 471,
+          "end": 478
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 479,
+      "end": 505,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 479,
+          "end": 505
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Sequences",
+      "start": 507,
+      "end": 532,
+      "text": "Diffusion-weighted images",
+      "spans": [
+        {
+          "start": 507,
+          "end": 532
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Anatomic_location",
+      "start": 575,
+      "end": 580,
+      "text": "Brain",
+      "spans": [
+        {
+          "start": 575,
+          "end": 580
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 581,
+      "end": 587,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 581,
+          "end": 587
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 615,
+      "end": 640,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 615,
+          "end": 640
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Test_name",
+      "start": 641,
+      "end": 655,
+      "text": "histologically",
+      "spans": [
+        {
+          "start": 641,
+          "end": 655
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Sequences",
+      "start": 687,
+      "end": 705,
+      "text": "diffusion-weighted",
+      "spans": [
+        {
+          "start": 687,
+          "end": 705
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Test_name",
+      "start": 706,
+      "end": 724,
+      "text": "magnetic resonance",
+      "spans": [
+        {
+          "start": 706,
+          "end": 724
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Anatomic_location",
+      "start": 725,
+      "end": 730,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 725,
+          "end": 730
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Findings",
+      "start": 782,
+      "end": 810,
+      "text": "increase in signal intensity",
+      "spans": [
+        {
+          "start": 782,
+          "end": 810
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 818,
+      "end": 832,
+      "text": "caudate nuclei",
+      "spans": [
+        {
+          "start": 818,
+          "end": 832
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 834,
+      "end": 842,
+      "text": "putamina",
+      "spans": [
+        {
+          "start": 834,
+          "end": 842
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 844,
+      "end": 851,
+      "text": "thalami",
+      "spans": [
+        {
+          "start": 844,
+          "end": 851
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 853,
+      "end": 867,
+      "text": "cingulate gyri",
+      "spans": [
+        {
+          "start": 853,
+          "end": 867
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 879,
+      "end": 902,
+      "text": "inferior frontal cortex",
+      "spans": [
+        {
+          "start": 879,
+          "end": 902
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Findings",
+      "start": 961,
+      "end": 974,
+      "text": "low diffusion",
+      "spans": [
+        {
+          "start": 961,
+          "end": 974
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Anatomic_location",
+      "start": 1024,
+      "end": 1036,
+      "text": "caudate head",
+      "spans": [
+        {
+          "start": 1024,
+          "end": 1036
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Findings",
+      "start": 1067,
+      "end": 1087,
+      "text": "restricted diffusion",
+      "spans": [
+        {
+          "start": 1067,
+          "end": 1087
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Sequences",
+      "start": 1110,
+      "end": 1128,
+      "text": "T2-weighted images",
+      "spans": [
+        {
+          "start": 1110,
+          "end": 1128
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Findings",
+      "start": 1151,
+      "end": 1167,
+      "text": "increased signal",
+      "spans": [
+        {
+          "start": 1151,
+          "end": 1167
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Anatomic_location",
+      "start": 1187,
+      "end": 1201,
+      "text": "caudate nuclei",
+      "spans": [
+        {
+          "start": 1187,
+          "end": 1201
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 1206,
+      "end": 1214,
+      "text": "putamina",
+      "spans": [
+        {
+          "start": 1206,
+          "end": 1214
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Sequences",
+      "start": 1245,
+      "end": 1254,
+      "text": "diffusion",
+      "spans": [
+        {
+          "start": 1245,
+          "end": 1254
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Test_name",
+      "start": 1255,
+      "end": 1281,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 1255,
+          "end": 1281
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Generic_Prion",
+      "start": 1346,
+      "end": 1371,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 1346,
+          "end": 1371
+        }
+      ]
+    }
+  ]
+}

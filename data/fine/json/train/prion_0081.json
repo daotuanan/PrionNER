@@ -1,0 +1,149 @@
+{
+  "doc_id": "prion_0081",
+  "text": "Creutzfeldt-Jakob disease (CJD) belongs to a group of prion diseases that may be infectious, sporadic, or hereditary.\nThe 200K point mutation in the PRNP gene is the most frequent cause of hereditary CJD, accounting for >70% of families with CJD worldwide.\nPrevalence of the 200K variant of familial CJD is especially high in Slovakia, Chile, and Italy, and among populations of Libyan and Tunisian Jews.\nTo study ancestral origins of the 200K mutation-associated chromosomes, we selected microsatellite markers flanking the PRNP gene on chromosome 20p12-pter and an intragenic single-nucleotide polymorphism at the PRNP codon 129.\nHaplotypes were constructed for 62 CJD families originating from 11 world populations.\nThe results show that Libyan, Tunisian, Italian, Chilean, and Spanish families share a major haplotype, suggesting that the 200K mutation may have originated from a single mutational event, perhaps in Spain, and spread to all these populations with Sephardic migrants expelled from Spain in the Middle Ages.\nSlovakian families and a family of Polish origin show another unique haplotype.\nThe haplotypes in families from Germany, Sicily, Austria, and Japan are different from the Mediterranean or eastern European haplotypes.\nOn the basis of this study, we conclude that founder effect and independent mutational events are responsible for the current geographic distribution of hereditary CJD associated with the 200K mutation.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 54,
+      "end": 68,
+      "text": "prion diseases",
+      "spans": [
+        {
+          "start": 54,
+          "end": 68
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "vCJD",
+      "start": 81,
+      "end": 91,
+      "text": "infectious",
+      "spans": [
+        {
+          "start": 81,
+          "end": 91
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "sCJD",
+      "start": 93,
+      "end": 101,
+      "text": "sporadic",
+      "spans": [
+        {
+          "start": 93,
+          "end": 101
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "fCJD",
+      "start": 106,
+      "end": 116,
+      "text": "hereditary",
+      "spans": [
+        {
+          "start": 106,
+          "end": 116
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "fCJD",
+      "start": 189,
+      "end": 203,
+      "text": "hereditary CJD",
+      "spans": [
+        {
+          "start": 189,
+          "end": 203
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Generic_Prion",
+      "start": 242,
+      "end": 245,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 242,
+          "end": 245
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "fCJD",
+      "start": 291,
+      "end": 303,
+      "text": "familial CJD",
+      "spans": [
+        {
+          "start": 291,
+          "end": 303
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 667,
+      "end": 670,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 667,
+          "end": 670
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "fCJD",
+      "start": 1397,
+      "end": 1411,
+      "text": "hereditary CJD",
+      "spans": [
+        {
+          "start": 1397,
+          "end": 1411
+        }
+      ]
+    }
+  ]
+}

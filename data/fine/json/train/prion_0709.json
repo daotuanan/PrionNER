@@ -1,0 +1,253 @@
+{
+  "doc_id": "prion_0709",
+  "text": "We report the case of a 75-year-old woman suffering from Creutzfeld-Jakob disease (CJD).\nAs brain biopsy was refused, diagnosis had to be based on clinical examination, EEC and findings on cranial MRI.\nOver a 4-month period MRI examinations demonstrated progressive cortical atrophy and bilateral enhanced signal intensity on T2-weighted images of caudate nuclei and putamina indicating development of spongioform degeneration.\nAs clinical course and the characteristic pattern of brain lesions corresponded to cases of neuropathologically confirmed CJD, we suggest that MRI should be considered a valuable diagnostic tool in clinical diagnosis of the disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 24,
+      "end": 35,
+      "text": "75-year-old",
+      "spans": [
+        {
+          "start": 24,
+          "end": 35
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 57,
+      "end": 81,
+      "text": "Creutzfeld-Jakob disease",
+      "spans": [
+        {
+          "start": 57,
+          "end": 81
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 83,
+      "end": 86,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 83,
+          "end": 86
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 92,
+      "end": 97,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 92,
+          "end": 97
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Autopsy",
+      "start": 98,
+      "end": 104,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 98,
+          "end": 104
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Imaging_test",
+      "start": 197,
+      "end": 200,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 197,
+          "end": 200
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Duration",
+      "start": 209,
+      "end": 216,
+      "text": "4-month",
+      "spans": [
+        {
+          "start": 209,
+          "end": 216
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Imaging_test",
+      "start": 224,
+      "end": 227,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 224,
+          "end": 227
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 266,
+      "end": 274,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 266,
+          "end": 274
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy_finding",
+      "start": 275,
+      "end": 282,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 275,
+          "end": 282
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Imaging_finding",
+      "start": 297,
+      "end": 322,
+      "text": "enhanced signal intensity",
+      "spans": [
+        {
+          "start": 297,
+          "end": 322
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Imaging_sequence",
+      "start": 326,
+      "end": 337,
+      "text": "T2-weighted",
+      "spans": [
+        {
+          "start": 326,
+          "end": 337
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 348,
+      "end": 362,
+      "text": "caudate nuclei",
+      "spans": [
+        {
+          "start": 348,
+          "end": 362
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 367,
+      "end": 375,
+      "text": "putamina",
+      "spans": [
+        {
+          "start": 367,
+          "end": 375
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Autopsy_finding",
+      "start": 402,
+      "end": 426,
+      "text": "spongioform degeneration",
+      "spans": [
+        {
+          "start": 402,
+          "end": 426
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 481,
+      "end": 486,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 481,
+          "end": 486
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Autopsy",
+      "start": 520,
+      "end": 539,
+      "text": "neuropathologically",
+      "spans": [
+        {
+          "start": 520,
+          "end": 539
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 550,
+      "end": 553,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 550,
+          "end": 553
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Imaging_test",
+      "start": 571,
+      "end": 574,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 571,
+          "end": 574
+        }
+      ]
+    }
+  ]
+}

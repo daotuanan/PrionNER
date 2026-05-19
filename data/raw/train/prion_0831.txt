@@ -1,0 +1,9 @@
+INTRODUCTION: Progressive myoclonic cerebellar ataxia is a clinical entity with an important spectrum of possible diagnoses that requires a complex and exhaustive differential diagnosis.
+CASE REPORT: A 53-year-old male patient with no relevant medical history who was admitted to hospital because of an unstable gait, together with mild bilateral dysymmetry and the progressive and insidious widening of the base of support.
+The patient's symptoms then became more pronounced and included myoclonus and a deterioration of the higher functions.
+The patient died four months after the onset of the symptoms.
+The explorations that were conducted included a pathological study of the brain, which confirmed the diagnosis of classical spongiform encephalopathy (Creutzfeldt-Jakob disease).
+CONCLUSIONS: Creutzfeldt-Jakob disease must be included in the differential diagnosis of progressive cerebellar ataxias.
+
+<Related> YES or NO
+[DONE]

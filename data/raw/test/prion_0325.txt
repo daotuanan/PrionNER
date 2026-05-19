@@ -1,0 +1,12 @@
+Two Japanese sporadic Creutzfeld-Jakob disease (sCJD) patients with valine homozygosity at codon 129 of the prion protein gene and protease-resistant prion protein (PrP(Sc)) type 2 (VV2) are described.
+In contrast with Western countries, this type of sCJD is very rare in Japan.
+In 123 sCJD cases, only two were recognised as VV2 by the Japanese CJD surveillance committee.
+The clinical symptoms and pathological findings of the patients were similar to those of European and US patients.
+The noteworthy finding of diffusion weighted MRI (DWI) was that an abnormal high intensity covered a wide range of the thalamus including the dorsomedial nucleus, the pulvinar, and the ventral anterior, lateral, and posterolateral nuclei.
+This thalamic pattern has not been recognised in sCJD with methionine homozygosity and PrP(Sc) type 1 (MM1) or methionine/valine heterozygosity and PrP(Sc) type 1 (MV1) which comprises the vast majority of sCJD.
+This finding may be characteristic to VV2 and may distinguish it from MM1, MV1, and variant CJD.
+DWI can provide a very important clue for the antemortem diagnosis of VV2 subjects.
+
+<Related> YES or NO
+[DONE]
+[CHECK]

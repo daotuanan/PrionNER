@@ -1,0 +1,23 @@
+T1	Symptom 24 30	ataxic
+T2	Generic_Prion 31 56	Creutzfeldt-Jakob disease
+T3	Test_name 58 61	EEG
+T4	Test_name 63 65	CT
+T5	Test_name 67 83	evoked responses
+T6	Test_name 89 92	CSF
+T8	Symptom 119 125	ataxic
+T7	Anatomic_location 164 174	cerebellar
+T9	Test_name 175 181	biopsy
+T11	Test_name 183 190	Autopsy
+T12	Findings 216 234	spongiform changes
+T13	Anatomic_location 242 252	cerebellum
+T14	Anatomic_location 254 267	basal ganglia
+T15	Anatomic_location 273 281	thalamus
+T16	Anatomic_location 309 324	cerebral cortex
+T17	Symptom 389 397	dementia
+T20	Test_name 436 459	visual evoked responses
+T22	Test_name 461 464	CSF
+T18	Findings 510 544	subacute spongiform encephalopathy
+T27	Anatomic_location 548 560	frontal lobe
+T28	Test_name 561 567	biopsy
+T30	Test_name 608 614	biopsy
+T32	Anatomic_location 618 623	brain

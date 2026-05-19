@@ -1,0 +1,297 @@
+{
+  "doc_id": "prion_0298",
+  "text": "In a patient whose Creutzfeldt-Jakob disease with congophilic kuru plaques that was proved at necropsy, the early brain CT showed low-density areas in the cerebral white matter before cortical atrophy and ventricular enlargement became apparent.\nSubsequently, there occurred diffuse white matter lucency and severe brain atrophy.\nAt necropsy, there was severe white matter destruction which was more prominent than cortical neuronal loss.\nSerial CT scans were of great value for demonstrating the early and predominant changes in the cerebral white matter.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 19,
+      "end": 44,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 19,
+          "end": 44
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Findings",
+      "start": 62,
+      "end": 74,
+      "text": "kuru plaques",
+      "spans": [
+        {
+          "start": 62,
+          "end": 74
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 94,
+      "end": 102,
+      "text": "necropsy",
+      "spans": [
+        {
+          "start": 94,
+          "end": 102
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 114,
+      "end": 119,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 114,
+          "end": 119
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 120,
+      "end": 122,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 120,
+          "end": 122
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Findings",
+      "start": 130,
+      "end": 147,
+      "text": "low-density areas",
+      "spans": [
+        {
+          "start": 130,
+          "end": 147
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 155,
+      "end": 176,
+      "text": "cerebral white matter",
+      "spans": [
+        {
+          "start": 155,
+          "end": 176
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 184,
+      "end": 192,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 184,
+          "end": 192
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Findings",
+      "start": 193,
+      "end": 200,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 193,
+          "end": 200
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 205,
+      "end": 216,
+      "text": "ventricular",
+      "spans": [
+        {
+          "start": 205,
+          "end": 216
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Findings",
+      "start": 217,
+      "end": 228,
+      "text": "enlargement",
+      "spans": [
+        {
+          "start": 217,
+          "end": 228
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Findings",
+      "start": 275,
+      "end": 303,
+      "text": "diffuse lucency",
+      "spans": [
+        {
+          "start": 275,
+          "end": 282
+        },
+        {
+          "start": 296,
+          "end": 303
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 283,
+      "end": 295,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 283,
+          "end": 295
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Anatomic_location",
+      "start": 315,
+      "end": 320,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 315,
+          "end": 320
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Findings",
+      "start": 321,
+      "end": 328,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 321,
+          "end": 328
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 333,
+      "end": 341,
+      "text": "necropsy",
+      "spans": [
+        {
+          "start": 333,
+          "end": 341
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 360,
+      "end": 372,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 360,
+          "end": 372
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Findings",
+      "start": 360,
+      "end": 384,
+      "text": "white matter destruction",
+      "spans": [
+        {
+          "start": 360,
+          "end": 384
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 415,
+      "end": 423,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 415,
+          "end": 423
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Findings",
+      "start": 424,
+      "end": 437,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 424,
+          "end": 437
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 446,
+      "end": 454,
+      "text": "CT scans",
+      "spans": [
+        {
+          "start": 446,
+          "end": 454
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 534,
+      "end": 555,
+      "text": "cerebral white matter",
+      "spans": [
+        {
+          "start": 534,
+          "end": 555
+        }
+      ]
+    }
+  ]
+}

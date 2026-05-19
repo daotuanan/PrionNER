@@ -1,0 +1,11 @@
+BACKGROUND: The value of magnetic resonance imaging of the brain in the diagnosis of iatrogenic cases of Creutzfeldt-Jakob disease has been questioned.
+OBJECTIVE: To illustrate the value of magnetic resonance imaging of the brain in the diagnosis of iatrogenic Creutzfeldt-Jakob disease.
+METHODS: Case report.
+RESULTS: A patient with a history of 3 corneal transplantations exhibited the alien hand sign on initial examination.
+Diffusion-weighted magnetic resonance imaging of the brain revealed prominent cortical diffusion abnormalities.
+During the following months, the patient developed rapidly progressive dementia.
+The diagnosis of Creutzfeldt-Jakob disease was proven by brain biopsy.
+CONCLUSION: Brain magnetic resonance imaging, particularly diffusion-weighted magnetic resonance imaging, can be very helpful in the diagnosis of Creutzfeldt-Jakob disease, even in suspected iatrogenic cases.
+
+<Related> YES or NO
+[DONE]

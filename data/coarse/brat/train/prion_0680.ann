@@ -1,0 +1,15 @@
+T1	Generic_Prion 37 62	Creutzfeldt-Jakob disease
+T2	Generic_Prion 64 67	CJD
+T3	Time 118 139	one and a half months
+T4	Symptom 157 181	focal dystonic movements
+T5	Time 182 190	at onset
+T6	Symptom 203 223	mental deterioration
+T7	Symptom 252 279	impairment of consciousness
+T8	Symptom 281 287	ataxia
+T9	Symptom 289 298	myoclonus
+T10	Test_name 312 315	EEG
+T11	Test_name 335 342	autopsy
+T12	Generic_Prion 353 387	subacute spongiform encephalopathy
+T13	Findings 404 417	neuronal loss
+T14	Generic_Prion 460 463	CJD
+T15	Symptom 577 600	intellectual impairment

@@ -1,0 +1,193 @@
+{
+  "doc_id": "prion_0637",
+  "text": "A patient suffering from Creutzfeld-Jakob disease (CJD) complained of optical hallucinations, followed by feelings of persecution.\nClinical, encephalographic and neuropathological findings pointed towards a focalized beginning of the disease process in the right frontal and temporal lobe.\nThe hypothesized further spread of the infectious agent, as indicated by electroencephalographic and neuropathological findings, was accompanied by periacute manifestation of dementia and an irreversible disturbance of vigilance.\nThe diagnosis of CJE can be especially difficult in the early stages of the disease, with dementia, myocloni and typical electroencephalographic findings still absent.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 25,
+      "end": 49,
+      "text": "Creutzfeld-Jakob disease",
+      "spans": [
+        {
+          "start": 25,
+          "end": 49
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 51,
+      "end": 54,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 51,
+          "end": 54
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 70,
+      "end": 92,
+      "text": "optical hallucinations",
+      "spans": [
+        {
+          "start": 70,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 106,
+      "end": 129,
+      "text": "feelings of persecution",
+      "spans": [
+        {
+          "start": 106,
+          "end": 129
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 263,
+      "end": 288,
+      "text": "frontal lobe",
+      "spans": [
+        {
+          "start": 263,
+          "end": 270
+        },
+        {
+          "start": 284,
+          "end": 288
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 275,
+      "end": 288,
+      "text": "temporal lobe",
+      "spans": [
+        {
+          "start": 275,
+          "end": 288
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Test_name",
+      "start": 363,
+      "end": 386,
+      "text": "electroencephalographic",
+      "spans": [
+        {
+          "start": 363,
+          "end": 386
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Test_name",
+      "start": 391,
+      "end": 408,
+      "text": "neuropathological",
+      "spans": [
+        {
+          "start": 391,
+          "end": 408
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 465,
+      "end": 473,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 465,
+          "end": 473
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 494,
+      "end": 518,
+      "text": "disturbance of vigilance",
+      "spans": [
+        {
+          "start": 494,
+          "end": 518
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 537,
+      "end": 540,
+      "text": "CJE",
+      "spans": [
+        {
+          "start": 537,
+          "end": 540
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 610,
+      "end": 618,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 610,
+          "end": 618
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 620,
+      "end": 628,
+      "text": "myocloni",
+      "spans": [
+        {
+          "start": 620,
+          "end": 628
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 641,
+      "end": 664,
+      "text": "electroencephalographic",
+      "spans": [
+        {
+          "start": 641,
+          "end": 664
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+The author presents a case of a patient with Creutzfeldt-Jakob disease, a rapidly progressive encephalopathy that is characterized by early behavioral changes.
+Because of the nature of this disease, the electroencephalogram (EEG) is helpful in establishing a diagnosis.
+
+<Related> YES or NO
+[DONE]

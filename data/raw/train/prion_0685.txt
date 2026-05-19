@@ -1,0 +1,10 @@
+We report a familial form of Creutzfeldt-Jakob disease, associated with a unique insert mutation of the PRNP gene in an American family of Ukrainian origin.
+Ten family members exhibited early age at onset and long-duration illnesses characterized primarily by personality changes, cognitive impairment, and spasticity.
+The proband, presenting at age 42 years, exhibited a fairly stable, nonprogressive course over 7 years, followed by precipitous decline and death in the eighth year.
+Other affected family members exhibited marked clinical heterogeneity.
+Each tested affected member had an insert mutation consisting of five extra octapeptide repeats between codons 51 and 91 of the PRNP gene on chromosome 20.
+Examination of two autopsy cases showed classic spongiform change, neuronal loss and astrocytosis in one case, and minimal pathologic abnormality in the other case.
+This report documents a new insert mutation of the PRNP gene, and confirms the early age of onset, characteristically prolonged clinical course, and clinical and pathologic heterogeneity seen in such mutations.
+
+<Related> YES or NO
+[DONE]

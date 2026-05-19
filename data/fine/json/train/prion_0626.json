@@ -1,0 +1,180 @@
+{
+  "doc_id": "prion_0626",
+  "text": "Four anatomo-clinical cases of Creutzfeldt-Jakob disease (spongiform encephalopathy) are described.\nIn 3 cases the correct diagnosis was made while the patients were living.\nThe most important diagnostic elements are the following: rapid evolution of a presenile or senile dementia, with neurological symptoms unusual in the Alzheimer's disease.\nThe importance of EEG for the diagnosis of Creutzfeldt-Jakob disease is confirmed: however the onset of the typical EEG abnormalities was very late in its manifestation, the CT alterations are in general absent or very limited.\nThe pathological alterations are aspecific.\nThe spongiform process was sometimes scarce or limited to specific cerebral areas.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 31,
+      "end": 56,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 31,
+          "end": 56
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Differential_Diagnosis",
+      "start": 58,
+      "end": 83,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 58,
+          "end": 83
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 253,
+      "end": 281,
+      "text": "presenile dementia",
+      "spans": [
+        {
+          "start": 253,
+          "end": 262
+        },
+        {
+          "start": 273,
+          "end": 281
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 266,
+      "end": 281,
+      "text": "senile dementia",
+      "spans": [
+        {
+          "start": 266,
+          "end": 281
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 288,
+      "end": 309,
+      "text": "neurological symptoms",
+      "spans": [
+        {
+          "start": 288,
+          "end": 309
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Differential_Diagnosis",
+      "start": 325,
+      "end": 344,
+      "text": "Alzheimer's disease",
+      "spans": [
+        {
+          "start": 325,
+          "end": 344
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Electrophysio_test",
+      "start": 364,
+      "end": 367,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 364,
+          "end": 367
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 389,
+      "end": 414,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 389,
+          "end": 414
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Electrophysio_test",
+      "start": 462,
+      "end": 465,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 462,
+          "end": 465
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Imaging_test",
+      "start": 520,
+      "end": 522,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 520,
+          "end": 522
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Autopsy",
+      "start": 578,
+      "end": 590,
+      "text": "pathological",
+      "spans": [
+        {
+          "start": 578,
+          "end": 590
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Autopsy_finding",
+      "start": 622,
+      "end": 640,
+      "text": "spongiform process",
+      "spans": [
+        {
+          "start": 622,
+          "end": 640
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 685,
+      "end": 693,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 685,
+          "end": 693
+        }
+      ]
+    }
+  ]
+}

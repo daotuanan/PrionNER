@@ -1,0 +1,16 @@
+T1	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T2	Generic_Prion 27 30	CJD
+T3	Generic_Prion 103 106	CJD
+T4	Imaging_test 176 179	MRI
+T5	sCJD 218 230	Sporadic CJD
+T7	Imaging_finding 283 297	hyperintensity
+T8	Anatomic_location 305 312	putamen
+T9	Anatomic_location 317 331	caudate nuclei
+T10	vCJD 359 370	variant CJD
+T12	Generic_Prion 426 458	Bovine Spongiform Encephalopathy
+T13	Generic_Prion 460 463	BSE
+T14	Imaging_finding 521 535	hyperintensity
+T16	Anatomic_location 543 558	pulvinar nuclei
+T17	Imaging_test 572 575	MRI
+T18	Generic_Prion 588 591	CJD
+T11	Age 386 393	younger

@@ -1,0 +1,292 @@
+{
+  "doc_id": "prion_0640",
+  "text": "A serial neurophysiological study has been performed of 2 children during the clinical course of Creutzfeldt-Jakob disease after human growth hormone (hGH) treatment.\nEvolution of the EEG pattern was typical: slow waves, periodic sharp wave complexes, then extinction.\nVEP components were moderately altered.\nBAERs performed in only 1 child were normal.\nThe blink reflex (BR) showed an early alteration of the R1 component.\nThe ERG exhibited early and profound anomalies.\nPathological changes were obvious at the first recording, at the beginning of the second month after clinical onset: increase in peak latencies, morphological changes and important reduction of b wave amplitude (a/b amplitude ratio > or = 0.70; normal range 0.27-0.41).\nThe ERG was completely absent a few months later.\nThese results are compared with the similar retinopathy described in CJD- or scrapie-infected rodents.\nIn the 2 children, pathological changes in ERG and in BR were obvious several months before the development of the typical EEG pattern.\nTherefore, early ERG and BR recording can be helpful in the diagnosis of CJD, especially in this ataxic form following hGH treatment.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 97,
+      "end": 122,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 97,
+          "end": 122
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Treatment",
+      "start": 129,
+      "end": 165,
+      "text": "human growth hormone (hGH) treatment",
+      "spans": [
+        {
+          "start": 129,
+          "end": 165
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Electrophysio_test",
+      "start": 184,
+      "end": 187,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 184,
+          "end": 187
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Electrophysio_test",
+      "start": 269,
+      "end": 272,
+      "text": "VEP",
+      "spans": [
+        {
+          "start": 269,
+          "end": 272
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Electrophysio_test",
+      "start": 309,
+      "end": 314,
+      "text": "BAERs",
+      "spans": [
+        {
+          "start": 309,
+          "end": 314
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Electrophysio_test",
+      "start": 358,
+      "end": 370,
+      "text": "blink reflex",
+      "spans": [
+        {
+          "start": 358,
+          "end": 370
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Electrophysio_test",
+      "start": 372,
+      "end": 374,
+      "text": "BR",
+      "spans": [
+        {
+          "start": 372,
+          "end": 374
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Electrophysio_test",
+      "start": 428,
+      "end": 431,
+      "text": "ERG",
+      "spans": [
+        {
+          "start": 428,
+          "end": 431
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Time_point",
+      "start": 537,
+      "end": 587,
+      "text": "beginning of the second month after clinical onset",
+      "spans": [
+        {
+          "start": 537,
+          "end": 587
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Electrophysio_test",
+      "start": 746,
+      "end": 749,
+      "text": "ERG",
+      "spans": [
+        {
+          "start": 746,
+          "end": 749
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Duration",
+      "start": 774,
+      "end": 784,
+      "text": "few months",
+      "spans": [
+        {
+          "start": 774,
+          "end": 784
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Symptom",
+      "start": 836,
+      "end": 847,
+      "text": "retinopathy",
+      "spans": [
+        {
+          "start": 836,
+          "end": 847
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Generic_Prion",
+      "start": 861,
+      "end": 864,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 861,
+          "end": 864
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Electrophysio_test",
+      "start": 938,
+      "end": 941,
+      "text": "ERG",
+      "spans": [
+        {
+          "start": 938,
+          "end": 941
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Electrophysio_test",
+      "start": 949,
+      "end": 951,
+      "text": "BR",
+      "spans": [
+        {
+          "start": 949,
+          "end": 951
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Duration",
+      "start": 965,
+      "end": 979,
+      "text": "several months",
+      "spans": [
+        {
+          "start": 965,
+          "end": 979
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Electrophysio_test",
+      "start": 1018,
+      "end": 1021,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 1018,
+          "end": 1021
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Electrophysio_test",
+      "start": 1048,
+      "end": 1051,
+      "text": "ERG",
+      "spans": [
+        {
+          "start": 1048,
+          "end": 1051
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Electrophysio_test",
+      "start": 1056,
+      "end": 1058,
+      "text": "BR",
+      "spans": [
+        {
+          "start": 1056,
+          "end": 1058
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Generic_Prion",
+      "start": 1104,
+      "end": 1107,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1104,
+          "end": 1107
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Symptom",
+      "start": 1128,
+      "end": 1134,
+      "text": "ataxic",
+      "spans": [
+        {
+          "start": 1128,
+          "end": 1134
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Treatment",
+      "start": 1150,
+      "end": 1163,
+      "text": "hGH treatment",
+      "spans": [
+        {
+          "start": 1150,
+          "end": 1163
+        }
+      ]
+    }
+  ]
+}

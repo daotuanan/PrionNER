@@ -1,0 +1,25 @@
+T25	Symptom 154 163;178 186	pyramidal syndrome
+T3	Symptom 165 186	pseudobulbar syndrome
+T4	Symptom 191 199	dementia
+T5	Age 200 241	during the third or fourth decade of life
+T1	Complication 258 263	fatal
+T7	Time 287 298	three years
+T26	Anatomic_location 300 308	Cerebral
+T8	Test_name 309 317	biopsies
+T10	Findings 351 379	multicentric amyloid plaques
+T11	Findings 395 409	senile plaques
+T2	Test_name 424 436	pathological
+T12	Familial_Prion 524 565	Gerstmann-Sträussler-Scheinker's syndrome
+T13	Findings 615 635	multicentric plaques
+T6	Symptom 662 671;700 709	pyramidal syndromes
+T15	Symptom 675 687;700 709	pseudobulbar syndromes
+T9	Symptom 689 709	cerebellar syndromes
+T16	Symptom 729 737	dementia
+T14	Differential_Diagnosis 821 840	presenile dementias
+T18	Differential_Diagnosis 920 939	Alzheimer's disease
+T19	Familial_Prion 977 1017	Gerstmann-Strässler-Scheinker's syndrome
+T17	Differential_Diagnosis 1093 1116	transmissible dementias
+T21	Acquired_Prion 1123 1127	kuru
+T22	Generic_Prion 1129 1148	Creutzfeldt-Jakob's
+T23	Differential_Diagnosis 1172 1191	Alzheimer's disease
+T27	Test_name 1266 1278	pathological

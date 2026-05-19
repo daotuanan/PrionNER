@@ -1,0 +1,474 @@
+{
+  "doc_id": "prion_0728",
+  "text": "BACKGROUND: Traditional imaging methods, including computed tomography, routine magnetic resonance imaging (MRI), and magnetic resonance spectroscopy, have not been particularly useful in the diagnosis of Creutzfeldt-Jakob disease (CJD).\nAlthough abnormalities can be seen using these methods, the findings are evident only late in the disease or lack specificity or sensitivity.\nOBJECTIVE: To describe abnormalities on diffusion-weighted MRIs in 4 patients with proven CJD.\nMETHODS: Diffusion-weighted MRIs were obtained on 4 patients with CJD as part of a routine MRI brain examination.\nRESULTS: In all 4 patients, diffusion-weighted MRIs of the brain demonstrated bilateral hyperintensity in the basal ganglia.\nIn 1 patient, the most conspicuous abnormality seen in diffusion-weighted images was in the thalamus.\nTwo patients also demonstrated hyperintensity in the cerebral cortex on diffusion-weighted images.\nOnly 2 of 4 patients demonstrated clear abnormalities on routine (non-diffusion-weighted) MRIs.\nDiffusion abnormalities were visible in 1 patient within 1 month of symptom onset.\nThe findings were most conspicuous and extensive in the patient with the longest duration of symptoms (7 months).\nCONCLUSIONS: Diffusion-weighted MRI might provide a noninvasive method of identifying patients with CJD.\nHowever, further investigations must be performed to determine the specificity of these findings for CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Imaging_test",
+      "start": 51,
+      "end": 70,
+      "text": "computed tomography",
+      "spans": [
+        {
+          "start": 51,
+          "end": 70
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Imaging_test",
+      "start": 80,
+      "end": 106,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 80,
+          "end": 106
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Imaging_test",
+      "start": 108,
+      "end": 111,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 108,
+          "end": 111
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Imaging_test",
+      "start": 118,
+      "end": 149,
+      "text": "magnetic resonance spectroscopy",
+      "spans": [
+        {
+          "start": 118,
+          "end": 149
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 205,
+      "end": 230,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 205,
+          "end": 230
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 232,
+      "end": 235,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 232,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Imaging_sequence",
+      "start": 420,
+      "end": 438,
+      "text": "diffusion-weighted",
+      "spans": [
+        {
+          "start": 420,
+          "end": 438
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Imaging_test",
+      "start": 439,
+      "end": 443,
+      "text": "MRIs",
+      "spans": [
+        {
+          "start": 439,
+          "end": 443
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 470,
+      "end": 473,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 470,
+          "end": 473
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Imaging_sequence",
+      "start": 484,
+      "end": 502,
+      "text": "Diffusion-weighted",
+      "spans": [
+        {
+          "start": 484,
+          "end": 502
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Imaging_test",
+      "start": 503,
+      "end": 507,
+      "text": "MRIs",
+      "spans": [
+        {
+          "start": 503,
+          "end": 507
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 541,
+      "end": 544,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 541,
+          "end": 544
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Imaging_test",
+      "start": 566,
+      "end": 569,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 566,
+          "end": 569
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 570,
+      "end": 575,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 570,
+          "end": 575
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Imaging_sequence",
+      "start": 617,
+      "end": 635,
+      "text": "diffusion-weighted",
+      "spans": [
+        {
+          "start": 617,
+          "end": 635
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Imaging_test",
+      "start": 636,
+      "end": 640,
+      "text": "MRIs",
+      "spans": [
+        {
+          "start": 636,
+          "end": 640
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 648,
+      "end": 653,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 648,
+          "end": 653
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Imaging_finding",
+      "start": 677,
+      "end": 691,
+      "text": "hyperintensity",
+      "spans": [
+        {
+          "start": 677,
+          "end": 691
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 699,
+      "end": 712,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 699,
+          "end": 712
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Imaging_finding",
+      "start": 749,
+      "end": 760,
+      "text": "abnormality",
+      "spans": [
+        {
+          "start": 749,
+          "end": 760
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Imaging_sequence",
+      "start": 769,
+      "end": 794,
+      "text": "diffusion-weighted images",
+      "spans": [
+        {
+          "start": 769,
+          "end": 794
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Anatomic_location",
+      "start": 806,
+      "end": 814,
+      "text": "thalamus",
+      "spans": [
+        {
+          "start": 806,
+          "end": 814
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Imaging_finding",
+      "start": 847,
+      "end": 861,
+      "text": "hyperintensity",
+      "spans": [
+        {
+          "start": 847,
+          "end": 861
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Anatomic_location",
+      "start": 869,
+      "end": 884,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 869,
+          "end": 884
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Imaging_sequence",
+      "start": 888,
+      "end": 913,
+      "text": "diffusion-weighted images",
+      "spans": [
+        {
+          "start": 888,
+          "end": 913
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Imaging_sequence",
+      "start": 981,
+      "end": 1003,
+      "text": "non-diffusion-weighted",
+      "spans": [
+        {
+          "start": 981,
+          "end": 1003
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Imaging_test",
+      "start": 1005,
+      "end": 1009,
+      "text": "MRIs",
+      "spans": [
+        {
+          "start": 1005,
+          "end": 1009
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Imaging_sequence",
+      "start": 1011,
+      "end": 1020,
+      "text": "Diffusion",
+      "spans": [
+        {
+          "start": 1011,
+          "end": 1020
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Imaging_finding",
+      "start": 1011,
+      "end": 1034,
+      "text": "Diffusion abnormalities",
+      "spans": [
+        {
+          "start": 1011,
+          "end": 1034
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Duration",
+      "start": 1068,
+      "end": 1075,
+      "text": "1 month",
+      "spans": [
+        {
+          "start": 1068,
+          "end": 1075
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Time_point",
+      "start": 1079,
+      "end": 1092,
+      "text": "symptom onset",
+      "spans": [
+        {
+          "start": 1079,
+          "end": 1092
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Duration",
+      "start": 1197,
+      "end": 1205,
+      "text": "7 months",
+      "spans": [
+        {
+          "start": 1197,
+          "end": 1205
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Imaging_sequence",
+      "start": 1221,
+      "end": 1239,
+      "text": "Diffusion-weighted",
+      "spans": [
+        {
+          "start": 1221,
+          "end": 1239
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Imaging_test",
+      "start": 1240,
+      "end": 1243,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 1240,
+          "end": 1243
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Generic_Prion",
+      "start": 1308,
+      "end": 1311,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1308,
+          "end": 1311
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Generic_Prion",
+      "start": 1414,
+      "end": 1417,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1414,
+          "end": 1417
+        }
+      ]
+    }
+  ]
+}

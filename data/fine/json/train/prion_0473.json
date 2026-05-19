@@ -1,0 +1,409 @@
+{
+  "doc_id": "prion_0473",
+  "text": "We report the case of a 28 year old man who had received a cadaverous dura mater graft after a traumatic open skull fracture with tearing of the dura at the age of 5 years.\nA clinical suspicion of Creutzfeldt-Jakob disease (CJD) was confirmed by a brain biopsy 5 months prior to death and by autopsy, thus warranting the diagnosis of iatrogenic CJD (iCJD) according to WHO criteria.\nImmunohistochemistry showed widespread cortical depositions of disease associated prion protein (PrP(sc)) in a synaptic pattern, and western blot analysis identified PrP(sc) of type 2A according to Parchi et al. Surprisingly, we found Alzheimer-type senile plaques and cerebral amyloid angiopathy in widespread areas of the brain.\nPlaque-type and vascular amyloid was immunohistochemically identified as deposits of beta-A4 peptide.\nCERAD criteria for diagnosis of definite Alzheimer's disease (AD) were met in the absence of neurofibrillar tangles or alpha-synuclein immunoreactive inclusions.\nThere was no family history of AD, CJD, or any other neurological disease, and genetic analysis showed no disease specific mutations of the prion protein, presenilin 1 and 2, or amyloid precursor protein genes.\nThis case represents (a) the iCJD case with the longest incubation time after dural grafting reported so far, (b) the youngest documented patient with concomitant CJD and Alzheimer-type neuropathology to date, (c) the first description of Alzheimer-type changes in iCJD, and (d) the second case of iCJD in Austria.\nDespite the young patient age, the Alzheimer-type changes may be an incidental finding, possibly related to the childhood trauma.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 24,
+      "end": 35,
+      "text": "28 year old",
+      "spans": [
+        {
+          "start": 24,
+          "end": 35
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Treatment",
+      "start": 48,
+      "end": 86,
+      "text": "received a cadaverous dura mater graft",
+      "spans": [
+        {
+          "start": 48,
+          "end": 86
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 157,
+      "end": 171,
+      "text": "age of 5 years",
+      "spans": [
+        {
+          "start": 157,
+          "end": 171
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 197,
+      "end": 222,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 197,
+          "end": 222
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 224,
+      "end": 227,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 224,
+          "end": 227
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 248,
+      "end": 253,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 248,
+          "end": 253
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Autopsy",
+      "start": 254,
+      "end": 260,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 254,
+          "end": 260
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Duration",
+      "start": 261,
+      "end": 269,
+      "text": "5 months",
+      "spans": [
+        {
+          "start": 261,
+          "end": 269
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Complication",
+      "start": 279,
+      "end": 284,
+      "text": "death",
+      "spans": [
+        {
+          "start": 279,
+          "end": 284
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Autopsy",
+      "start": 292,
+      "end": 299,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 292,
+          "end": 299
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "iCJD",
+      "start": 334,
+      "end": 348,
+      "text": "iatrogenic CJD",
+      "spans": [
+        {
+          "start": 334,
+          "end": 348
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "iCJD",
+      "start": 350,
+      "end": 354,
+      "text": "iCJD",
+      "spans": [
+        {
+          "start": 350,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Molecular_assay",
+      "start": 383,
+      "end": 403,
+      "text": "Immunohistochemistry",
+      "spans": [
+        {
+          "start": 383,
+          "end": 403
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 422,
+      "end": 430,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 422,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Molecular_assay",
+      "start": 516,
+      "end": 537,
+      "text": "western blot analysis",
+      "spans": [
+        {
+          "start": 516,
+          "end": 537
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Autopsy_finding",
+      "start": 618,
+      "end": 647,
+      "text": "Alzheimer-type senile plaques",
+      "spans": [
+        {
+          "start": 618,
+          "end": 647
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 652,
+      "end": 660,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 652,
+          "end": 660
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Differential_Diagnosis",
+      "start": 652,
+      "end": 679,
+      "text": "cerebral amyloid angiopathy",
+      "spans": [
+        {
+          "start": 652,
+          "end": 679
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 707,
+      "end": 712,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 707,
+          "end": 712
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Autopsy_finding",
+      "start": 714,
+      "end": 725,
+      "text": "Plaque-type",
+      "spans": [
+        {
+          "start": 714,
+          "end": 725
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Autopsy_finding",
+      "start": 730,
+      "end": 746,
+      "text": "vascular amyloid",
+      "spans": [
+        {
+          "start": 730,
+          "end": 746
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Differential_Diagnosis",
+      "start": 857,
+      "end": 876,
+      "text": "Alzheimer's disease",
+      "spans": [
+        {
+          "start": 857,
+          "end": 876
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Differential_Diagnosis",
+      "start": 878,
+      "end": 880,
+      "text": "AD",
+      "spans": [
+        {
+          "start": 878,
+          "end": 880
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Differential_Diagnosis",
+      "start": 1009,
+      "end": 1011,
+      "text": "AD",
+      "spans": [
+        {
+          "start": 1009,
+          "end": 1011
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Generic_Prion",
+      "start": 1013,
+      "end": 1016,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1013,
+          "end": 1016
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Genetic_test",
+      "start": 1057,
+      "end": 1073,
+      "text": "genetic analysis",
+      "spans": [
+        {
+          "start": 1057,
+          "end": 1073
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "iCJD",
+      "start": 1218,
+      "end": 1222,
+      "text": "iCJD",
+      "spans": [
+        {
+          "start": 1218,
+          "end": 1222
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Treatment",
+      "start": 1267,
+      "end": 1281,
+      "text": "dural grafting",
+      "spans": [
+        {
+          "start": 1267,
+          "end": 1281
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Generic_Prion",
+      "start": 1352,
+      "end": 1355,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1352,
+          "end": 1355
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "iCJD",
+      "start": 1454,
+      "end": 1458,
+      "text": "iCJD",
+      "spans": [
+        {
+          "start": 1454,
+          "end": 1458
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "iCJD",
+      "start": 1487,
+      "end": 1491,
+      "text": "iCJD",
+      "spans": [
+        {
+          "start": 1487,
+          "end": 1491
+        }
+      ]
+    }
+  ]
+}

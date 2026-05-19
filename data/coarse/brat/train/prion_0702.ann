@@ -1,0 +1,20 @@
+T1	Age 2 13	66-year-old
+T2	Symptom 37 65	rapidly progressive dementia
+T3	Symptom 96 112	auditory agnosia
+T4	Symptom 157 164	aphasia
+T5	Symptom 179 185	ataxia
+T6	Symptom 190 199	myoclonus
+T7	Anatomic_location 253 269	parieto-temporal
+T18	Test_name 287 299	neuroimaging
+T8	Test_name 323 326	MRI
+T22	Anatomic_location 334 339	brain
+T19	Sequences 366 368	T2
+T20	Findings 369 385	hyperintensities
+T9	Anatomic_location 393 406	basal ganglia
+T10	Generic_Prion 439 464	Creutzfeldt-Jacob Disease
+T11	Generic_Prion 466 469	CJD
+T12	Test_name 523 526	CSF
+T13	Generic_Prion 570 573	CJD
+T14	Test_name 575 599	Pathological examination
+T15	Test_name 667 670	MRI
+T16	Generic_Prion 688 691	CJD

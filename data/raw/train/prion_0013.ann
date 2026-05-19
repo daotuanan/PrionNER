@@ -1,0 +1,57 @@
+T1	Choose_Related 2456 2459	YES
+T2	FFI 12 35	Fatal Familial Insomnia
+T3	FFI 37 40	FFI
+T4	Generic_Prion 71 84	prion disease
+T5	FFI 148 151	FFI
+T6	Differential_Diagnosis 188 219	dementia with Lewy bodies (DLB)
+T7	Age 231 242	48‐year‐old
+T8	Duration 265 273	six‐year
+T9	Symptom 355 363	amnestic
+T10	Symptom 365 377	dysexecutive
+T11	Symptom 383 407	visuospatial impairments
+T12	Symptom 416 438	cognitive fluctuations
+T13	Symptom 448 469	visual hallucinations
+T14	Symptom 471 480	delusions
+T15	Symptom 482 494	parkinsonism
+T16	Symptom 517 545	neuroleptic hypersensitivity
+T18	Symptom 547 574	REM sleep behavior disorder
+T20	Symptom 576 593	agrypnia excitata
+T22	Symptom 599 616	cerebellar ataxia
+T29	Molecular_assay 853 860	RT‐QuIC
+T31	Imaging_test 881 884	MRI
+T32	Anatomic_location 892 900	cortical
+T33	Anatomic_location 902 914	basal nuclei
+T37	Electrophysio_test 1246 1261	Polysomnography
+T43	FFI 1553 1556	FFI
+T44	Generic_Prion 1597 1606	PRNP gene
+T48	Anatomic_location 1914 1922	thalamus
+T49	Anatomic_location 1961 1969	striatum
+T50	Symptom 2022 2034	parkinsonism
+T52	FFI 2208 2211	FFI
+T54	Symptom 2319 2345	rapid progressive dementia
+T55	Symptom 2347 2375	multiple sleep abnormalities
+T56	Symptom 285 293	insomnia
+T57	Symptom 309 337	rapidly progressive dementia
+T58	Symptom 503 515	dysautonomia
+T17	Blood_biomarker_test 713 725	Serum workup
+T19	Blood_biomarker_test 744 756	CSF analysis
+T59	Anatomic_location 919 927	thalamic
+T61	Time_point 972 976	2019
+T62	Imaging_test 989 996	FDG‐PET
+T34	Anatomic_location 1063 1070;1084 1091	frontal regions
+T65	Anatomic_location 1075 1091	parietal regions
+T66	Anatomic_location 1109 1121	TRODAT SPECT
+T35	Anatomic_location 1225 1232	putamen
+T36	Anatomic_location 1212 1220	striatum
+T74	Genetic_test 1395 1410	Genetic testing
+T46	FFI 1720 1723	FFI
+T80	Imaging_finding 1881 1906	glycolytic hypometabolism
+T82	Imaging_finding 1961 1981	striatum involvement
+T83	Imaging_test 1985 1997	TRODAT SPECT
+T84	FFI 2050 2053	FFI
+T86	FFI 2164 2167	FFI
+T51	Differential_Diagnosis 2182 2185	DLB
+T87	Differential_Diagnosis 2290 2293	DLB
+T53	Choose_Done 2467 2471	DONE
+T21	Imaging_finding 928 935	atrophy
+T88	Anatomic_location 875 880	Brain

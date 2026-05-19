@@ -1,0 +1,7 @@
+T2	Familial_Prion 80 103	fatal familial insomnia
+T3	Familial_Prion 105 108	FFI
+T4	Test_name 113 139	24 h polygraphic recording
+T14	Time 477 493	less than 1 year
+T17	Time 554 571	more than 2 years
+T1	Symptom 726 761	impairment of sleep-wake regulation
+T21	Familial_Prion 801 804	FFI

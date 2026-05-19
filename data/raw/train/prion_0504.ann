@@ -1,0 +1,19 @@
+T1	Autopsy 3 10	autopsy
+T2	Generic_Prion 19 44	Creutzfeldt-Jakob disease
+T3	Kuru 50 54	Kuru
+T6	Autopsy_finding 216 233	status spongiosus
+T7	Autopsy_finding 235 256	neuronal degeneration
+T8	Anatomic_location 341 349	cerebrum
+T9	Anatomic_location 354 364	cerebellum
+T11	Autopsy_finding 440 452	Kuru plaques
+T14	Generic_Prion 623 648	Creutzfeldt-Jakob disease
+T15	Kuru 653 657	Kuru
+T16	Choose_Related 732 735	YES
+T4	Autopsy_finding 50 85	Kuru-like neuropathological changes
+T5	Symptom 112 126;150 158	extrapyramidal symptoms
+T12	Symptom 128 137;150 158	pyramidal symptoms
+T13	Symptom 142 158	psychic symptoms
+T17	Autopsy_finding 258 298	proliferation of hypertrophic astrocytes
+T18	Autopsy_finding 303 319	numerous plaques
+T19	Autopsy_finding 393 408	demyelinization
+T10	Choose_Done 743 747	DONE

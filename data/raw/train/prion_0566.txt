@@ -1,0 +1,13 @@
+We present the clinical findings in affected members of a large kindred with Gerstmann-Sträussler-Scheinker disease.
+Sixty-four patients exhibited progressive ataxia, dementia, and parkinsonian features.
+Inheritance appears to be autosomal dominant.
+Impaired smooth-pursuit eye movements, defective short-term memory, clumsiness of the hands, and ataxia of gait develop in the late 30s to early 60s.
+Eye movement abnormalities are characteristic of cerebellar dysfunction.
+Dementia progresses gradually over several years.
+Later, rigidity and bradykinesia appear and, at this stage, there is often psychosis or severe depression with rapid weight loss.
+Death occurs in 6 months to 2 years after onset of rigidity.
+Magnetic resonance imaging in 2 affected individuals showed cerebellar atrophy.
+There is decreased T2 signal in the basal ganglia, consistent with iron deposition.
+
+<Related> YES or NO
+[DONE]

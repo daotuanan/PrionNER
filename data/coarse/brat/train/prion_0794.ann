@@ -1,0 +1,28 @@
+T1	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T2	Generic_Prion 27 30	CJD
+T3	Generic_Prion 53 92	transmissible spongiform encephalopathy
+T30	Anatomic_location 135 143	cerebral
+T4	Test_name 144 166	neuropathological exam
+T5	Generic_Prion 221 224	CJD
+T6	Age 398 409	58-year-old
+T28	Complication 420 424	died
+T7	Test_name 448 455	autopsy
+T8	Sporadic_Prion 463 475	sporadic CJD
+T10	Time 502 511	15 months
+T11	Symptom 516 544	rapidly progressive dementia
+T12	Test_name 581 584	EEG
+T13	Generic_Prion 664 667	CJD
+T14	Time 715 723	4 months
+T29	Time 734 754	onset of the disease
+T9	Sequences 758 763	Flair
+T16	Test_name 764 767	MRI
+T17	Findings 780 806	increased signal intensity
+T18	Anatomic_location 820 827;842 848	frontal cortex
+T27	Anatomic_location 832 848	occipital cortex
+T19	Generic_Prion 886 889	CJD
+T20	Test_name 940 943	MRI
+T21	Sequences 956 982	diffusion-weighted imaging
+T22	Generic_Prion 1007 1010	CJD
+T23	Generic_Prion 1112 1115	CJD
+T24	Test_name 1297 1313	post mortem exam
+T25	Symptom 1465 1493	rapidly progressive dementia

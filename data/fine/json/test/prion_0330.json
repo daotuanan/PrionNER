@@ -1,0 +1,240 @@
+{
+  "doc_id": "prion_0330",
+  "text": "BACKGROUND: Immunocytochemical accumulation of prion protein (PrP) in lymphoid tissues is a feature of variant Creutzfeldt-Jakob disease (vCJD) that has been used both to aid in the diagnosis of patients and as a basis of large scale screening studies to assess the prevalence of preclinical disease in the UK.\nHowever, the specificity of this approach is unknown.\nAIM: To assess the specificity of lymphoreticular accumulation of PrP for vCJD by examining a range of human diseases.\nMETHODS: Paraffin wax embedded lymphoreticular tissues from patients with several reactive conditions (58 cases), tumours (27 cases), vCJD (54 cases), and other human prion diseases (56 cases) were assessed.\nPrP accumulation was assessed by immunocytochemistry using two different monoclonal anti-PrP antibodies and a sensitive detection system.\nRESULTS: All cases of vCJD showed widespread lymphoreticular accumulation of PrP; however, this was not seen in the other conditions examined.\nCONCLUSION: Lymphoreticular accumulation of PrP, as assessed by immunocytochemistry, appears to be a highly specific feature of vCJD.",
+  "entities": [
+    {
+      "id": "T9",
+      "label": "Autopsy_finding",
+      "start": 31,
+      "end": 60,
+      "text": "accumulation of prion protein",
+      "spans": [
+        {
+          "start": 31,
+          "end": 60
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Anatomic_location",
+      "start": 70,
+      "end": 86,
+      "text": "lymphoid tissues",
+      "spans": [
+        {
+          "start": 70,
+          "end": 86
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "vCJD",
+      "start": 103,
+      "end": 136,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 103,
+          "end": 136
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "vCJD",
+      "start": 138,
+      "end": 142,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 138,
+          "end": 142
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Autopsy_finding",
+      "start": 399,
+      "end": 434,
+      "text": "lymphoreticular accumulation of PrP",
+      "spans": [
+        {
+          "start": 399,
+          "end": 434
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "vCJD",
+      "start": 439,
+      "end": 443,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 439,
+          "end": 443
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Anatomic_location",
+      "start": 515,
+      "end": 538,
+      "text": "lymphoreticular tissues",
+      "spans": [
+        {
+          "start": 515,
+          "end": 538
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Differential_Diagnosis",
+      "start": 566,
+      "end": 585,
+      "text": "reactive conditions",
+      "spans": [
+        {
+          "start": 566,
+          "end": 585
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Differential_Diagnosis",
+      "start": 598,
+      "end": 605,
+      "text": "tumours",
+      "spans": [
+        {
+          "start": 598,
+          "end": 605
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "vCJD",
+      "start": 618,
+      "end": 622,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 618,
+          "end": 622
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 645,
+      "end": 665,
+      "text": "human prion diseases",
+      "spans": [
+        {
+          "start": 645,
+          "end": 665
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Autopsy_finding",
+      "start": 692,
+      "end": 708,
+      "text": "PrP accumulation",
+      "spans": [
+        {
+          "start": 692,
+          "end": 708
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Molecular_assay",
+      "start": 725,
+      "end": 744,
+      "text": "immunocytochemistry",
+      "spans": [
+        {
+          "start": 725,
+          "end": 744
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "vCJD",
+      "start": 852,
+      "end": 856,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 852,
+          "end": 856
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Autopsy_finding",
+      "start": 875,
+      "end": 910,
+      "text": "lymphoreticular accumulation of PrP",
+      "spans": [
+        {
+          "start": 875,
+          "end": 910
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Autopsy_finding",
+      "start": 985,
+      "end": 1020,
+      "text": "Lymphoreticular accumulation of PrP",
+      "spans": [
+        {
+          "start": 985,
+          "end": 1020
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Molecular_assay",
+      "start": 1037,
+      "end": 1056,
+      "text": "immunocytochemistry",
+      "spans": [
+        {
+          "start": 1037,
+          "end": 1056
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "vCJD",
+      "start": 1101,
+      "end": 1105,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1101,
+          "end": 1105
+        }
+      ]
+    }
+  ]
+}

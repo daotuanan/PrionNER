@@ -1,0 +1,14 @@
+Creutzfeldt-Jakob disease (CJD) is one of the "prion" diseases.
+MRI has been reported to detect some findings in this disease, particularly high intensity in the basal ganglia on T2WI.
+We reviewed six cases of CJD, and found additional characteristic findings.
+Cerebral atrophy was detected in two of six cases, and in one of these two, it progressed markedly during 8 months.
+No abnormal density or abnormal signal intensity was detected on CT or T1WI of MRI.
+Cerebral angiography was done in one patient, and no abnormality was detected.
+High signal intensity on T2WI in the basal ganglia was detected in five of six cases (83%).
+T2WI showed high signal intensity in the cerebral cortex in four of six cases (67%), and in three cases the temporal cortex was involved.
+The high signal intensity in the temporal cortex appeared prior to the appearance of abnormal intensity in the basal ganglia in two cases.
+We conclude that the high signal intensity in the temporal cortex on T2WI is an important sign and can lead to early diagnosis of CJD.
+We consider that these MR findings may represent a "prion" disease, not only CJD.
+
+<Related> YES or NO
+[DONE]

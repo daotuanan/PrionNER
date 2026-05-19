@@ -1,0 +1,97 @@
+{
+  "doc_id": "prion_0570",
+  "text": "In an electron microscopic study of brain biopsy material from a case with Creutzfeldt-Jakob disease intranuclear vacuoles containing membrano-vesicular structures were found.\nTo our knowledge this finding has not been previously reported in human spongiform encephalopathies.\nIt may represent a specific alteration associated with Creutzfeldt-Jakob disease, and suggests the possibility of nuclear infection.",
+  "entities": [
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 36,
+      "end": 41,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 36,
+          "end": 41
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Autopsy",
+      "start": 42,
+      "end": 48,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 42,
+          "end": 48
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 75,
+      "end": 100,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 75,
+          "end": 100
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Autopsy_finding",
+      "start": 101,
+      "end": 122,
+      "text": "intranuclear vacuoles",
+      "spans": [
+        {
+          "start": 101,
+          "end": 122
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 242,
+      "end": 275,
+      "text": "human spongiform encephalopathies",
+      "spans": [
+        {
+          "start": 242,
+          "end": 275
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 332,
+      "end": 357,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 332,
+          "end": 357
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Autopsy_finding",
+      "start": 391,
+      "end": 408,
+      "text": "nuclear infection",
+      "spans": [
+        {
+          "start": 391,
+          "end": 408
+        }
+      ]
+    }
+  ]
+}

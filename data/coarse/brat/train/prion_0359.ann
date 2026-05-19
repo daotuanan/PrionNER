@@ -1,0 +1,12 @@
+T25	Differential_Diagnosis 28 57	familial early onset dementia
+T1	Differential_Diagnosis 103 122	Alzheimer's disease
+T8	Time 436 456	age at disease onset
+T9	Time 461 480	duration of illness
+T14	Time 633 653	age at disease onset
+T15	Time 727 743	disease duration
+T16	Time 871 883	age at onset
+T17	Time 897 920	Duration of the disease
+T18	Time 1018 1030	age at onset
+T21	Time 1146 1166	age at disease onset
+T22	Time 1171 1187	disease duration
+T23	Generic_Prion 1195 1222	spongiform encephalopathies

@@ -1,0 +1,162 @@
+{
+  "doc_id": "prion_0228",
+  "text": "A quantitative assessment of eye movements and a detailed neuropsychological profile were conducted at predementia stage in a patient who later had histological confirmation of sporadic Creutzfeldt-Jakob disease (CJD).\nThe patient was a middle aged man who presented with abnormal eye movements and poor balance.\nNeuropsychological deficits suggested orbito-mesial dysfunction, resembling progressive supranuclear palsy.\nOculometry showed accurate but dramatically slowed saccades, with normal pursuit movements.\nNeuropsychology and quantitative oculometry may be of value in the differential diagnosis and earlier detection of dementia-akinetic-rigid syndromes; in particular, because of the highly stereotyped nature of saccades, routine quantitative oculometry can reveal significant impairment at a very early stage in some cases and could thus facilitate earlier diagnosis.",
+  "entities": [
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 29,
+      "end": 42,
+      "text": "eye movements",
+      "spans": [
+        {
+          "start": 29,
+          "end": 42
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "sCJD",
+      "start": 177,
+      "end": 211,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 177,
+          "end": 211
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 213,
+      "end": 216,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 213,
+          "end": 216
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Age",
+      "start": 237,
+      "end": 248,
+      "text": "middle aged",
+      "spans": [
+        {
+          "start": 237,
+          "end": 248
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 272,
+      "end": 294,
+      "text": "abnormal eye movements",
+      "spans": [
+        {
+          "start": 272,
+          "end": 294
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 299,
+      "end": 311,
+      "text": "poor balance",
+      "spans": [
+        {
+          "start": 299,
+          "end": 311
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 351,
+      "end": 376,
+      "text": "orbito-mesial dysfunction",
+      "spans": [
+        {
+          "start": 351,
+          "end": 376
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Differential_Diagnosis",
+      "start": 389,
+      "end": 419,
+      "text": "progressive supranuclear palsy",
+      "spans": [
+        {
+          "start": 389,
+          "end": 419
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Imaging_test",
+      "start": 421,
+      "end": 431,
+      "text": "Oculometry",
+      "spans": [
+        {
+          "start": 421,
+          "end": 431
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Differential_Diagnosis",
+      "start": 628,
+      "end": 661,
+      "text": "dementia-akinetic-rigid syndromes",
+      "spans": [
+        {
+          "start": 628,
+          "end": 661
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 722,
+      "end": 730,
+      "text": "saccades",
+      "spans": [
+        {
+          "start": 722,
+          "end": 730
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Imaging_test",
+      "start": 732,
+      "end": 763,
+      "text": "routine quantitative oculometry",
+      "spans": [
+        {
+          "start": 732,
+          "end": 763
+        }
+      ]
+    }
+  ]
+}

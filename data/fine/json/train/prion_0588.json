@@ -1,0 +1,32 @@
+{
+  "doc_id": "prion_0588",
+  "text": "A patient with Creutzfeldt-Jakob disease is described.\nMany alternative psychiatric diagnoses were considered, and the true situation only became apparent late in the clinical course.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 15,
+      "end": 40,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 15,
+          "end": 40
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Differential_Diagnosis",
+      "start": 72,
+      "end": 93,
+      "text": "psychiatric diagnoses",
+      "spans": [
+        {
+          "start": 72,
+          "end": 93
+        }
+      ]
+    }
+  ]
+}

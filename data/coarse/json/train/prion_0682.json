@@ -1,0 +1,188 @@
+{
+  "doc_id": "prion_0682",
+  "text": "Creutzfeldt-Jakob disease (CJD) is one of a small group of the so-called spongiform encephalopathies.\nIt is a rare transmissible disorder which is characterized by progressive and irreversible neurological damage.\nThere are few reports where clinical manifestations are correlated with neurophysiologic and histopathologic findings.\nThe present paper includes three cases of CJD where alterations in evoked potentials and brain mapping studies gave valuable information, especially in those where the clinical picture and the electroencephalogram were non-specific, we conclude that these alterations suggest that the classic histopathological changes in C-J disease involves both cortical and subcortical structures.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 73,
+      "end": 100,
+      "text": "spongiform encephalopathies",
+      "spans": [
+        {
+          "start": 73,
+          "end": 100
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Differential_Diagnosis",
+      "start": 115,
+      "end": 137,
+      "text": "transmissible disorder",
+      "spans": [
+        {
+          "start": 115,
+          "end": 137
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 286,
+      "end": 302,
+      "text": "neurophysiologic",
+      "spans": [
+        {
+          "start": 286,
+          "end": 302
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 307,
+      "end": 322,
+      "text": "histopathologic",
+      "spans": [
+        {
+          "start": 307,
+          "end": 322
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 375,
+      "end": 378,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 375,
+          "end": 378
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 400,
+      "end": 417,
+      "text": "evoked potentials",
+      "spans": [
+        {
+          "start": 400,
+          "end": 417
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 422,
+      "end": 427,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 422,
+          "end": 427
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 526,
+      "end": 546,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 526,
+          "end": 546
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 626,
+      "end": 651,
+      "text": "histopathological changes",
+      "spans": [
+        {
+          "start": 626,
+          "end": 651
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 655,
+      "end": 666,
+      "text": "C-J disease",
+      "spans": [
+        {
+          "start": 655,
+          "end": 666
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 681,
+      "end": 689,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 681,
+          "end": 689
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 694,
+      "end": 705,
+      "text": "subcortical",
+      "spans": [
+        {
+          "start": 694,
+          "end": 705
+        }
+      ]
+    }
+  ]
+}

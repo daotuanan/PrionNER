@@ -1,0 +1,8 @@
+T2	Treatment 43 84	received pituitary derived growth hormone
+T3	Anatomic_location 214 229	posterior fossa
+T5	Generic_Prion 272 297	Creutzfeldt-Jakob disease
+T6	Autopsy 312 320	necropsy
+T7	Generic_Prion 350 375	Creutzfeldt-Jakob disease
+T9	Treatment 589 636	treatment with pituitary derived growth hormone
+T10	sCJD 680 705	Creutzfeldt-Jakob disease
+T11	Differential_Diagnosis 198 236	recurrence of a posterior fossa tumour

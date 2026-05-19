@@ -1,0 +1,15 @@
+T1	Generic_Prion 45 70	Creutzfeldt-Jakob disease
+T2	Generic_Prion 72 75	CJD
+T3	Autopsy 110 117	autopsy
+T4	Duration 118 139	between 1968 and 1977
+T5	Age 298 312	60 to 64 years
+T6	Duration 345 364	two to three months
+T7	Symptom 368 385	prodromal illness
+T8	Symptom 647 655	dementia
+T9	Symptom 657 666	myoclonus
+T11	Duration 828 846	less than 2 months
+T12	Duration 903 925	between 2 and 10 years
+T13	Choose_Related 938 941	YES
+T14	Electrophysio_test 683 703	electroencephalogram
+T15	Symptom 772 795	strokelike presentation
+T16	Choose_Done 949 953	DONE

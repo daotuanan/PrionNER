@@ -1,0 +1,14 @@
+OBJECTIVES: To describe the clinical presentation of patients with Alzheimer's disease (AD) or dementia with Lewy bodies (DLB) who were suspected of having Creutzfeldt-Jakob disease (CJD) and to investigate whether current clinical diagnostic criteria cover these atypical forms of AD and DLB.
+METHODS: Brains from necropsy were examined for the diagnosis of CJD at the German reference centre for spongiform encephalopathies.
+Symptoms and signs in patients with suspected CJD in whom necropsy showed AD (n=19) or DLB (n=12) were analysed.
+Their data were compared with a group of patients with CJD (n=25) to determine overlapping and discriminating clinical features.
+All patients were classified according to clinical diagnostic criteria for CJD, AD, and DLB.
+RESULTS: Demented patients were suspected of having CJD if disease was rapidly progressing and/or focal neurological signs appeared and/or an EEG showed sharp wave complexes.
+Myoclonus and limb rigidity were the most common neurological signs in all three dementias.
+DLB was not suspected in any patient, although patients with DLB showed parkinsonism (58%) and fluctuations (58%).
+Periodic sharp wave complexes (PSWCs) in EEG typical of CJD were found in five patients with AD and one patient with DLB.
+14-3-3 Protein in CSF was detected in 20 patients with CJD, in two patients with AD, but not in any patient with DLB.
+Although most patients with DLB or AD met the clinical criteria for their respective diagnosis (74% and 90%), they also fulfilled criteria for CJD (42% and 58%).
+CONCLUSIONS: In patients with rapidly progressive dementia and focal neurological signs, CJD should be the first line diagnosis.
+Facing the triad dementia, myoclonus, and rigidity, AD should be considered if the disease course is longer and DLB is the differential diagnosis if parkinsonism or fluctuations are present.
+Findings on EEG or CSF typical of CJD do not exclude AD or DLB.

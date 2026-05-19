@@ -1,0 +1,55 @@
+T1	Autopsy 15 22	autopsy
+T2	Generic_Prion 58 83	Creutzfeldt-Jakob disease
+T3	Generic_Prion 85 88	CJD
+T4	Symptom 126 137	visual loss
+T5	Imaging_test 162 188	magnetic resonance imaging
+T6	Imaging_test 190 192	MR
+T8	Age 214 225	59-year-old
+T9	Symptom 244 272	disturbance of visual acuity
+T12	Time_point 297 315	at the early stage
+T14	Symptom 352 368	apallic syndrome
+T15	Symptom 382 397	myoclonic jerks
+T16	Anatomic_location 405 414	eye balls
+T17	Anatomic_location 416 420	face
+T18	Anatomic_location 422 426	neck
+T19	Anatomic_location 431 442	extremities
+T20	Electrophysio_test 444 466	Electroencephalography
+T22	Time_point 506 524	Three months later
+T23	Imaging_test 550 552	MR
+T24	Imaging_finding 580 587	atrophy
+T27	Imaging_test 632 639	CT scan
+T28	Complication 679 695	bronchopneumonia
+T29	Age 703 718	age of 60 years
+T30	Duration 758 773	about 20 months
+T31	Autopsy 775 804	Neuropathological examination
+T33	Anatomic_location 850 865	cerebral cortex
+T34	Anatomic_location 870 882	white matter
+T35	Autopsy_finding 915 928	neuronal loss
+T36	Autopsy_finding 933 945	astrocytosis
+T37	Autopsy_finding 947 965	spongiform changes
+T38	Anatomic_location 984 995	hippocampus
+T39	Anatomic_location 1034 1055	cerebral white matter
+T41	Anatomic_location 1061 1075	myelin sheaths
+T42	Anatomic_location 1080 1085	axons
+T43	Anatomic_location 1121 1131	cerebellum
+T45	Generic_Prion 1270 1273	CJD
+T46	Imaging_test 1323 1325	MR
+T47	Generic_Prion 1379 1382	CJD
+T48	Choose_Related 1481 1484	YES
+T7	Autopsy_finding 31 54	panencephalopathic type
+T10	Symptom 244 258;274 280	disturbance of memory
+T11	Symptom 244 258;285 296	disturbance of calculation
+T13	Time_point 323 337	2 months later
+T21	Anatomic_location 570 579	occipital
+T25	Imaging_finding 621 628	atrophy
+T26	Autopsy_finding 835 842	atrophy
+T40	Autopsy_finding 1243 1266	panencephalopathic type
+T44	Choose_Done 1492 1496	DONE
+T49	Anatomic_location 615 620	brain
+T50	Anatomic_location 906 914	cortical
+T32	Anatomic_location 31 49	panencephalopathic
+T51	Complication 645 649	died
+T52	Duration 506 518	Three months
+T53	Autopsy 1187 1204	neuropathological
+T54	Anatomic_location 1243 1261	panencephalopathic
+T55	Duration 323 331	2 months

@@ -1,0 +1,162 @@
+{
+  "doc_id": "prion_0583",
+  "text": "A fourth histologically-confirmed American case of Creutzfeldt-Jakob disease (CJD) related to human growth hormone (hGH) therapy is reported.\nLike kuru, the illness was dominated by cerebellar signs and relatively little mental deterioration.\nThe diagnosis was strongly supported premortem by the presence of two abnormal 30 kDa proteins in the CSF that are seen almost exclusively in CJD.\nThe characteristic clinical picture coupled with such biochemical data allow a reasonably accurate premortem diagnosis of hGH-related iatrogenic CJD to be made.",
+  "entities": [
+    {
+      "id": "T11",
+      "label": "Autopsy",
+      "start": 9,
+      "end": 23,
+      "text": "histologically",
+      "spans": [
+        {
+          "start": 9,
+          "end": 23
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 51,
+      "end": 76,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 51,
+          "end": 76
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 78,
+      "end": 81,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 78,
+          "end": 81
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Treatment",
+      "start": 94,
+      "end": 128,
+      "text": "human growth hormone (hGH) therapy",
+      "spans": [
+        {
+          "start": 94,
+          "end": 128
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Kuru",
+      "start": 147,
+      "end": 151,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 147,
+          "end": 151
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 182,
+      "end": 192,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 182,
+          "end": 192
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 182,
+      "end": 198,
+      "text": "cerebellar signs",
+      "spans": [
+        {
+          "start": 182,
+          "end": 198
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 221,
+      "end": 241,
+      "text": "mental deterioration",
+      "spans": [
+        {
+          "start": 221,
+          "end": 241
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 345,
+      "end": 348,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 345,
+          "end": 348
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 385,
+      "end": 388,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 385,
+          "end": 388
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Treatment",
+      "start": 512,
+      "end": 515,
+      "text": "hGH",
+      "spans": [
+        {
+          "start": 512,
+          "end": 515
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "iCJD",
+      "start": 512,
+      "end": 538,
+      "text": "hGH-related iatrogenic CJD",
+      "spans": [
+        {
+          "start": 512,
+          "end": 538
+        }
+      ]
+    }
+  ]
+}

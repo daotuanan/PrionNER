@@ -1,0 +1,346 @@
+{
+  "doc_id": "prion_0633",
+  "text": "A similar affection has developed in eight members from four generations of a family living in the Alsace.\nThe disease is characterized by the onset of a pyramidal, pseudobulbar syndrome and dementia during the third or fourth decade of life.\nThe outcome is fatal after a mean period of three years.\nCerebral biopsies in three cases have demonstrated multicentric amyloid plaques differing from senile plaques.\nClinical and pathological findings are similar to those currently reported in the literature as being typical of Gerstmann-Sträussler-Scheinker's syndrome.\nThe affection appears as a separate entity: the multicentric plaques, clinical symptomatology, pyramidal or pseudobulbar, cerebellar syndromes, usually preceding dementia, age of onset, course, and familial character or the disorder distinguish it among presenile dementias.\nIts clinical profile and course are very similar to that of familial cases of Alzheimer's disease, some of which are probably cases of Gerstmann-Strässler-Scheinker's syndrome.\nTransmission to animals, though inconstant, places it within the group of transmissible dementias among kuru, Creutzfeldt-Jakob's, and familial forms of Alzheimer's disease.\nThe familial nature of the affection and the variability of clinical and pathological features in the same family illustrate the complex relationships between hosts and pathogenic agents in the clinicopathological expression of a disease.",
+  "entities": [
+    {
+      "id": "T25",
+      "label": "Symptom",
+      "start": 154,
+      "end": 186,
+      "text": "pyramidal syndrome",
+      "spans": [
+        {
+          "start": 154,
+          "end": 163
+        },
+        {
+          "start": 178,
+          "end": 186
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 165,
+      "end": 186,
+      "text": "pseudobulbar syndrome",
+      "spans": [
+        {
+          "start": 165,
+          "end": 186
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 191,
+      "end": 199,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 191,
+          "end": 199
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Age",
+      "start": 200,
+      "end": 241,
+      "text": "during the third or fourth decade of life",
+      "spans": [
+        {
+          "start": 200,
+          "end": 241
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Complication",
+      "start": 258,
+      "end": 263,
+      "text": "fatal",
+      "spans": [
+        {
+          "start": 258,
+          "end": 263
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 287,
+      "end": 298,
+      "text": "three years",
+      "spans": [
+        {
+          "start": 287,
+          "end": 298
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 300,
+      "end": 308,
+      "text": "Cerebral",
+      "spans": [
+        {
+          "start": 300,
+          "end": 308
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 309,
+      "end": 317,
+      "text": "biopsies",
+      "spans": [
+        {
+          "start": 309,
+          "end": 317
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Findings",
+      "start": 351,
+      "end": 379,
+      "text": "multicentric amyloid plaques",
+      "spans": [
+        {
+          "start": 351,
+          "end": 379
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Findings",
+      "start": 395,
+      "end": 409,
+      "text": "senile plaques",
+      "spans": [
+        {
+          "start": 395,
+          "end": 409
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Test_name",
+      "start": 424,
+      "end": 436,
+      "text": "pathological",
+      "spans": [
+        {
+          "start": 424,
+          "end": 436
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Familial_Prion",
+      "start": 524,
+      "end": 565,
+      "text": "Gerstmann-Sträussler-Scheinker's syndrome",
+      "spans": [
+        {
+          "start": 524,
+          "end": 565
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Findings",
+      "start": 615,
+      "end": 635,
+      "text": "multicentric plaques",
+      "spans": [
+        {
+          "start": 615,
+          "end": 635
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 662,
+      "end": 709,
+      "text": "pyramidal syndromes",
+      "spans": [
+        {
+          "start": 662,
+          "end": 671
+        },
+        {
+          "start": 700,
+          "end": 709
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 675,
+      "end": 709,
+      "text": "pseudobulbar syndromes",
+      "spans": [
+        {
+          "start": 675,
+          "end": 687
+        },
+        {
+          "start": 700,
+          "end": 709
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 689,
+      "end": 709,
+      "text": "cerebellar syndromes",
+      "spans": [
+        {
+          "start": 689,
+          "end": 709
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 729,
+      "end": 737,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 729,
+          "end": 737
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Differential_Diagnosis",
+      "start": 821,
+      "end": 840,
+      "text": "presenile dementias",
+      "spans": [
+        {
+          "start": 821,
+          "end": 840
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Differential_Diagnosis",
+      "start": 920,
+      "end": 939,
+      "text": "Alzheimer's disease",
+      "spans": [
+        {
+          "start": 920,
+          "end": 939
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Familial_Prion",
+      "start": 977,
+      "end": 1017,
+      "text": "Gerstmann-Strässler-Scheinker's syndrome",
+      "spans": [
+        {
+          "start": 977,
+          "end": 1017
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Differential_Diagnosis",
+      "start": 1093,
+      "end": 1116,
+      "text": "transmissible dementias",
+      "spans": [
+        {
+          "start": 1093,
+          "end": 1116
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Acquired_Prion",
+      "start": 1123,
+      "end": 1127,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 1123,
+          "end": 1127
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Generic_Prion",
+      "start": 1129,
+      "end": 1148,
+      "text": "Creutzfeldt-Jakob's",
+      "spans": [
+        {
+          "start": 1129,
+          "end": 1148
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Differential_Diagnosis",
+      "start": 1172,
+      "end": 1191,
+      "text": "Alzheimer's disease",
+      "spans": [
+        {
+          "start": 1172,
+          "end": 1191
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Test_name",
+      "start": 1266,
+      "end": 1278,
+      "text": "pathological",
+      "spans": [
+        {
+          "start": 1266,
+          "end": 1278
+        }
+      ]
+    }
+  ]
+}

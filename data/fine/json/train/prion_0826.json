@@ -1,0 +1,201 @@
+{
+  "doc_id": "prion_0826",
+  "text": "BACKGROUND: Gerstmann-Sträussler-Scheinker disease is an autosomal dominant prion disease.\nThe clinical features include ataxia, dementia, spastic paraparesis and extrapyramidal signs.\nMETHODS: We report a new large Italian family affected by Gerstmann-Sträussler-Scheinker disease.\nRESULTS: The four generation pedigree includes 11 patients.\nThe mean age at onset +/- SD was 41.4 +/- 16.2 years.\nMean disease duration to death in four patients was 5.5 +/- 1.7 years.\nTwo clinical patterns were evident: cognitive impairment with scarce neurological features or ataxia followed by cognitive impairment.\nMolecular analysis showed P102L mutation in PRNP gene.\nCONCLUSION: Three Italian families have been reported to date.\nThe variable phenotype has already been reported, and does not appear related to the codon 129 polymorphism.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "GSS",
+      "start": 12,
+      "end": 50,
+      "text": "Gerstmann-Sträussler-Scheinker disease",
+      "spans": [
+        {
+          "start": 12,
+          "end": 50
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 76,
+      "end": 89,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 76,
+          "end": 89
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 121,
+      "end": 127,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 121,
+          "end": 127
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 129,
+      "end": 137,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 129,
+          "end": 137
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 139,
+      "end": 158,
+      "text": "spastic paraparesis",
+      "spans": [
+        {
+          "start": 139,
+          "end": 158
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 163,
+      "end": 183,
+      "text": "extrapyramidal signs",
+      "spans": [
+        {
+          "start": 163,
+          "end": 183
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "GSS",
+      "start": 243,
+      "end": 281,
+      "text": "Gerstmann-Sträussler-Scheinker disease",
+      "spans": [
+        {
+          "start": 243,
+          "end": 281
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Age",
+      "start": 352,
+      "end": 364,
+      "text": "age at onset",
+      "spans": [
+        {
+          "start": 352,
+          "end": 364
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Age",
+      "start": 376,
+      "end": 395,
+      "text": "41.4 +/- 16.2 years",
+      "spans": [
+        {
+          "start": 376,
+          "end": 395
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Complication",
+      "start": 422,
+      "end": 427,
+      "text": "death",
+      "spans": [
+        {
+          "start": 422,
+          "end": 427
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Duration",
+      "start": 449,
+      "end": 466,
+      "text": "5.5 +/- 1.7 years",
+      "spans": [
+        {
+          "start": 449,
+          "end": 466
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 504,
+      "end": 524,
+      "text": "cognitive impairment",
+      "spans": [
+        {
+          "start": 504,
+          "end": 524
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 562,
+      "end": 568,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 562,
+          "end": 568
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 581,
+      "end": 601,
+      "text": "cognitive impairment",
+      "spans": [
+        {
+          "start": 581,
+          "end": 601
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Molecular_assay",
+      "start": 603,
+      "end": 621,
+      "text": "Molecular analysis",
+      "spans": [
+        {
+          "start": 603,
+          "end": 621
+        }
+      ]
+    }
+  ]
+}

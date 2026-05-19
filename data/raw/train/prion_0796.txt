@@ -1,0 +1,12 @@
+OBJECTIVE: To describe the early psychiatric and neurological features of variant Creutzfeldt-Jakob disease.
+DESIGN: Cohort study.
+SETTING: National surveillance system for Creutzfeldt-Jakob disease in the United Kingdom.
+PARTICIPANTS: The first 100 cases of variant Creutzfeldt-Jakob disease identified in the United Kingdom.
+MAIN OUTCOME MEASURES: The timing and nature of early psychiatric and neurological symptoms in variant Creutzfeldt-Jakob disease.
+RESULTS: The early stages of variant Creutzfeldt-Jakob disease are dominated by psychiatric symptoms, but neurological symptoms precede psychiatric symptoms in 15% of cases and are present in combination with psychiatric symptoms in 22% of cases from the onset of disease.
+Common early psychiatric features include dysphoria, withdrawal, anxiety, insomnia, and loss of interest.
+No common early neurological features exist, but a significant proportion of patients do exhibit neurological symptoms within 4 months of clinical onset, including poor memory, pain, sensory symptoms, unsteadiness of gait, and dysarthria.
+CONCLUSIONS: Although the diagnosis of variant Creutzfeldt-Jakob disease may be impossible in the early stages of the illness, particular combinations of psychiatric and neurological features may allow early diagnosis in an appreciable proportion of patients.
+
+<Related> YES or NO
+[DONE]

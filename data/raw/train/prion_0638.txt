@@ -1,0 +1,5 @@
+We report a pathologically proven case of Creutzfeldt-Jakob disease (CJD) with striking asymmetry in abnormal high signal intensity of the basal ganglia on long-repetition-time MRI.
+Symmetric or asymmetric high signal intensity of the basal ganglia, in the appropriate clinical setting, may be a specific finding of CJD.
+
+<Related> YES or NO
+[DONE]

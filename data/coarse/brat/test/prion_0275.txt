@@ -1,0 +1,13 @@
+BACKGROUND AND PURPOSE: Recent neuropathologic research suggests thalamic involvement in sporadic Creutzfeldt-Jakob disease (sCJD), which has been disregarded in imaging studies.
+Diffusion-weighted (DW) MR imaging has the highest sensitivity for the detection of signal intensity (SI) abnormalities in CJD.
+We hypothesized that pathologic changes in the thalamus in sCJD can be detected by using a subtle analysis of DW MR imaging.
+METHODS: Six sCJD patients and nine healthy controls were examined with a 1.5-T system by using DW single-shot spin-echo echo planar (b = 0, 1000 s/mm(2)), T2-weighted turbo spin-echo, and fluid-attenuated inversion recovery sequences.
+One patient was examined serially (3, 4, and 8 months after onset of symptoms).
+MR images were reviewed for SI changes in the striatum, hippocampus, mediodorsal thalamic nucleus (MD), and pulvinar thalami.
+Apparent diffusion coefficients (ADCs) were measured in these areas.
+RESULTS: All sCJD patients showed increased SI on DW images in the striatum bilaterally.
+ADCs in these areas were significantly reduced.
+Four of six sCJD patients showed increased SI on DW images in the pulvinar thalami, whereas ADCs were significantly reduced in all patients (mean ADC +/- SEM: in patients with SI changes, 701 +/- 38; in patients without SI changes, 684 +/- 37; in controls, 853 +/- 15 [P <.0001]).
+No patient showed SI changes in the MD on DW images, whereas ADCs were significantly reduced in all (664 +/- 28 as compared with 800 +/- 24 in controls [P =.0011]).
+Serial measurements in one sCJD patient showed ADC reduction in the pulvinar thalami preceding the SI changes on DW images.
+CONCLUSION: A quantitative analysis of DW images with ADC measurements shows slight MR imaging changes in the thalamus in sCJD when abnormal SI may not be present.

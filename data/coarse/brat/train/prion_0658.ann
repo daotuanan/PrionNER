@@ -1,0 +1,11 @@
+T4	Generic_Prion 3 28	Creutzfeldt-Jakob disease
+T5	Generic_Prion 30 33	CJD
+T8	Stats 100 118	one in one million
+T10	Generic_Prion 144 147	CJD
+T2	Age 161 172	middle-aged
+T3	Age 177 184	elderly
+T11	Time 233 251	ages of 55 and 75.
+T12	Anatomic_location 327 349	central nervous system
+T13	Generic_Prion 471 474	CJD
+T15	Complication 523 528	death
+T14	Time 532 546	6 to 12 months

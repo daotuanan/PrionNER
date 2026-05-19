@@ -1,0 +1,370 @@
+{
+  "doc_id": "prion_0657",
+  "text": "Four patients who received dural grafts of cadaveric origin in the course of posterior fossa procedures subsequently developed Creutzfeldt-Jakob disease (CJD).\nThe interval from dural placement to clinical onset of CJD ranged from 16 months to nine years.\nInitial clinical presentation consisted of cerebellar symptoms, with dementia and myoclonus developing in later stages of the disease.\nEEGs showed diffuse slowing that evolved to a periodic activity pattern.\nCT and MRI were unremarkable in the early stages but pronounced cerebral and cerebellar atrophy with widened sulci and collections of fluid over the convexities were seen in the late stages of disease.\nThe diagnosis was histologically proved by brain biopsy in all four cases.\nMolecular genetic analysis showed that the four patients were homozygous for methionine at codon 129 of the PrP gene.\nFrom this experience, and from six previous descriptions of this occurrence in the literature, it is manifest that awareness of the means of iatrogenic transmission of CJD, and the adoption of preventive measures, constitute the only effective way to stop the spread of CJD among patients who have neurosurgery.",
+  "entities": [
+    {
+      "id": "T3",
+      "label": "Treatment",
+      "start": 27,
+      "end": 59,
+      "text": "dural grafts of cadaveric origin",
+      "spans": [
+        {
+          "start": 27,
+          "end": 59
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 77,
+      "end": 92,
+      "text": "posterior fossa",
+      "spans": [
+        {
+          "start": 77,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 127,
+      "end": 152,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 127,
+          "end": 152
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 154,
+      "end": 157,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 154,
+          "end": 157
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Treatment",
+      "start": 178,
+      "end": 193,
+      "text": "dural placement",
+      "spans": [
+        {
+          "start": 178,
+          "end": 193
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 215,
+      "end": 218,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 215,
+          "end": 218
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Duration",
+      "start": 231,
+      "end": 254,
+      "text": "16 months to nine years",
+      "spans": [
+        {
+          "start": 231,
+          "end": 254
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 299,
+      "end": 309,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 299,
+          "end": 309
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 299,
+      "end": 318,
+      "text": "cerebellar symptoms",
+      "spans": [
+        {
+          "start": 299,
+          "end": 318
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 325,
+      "end": 333,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 325,
+          "end": 333
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 338,
+      "end": 347,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 338,
+          "end": 347
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Time_point",
+      "start": 362,
+      "end": 374,
+      "text": "later stages",
+      "spans": [
+        {
+          "start": 362,
+          "end": 374
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Electrophysio_test",
+      "start": 391,
+      "end": 395,
+      "text": "EEGs",
+      "spans": [
+        {
+          "start": 391,
+          "end": 395
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Imaging_test",
+      "start": 464,
+      "end": 466,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 464,
+          "end": 466
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Imaging_test",
+      "start": 471,
+      "end": 474,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 471,
+          "end": 474
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Time_point",
+      "start": 500,
+      "end": 512,
+      "text": "early stages",
+      "spans": [
+        {
+          "start": 500,
+          "end": 512
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 528,
+      "end": 536,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 528,
+          "end": 536
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 541,
+      "end": 551,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 541,
+          "end": 551
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Imaging_finding",
+      "start": 552,
+      "end": 559,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 552,
+          "end": 559
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Imaging_finding",
+      "start": 565,
+      "end": 578,
+      "text": "widened sulci",
+      "spans": [
+        {
+          "start": 565,
+          "end": 578
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Imaging_finding",
+      "start": 583,
+      "end": 624,
+      "text": "collections of fluid over the convexities",
+      "spans": [
+        {
+          "start": 583,
+          "end": 624
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Time_point",
+      "start": 642,
+      "end": 653,
+      "text": "late stages",
+      "spans": [
+        {
+          "start": 642,
+          "end": 653
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Autopsy",
+      "start": 684,
+      "end": 698,
+      "text": "histologically",
+      "spans": [
+        {
+          "start": 684,
+          "end": 698
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 709,
+      "end": 714,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 709,
+          "end": 714
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Autopsy",
+      "start": 715,
+      "end": 721,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 715,
+          "end": 721
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Genetic_test",
+      "start": 741,
+      "end": 767,
+      "text": "Molecular genetic analysis",
+      "spans": [
+        {
+          "start": 741,
+          "end": 767
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "iCJD",
+      "start": 1000,
+      "end": 1030,
+      "text": "iatrogenic transmission of CJD",
+      "spans": [
+        {
+          "start": 1000,
+          "end": 1030
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Generic_Prion",
+      "start": 1129,
+      "end": 1132,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1129,
+          "end": 1132
+        }
+      ]
+    }
+  ]
+}

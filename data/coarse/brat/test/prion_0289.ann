@@ -1,0 +1,24 @@
+T26	Symptom 151 171	progressive insomnia
+T2	Symptom 173 185	dysautonomia
+T3	Symptom 191 202	motor signs
+T7	Test_name 221 235	pathologically
+T12	Findings 246 253	atrophy
+T4	Anatomic_location 261 277;294 309	anterior ventral thalamic nuclei
+T14	Anatomic_location 282 309	mediodorsal thalamic nuclei
+T16	Complication 341 345	died
+T30	Familial_Prion 380 403	fatal familial insomnia
+T18	Test_name 418 433	neuropathologic
+T5	Familial_Prion 458 481	fatal familial insomnia
+T6	Generic_Prion 493 506	prion disease
+T32	Test_name 578 599	Western blot analyses
+T19	Anatomic_location 635 640	brain
+T34	Test_name 660 667	autopsy
+T8	Familial_Prion 691 714	fatal familial insomnia
+T9	Sporadic_Prion 736 770	sporadic Creutzfeldt-Jakob disease
+T10	Familial_Prion 902 925	fatal familial insomnia
+T41	Test_name 927 954	Restriction-enzyme analysis
+T13	Familial_Prion 1090 1113	fatal familial insomnia
+T15	Generic_Prion 1194 1219	Creutzfeldt-Jakob disease
+T17	Familial_Prion 1240 1263	fatal familial insomnia
+T22	Familial_Prion 1620 1643	Fatal familial insomnia
+T24	Generic_Prion 1649 1662	prion disease

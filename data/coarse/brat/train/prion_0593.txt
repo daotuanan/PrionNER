@@ -1,0 +1,12 @@
+The clinical and EEG findings in patients in the literature with Creutzfeldt-Jakob disease (CJD) were reviewed and compared with findings in 36 patients with CJD at the Massachusetts General Hospital (MGH).
+Twenty-one of the 36 MGH cases had histopathology, all with findings consistent with CJD.
+EEGs in 18 patients studied pathologically and in 10 without pathological investigation (28 of the 36) had periodic sharp wave complexes (PSWC) at some time during the clinical course.
+Of the other eight patients, two had only a single EEG early in the course of the illness, four experienced unusually long clinical courses, and two never showed PSWC despite numerous EEGs.
+PSWC made their appearance within 12 weeks of onset of clinical symptoms in 25 of 27 in whom EEGs were done during that period.
+In the early stages, EEGs in 14 of 28 showed focal PSWC or amplitude asymmetries of PSWC that corresponded well with focal myoclonus or other focal neurological abnormalities.
+In the literature, PSWC occurred within 12 weeks of the onset of the illness in 66 of 75 patients (88%) with CJD who had comparable clinical and neuropathological findings and adequate EEG data during the first 3 months of the illness.
+In the approximately 10% of patients who experienced unusually long courses, PSWC occurred in only about 55%.
+The presence of PSWC in association with the appropriate clinical, biochemical, cerebrospinal fluid, and neuroradiological findings is diagnostic of CJD.
+Brain biopsy is, therefore, unnecessary even when clinical therapeutic trials are undertaken and certainty of diagnosis is required.
+The absence of PSWC in the EEG after 12 weeks' duration of illness is a point strongly against the diagnosis of CJD unless it is a rare subtype of long duration.
+Only those patients without PSWC need to be biopsied.

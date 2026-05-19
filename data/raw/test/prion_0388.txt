@@ -1,0 +1,13 @@
+1.
+Recent publication has suggested that quinacrine may be a candidate for treatment of Creutzfeldt-Jakob disease (CJD).
+But serious toxicity of quinacrine to liver and hematological system has been reported.
+2.
+We disclosed the permeability of quinacrine can be enhanced by presence of p-glycoprotein inhibitor at blood-brain barrier in vitro.
+Therefore, we tried the protocol of combination of quinacrine and p-glycoprotein inhibitor, verapamil for patients with CJD.
+3.
+When compared clinical effects by quinacrine and the combination therapy, improvement of clinical findings was observed at the same level without any adverse effects.
+Low-dose quinacrine with verapamil can be used as safe treatment of CJD.
+
+<Related> YES or NO
+[DONE]
+[CHECK]

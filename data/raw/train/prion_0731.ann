@@ -1,0 +1,26 @@
+T1	Generic_Prion 12 37	Creutzfeldt-Jakob disease
+T2	Generic_Prion 39 42	CJD
+T3	Symptom 100 128	rapidly progressive dementia
+T4	Complication 142 147	death
+T5	Duration 161 167	1 year
+T7	Generic_Prion 306 309	CJD
+T9	Imaging_sequence 468 493	diffusion-weighted images
+T11	Generic_Prion 534 537	CJD
+T14	Imaging_test 650 678	positron emission tomography
+T15	Imaging_test 682 724	single photon emission computed tomography
+T17	Imaging_test 814 839	magnetic resonance images
+T18	Generic_Prion 892 895	CJD
+T19	Imaging_sequence 951 975	diffusion-weighted image
+T20	Imaging_finding 994 1013	abnormal metabolism
+T22	Imaging_test 1030 1047	positron emission
+T25	Electrophysio_test 1205 1226	electroencephalograms
+T27	Generic_Prion 1368 1371	CJD
+T28	Choose_Related 1384 1387	YES
+T24	Imaging_sequence 215 233	diffusion-weighted
+T6	Imaging_test 234 260	magnetic resonance imaging
+T8	Electrophysio_test 582 605	electroencephalographic
+T10	Imaging_sequence 764 782	diffusion-weighted
+T12	Imaging_finding 1017 1026;994 1002	perfusion abnormal
+T13	Imaging_test 1052 1095	single photon emission computed tomographic
+T16	Imaging_sequence 1338 1364	diffusion-weighted imaging
+T21	Choose_Done 1395 1399	DONE

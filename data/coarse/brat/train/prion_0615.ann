@@ -1,0 +1,14 @@
+T2	Generic_Prion 29 54	Creutzfeldt-Jakob disease
+T3	Time 95 110	2 years or more
+T10	Time 310 317	13-year
+T14	Age 446 454	48 years
+T15	Symptom 482 491	myoclonus
+T1	Test_name 511 534	electroencephalographic
+T21	Symptom 700 726	intellectual deterioration
+T22	Symptom 730 754	behavioral abnormalities
+T23	Symptom 824 857	mental and physical deterioration
+T27	Differential_Diagnosis 1228 1247	Alzheimer's disease
+T28	Test_name 1338 1367	light microscopic examination
+T29	Findings 1373 1383	spongiosis
+T30	Findings 1413 1420	gliosis
+T35	Test_name 1467 1477	postmortem

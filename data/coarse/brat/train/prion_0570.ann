@@ -1,0 +1,7 @@
+T9	Anatomic_location 36 41	brain
+T1	Test_name 42 48	biopsy
+T2	Generic_Prion 75 100	Creutzfeldt-Jakob disease
+T6	Findings 101 122	intranuclear vacuoles
+T3	Generic_Prion 242 275	human spongiform encephalopathies
+T4	Generic_Prion 332 357	Creutzfeldt-Jakob disease
+T7	Findings 391 408	nuclear infection

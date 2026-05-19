@@ -1,0 +1,162 @@
+{
+  "doc_id": "prion_0526",
+  "text": "Focal involvement can be assumed in the initial stage of Creutzfeldt-Jakob disease (CJD).\nWe correlated the clinical, electroencephalographic and neuropathological findings in 13 cases of CJD with special reference to focal or lateralized changes.\nEight cases showed clinical and 9 electroencephalographic signs of asymmetry.\nFour cases with a course of the disease shorter than 12 months presented circumscribed tissue alterations at autopsy.\nCases with a clinical duration longer than 12 months had pathological changes involving both hemispheres symmetrically.\nThe infectious agent seems to spread through the entire brain within a period of 12 months.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 57,
+      "end": 82,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 57,
+          "end": 82
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 84,
+      "end": 87,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 84,
+          "end": 87
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 118,
+      "end": 141,
+      "text": "electroencephalographic",
+      "spans": [
+        {
+          "start": 118,
+          "end": 141
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 146,
+      "end": 163,
+      "text": "neuropathological",
+      "spans": [
+        {
+          "start": 146,
+          "end": 163
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 188,
+      "end": 191,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 188,
+          "end": 191
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 282,
+      "end": 305,
+      "text": "electroencephalographic",
+      "spans": [
+        {
+          "start": 282,
+          "end": 305
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Time",
+      "start": 379,
+      "end": 388,
+      "text": "12 months",
+      "spans": [
+        {
+          "start": 379,
+          "end": 388
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 435,
+      "end": 442,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 435,
+          "end": 442
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Time",
+      "start": 487,
+      "end": 496,
+      "text": "12 months",
+      "spans": [
+        {
+          "start": 487,
+          "end": 496
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 537,
+      "end": 548,
+      "text": "hemispheres",
+      "spans": [
+        {
+          "start": 537,
+          "end": 548
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 620,
+      "end": 625,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 620,
+          "end": 625
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Time",
+      "start": 645,
+      "end": 654,
+      "text": "12 months",
+      "spans": [
+        {
+          "start": 645,
+          "end": 654
+        }
+      ]
+    }
+  ]
+}

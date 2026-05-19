@@ -1,0 +1,14 @@
+T2	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T3	Generic_Prion 27 30	CJD
+T4	Generic_Prion 73 100	spongiform encephalopathies
+T8	Differential_Diagnosis 115 137	transmissible disorder
+T9	Test_name 286 302	neurophysiologic
+T10	Test_name 307 322	histopathologic
+T5	Generic_Prion 375 378	CJD
+T6	Test_name 400 417	evoked potentials
+T16	Anatomic_location 422 427	brain
+T7	Test_name 526 546	electroencephalogram
+T12	Findings 626 651	histopathological changes
+T11	Generic_Prion 655 666	C-J disease
+T13	Anatomic_location 681 689	cortical
+T14	Anatomic_location 694 705	subcortical

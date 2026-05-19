@@ -1,0 +1,162 @@
+{
+  "doc_id": "prion_0372",
+  "text": "Creutzfeldt-Jakob disease (CJD) surveillance relies on autopsy and neuropathologic evaluation.\nThe 1990-2000 CJD autopsy rate in California was 21%.\nMost neurologists were comfortable diagnosing CJD (83%), but few pathologists felt comfortable diagnosing CJD (35%) or performing autopsy (29%).\nAddressing obstacles to autopsy is necessary to improve CJD surveillance.",
+  "entities": [
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Autopsy",
+      "start": 55,
+      "end": 62,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 55,
+          "end": 62
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Autopsy",
+      "start": 67,
+      "end": 93,
+      "text": "neuropathologic evaluation",
+      "spans": [
+        {
+          "start": 67,
+          "end": 93
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Duration",
+      "start": 99,
+      "end": 108,
+      "text": "1990-2000",
+      "spans": [
+        {
+          "start": 99,
+          "end": 108
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 109,
+      "end": 112,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 109,
+          "end": 112
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Autopsy",
+      "start": 113,
+      "end": 120,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 113,
+          "end": 120
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 195,
+      "end": 198,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 195,
+          "end": 198
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 255,
+      "end": 258,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 255,
+          "end": 258
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Autopsy",
+      "start": 279,
+      "end": 286,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 279,
+          "end": 286
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Autopsy",
+      "start": 318,
+      "end": 325,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 318,
+          "end": 325
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 350,
+      "end": 353,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 350,
+          "end": 353
+        }
+      ]
+    }
+  ]
+}

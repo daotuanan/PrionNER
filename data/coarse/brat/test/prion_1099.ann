@@ -1,0 +1,17 @@
+T1	Acquired_Prion 0 52	Iatrogenic transmission of Creutzfeldt-Jakob disease
+T2	Generic_Prion 54 57	CJD
+T6	Treatment 123 140	dura mater grafts
+T11	Treatment 145 177	pituitary-derived growth hormone
+T3	Generic_Prion 222 225	CJD
+T12	Treatment 309 325	dura mater graft
+T17	Acquired_Prion 309 384	dura mater graft- and human pituitary-derived growth hormone-associated CJD
+T13	Treatment 331 369	human pituitary-derived growth hormone
+T4	Generic_Prion 381 384	CJD
+T5	Generic_Prion 445 448	CJD
+T20	Test_name 520 535	neuropathologic
+T19	Test_name 607 622	neuropathologic
+T14	Treatment 664 680	dura mater graft
+T18	Acquired_Prion 664 739	dura mater graft- and human pituitary-derived growth hormone-associated CJD
+T15	Treatment 686 724	human pituitary-derived growth hormone
+T7	Generic_Prion 736 739	CJD
+T8	Acquired_Prion 782 796	iatrogenic CJD

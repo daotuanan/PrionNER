@@ -1,0 +1,15 @@
+T1	Sequences 0 18	Diffusion-weighted
+T3	Test_name 19 22	MRI
+T2	Sequences 24 27	DWI
+T13	Test_name 61 68	autopsy
+T4	Sporadic_Prion 76 110	sporadic Creutzfeldt-Jakob disease
+T5	Generic_Prion 112 115	CJD
+T6	Sequences 196 199	DWI
+T7	Generic_Prion 226 229	CJD
+T9	Generic_Prion 373 376	CJD
+T18	Findings 381 397	no abnormalities
+T14	Sequences 401 403;424 432	T2 weighted
+T15	Sequences 409 432	proton density-weighted
+T10	Anatomic_location 449 457	cortical
+T16	Findings 449 469	cortical involvement
+T11	Sequences 473 476	DWI

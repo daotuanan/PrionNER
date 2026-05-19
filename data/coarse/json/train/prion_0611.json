@@ -1,0 +1,237 @@
+{
+  "doc_id": "prion_0611",
+  "text": "A 52-year-old woman is described, whose clinical features were typical of Creutzfeldt-Jakob disease except for the presence of optic atrophy.\nSerial CT scans showed rapid development of brain atrophy early in the course.\nPostmortem examination revealed extensive degeneration of the cerebral and cerebellar white matter and of the optic nerves in addition to the classic findings of Creutzfeldt-Jakob disease.\nIt is suggested that both the grey and white matter may undergo a severe destructive process early in the course of the disease, and the possibility is discussed that the white matter involvement is not a result of neuronal loss.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "52-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 74,
+      "end": 99,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 74,
+          "end": 99
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 127,
+      "end": 140,
+      "text": "optic atrophy",
+      "spans": [
+        {
+          "start": 127,
+          "end": 140
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 149,
+      "end": 157,
+      "text": "CT scans",
+      "spans": [
+        {
+          "start": 149,
+          "end": 157
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 186,
+      "end": 191,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 186,
+          "end": 191
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Findings",
+      "start": 192,
+      "end": 199,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 192,
+          "end": 199
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Time",
+      "start": 200,
+      "end": 219,
+      "text": "early in the course",
+      "spans": [
+        {
+          "start": 200,
+          "end": 219
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 221,
+      "end": 243,
+      "text": "Postmortem examination",
+      "spans": [
+        {
+          "start": 221,
+          "end": 243
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Findings",
+      "start": 263,
+      "end": 275,
+      "text": "degeneration",
+      "spans": [
+        {
+          "start": 263,
+          "end": 275
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 283,
+      "end": 319,
+      "text": "cerebral white matter",
+      "spans": [
+        {
+          "start": 283,
+          "end": 291
+        },
+        {
+          "start": 307,
+          "end": 319
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 296,
+      "end": 319,
+      "text": "cerebellar white matter",
+      "spans": [
+        {
+          "start": 296,
+          "end": 319
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 331,
+      "end": 343,
+      "text": "optic nerves",
+      "spans": [
+        {
+          "start": 331,
+          "end": 343
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 383,
+      "end": 408,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 383,
+          "end": 408
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 440,
+      "end": 461,
+      "text": "grey matter",
+      "spans": [
+        {
+          "start": 440,
+          "end": 444
+        },
+        {
+          "start": 455,
+          "end": 461
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 449,
+      "end": 461,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 449,
+          "end": 461
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 581,
+      "end": 593,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 581,
+          "end": 593
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Findings",
+      "start": 625,
+      "end": 638,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 625,
+          "end": 638
+        }
+      ]
+    }
+  ]
+}

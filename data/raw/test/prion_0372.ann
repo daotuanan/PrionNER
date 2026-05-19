@@ -1,0 +1,14 @@
+T1	Choose_Related 379 382	YES
+T4	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T5	Generic_Prion 27 30	CJD
+T7	Duration 99 108	1990-2000
+T8	Generic_Prion 109 112	CJD
+T11	Generic_Prion 255 258	CJD
+T13	Autopsy 279 286	autopsy
+T15	Generic_Prion 350 353	CJD
+T2	Autopsy 55 62	autopsy
+T3	Autopsy 113 120	autopsy
+T6	Generic_Prion 195 198	CJD
+T16	Autopsy 318 325	autopsy
+T9	Choose_Done 390 394	DONE
+T10	Autopsy 67 93	neuropathologic evaluation

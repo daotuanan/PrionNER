@@ -1,0 +1,13 @@
+T2	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T3	Generic_Prion 27 30	CJD
+T8	Generic_Prion 69 110	transmissible spongiform encephalopathies
+T4	Generic_Prion 126 140	prion diseases
+T9	Differential_Diagnosis 157 178	neurological disorder
+T15	Complication 207 212	death
+T10	Test_name 287 290	EEG
+T5	Test_name 403 425	electroneurodiagnostic
+T11	Test_name 427 430	END
+T12	Symptom 477 485	dementia
+T6	Generic_Prion 518 521	CJD
+T7	Generic_Prion 559 562	CJD
+T13	Test_name 598 601	EEG

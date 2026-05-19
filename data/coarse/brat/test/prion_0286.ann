@@ -1,0 +1,23 @@
+T16	Sequences 32 67	fluorescent molecular-imaging probe
+T6	Sequences 144 149	FDDNP
+T20	Findings 205 218	prion plaques
+T1	Anatomic_location 247 257	cerebellar
+T2	Familial_Prion 294 332	Gerstmann-Sträussler-Scheinker disease
+T3	Sporadic_Prion 334 368	sporadic Creutzfeldt-Jacob disease
+T4	Generic_Prion 370 373	CJD
+T18	Acquired_Prion 380 384	kuru
+T8	Findings 380 392	kuru plaques
+T5	Acquired_Prion 398 409	variant CJD
+T7	Acquired_Prion 411 415	vCJD
+T12	Sequences 418 423	FDDNP
+T14	Sequences 547 552	FDDNP
+T23	Findings 598 612	senile plaques
+T24	Findings 617 640	neurofibrillary tangles
+T25	Anatomic_location 655 660	brain
+T9	Differential_Diagnosis 664 683	Alzheimer's disease
+T10	Test_name 698 726	positron emission tomography
+T17	Sequences 750 755	FDDNP
+T21	Findings 780 793	prion plaques
+T22	Findings 805 826	small cluster-plaques
+T11	Acquired_Prion 830 834	vCJD
+T13	Acquired_Prion 899 903	vCJD

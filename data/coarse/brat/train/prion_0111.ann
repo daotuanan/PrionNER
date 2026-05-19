@@ -1,0 +1,21 @@
+T2	Time 18 22	1996
+T3	Generic_Prion 38 63	Creutzfeldt-Jakob disease
+T4	Generic_Prion 65 68	CJD
+T5	Age 86 93	younger
+T8	Symptom 168 193	neuropsychiatric features
+T9	Symptom 198 214	sensory symptoms
+T11	Symptom 219 237	neurological signs
+T12	Symptom 246 252	ataxia
+T13	Symptom 257 278	involuntary movements
+T7	Symptom 470 479;496 504	cognitive symptoms
+T16	Symptom 484 504	psychiatric symptoms
+T18	Symptom 519 537	neurological signs
+T20	Symptom 581 604	behavioural disturbance
+T21	Symptom 609 629	episodes of collapse
+T23	Symptom 668 691	psychomotor retardation
+T14	Test_name 709 712	CSF
+T24	Test_name 717 720	MRI
+T15	Symptom 768 783	akinetic mutism
+T26	Symptom 788 797	myoclonus
+T31	Test_name 921 934	tonsil biopsy
+T34	Test_name 1043 1046	CSF

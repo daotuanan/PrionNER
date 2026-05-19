@@ -1,0 +1,25 @@
+T10	Generic_Prion 41 66	Creutzfeldt-Jakob disease
+T11	Generic_Prion 68 71	CJD
+T3	Acquired_Prion 74 89	new variant CJD
+T2	Acquired_Prion 91 96	nvCJD
+T5	Time 127 131	1996
+T6	Acquired_Prion 165 170	nvCJD
+T7	Symptom 200 220	Psychiatric symptoms
+T9	Acquired_Prion 297 302	nvCJD
+T4	Acquired_Prion 550 555	nvCJD
+T8	Symptom 707 733	early psychiatric features
+T12	Symptom 769 780	psychiatric
+T13	Differential_Diagnosis 869 879	depression
+T14	Differential_Diagnosis 883 922	depression secondary to organic disease
+T15	Symptom 982 999	psychotic illness
+T16	Symptom 1014 1023	delusions
+T17	Symptom 1028 1061	auditory or visual hallucinations
+T18	Symptom 1202 1222	Psychiatric symptoms
+T19	Acquired_Prion 1266 1271	nvCJD
+T20	Symptom 1289 1309	psychiatric symptoms
+T21	Differential_Diagnosis 1393 1414	psychiatric disorders
+T22	Symptom 1465 1481	sensory symptoms
+T23	Symptom 1557 1563	ataxia
+T24	Symptom 1565 1586	involuntary movements
+T25	Symptom 1591 1611	cognitive impairment
+T26	Acquired_Prion 1747 1752	nvCJD

@@ -1,0 +1,34 @@
+T1	Choose_Related 1837 1840	YES
+T2	Generic_Prion 125 150	Creutzfeldt-Jakob disease
+T3	Generic_Prion 152 155	CJD
+T5	sCJD 319 331	sporadic CJD
+T7	Time_point 336 340	1996
+T9	vCJD 359 363	vCJD
+T10	vCJD 568 572	vCJD
+T11	vCJD 640 644	vCJD
+T15	Molecular_assay 884 903	enzyme immunoassays
+T17	vCJD 976 980	vCJD
+T19	vCJD 1109 1113	vCJD
+T24	sCJD 1280 1292	sporadic CJD
+T36	vCJD 1590 1594	vCJD
+T38	sCJD 1608 1620	sporadic CJD
+T40	vCJD 1695 1699	vCJD
+T42	Differential_Diagnosis 1756 1772	non-CJD dementia
+T44	Blood_biomarker_test 55 58	CSF
+T49	Blood_biomarker_test 298 301	CSF
+T6	Generic_Prion 354 357	CJD
+T8	Generic_Prion 424 456	bovine spongiform encephalopathy
+T50	Blood_biomarker_test 512 515	CSF
+T53	Blood_biomarker_test 614 617	CSF
+T58	Blood_biomarker_test 860 863	CSF
+T59	Blood_biomarker_test 949 952	CSF
+T62	Electrophysio_test 1062 1065	CSF
+T64	Blood_biomarker_test 1171 1174	CSF
+T25	Blood_biomarker_test 1307 1310	CSF
+T67	Blood_biomarker_test 1413 1416	CSF
+T69	Blood_biomarker_test 1441 1444	CSF
+T71	Blood_biomarker_test 1541 1544	CSF
+T37	Blood_biomarker_test 1649 1652	CSF
+T73	Choose_Done 1848 1852	DONE
+T74	Anatomic_location 164 169	brain
+T75	Anatomic_location 516 521	brain

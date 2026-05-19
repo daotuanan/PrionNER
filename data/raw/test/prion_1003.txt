@@ -1,0 +1,8 @@
+Prion diseases are a family of progressive neurodegenerative disorders caused by prions.
+There are four human prion diseases: Creutzfeldt-Jakob disease, Gerstmann-Straussler-Scheinker syndrome, fatal insomnia and Kuru.
+They can arise in three different ways: acquired, familial or sporadic.
+We review clinical presentations, pathophysiology, morphological picture, diagnostic procedures and available treatment options of prion diseases.
+
+<Related> YES or NO
+[DONE]
+[CHECK]

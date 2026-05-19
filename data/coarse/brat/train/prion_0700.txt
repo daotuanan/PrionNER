@@ -1,0 +1,7 @@
+A woman, aged 59 years, underwent a cortical biopsy that led to the diagnosis of Creutzfeldt-Jakob disease (CJD).
+A man, aged 46 years, underwent cranial surgery in the same department 3 days later for brain contusion, with an uneventful recovery.
+Twenty six months later, he developed clinical signs of CJD with a typical EEG pattern.
+Both cases exhibited features of the 'ataxic' form of the disease with depletion of cerebellar granule cells, without kuru plaques or PrP deposits.
+PrP deposits were immuno-histochemically observed in the cerebrum, spinal cord and peripheral nerve.
+Molecular genetic analysis performed on brain tissue revealed the codon 129 polymorphism to be Met129Met in the donor and Met129Val in the recipient.
+The shared 'cerebellar' phenotype and the genotypic discrepancy between the two patients lead us to postulate that the 'cerebellar' agent strain plays a major role in CJD phenotype and transmission.

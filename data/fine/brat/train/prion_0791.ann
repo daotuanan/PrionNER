@@ -1,0 +1,15 @@
+T1	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T2	Anatomic_location 60 82	central nervous system
+T3	Symptom 113 132	behavioral symptoms
+T4	Symptom 143 153	depression
+T5	Generic_Prion 185 210	Creutzfeldt-Jakob disease
+T6	Treatment 219 244	electroconvulsive therapy
+T7	Treatment 246 249	ECT
+T8	Symptom 285 304	depressive symptoms
+T9	Treatment 320 323	ECT
+T10	Symptom 351 360	cognition
+T11	Symptom 409 427	cognitive function
+T13	Treatment 462 465	ECT
+T14	Differential_Diagnosis 506 526	depressive disorders
+T15	Generic_Prion 543 568	Creutzfeldt-Jakob disease
+T17	Differential_Diagnosis 31 52	degenerative disorder

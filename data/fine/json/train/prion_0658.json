@@ -1,0 +1,149 @@
+{
+  "doc_id": "prion_0658",
+  "text": "1.\nCreutzfeldt-Jakob disease (CJD) is a progressive neurologic disease that occurs in approximately one in one million individuals annually.\n2.\nCJD affects late middle-aged and elderly individuals, with a peak occurrence between the ages of 55 and 75.\n3.\nThe disease is thought to be caused by an unknown virus that enters the central nervous system, causing neuron destruction and replacing the destroyed neurons with plaques.\n4.\nThere is no known cure or treatment for CJD, and the time span from onset of symptoms until death is 6 to 12 months.",
+  "entities": [
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 3,
+      "end": 28,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 3,
+          "end": 28
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 30,
+      "end": 33,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 30,
+          "end": 33
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Prevalence",
+      "start": 100,
+      "end": 118,
+      "text": "one in one million",
+      "spans": [
+        {
+          "start": 100,
+          "end": 118
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 144,
+      "end": 147,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 144,
+          "end": 147
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 161,
+      "end": 172,
+      "text": "middle-aged",
+      "spans": [
+        {
+          "start": 161,
+          "end": 172
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 177,
+      "end": 184,
+      "text": "elderly",
+      "spans": [
+        {
+          "start": 177,
+          "end": 184
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Time_point",
+      "start": 233,
+      "end": 251,
+      "text": "ages of 55 and 75.",
+      "spans": [
+        {
+          "start": 233,
+          "end": 251
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 327,
+      "end": 349,
+      "text": "central nervous system",
+      "spans": [
+        {
+          "start": 327,
+          "end": 349
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 471,
+      "end": 474,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 471,
+          "end": 474
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Complication",
+      "start": 523,
+      "end": 528,
+      "text": "death",
+      "spans": [
+        {
+          "start": 523,
+          "end": 528
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Duration",
+      "start": 532,
+      "end": 546,
+      "text": "6 to 12 months",
+      "spans": [
+        {
+          "start": 532,
+          "end": 546
+        }
+      ]
+    }
+  ]
+}

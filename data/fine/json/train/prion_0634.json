@@ -1,0 +1,219 @@
+{
+  "doc_id": "prion_0634",
+  "text": "A new family with the Gerstmann-Sträussler type of subacute spongiform encephalopathy is described.\nAtactic symptoms, dysarthrias, and personality changes characterized the clinical course.\nThe clinical pattern of a father and his two sons was very similar.\nThey had been in contact with sheep by occupation.\nA rapidly progressing demyelinating disease (transitional diffuse-multiple sclerosis) occurred in the same family, as well as numerous cases of carcinoma.\nMorphologically, the Sträussler type can be differentiated from other subacute spongy encephalopathies by the occurrence of Kuru-Plaques and numerous multicentric floccular plaques both in the cerebral and cerebellar cortex, basal ganglia, and white matter.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "GSS",
+      "start": 22,
+      "end": 85,
+      "text": "Gerstmann-Sträussler type of subacute spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 22,
+          "end": 85
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 100,
+      "end": 116,
+      "text": "Atactic symptoms",
+      "spans": [
+        {
+          "start": 100,
+          "end": 116
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 118,
+      "end": 129,
+      "text": "dysarthrias",
+      "spans": [
+        {
+          "start": 118,
+          "end": 129
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 135,
+      "end": 154,
+      "text": "personality changes",
+      "spans": [
+        {
+          "start": 135,
+          "end": 154
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Differential_Diagnosis",
+      "start": 331,
+      "end": 352,
+      "text": "demyelinating disease",
+      "spans": [
+        {
+          "start": 331,
+          "end": 352
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Differential_Diagnosis",
+      "start": 354,
+      "end": 393,
+      "text": "transitional diffuse-multiple sclerosis",
+      "spans": [
+        {
+          "start": 354,
+          "end": 393
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Differential_Diagnosis",
+      "start": 453,
+      "end": 462,
+      "text": "carcinoma",
+      "spans": [
+        {
+          "start": 453,
+          "end": 462
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Autopsy",
+      "start": 464,
+      "end": 479,
+      "text": "Morphologically",
+      "spans": [
+        {
+          "start": 464,
+          "end": 479
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "GSS",
+      "start": 485,
+      "end": 500,
+      "text": "Sträussler type",
+      "spans": [
+        {
+          "start": 485,
+          "end": 500
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 543,
+      "end": 566,
+      "text": "spongy encephalopathies",
+      "spans": [
+        {
+          "start": 543,
+          "end": 566
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Autopsy_finding",
+      "start": 588,
+      "end": 600,
+      "text": "Kuru-Plaques",
+      "spans": [
+        {
+          "start": 588,
+          "end": 600
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Autopsy_finding",
+      "start": 614,
+      "end": 644,
+      "text": "multicentric floccular plaques",
+      "spans": [
+        {
+          "start": 614,
+          "end": 644
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 657,
+      "end": 687,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 657,
+          "end": 665
+        },
+        {
+          "start": 681,
+          "end": 687
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 670,
+      "end": 687,
+      "text": "cerebellar cortex",
+      "spans": [
+        {
+          "start": 670,
+          "end": 687
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 689,
+      "end": 702,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 689,
+          "end": 702
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 708,
+      "end": 720,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 708,
+          "end": 720
+        }
+      ]
+    }
+  ]
+}

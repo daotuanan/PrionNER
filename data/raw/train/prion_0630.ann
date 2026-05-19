@@ -1,0 +1,4 @@
+T1	Generic_Prion 51 76	Creutzfeldt-Jakob disease
+T2	Generic_Prion 228 253	Creutzfeldt-Jakob disease
+T3	Choose_Related 331 334	YES
+T4	Choose_Done 342 346	DONE

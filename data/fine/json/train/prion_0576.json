@@ -1,0 +1,253 @@
+{
+  "doc_id": "prion_0576",
+  "text": "A 77-year-old man suffered intermittent hemiconvulsions of unknown etiology on the left side for a period of about 5 weeks.\nAt the autopsy, there was marked neuronal loss, severe proliferation of astrocytes and spongiform changes in the right cerebral cortex.\nThe cerebral white matter showed loosening with astroglial proliferation in areas on the same side.\nThese neuropathological changes were slight or absent in the left cerebral hemisphere.\nHistopathological changes were similar to those seen in unilateral Creutzfeldt-Jakob disease (CJD).\nAlthough unilateral CJD can not be ruled out, these unilateral hemispheric changes might be induced by intermittent hemiconvulsions.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "77-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 27,
+      "end": 55,
+      "text": "intermittent hemiconvulsions",
+      "spans": [
+        {
+          "start": 27,
+          "end": 55
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Duration",
+      "start": 115,
+      "end": 122,
+      "text": "5 weeks",
+      "spans": [
+        {
+          "start": 115,
+          "end": 122
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Autopsy",
+      "start": 131,
+      "end": 138,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 131,
+          "end": 138
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Autopsy_finding",
+      "start": 157,
+      "end": 170,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 157,
+          "end": 170
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Autopsy_finding",
+      "start": 172,
+      "end": 206,
+      "text": "severe proliferation of astrocytes",
+      "spans": [
+        {
+          "start": 172,
+          "end": 206
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Autopsy_finding",
+      "start": 211,
+      "end": 229,
+      "text": "spongiform changes",
+      "spans": [
+        {
+          "start": 211,
+          "end": 229
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 243,
+      "end": 258,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 243,
+          "end": 258
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 264,
+      "end": 285,
+      "text": "cerebral white matter",
+      "spans": [
+        {
+          "start": 264,
+          "end": 285
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Autopsy_finding",
+      "start": 293,
+      "end": 332,
+      "text": "loosening with astroglial proliferation",
+      "spans": [
+        {
+          "start": 293,
+          "end": 332
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Autopsy",
+      "start": 366,
+      "end": 383,
+      "text": "neuropathological",
+      "spans": [
+        {
+          "start": 366,
+          "end": 383
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Autopsy_finding",
+      "start": 384,
+      "end": 413,
+      "text": "changes were slight or absent",
+      "spans": [
+        {
+          "start": 384,
+          "end": 413
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 426,
+      "end": 445,
+      "text": "cerebral hemisphere",
+      "spans": [
+        {
+          "start": 426,
+          "end": 445
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Autopsy",
+      "start": 447,
+      "end": 464,
+      "text": "Histopathological",
+      "spans": [
+        {
+          "start": 447,
+          "end": 464
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Autopsy_finding",
+      "start": 447,
+      "end": 472,
+      "text": "Histopathological changes",
+      "spans": [
+        {
+          "start": 447,
+          "end": 472
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 514,
+      "end": 539,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 514,
+          "end": 539
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 541,
+      "end": 544,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 541,
+          "end": 544
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 567,
+      "end": 570,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 567,
+          "end": 570
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 651,
+      "end": 678,
+      "text": "ntermittent hemiconvulsions",
+      "spans": [
+        {
+          "start": 651,
+          "end": 678
+        }
+      ]
+    }
+  ]
+}

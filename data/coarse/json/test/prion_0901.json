@@ -1,0 +1,396 @@
+{
+  "doc_id": "prion_0901",
+  "text": "We described clinically features of inherited prion disease (GSS, familial CJD and FFI).\nIn addition, we found new useful findings of GSS patients for early diagnosis.\nGenerally, clinicians believe that the main features of GSS (P102L) are cerebellar symptoms and dementia; however, our patients showed other features.\nMost showed mild gait disturbance, dysesthesia and hyporeflexia of the lower legs, proximal leg muscle weakness, and truncal ataxia during the early stage of the disease.\nDementia was not a main symptom during the early stage.\nThe key features for the early diagnosis of GSS102 are truncal ataxia, dysesthesia and hyporeflexia of the lower legs, and mild dysarthria.\nNormal cerebellar MRI and abnormal cerebral SPECT findings should be useful for early diagnosis of GSS (P102L).",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 36,
+      "end": 59,
+      "text": "inherited prion disease",
+      "spans": [
+        {
+          "start": 36,
+          "end": 59
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Familial_Prion",
+      "start": 61,
+      "end": 64,
+      "text": "GSS",
+      "spans": [
+        {
+          "start": 61,
+          "end": 64
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Familial_Prion",
+      "start": 66,
+      "end": 78,
+      "text": "familial CJD",
+      "spans": [
+        {
+          "start": 66,
+          "end": 78
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Familial_Prion",
+      "start": 83,
+      "end": 86,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 83,
+          "end": 86
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Familial_Prion",
+      "start": 134,
+      "end": 137,
+      "text": "GSS",
+      "spans": [
+        {
+          "start": 134,
+          "end": 137
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Familial_Prion",
+      "start": 224,
+      "end": 235,
+      "text": "GSS (P102L)",
+      "spans": [
+        {
+          "start": 224,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 240,
+      "end": 250,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 240,
+          "end": 250
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 240,
+      "end": 259,
+      "text": "cerebellar symptoms",
+      "spans": [
+        {
+          "start": 240,
+          "end": 259
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 264,
+      "end": 272,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 264,
+          "end": 272
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 336,
+      "end": 352,
+      "text": "gait disturbance",
+      "spans": [
+        {
+          "start": 336,
+          "end": 352
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 354,
+      "end": 365,
+      "text": "dysesthesia",
+      "spans": [
+        {
+          "start": 354,
+          "end": 365
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 370,
+      "end": 382,
+      "text": "hyporeflexia",
+      "spans": [
+        {
+          "start": 370,
+          "end": 382
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 390,
+      "end": 400,
+      "text": "lower legs",
+      "spans": [
+        {
+          "start": 390,
+          "end": 400
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 402,
+      "end": 414,
+      "text": "proximal leg",
+      "spans": [
+        {
+          "start": 402,
+          "end": 414
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 415,
+      "end": 430,
+      "text": "muscle weakness",
+      "spans": [
+        {
+          "start": 415,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 436,
+      "end": 450,
+      "text": "truncal ataxia",
+      "spans": [
+        {
+          "start": 436,
+          "end": 450
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Time",
+      "start": 462,
+      "end": 488,
+      "text": "early stage of the disease",
+      "spans": [
+        {
+          "start": 462,
+          "end": 488
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 490,
+      "end": 498,
+      "text": "Dementia",
+      "spans": [
+        {
+          "start": 490,
+          "end": 498
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Time",
+      "start": 533,
+      "end": 544,
+      "text": "early stage",
+      "spans": [
+        {
+          "start": 533,
+          "end": 544
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Familial_Prion",
+      "start": 590,
+      "end": 596,
+      "text": "GSS102",
+      "spans": [
+        {
+          "start": 590,
+          "end": 596
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Symptom",
+      "start": 601,
+      "end": 615,
+      "text": "truncal ataxia",
+      "spans": [
+        {
+          "start": 601,
+          "end": 615
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Symptom",
+      "start": 617,
+      "end": 628,
+      "text": "dysesthesia",
+      "spans": [
+        {
+          "start": 617,
+          "end": 628
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Symptom",
+      "start": 633,
+      "end": 645,
+      "text": "hyporeflexia",
+      "spans": [
+        {
+          "start": 633,
+          "end": 645
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Anatomic_location",
+      "start": 653,
+      "end": 663,
+      "text": "lower legs",
+      "spans": [
+        {
+          "start": 653,
+          "end": 663
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Symptom",
+      "start": 674,
+      "end": 684,
+      "text": "dysarthria",
+      "spans": [
+        {
+          "start": 674,
+          "end": 684
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Anatomic_location",
+      "start": 693,
+      "end": 703,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 693,
+          "end": 703
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 704,
+      "end": 707,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 704,
+          "end": 707
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Anatomic_location",
+      "start": 721,
+      "end": 729,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 721,
+          "end": 729
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Test_name",
+      "start": 730,
+      "end": 735,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 730,
+          "end": 735
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Familial_Prion",
+      "start": 785,
+      "end": 796,
+      "text": "GSS (P102L)",
+      "spans": [
+        {
+          "start": 785,
+          "end": 796
+        }
+      ]
+    }
+  ]
+}

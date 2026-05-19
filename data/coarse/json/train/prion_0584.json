@@ -1,0 +1,175 @@
+{
+  "doc_id": "prion_0584",
+  "text": "An adolescent girl with idiopathic hypothalamic dysfunction and hypopituitarism was treated with human growth hormone between 1969 and 1979, dying of parainfluenza pneumonia 2 months after her last hormone treatment.\nAlthough she had no signs of progressive neurologic disease, reexamination of autopsy material revealed a focus of spongiform change and astrogliosis in the corpus striatum.\nThus, this growth hormone recipient, who died of intercurrent infection, was unexpectedly found to be in an early, preclinical phase of Creutzfeldt-Jakob disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Treatment",
+      "start": 84,
+      "end": 117,
+      "text": "treated with human growth hormone",
+      "spans": [
+        {
+          "start": 84,
+          "end": 117
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Time",
+      "start": 118,
+      "end": 139,
+      "text": "between 1969 and 1979",
+      "spans": [
+        {
+          "start": 118,
+          "end": 139
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Complication",
+      "start": 150,
+      "end": 173,
+      "text": "parainfluenza pneumonia",
+      "spans": [
+        {
+          "start": 150,
+          "end": 173
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Time",
+      "start": 174,
+      "end": 182,
+      "text": "2 months",
+      "spans": [
+        {
+          "start": 174,
+          "end": 182
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Time",
+      "start": 183,
+      "end": 215,
+      "text": "after her last hormone treatment",
+      "spans": [
+        {
+          "start": 183,
+          "end": 215
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Differential_Diagnosis",
+      "start": 246,
+      "end": 276,
+      "text": "progressive neurologic disease",
+      "spans": [
+        {
+          "start": 246,
+          "end": 276
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Test_name",
+      "start": 295,
+      "end": 302,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 295,
+          "end": 302
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Findings",
+      "start": 332,
+      "end": 349,
+      "text": "spongiform change",
+      "spans": [
+        {
+          "start": 332,
+          "end": 349
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Findings",
+      "start": 354,
+      "end": 366,
+      "text": "astrogliosis",
+      "spans": [
+        {
+          "start": 354,
+          "end": 366
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 374,
+      "end": 389,
+      "text": "corpus striatum",
+      "spans": [
+        {
+          "start": 374,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Complication",
+      "start": 432,
+      "end": 436,
+      "text": "died",
+      "spans": [
+        {
+          "start": 432,
+          "end": 436
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Complication",
+      "start": 440,
+      "end": 462,
+      "text": "intercurrent infection",
+      "spans": [
+        {
+          "start": 440,
+          "end": 462
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 527,
+      "end": 552,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 527,
+          "end": 552
+        }
+      ]
+    }
+  ]
+}

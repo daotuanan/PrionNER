@@ -1,0 +1,36 @@
+T1	Generic_Prion 0 27	Creutzfeldt-Jakob's disease
+T2	Generic_Prion 29 32	CJD
+T4	Symptom 84 90	ataxia
+T5	Symptom 92 101	myoclonus
+T6	Duration 260 268	one year
+T7	Time_point 269 295	after onset of the disease
+T8	Autopsy 405 430	postmortal histopathology
+T10	Duration 448 457	two years
+T11	Generic_Prion 475 478	CJD
+T13	Imaging_test 550 552	MR
+T14	Imaging_finding 584 610	increased signal intensity
+T16	Anatomic_location 643 656	basal ganglia
+T17	Anatomic_location 664 678	cortex cerebri
+T18	Generic_Prion 729 732	CJD
+T19	Generic_Prion 754 757	CJD
+T20	Age 763 774	54-year-old
+T21	Symptom 795 802	vertigo
+T22	Symptom 804 813	nystagmus
+T23	Symptom 815 821	ataxia
+T24	Symptom 823 832	myoclonus
+T25	Symptom 838 846	dementia
+T26	Duration 864 876	eight months
+T28	Imaging_finding 931 957	increased signal intensity
+T29	Anatomic_location 961 976	corpus striatum
+T30	Anatomic_location 981 994	gyrus cinguli
+T31	Autopsy 1042 1056	histopathology
+T3	Symptom 54 82	rapidly progressive dementia
+T15	Age 165 170	older
+T33	sCJD 192 200	sporadic
+T34	fCJD 202 209	genetic
+T35	iCJD 214 224	iatrogenic
+T36	Complication 232 237	Death
+T12	Imaging_sequence 503 521	diffusion-weighted
+T37	Imaging_test 522 548	magnetic resonance imaging
+T27	Imaging_sequence 878 896	Diffusion-weighted
+T38	Imaging_test 897 923	magnetic resonance imaging

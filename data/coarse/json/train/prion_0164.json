@@ -1,0 +1,422 @@
+{
+  "doc_id": "prion_0164",
+  "text": "OBJECTIVES: The detection of the protein 14-3-3 in the CSF has been shown to be a reliable and sensitive marker for sporadic Creutzfeldt-Jakob disease (CJD).\nOther brain-specific proteins such as neuron specific enolase (NSE), S-100b, and tau protein have also been reported to be increased in the CSF of patients with sporadic CJD.\nIn 1996 a variant of CJD (vCJD) was described which is likely to be causally linked to the bovine spongiform encephalopathy agent.\nThis study reports and compares the findings of CSF brain specific protein analysis in 45 patients with vCJD and in 34 control patients.\nMETHODS: The CSF from 45 patients with vCJD and 34 controls were investigated for the presence of 14-3-3 by SDS-polyacrylamide gel electrophoresis (SDS-PAGE) and western blotting with chemiluminescent detection.\nTau protein, S-100b, and NSE concentrations in CSF were measured using enzyme immunoassays.\nRESULTS: Protein 14-3-3 was detected in the CSF of 22/45 patients with vCJD and in 3/34 controls.\nThe mean concentrations of NSE, S-100b, and tau protein in CSF were significantly raised in patients with vCJD compared with controls.\nThe positive predictive value of CSF 14-3-3 was 86% and the negative predictive value was 63%.\nThese values are lower than those reported for sporadic CJD.\nAn increased CSF tau had a positive predictive value of 93% and a negative predictive value of 81%.\nThe combination of CSF 14-3-3 and/or increased CSF tau had a positive predictive value of 91% and a negative predictive value of 84%.\nCONCLUSIONS: CSF protein 14-3-3 is not as useful a marker for vCJD as it is for sporadic CJD.\nIncreased concentration of CSF tau was found to be a sensitive marker of vCJD but as concentrations may be increased in many forms of non-CJD dementia, this may limit its usefulness as a diagnostic test.",
+  "entities": [
+    {
+      "id": "T44",
+      "label": "Test_name",
+      "start": 55,
+      "end": 58,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 55,
+          "end": 58
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 125,
+      "end": 150,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 125,
+          "end": 150
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 152,
+      "end": 155,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 152,
+          "end": 155
+        }
+      ]
+    },
+    {
+      "id": "T74",
+      "label": "Anatomic_location",
+      "start": 164,
+      "end": 169,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 164,
+          "end": 169
+        }
+      ]
+    },
+    {
+      "id": "T49",
+      "label": "Test_name",
+      "start": 298,
+      "end": 301,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 298,
+          "end": 301
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Sporadic_Prion",
+      "start": 319,
+      "end": 331,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 319,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 336,
+      "end": 340,
+      "text": "1996",
+      "spans": [
+        {
+          "start": 336,
+          "end": 340
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 354,
+      "end": 357,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 354,
+          "end": 357
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Acquired_Prion",
+      "start": 359,
+      "end": 363,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 359,
+          "end": 363
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 424,
+      "end": 456,
+      "text": "bovine spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 424,
+          "end": 456
+        }
+      ]
+    },
+    {
+      "id": "T50",
+      "label": "Test_name",
+      "start": 512,
+      "end": 515,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 512,
+          "end": 515
+        }
+      ]
+    },
+    {
+      "id": "T75",
+      "label": "Anatomic_location",
+      "start": 516,
+      "end": 521,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 516,
+          "end": 521
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Acquired_Prion",
+      "start": 568,
+      "end": 572,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 568,
+          "end": 572
+        }
+      ]
+    },
+    {
+      "id": "T53",
+      "label": "Test_name",
+      "start": 614,
+      "end": 617,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 614,
+          "end": 617
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Acquired_Prion",
+      "start": 640,
+      "end": 644,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 640,
+          "end": 644
+        }
+      ]
+    },
+    {
+      "id": "T58",
+      "label": "Test_name",
+      "start": 860,
+      "end": 863,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 860,
+          "end": 863
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Test_name",
+      "start": 884,
+      "end": 903,
+      "text": "enzyme immunoassays",
+      "spans": [
+        {
+          "start": 884,
+          "end": 903
+        }
+      ]
+    },
+    {
+      "id": "T59",
+      "label": "Test_name",
+      "start": 949,
+      "end": 952,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 949,
+          "end": 952
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Acquired_Prion",
+      "start": 976,
+      "end": 980,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 976,
+          "end": 980
+        }
+      ]
+    },
+    {
+      "id": "T62",
+      "label": "Test_name",
+      "start": 1062,
+      "end": 1065,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1062,
+          "end": 1065
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Acquired_Prion",
+      "start": 1109,
+      "end": 1113,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1109,
+          "end": 1113
+        }
+      ]
+    },
+    {
+      "id": "T64",
+      "label": "Test_name",
+      "start": 1171,
+      "end": 1174,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1171,
+          "end": 1174
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Sporadic_Prion",
+      "start": 1280,
+      "end": 1292,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 1280,
+          "end": 1292
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Test_name",
+      "start": 1307,
+      "end": 1310,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1307,
+          "end": 1310
+        }
+      ]
+    },
+    {
+      "id": "T67",
+      "label": "Test_name",
+      "start": 1413,
+      "end": 1416,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1413,
+          "end": 1416
+        }
+      ]
+    },
+    {
+      "id": "T69",
+      "label": "Test_name",
+      "start": 1441,
+      "end": 1444,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1441,
+          "end": 1444
+        }
+      ]
+    },
+    {
+      "id": "T71",
+      "label": "Test_name",
+      "start": 1541,
+      "end": 1544,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1541,
+          "end": 1544
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Acquired_Prion",
+      "start": 1590,
+      "end": 1594,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1590,
+          "end": 1594
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Sporadic_Prion",
+      "start": 1608,
+      "end": 1620,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 1608,
+          "end": 1620
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Test_name",
+      "start": 1649,
+      "end": 1652,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1649,
+          "end": 1652
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Acquired_Prion",
+      "start": 1695,
+      "end": 1699,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1695,
+          "end": 1699
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Differential_Diagnosis",
+      "start": 1756,
+      "end": 1772,
+      "text": "non-CJD dementia",
+      "spans": [
+        {
+          "start": 1756,
+          "end": 1772
+        }
+      ]
+    }
+  ]
+}

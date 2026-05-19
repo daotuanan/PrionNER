@@ -1,0 +1,292 @@
+{
+  "doc_id": "prion_0812",
+  "text": "Transmissible spongiform encephalopathies (TSE) are dementing diseases and have been known to affect humans for over 90 years.\nThe most common of these is the sporadic form of Creutzfeldt-Jakob disease (sCJD), followed by its familial (fCJD) and an iatrogenic (iCJD) form.\n1996 a variant of CJD (vCJD) has been described in the UK, of which so far 131 cases have been observed worldwide.\nSpecific biochemical and neuropathological signatures allow to distinguish between vCJD and sCJD and lead to the hypothesis that vCJD is due to transmission of BSE prions to humans.\nAlthough promising therapeutical approaches are being investigated, human TSE remain untreatable entities.\nThus preventive measures are essential.\nIn Switzerland the population has been exposed to BSE prions, too, but no case of vCJD as described in the UK has been observed until now.\nSince 2001, however, a so far unexplained increase of sCJD cases is being observed.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 41,
+      "text": "Transmissible spongiform encephalopathies",
+      "spans": [
+        {
+          "start": 0,
+          "end": 41
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 43,
+      "end": 46,
+      "text": "TSE",
+      "spans": [
+        {
+          "start": 43,
+          "end": 46
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 52,
+      "end": 70,
+      "text": "dementing diseases",
+      "spans": [
+        {
+          "start": 52,
+          "end": 70
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Duration",
+      "start": 117,
+      "end": 125,
+      "text": "90 years",
+      "spans": [
+        {
+          "start": 117,
+          "end": 125
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "sCJD",
+      "start": 159,
+      "end": 201,
+      "text": "sporadic form of Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 159,
+          "end": 201
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "sCJD",
+      "start": 203,
+      "end": 207,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 203,
+          "end": 207
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "fCJD",
+      "start": 226,
+      "end": 234,
+      "text": "familial",
+      "spans": [
+        {
+          "start": 226,
+          "end": 234
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "fCJD",
+      "start": 236,
+      "end": 240,
+      "text": "fCJD",
+      "spans": [
+        {
+          "start": 236,
+          "end": 240
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "iCJD",
+      "start": 249,
+      "end": 259,
+      "text": "iatrogenic",
+      "spans": [
+        {
+          "start": 249,
+          "end": 259
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "iCJD",
+      "start": 261,
+      "end": 265,
+      "text": "iCJD",
+      "spans": [
+        {
+          "start": 261,
+          "end": 265
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Time_point",
+      "start": 273,
+      "end": 277,
+      "text": "1996",
+      "spans": [
+        {
+          "start": 273,
+          "end": 277
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "vCJD",
+      "start": 280,
+      "end": 294,
+      "text": "variant of CJD",
+      "spans": [
+        {
+          "start": 280,
+          "end": 294
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "vCJD",
+      "start": 296,
+      "end": 300,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 296,
+          "end": 300
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "vCJD",
+      "start": 471,
+      "end": 475,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 471,
+          "end": 475
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "sCJD",
+      "start": 480,
+      "end": 484,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 480,
+          "end": 484
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "vCJD",
+      "start": 517,
+      "end": 521,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 517,
+          "end": 521
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Generic_Prion",
+      "start": 548,
+      "end": 558,
+      "text": "BSE prions",
+      "spans": [
+        {
+          "start": 548,
+          "end": 558
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Generic_Prion",
+      "start": 644,
+      "end": 647,
+      "text": "TSE",
+      "spans": [
+        {
+          "start": 644,
+          "end": 647
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Generic_Prion",
+      "start": 767,
+      "end": 777,
+      "text": "BSE prions",
+      "spans": [
+        {
+          "start": 767,
+          "end": 777
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "vCJD",
+      "start": 799,
+      "end": 803,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 799,
+          "end": 803
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Time_point",
+      "start": 862,
+      "end": 866,
+      "text": "2001",
+      "spans": [
+        {
+          "start": 862,
+          "end": 866
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "sCJD",
+      "start": 910,
+      "end": 914,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 910,
+          "end": 914
+        }
+      ]
+    }
+  ]
+}

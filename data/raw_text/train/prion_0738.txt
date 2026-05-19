@@ -1,0 +1,10 @@
+We present a 61-year-old male patient with progressive dementia.
+A brain SPECT with Tc-99m-bicisate was performed for confirmation of clinically suspected Alzheimer-dementia.
+At the time of the SPECT-investigation marked apraxia and aphasia besides severe dementia were present.
+Electrophysiological as well as anatomical neuroimaging findings showed non-diagnostic alterations.
+SPECT revealed distinct perfusion defects, which made Alzheimer Dementia unlikely.
+The further course of the patient was determined by rapidly progressive deterioration with development of akinetic mutism.
+Thereafter, increased levels of neuron-specific enolase as well as 14-3-3 proteins were found in the cerebro-spinal fluid (CSF).
+The patient finally died with signs of cerebral decortication.
+Due to the clinical course and the CSF-findings the patient's final diagnosis was Creutzfeldt-Jakob-disease, nevertheless no autopsy was performed.
+The presented case report underscores the clinical utility of perfusion brain SPECT in the differential diagnosis of dementias.

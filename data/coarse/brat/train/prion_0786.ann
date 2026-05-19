@@ -1,0 +1,33 @@
+T1	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T2	Generic_Prion 27 30	CJD
+T4	Stats 193 225	0.5-1.5 cases of CJD per million
+T5	Generic_Prion 210 213	CJD
+T6	Time 326 335	1968-1997
+T8	Generic_Prion 433 436	CJD
+T9	Generic_Prion 474 477	CJD
+T10	Generic_Prion 547 550	CJD
+T11	Time 626 635	1990-1998
+T12	Age 686 708	53.80 (+/- 7.32) years
+T16	Symptom 747 756	Myoclonus
+T17	Symptom 790 808	abnormal behaviour
+T18	Generic_Prion 915 918	CJD
+T3	Anatomic_location 923 933	cerebellar
+T19	Symptom 923 940	cerebellar ataxia
+T13	Anatomic_location 985 994	occipital
+T7	Generic_Prion 985 1009	occipital variant of CJD
+T22	Symptom 1037 1055	cortical blindness
+T23	Symptom 1060 1075	myoclonic jerks
+T24	Symptom 1101 1116	acute psychosis
+T25	Symptom 1133 1149	emotional stress
+T26	Time 1150 1162	at the onset
+T27	Symptom 1164 1187	Extrapyramidal features
+T41	Complication 1230 1235	death
+T42	Complication 1296 1301	death
+T29	Time 1306 1327	6.6 (+/- 6.11) months
+T30	Test_name 1339 1342	EEG
+T14	Generic_Prion 1417 1441	occipital variant of CJD
+T32	Test_name 1475 1478	EEG
+T40	Anatomic_location 1487 1492	Brain
+T34	Test_name 1493 1499	biopsy
+T37	Generic_Prion 1569 1603	subacute spongiform encephalopathy
+T38	Generic_Prion 1605 1608	SSE

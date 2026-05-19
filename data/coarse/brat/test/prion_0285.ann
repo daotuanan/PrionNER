@@ -1,0 +1,20 @@
+T2	Findings 0 14	Florid plaques
+T3	Acquired_Prion 53 57	vCJD
+T4	Test_name 79 101	postmortem examination
+T21	Anatomic_location 109 114	brain
+T5	Age 120 131	58-year-old
+T7	Generic_Prion 157 182	Creutzfeldt-Jakob disease
+T8	Generic_Prion 184 187	CJD
+T6	Test_name 190 206	Western blotting
+T22	Anatomic_location 210 215	brain
+T9	Treatment 296 312	dura mater graft
+T11	Time 313 327	20 years prior
+T13	Complication 331 336	death
+T19	Findings 341 355	florid plaques
+T12	Acquired_Prion 382 393	variant CJD
+T17	Acquired_Prion 429 439	iatrogenic
+T14	Time 471 494	longest incubation time
+T18	Treatment 507 523	dura mater graft
+T16	Generic_Prion 581 584	BSE
+T20	Test_name 599 611	pathological
+T15	Generic_Prion 678 691	prion disease

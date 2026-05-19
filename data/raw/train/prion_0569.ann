@@ -1,0 +1,16 @@
+T1	Generic_Prion 39 64	Creutzfeldt-Jakob disease
+T2	Autopsy 91 98	autopsy
+T3	Duration 149 170	between 1974 and 1982
+T4	Kuru 258 262	kuru
+T5	Symptom 319 333	truncal ataxia
+T6	Anatomic_location 369 386	cerebellar cortex
+T7	Anatomic_location 406 412	vermis
+T8	Anatomic_location 441 452	hippocampal
+T10	Generic_Prion 502 527	Creutzfeldt-Jakob disease
+T12	Anatomic_location 568 580	Ammon's horn
+T14	Choose_Related 661 664	YES
+T11	Symptom 24 35	ataxic form
+T15	Autopsy_finding 350 361	devastation
+T16	Autopsy 414 428	Pathologically
+T17	Autopsy_finding 441 464	hippocampal involvement
+T9	Choose_Done 672 676	DONE

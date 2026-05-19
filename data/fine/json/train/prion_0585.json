@@ -1,0 +1,97 @@
+{
+  "doc_id": "prion_0585",
+  "text": "The case histories are presented of two patients with Creutzfeldt-Jakob disease.\nThe clinical diagnosis was confirmed on autopsy.\nA 51-year-old man and a 63-year-old woman developed--after a period of non-specific prodromal symptoms--a rapidly progressive dementia accompanied by cerebellar, pyramidal and extrapyramidal signs.\nThe clinical features, the course of the disease and the results of investigations are discussed, as well as the differential diagnosis.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 54,
+      "end": 79,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 54,
+          "end": 79
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Autopsy",
+      "start": 121,
+      "end": 128,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 121,
+          "end": 128
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 132,
+      "end": 143,
+      "text": "51-year-old",
+      "spans": [
+        {
+          "start": 132,
+          "end": 143
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Age",
+      "start": 154,
+      "end": 165,
+      "text": "63-year-old",
+      "spans": [
+        {
+          "start": 154,
+          "end": 165
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 201,
+      "end": 232,
+      "text": "non-specific prodromal symptoms",
+      "spans": [
+        {
+          "start": 201,
+          "end": 232
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 236,
+      "end": 264,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 236,
+          "end": 264
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 280,
+      "end": 326,
+      "text": "cerebellar, pyramidal and extrapyramidal signs",
+      "spans": [
+        {
+          "start": 280,
+          "end": 326
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+T1	Age 2 16	forty-year-old
+T2	Symptom 42 55	unsteady gait
+T7	Duration 199 209	ten months
+T8	Symptom 245 272	generalised myoclonic jerks
+T9	Symptom 277 285	dementia
+T10	Autopsy 304 333	Neuropathological examination
+T11	Anatomic_location 358 363	brain
+T12	Generic_Prion 380 405	Creutzfeldt-Jakob disease
+T13	Generic_Prion 442 467	Creutzfeldt-Jakob disease
+T14	Choose_Related 526 529	YES
+T3	Time_point 56 70	13 years after
+T4	Complication 298 302	died
+T5	Choose_Done 537 541	DONE
+T6	Duration 84 95	eight-month
+T15	Treatment 106 154	human pituitary-derived gonadotrophin injections
+T16	Treatment 486 513	human derived gonadotrophin
+T17	Treatment 158 183	treatment for infertility

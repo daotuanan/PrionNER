@@ -1,0 +1,12 @@
+T1	Generic_Prion 57 82	Creutzfeldt-Jakob disease
+T2	Generic_Prion 84 87	CJD
+T3	Test_name 118 141	electroencephalographic
+T4	Test_name 146 163	neuropathological
+T6	Generic_Prion 188 191	CJD
+T8	Test_name 282 305	electroencephalographic
+T10	Time 379 388	12 months
+T11	Test_name 435 442	autopsy
+T12	Time 487 496	12 months
+T7	Anatomic_location 537 548	hemispheres
+T18	Anatomic_location 620 625	brain
+T16	Time 645 654	12 months

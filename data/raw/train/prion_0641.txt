@@ -1,0 +1,8 @@
+Alterations in sleep organization were longitudinally studied in 6 new cases of fatal familial insomnia (FFI) by 24 h polygraphic recording.
+All patients showed an early reduction in sleep spindles and K complexes, and a drastic reduction in total sleep time and disruption of the cyclic sleep organization.
+Complete abolition of NREM sleep and persistence of only brief residual periods of REM sleep without atonia were features characteristic of the 3 patients with a short (less than 1 year) clinical course, and lacking in the 3 cases with a longer (more than 2 years) disease course.
+In the latter, sudden transitions from waking to NREM or REM sleep occurred, sometimes recurring periodically.
+Our findings confirm that impairment of sleep-wake regulation is a consistent distinctive feature of FFI.
+
+<Related> YES or NO
+[DONE]

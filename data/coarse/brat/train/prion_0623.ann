@@ -1,0 +1,21 @@
+T1	Generic_Prion 0 25	Creutzfield-Jakob Disease
+T2	Symptom 39 65	fatal progressive dementia
+T3	Symptom 81 131	cerebellar, extrapyramidal and corticospinal signs
+T4	Symptom 144 157	decerebration
+T5	Complication 161 166	death
+T6	Time 195 203	7 months
+T8	Test_name 205 208	EEG
+T9	Test_name 213 219	biopsy
+T10	Anatomic_location 227 232	brain
+T7	Test_name 290 309	Neuropathologically
+T11	Findings 321 339	spongiform changes
+T12	Findings 345 360	loss of neurons
+T13	Findings 365 372	gliosis
+T14	Acquired_Prion 507 511	kuru
+T19	Generic_Prion 549 556	scrapie
+T20	Generic_Prion 561 594	transmissible mink encephalopathy
+T15	Generic_Prion 596 620	Creutzfeld-Jakob disease
+T23	Generic_Prion 638 674	subacute spongiform encephalopathies
+T16	Generic_Prion 1081 1105	Creutzfeld-Jakob disease
+T17	Acquired_Prion 1193 1203	iatrogenic
+T21	Symptom 1285 1293	demented

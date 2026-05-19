@@ -1,0 +1,12 @@
+T11	Symptom 29 42	eye movements
+T2	Sporadic_Prion 177 211	sporadic Creutzfeldt-Jakob disease
+T3	Generic_Prion 213 216	CJD
+T10	Age 237 248	middle aged
+T4	Symptom 272 294	abnormal eye movements
+T5	Symptom 299 311	poor balance
+T12	Symptom 351 376	orbito-mesial dysfunction
+T13	Differential_Diagnosis 389 419	progressive supranuclear palsy
+T14	Test_name 421 431	Oculometry
+T8	Differential_Diagnosis 628 661	dementia-akinetic-rigid syndromes
+T9	Symptom 722 730	saccades
+T17	Test_name 732 763	routine quantitative oculometry

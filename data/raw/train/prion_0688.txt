@@ -1,0 +1,13 @@
+Reliable identification of Creutzfeldt-Jakob disease (CJD) in the UX has become essential following the suggestion that prion disease in cattle (BSE) might transmit, accidentally, to humans who eat contaminated beef.
+Recent data suggest that some cases of CJD may be clinically unrecognized; in order to examine this proposal we reviewed all cases of dementia (n = 1000+) collected in the Runwell Hospital Brain Archive between 1964 and 1990.
+We identified 19 cases of spongiform encephalopathy of which only 11 were diagnosed before death.
+These 11 individuals had a characteristic clinical history of CJD (relentless mental deterioration, prominent motor signs and death within a year).
+Their brains showed little or no external abnormality.
+In contrast, only two of the eight clinically unrecognized cases had characteristic symptoms.
+The remaining six presented atypically; their illness lasted 3 years or more, motor signs were much less evident, and simple dementia was the most prominent feature.
+The brains showed moderate or severe cerebral atrophy.
+Our data indicate that only about 60% of prion disease cases with pathologically typical spongiform encephalopathy were identified clinically during life.
+This suggests that human prion disease may be more common than previously supposed and that a further review of the epidemiology of the disease is required.
+
+<Related> YES or NO
+[DONE]

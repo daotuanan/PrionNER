@@ -1,0 +1,149 @@
+{
+  "doc_id": "prion_0763",
+  "text": "We report a case of variant Creutzfeldt-Jakob disease(vCJD) in a 74-year old man in whom diagnosis was made at necropsy.\nThe occurrence of vCJD in an individual in this age group is unlikely to be an isolated event.\nDoctors need to be aware that vCJD can arise in elderly patients so that appropriate investigations (including magnetic resonance imaging) can be done, and permission for neuropathological necropsy requested, in suspected cases.\nThis case could also have important implications for public health policy decisions and surveillance programmes that target the younger age range of vCJD cases.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Acquired_Prion",
+      "start": 20,
+      "end": 53,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 20,
+          "end": 53
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Acquired_Prion",
+      "start": 54,
+      "end": 58,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 54,
+          "end": 58
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 65,
+      "end": 76,
+      "text": "74-year old",
+      "spans": [
+        {
+          "start": 65,
+          "end": 76
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 111,
+      "end": 119,
+      "text": "necropsy",
+      "spans": [
+        {
+          "start": 111,
+          "end": 119
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Acquired_Prion",
+      "start": 139,
+      "end": 143,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 139,
+          "end": 143
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Acquired_Prion",
+      "start": 246,
+      "end": 250,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 246,
+          "end": 250
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Age",
+      "start": 264,
+      "end": 271,
+      "text": "elderly",
+      "spans": [
+        {
+          "start": 264,
+          "end": 271
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 327,
+      "end": 353,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 327,
+          "end": 353
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 387,
+      "end": 413,
+      "text": "neuropathological necropsy",
+      "spans": [
+        {
+          "start": 387,
+          "end": 413
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 405,
+      "end": 413,
+      "text": "necropsy",
+      "spans": [
+        {
+          "start": 405,
+          "end": 413
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Acquired_Prion",
+      "start": 594,
+      "end": 598,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 594,
+          "end": 598
+        }
+      ]
+    }
+  ]
+}

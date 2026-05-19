@@ -1,0 +1,29 @@
+T1	Test_name 34 53;60 67	cerebrospinal fluid markers
+T2	Test_name 55 58	CSF
+T3	Generic_Prion 115 140	Creutzfeldt-Jakob disease
+T4	Generic_Prion 142 145	CJD
+T6	Test_name 157 160	CSF
+T12	Generic_Prion 302 305	CJD
+T13	Test_name 307 329	Densitometric analysis
+T7	Anatomic_location 439 449	cerebellar
+T15	Symptom 439 455	cerebellar signs
+T16	Symptom 459 468	myoclonus
+T17	Symptom 483 503	progressive dementia
+T18	Generic_Prion 562 565	CJD
+T8	Stats 611 615	100%
+T9	Stats 637 640	92%
+T10	Stats 713 716	87%
+T11	Stats 738 741	97%
+T35	Test_name 806 828	densitometric analysis
+T14	Stats 852 855	97%
+T19	Stats 906 909	96%
+T20	Test_name 1096 1099	CSF
+T50	Generic_Prion 1116 1119	CJD
+T52	Time 1162 1180	more than one year
+T57	Time 1241 1253	at the onset
+T58	Time 1257 1273	at the end stage
+T62	Time 1340 1376	throughout the course of the disease
+T66	Generic_Prion 1461 1464	CJD
+T72	Generic_Prion 1650 1653	CJD
+T21	Test_name 1693 1696	CSF
+T22	Test_name 1867 1870	CSF

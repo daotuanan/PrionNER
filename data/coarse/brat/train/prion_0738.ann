@@ -1,0 +1,25 @@
+T1	Age 13 24	61-year-old
+T2	Symptom 43 63	progressive dementia
+T32	Anatomic_location 67 72	brain
+T3	Test_name 73 78	SPECT
+T5	Differential_Diagnosis 155 173	Alzheimer-dementia
+T7	Test_name 194 199	SPECT
+T8	Symptom 221 228	apraxia
+T9	Symptom 233 240	aphasia
+T10	Symptom 249 264	severe dementia
+T11	Test_name 279 299	Electrophysiological
+T12	Test_name 311 334	anatomical neuroimaging
+T14	Test_name 379 384	SPECT
+T15	Findings 403 420	perfusion defects
+T16	Differential_Diagnosis 433 451	Alzheimer Dementia
+T18	Symptom 514 547	rapidly progressive deterioration
+T19	Symptom 568 583	akinetic mutism
+T23	Test_name 686 712	cerebro-spinal fluid (CSF)
+T34	Complication 734 738	died
+T24	Symptom 753 775	cerebral decortication
+T4	Test_name 812 815	CSF
+T25	Generic_Prion 859 884	Creutzfeldt-Jakob-disease
+T26	Test_name 902 909	autopsy
+T33	Anatomic_location 997 1002	brain
+T27	Test_name 1003 1008	SPECT
+T30	Differential_Diagnosis 1042 1051	dementias

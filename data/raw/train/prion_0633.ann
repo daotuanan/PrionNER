@@ -1,0 +1,27 @@
+T3	Symptom 165 186	pseudobulbar syndrome
+T4	Symptom 191 199	dementia
+T5	Age 200 241	during the third or fourth decade of life
+T7	Duration 287 298	three years
+T8	Autopsy 309 317	biopsies
+T10	Autopsy_finding 351 379	multicentric amyloid plaques
+T11	Autopsy_finding 395 409	senile plaques
+T12	GSS 524 565	Gerstmann-Sträussler-Scheinker's syndrome
+T13	Autopsy_finding 615 635	multicentric plaques
+T15	Symptom 675 687;700 709	pseudobulbar syndromes
+T16	Symptom 729 737	dementia
+T18	Differential_Diagnosis 920 939	Alzheimer's disease
+T19	GSS 977 1017	Gerstmann-Strässler-Scheinker's syndrome
+T21	Kuru 1123 1127	kuru
+T22	Generic_Prion 1129 1148	Creutzfeldt-Jakob's
+T23	Differential_Diagnosis 1172 1191	Alzheimer's disease
+T24	Choose_Related 1443 1446	YES
+T1	Complication 258 263	fatal
+T2	Autopsy 424 436	pathological
+T6	Symptom 662 671;700 709	pyramidal syndromes
+T9	Symptom 689 709	cerebellar syndromes
+T14	Differential_Diagnosis 821 840	presenile dementias
+T17	Differential_Diagnosis 1093 1116	transmissible dementias
+T20	Choose_Done 1454 1458	DONE
+T25	Symptom 154 163;178 186	pyramidal syndrome
+T26	Anatomic_location 300 308	Cerebral
+T27	Autopsy 1266 1278	pathological

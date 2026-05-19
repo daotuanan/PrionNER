@@ -1,0 +1,214 @@
+{
+  "doc_id": "prion_0774",
+  "text": "Creutzfeldt-Jakob disease (CJD) is a rare but important fatal, dementing illness.\nA number of types of CJD are identified, each with distinct clinical features.\nCharacteristic MRI changes have been described recently.\nSporadic CJD, the commonest type, is found worldwide, and causes hyperintensity of the putamen and caudate nuclei.\nIn the recently described variant CJD, which affects younger patients and has been linked to Bovine Spongiform Encephalopathy (BSE) in cattle, a highly characteristic finding of bilateral hyperintensity of the pulvinar nuclei is seen.\nThe MRI features of CJD are reviewed in this article.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 103,
+      "end": 106,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 103,
+          "end": 106
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Imaging_test",
+      "start": 176,
+      "end": 179,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 176,
+          "end": 179
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "sCJD",
+      "start": 218,
+      "end": 230,
+      "text": "Sporadic CJD",
+      "spans": [
+        {
+          "start": 218,
+          "end": 230
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Imaging_finding",
+      "start": 283,
+      "end": 297,
+      "text": "hyperintensity",
+      "spans": [
+        {
+          "start": 283,
+          "end": 297
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 305,
+      "end": 312,
+      "text": "putamen",
+      "spans": [
+        {
+          "start": 305,
+          "end": 312
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 317,
+      "end": 331,
+      "text": "caudate nuclei",
+      "spans": [
+        {
+          "start": 317,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "vCJD",
+      "start": 359,
+      "end": 370,
+      "text": "variant CJD",
+      "spans": [
+        {
+          "start": 359,
+          "end": 370
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Age",
+      "start": 386,
+      "end": 393,
+      "text": "younger",
+      "spans": [
+        {
+          "start": 386,
+          "end": 393
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 426,
+      "end": 458,
+      "text": "Bovine Spongiform Encephalopathy",
+      "spans": [
+        {
+          "start": 426,
+          "end": 458
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 460,
+      "end": 463,
+      "text": "BSE",
+      "spans": [
+        {
+          "start": 460,
+          "end": 463
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Imaging_finding",
+      "start": 521,
+      "end": 535,
+      "text": "hyperintensity",
+      "spans": [
+        {
+          "start": 521,
+          "end": 535
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 543,
+      "end": 558,
+      "text": "pulvinar nuclei",
+      "spans": [
+        {
+          "start": 543,
+          "end": 558
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Imaging_test",
+      "start": 572,
+      "end": 575,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 572,
+          "end": 575
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Generic_Prion",
+      "start": 588,
+      "end": 591,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 588,
+          "end": 591
+        }
+      ]
+    }
+  ]
+}

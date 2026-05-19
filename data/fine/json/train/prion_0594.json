@@ -1,0 +1,110 @@
+{
+  "doc_id": "prion_0594",
+  "text": "Two Chinese cases of Creutzfeldt-Jakob disease (CJD) are described which show the typical clinical, EEG and neuropathological changes of a subacute spongiform encephalopathy.\nOne case was sporadic and the other was probably familial.\nThis is the first formal report of CJD occurring in China.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 21,
+      "end": 46,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 21,
+          "end": 46
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 48,
+      "end": 51,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 48,
+          "end": 51
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Electrophysio_test",
+      "start": 100,
+      "end": 103,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 100,
+          "end": 103
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Autopsy",
+      "start": 108,
+      "end": 125,
+      "text": "neuropathological",
+      "spans": [
+        {
+          "start": 108,
+          "end": 125
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 139,
+      "end": 173,
+      "text": "subacute spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 139,
+          "end": 173
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "sCJD",
+      "start": 188,
+      "end": 196,
+      "text": "sporadic",
+      "spans": [
+        {
+          "start": 188,
+          "end": 196
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "fCJD",
+      "start": 224,
+      "end": 232,
+      "text": "familial",
+      "spans": [
+        {
+          "start": 224,
+          "end": 232
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 269,
+      "end": 272,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 269,
+          "end": 272
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+T48	Anatomic_location 7 12	brain
+T1	Test_name 13 15	CT
+T4	Test_name 29 34	SPECT
+T6	Generic_Prion 64 89	Creutzfeldt-Jakob disease
+T7	Generic_Prion 91 94	CJD
+T8	Age 99 110	61-year-old
+T9	Symptom 134 154	progressive dementia
+T10	Symptom 159 175	gait disturbance
+T11	Time 179 192	December 1988
+T12	Symptom 214 230	left hemiparesis
+T13	Symptom 235 245	dysarthria
+T14	Symptom 269 284	akinetic mutism
+T15	Time 292 306	about 2 months
+T49	Anatomic_location 308 313	Brain
+T16	Test_name 314 316	CT
+T18	Test_name 318 321	MRI
+T2	Test_name 327 330	CSF
+T5	Time 377 390	February 1989
+T21	Symptom 392 411	myoclonic movements
+T22	Test_name 454 457	EEG
+T24	Symptom 500 509	Myoclonus
+T25	Time 544 561	March to May 1989
+T53	Complication 595 599	died
+T3	Time 603 612	June 1990
+T27	Time 648 657	19 months
+T50	Anatomic_location 659 664	Brain
+T28	Findings 665 672	atrophy
+T29	Test_name 676 678	CT
+T17	Time 698 706	4 months
+T26	Time 698 722	4 months after the onset
+T31	Time 758 782	end stage of the disease
+T51	Anatomic_location 792 797	brain
+T19	Findings 798 805	atrophy
+T32	Anatomic_location 816 830	the cerebellum
+T33	Anatomic_location 835 849	the brain stem
+T52	Anatomic_location 839 844	brain
+T34	Test_name 853 855	CT
+T35	Test_name 870 875	SPECT
+T20	Findings 885 904	decreased perfusion
+T38	Anatomic_location 908 927	the cerebral cortex
+T39	Time 933 941	5 months
+T40	Anatomic_location 994 1008	the cerebellum
+T41	Anatomic_location 1013 1030	the basal ganglia
+T43	Time 1063 1087	end stage of the disease
+T44	Test_name 1114 1119	SPECT
+T46	Generic_Prion 1193 1196	CJD

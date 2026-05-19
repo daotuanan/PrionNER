@@ -1,0 +1,49 @@
+T5	Findings 35 65	prion protein (PrP) deposition
+T3	Anatomic_location 73 98	peripheral nervous system
+T4	Anatomic_location 100 103	PNS
+T6	Generic_Prion 114 128	prion diseases
+T7	Generic_Prion 159 173	prion diseases
+T8	Sporadic_Prion 200 234	sporadic Creutzfeldt-Jakob disease
+T9	Sporadic_Prion 236 240	sCJD
+T11	Acquired_Prion 252 278	dural graft associated CJD
+T12	Acquired_Prion 280 284	dCJD
+T13	Familial_Prion 296 334	Gerstmann-Straussler-Scheinker disease
+T14	Familial_Prion 336 339	GSS
+T18	Familial_Prion 368 374	GSS102
+T21	Familial_Prion 408 414	GSS105
+T22	Sporadic_Prion 437 441	sCJD
+T10	Findings 447 458	PrP plaques
+T19	Anatomic_location 466 471	brain
+T27	Differential_Diagnosis 498 519	peripheral neuropathy
+T1	Findings 532 545	demyelination
+T30	Anatomic_location 581 592	sural nerve
+T31	Anatomic_location 598 601	PNS
+T17	Test_name 622 641	immunohistochemical
+T32	Test_name 646 671	western blotting analyses
+T20	Test_name 692 719	immunohistochemical studies
+T34	Findings 721 742	granular PrP deposits
+T36	Anatomic_location 777 796	dorsal root ganglia
+T37	Anatomic_location 817 834	peripheral nerves
+T39	Anatomic_location 839 861	spinal posterior roots
+T40	Sporadic_Prion 869 873	sCJD
+T42	Acquired_Prion 882 886	dCJD
+T44	Familial_Prion 908 914	GSS102
+T46	Familial_Prion 918 924	GSS105
+T47	Sporadic_Prion 956 960	sCJD
+T15	Differential_Diagnosis 966 987	peripheral neuropathy
+T51	Findings 1006 1020	PrP deposition
+T16	Anatomic_location 1028 1034	nerves
+T53	Test_name 1036 1061	Western blotting analysis
+T54	Anatomic_location 1069 1072	PNS
+T55	Acquired_Prion 1082 1086	dCJD
+T58	Anatomic_location 1155 1174	dorsal root ganglia
+T59	Anatomic_location 1179 1196	peripheral nerves
+T62	Findings 1220 1234	PrP deposition
+T63	Anatomic_location 1249 1268	dorsal root ganglia
+T64	Anatomic_location 1273 1290	peripheral nerves
+T66	Sporadic_Prion 1294 1298	sCJD
+T68	Acquired_Prion 1303 1307	dCJD
+T69	Findings 1313 1325	PrP deposits
+T70	Anatomic_location 1333 1336	PNS
+T71	Differential_Diagnosis 1387 1408	peripheral neuropathy
+T72	Generic_Prion 1412 1415	CJD

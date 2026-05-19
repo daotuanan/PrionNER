@@ -1,0 +1,162 @@
+{
+  "doc_id": "prion_0279",
+  "text": "Creutzfeldt-Jakob disease (CJD) is a rapidly progressive, neurodegenerative disorder causing dramatic neuromuscular symptoms, profound dementia, and death.\nIn this article, the epidemiology, etiology, modes of transmission, clinical manifestations, determination of possible/probable CJD diagnosis in life, and the postmortem neuropathology of definite CJD are discussed in depth.\nCase studies of two individuals, each affected by different subtypes of sporadic Creutzfeldt-Jakob disease (sCJD), are presented, along with a discussion of the many challenging nursing and psychosocial issues surrounding the supportive care of these individuals and families in life and death.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 102,
+      "end": 124,
+      "text": "neuromuscular symptoms",
+      "spans": [
+        {
+          "start": 102,
+          "end": 124
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 135,
+      "end": 143,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 135,
+          "end": 143
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Complication",
+      "start": 149,
+      "end": 154,
+      "text": "death",
+      "spans": [
+        {
+          "start": 149,
+          "end": 154
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 284,
+      "end": 287,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 284,
+          "end": 287
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Autopsy",
+      "start": 315,
+      "end": 340,
+      "text": "postmortem neuropathology",
+      "spans": [
+        {
+          "start": 315,
+          "end": 340
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 353,
+      "end": 356,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 353,
+          "end": 356
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "sCJD",
+      "start": 453,
+      "end": 487,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 453,
+          "end": 487
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "sCJD",
+      "start": 489,
+      "end": 493,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 489,
+          "end": 493
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Treatment",
+      "start": 607,
+      "end": 622,
+      "text": "supportive care",
+      "spans": [
+        {
+          "start": 607,
+          "end": 622
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Complication",
+      "start": 669,
+      "end": 674,
+      "text": "death",
+      "spans": [
+        {
+          "start": 669,
+          "end": 674
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "doc_id": "prion_0723",
+  "text": "A 50-year-old woman presented with progressive visual disturbance, ataxia, and dementia.\nThe cerebral cortex became atrophic, as the disease progressed, and electroencephalography showed periodic synchronous discharges.\nThe patient's prion gene revealed a point mutation (232Met to Arg), and a diagnosis of Creutzfeldt-Jakob disease was made.\nIomazenil single-photon emission computed tomography (SPECT) was performed to assess neuronal degeneration.\nAccumulation of the tracer in the late images was severely decreased diffusely spread throughout the cerebral cortex.\nOur experience with this case suggests that iomazenil SPECT is useful for detecting neuronal degeneration in Creutzfeldt-Jakob disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "50-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 35,
+      "end": 65,
+      "text": "progressive visual disturbance",
+      "spans": [
+        {
+          "start": 35,
+          "end": 65
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 67,
+      "end": 73,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 67,
+          "end": 73
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 79,
+      "end": 87,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 79,
+          "end": 87
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 93,
+      "end": 108,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 93,
+          "end": 108
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 157,
+      "end": 179,
+      "text": "electroencephalography",
+      "spans": [
+        {
+          "start": 157,
+          "end": 179
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 307,
+      "end": 332,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 307,
+          "end": 332
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 353,
+      "end": 395,
+      "text": "single-photon emission computed tomography",
+      "spans": [
+        {
+          "start": 353,
+          "end": 395
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 397,
+      "end": 402,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 397,
+          "end": 402
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Findings",
+      "start": 428,
+      "end": 449,
+      "text": "neuronal degeneration",
+      "spans": [
+        {
+          "start": 428,
+          "end": 449
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 552,
+      "end": 567,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 552,
+          "end": 567
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 623,
+      "end": 628,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 623,
+          "end": 628
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Findings",
+      "start": 653,
+      "end": 674,
+      "text": "neuronal degeneration",
+      "spans": [
+        {
+          "start": 653,
+          "end": 674
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Generic_Prion",
+      "start": 678,
+      "end": 703,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 678,
+          "end": 703
+        }
+      ]
+    }
+  ]
+}

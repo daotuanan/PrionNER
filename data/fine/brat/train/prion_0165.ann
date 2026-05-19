@@ -1,0 +1,16 @@
+T3	Symptom 188 196	dementia
+T4	Symptom 198 207	myoclonus
+T5	Symptom 209 217	rigidity
+T6	Symptom 223 234	hemiparesis
+T7	Symptom 294 320	lower motor neuron deficit
+T9	Symptom 322 334	parkinsonism
+T11	Symptom 336 356	intellectual decline
+T12	Symptom 362 368	ataxia
+T13	Anatomic_location 408 435	anterior horn motor neurons
+T14	Generic_Prion 510 523	prion protein
+T15	Genetic_test 612 628	Genetic analysis
+T2	Generic_Prion 31 54	inherited prion disease
+T20	Symptom 104 136	progressive neurological disease
+T23	Symptom 180 186	ataxia
+T8	Autopsy_finding 391 400	cell loss
+T10	Symptom 440 473	chronic neurogenic muscle atrophy

@@ -1,0 +1,5 @@
+T1	Generic_Prion 30 55	Creutzfeldt-Jakob disease
+T2	Generic_Prion 57 60	CJD
+T3	Test_name 67 89	visual evoked response
+T4	Test_name 91 94	VER
+T6	Test_name 100 103	CSF

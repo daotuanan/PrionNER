@@ -1,0 +1,201 @@
+{
+  "doc_id": "prion_0660",
+  "text": "Two cases of Creutzfeldt-Jakob Disease (CJD) are reported.\nIn both cases, pathologically confirmed, magnetic resonance imaging (MRI) showed bilateral altered signal areas in the basal ganglia, early in the course of the disease.\nThe CT scan, although performed later than MRI, confirmed these findings.\nOnly in one patient did electroencephalography (EEG) show typical triphasic sharp-waves, but this support to clinical diagnosis was obtained 1 month after the appearance of MRI alterations.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 13,
+      "end": 38,
+      "text": "Creutzfeldt-Jakob Disease",
+      "spans": [
+        {
+          "start": 13,
+          "end": 38
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 40,
+      "end": 43,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 40,
+          "end": 43
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 74,
+      "end": 88,
+      "text": "pathologically",
+      "spans": [
+        {
+          "start": 74,
+          "end": 88
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 100,
+      "end": 126,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 100,
+          "end": 126
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 128,
+      "end": 131,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 128,
+          "end": 131
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Findings",
+      "start": 150,
+      "end": 170,
+      "text": "altered signal areas",
+      "spans": [
+        {
+          "start": 150,
+          "end": 170
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 178,
+      "end": 191,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 178,
+          "end": 191
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Time",
+      "start": 193,
+      "end": 227,
+      "text": "early in the course of the disease",
+      "spans": [
+        {
+          "start": 193,
+          "end": 227
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 233,
+      "end": 240,
+      "text": "CT scan",
+      "spans": [
+        {
+          "start": 233,
+          "end": 240
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 272,
+      "end": 275,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 272,
+          "end": 275
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 327,
+      "end": 349,
+      "text": "electroencephalography",
+      "spans": [
+        {
+          "start": 327,
+          "end": 349
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 351,
+      "end": 354,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 351,
+          "end": 354
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Time",
+      "start": 444,
+      "end": 451,
+      "text": "1 month",
+      "spans": [
+        {
+          "start": 444,
+          "end": 451
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Time",
+      "start": 452,
+      "end": 491,
+      "text": "after the appearance of MRI alterations",
+      "spans": [
+        {
+          "start": 452,
+          "end": 491
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Test_name",
+      "start": 476,
+      "end": 479,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 476,
+          "end": 479
+        }
+      ]
+    }
+  ]
+}

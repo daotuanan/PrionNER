@@ -1,0 +1,9 @@
+Three members of a family with inherited prion disease are reported.
+One additional family member had a progressive neurological disease without details.
+Two developed symptoms of ataxia, dementia, myoclonus, rigidity, and hemiparesis, and one had a different phenotype with the combination of lower motor neuron deficit, parkinsonism, intellectual decline, and ataxia.
+In this last patient cell loss of the anterior horn motor neurons and chronic neurogenic muscle atrophy was evident.
+Immunostaining for the prion protein disclosed unicentric and multicentric plaques, and coarse and fine granular positivity.
+Genetic analysis of the prion protein gene of the propositus showed a 117 codon alanine to valine mutation and homozygous 129 valine/valine genotype.
+
+<Related> YES or NO
+[DONE]

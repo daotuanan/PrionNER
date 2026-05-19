@@ -1,0 +1,536 @@
+{
+  "doc_id": "prion_0667",
+  "text": "We report a case of Creutzfeldt-Jakob disease in a 38-year-old man, transmitted by a cadaveric dural graft.\nIn August 1985, he underwent cranial nerve decompression for hemifacial spasm and received a cadaveric dural graft for dural closure.\nHe had been well until he began to complain of blurred vision and headache in May, 1990.\nHe developed dementia, myoclonus and urinary incontinence over the subsequent 3 months.\nHe was admitted to our hospital in August, 1990.\nOn admission, he was somnolent and showed gait disturbance, myoclonus in extremities and elevated deep tendon reflexes symmetrically.\nThe results of analysis of blood, urinary and cerebrospinal fluid were normal.\nThe initial computed tomography (CT) and magnetic resonance imaging detected no abnormality.\nElectroencephalography showed typical periodic synchronous discharge (PSD).\nThere was progressive worsening of his neurological symptoms, and this developed into mutism in September, 1990.\nCT, 11 months after clinical onset, showed marked enlargement of the ventricles and the sulci.\nIn view of his rapid worsening clinical course, PSD findings on electroencephalography, and delayed progressive changes of CT findings, the diagnosis of CJD disease was made.\nThe cadaveric dural graft was suspected as the cause of the patient's condition.\nSince Thadani et al reported the first case of CJD transmitted by cadaveric dural graft in 1988, 3 other cases have been reported.\nThis is most likely the 5th reported case of Creutzfeldt-Jakob disease transmitted by cadaveric dural graft.",
+  "entities": [
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 20,
+      "end": 45,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 20,
+          "end": 45
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Age",
+      "start": 51,
+      "end": 62,
+      "text": "38-year-old",
+      "spans": [
+        {
+          "start": 51,
+          "end": 62
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Treatment",
+      "start": 85,
+      "end": 106,
+      "text": "cadaveric dural graft",
+      "spans": [
+        {
+          "start": 85,
+          "end": 106
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 111,
+      "end": 122,
+      "text": "August 1985",
+      "spans": [
+        {
+          "start": 111,
+          "end": 122
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Treatment",
+      "start": 137,
+      "end": 164,
+      "text": "cranial nerve decompression",
+      "spans": [
+        {
+          "start": 137,
+          "end": 164
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Treatment",
+      "start": 201,
+      "end": 222,
+      "text": "cadaveric dural graft",
+      "spans": [
+        {
+          "start": 201,
+          "end": 222
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 289,
+      "end": 303,
+      "text": "blurred vision",
+      "spans": [
+        {
+          "start": 289,
+          "end": 303
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 308,
+      "end": 316,
+      "text": "headache",
+      "spans": [
+        {
+          "start": 308,
+          "end": 316
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Time",
+      "start": 320,
+      "end": 329,
+      "text": "May, 1990",
+      "spans": [
+        {
+          "start": 320,
+          "end": 329
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 344,
+      "end": 352,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 344,
+          "end": 352
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 354,
+      "end": 363,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 354,
+          "end": 363
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 368,
+      "end": 388,
+      "text": "urinary incontinence",
+      "spans": [
+        {
+          "start": 368,
+          "end": 388
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Time",
+      "start": 409,
+      "end": 417,
+      "text": "3 months",
+      "spans": [
+        {
+          "start": 409,
+          "end": 417
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Time",
+      "start": 454,
+      "end": 466,
+      "text": "August, 1990",
+      "spans": [
+        {
+          "start": 454,
+          "end": 466
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 489,
+      "end": 498,
+      "text": "somnolent",
+      "spans": [
+        {
+          "start": 489,
+          "end": 498
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Symptom",
+      "start": 510,
+      "end": 526,
+      "text": "gait disturbance",
+      "spans": [
+        {
+          "start": 510,
+          "end": 526
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Symptom",
+      "start": 528,
+      "end": 537,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 528,
+          "end": 537
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 557,
+      "end": 586,
+      "text": "elevated deep tendon reflexes",
+      "spans": [
+        {
+          "start": 557,
+          "end": 586
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 617,
+      "end": 634,
+      "text": "analysis of blood",
+      "spans": [
+        {
+          "start": 617,
+          "end": 634
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 617,
+      "end": 643,
+      "text": "analysis of urinary",
+      "spans": [
+        {
+          "start": 617,
+          "end": 628
+        },
+        {
+          "start": 636,
+          "end": 643
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T5",
+      "label": "Test_name",
+      "start": 617,
+      "end": 667,
+      "text": "analysis of cerebrospinal fluid",
+      "spans": [
+        {
+          "start": 617,
+          "end": 628
+        },
+        {
+          "start": 648,
+          "end": 667
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 693,
+      "end": 712,
+      "text": "computed tomography",
+      "spans": [
+        {
+          "start": 693,
+          "end": 712
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 714,
+      "end": 716,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 714,
+          "end": 716
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Test_name",
+      "start": 722,
+      "end": 748,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 722,
+          "end": 748
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Test_name",
+      "start": 774,
+      "end": 796,
+      "text": "Electroencephalography",
+      "spans": [
+        {
+          "start": 774,
+          "end": 796
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Symptom",
+      "start": 936,
+      "end": 942,
+      "text": "mutism",
+      "spans": [
+        {
+          "start": 936,
+          "end": 942
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Time",
+      "start": 946,
+      "end": 961,
+      "text": "September, 1990",
+      "spans": [
+        {
+          "start": 946,
+          "end": 961
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Test_name",
+      "start": 963,
+      "end": 965,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 963,
+          "end": 965
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Time",
+      "start": 967,
+      "end": 976,
+      "text": "11 months",
+      "spans": [
+        {
+          "start": 967,
+          "end": 976
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Time",
+      "start": 967,
+      "end": 997,
+      "text": "11 months after clinical onset",
+      "spans": [
+        {
+          "start": 967,
+          "end": 997
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Findings",
+      "start": 1013,
+      "end": 1024,
+      "text": "enlargement",
+      "spans": [
+        {
+          "start": 1013,
+          "end": 1024
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Anatomic_location",
+      "start": 1032,
+      "end": 1042,
+      "text": "ventricles",
+      "spans": [
+        {
+          "start": 1032,
+          "end": 1042
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Anatomic_location",
+      "start": 1051,
+      "end": 1056,
+      "text": "sulci",
+      "spans": [
+        {
+          "start": 1051,
+          "end": 1056
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Test_name",
+      "start": 1122,
+      "end": 1144,
+      "text": "electroencephalography",
+      "spans": [
+        {
+          "start": 1122,
+          "end": 1144
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Test_name",
+      "start": 1181,
+      "end": 1183,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 1181,
+          "end": 1183
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Generic_Prion",
+      "start": 1211,
+      "end": 1214,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1211,
+          "end": 1214
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Treatment",
+      "start": 1237,
+      "end": 1258,
+      "text": "cadaveric dural graft",
+      "spans": [
+        {
+          "start": 1237,
+          "end": 1258
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Acquired_Prion",
+      "start": 1361,
+      "end": 1401,
+      "text": "CJD transmitted by cadaveric dural graft",
+      "spans": [
+        {
+          "start": 1361,
+          "end": 1401
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Time",
+      "start": 1405,
+      "end": 1409,
+      "text": "1988",
+      "spans": [
+        {
+          "start": 1405,
+          "end": 1409
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Acquired_Prion",
+      "start": 1490,
+      "end": 1552,
+      "text": "Creutzfeldt-Jakob disease transmitted by cadaveric dural graft",
+      "spans": [
+        {
+          "start": 1490,
+          "end": 1552
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "doc_id": "prion_0614",
+  "text": "One case of CJD with severe involvement of the white matter is discussed.\nThe patient was admitted after a 3-month clinical course with rapidly increasing mental deterioration, coma vigil-like state, myoclonic twitching of the limbs and of the facial muscles.\nThe EEG showed the typical features of CJD.\nThe first CT scan, performed 3 months after onset, revealed only a mild cortical and subcortical atrophy of the brain.\nThe second CT scan, 12 months later, showed a considerable cortical and subcortical atrophy of the brain.\nThe patient died 18 months after onset.\nNeuropathological examination showed a severe degeneration in the gray matter, with spongiosis, loss of neurones and hypertrophic glial reaction.\nThe white matter was also involved with severe spongiosis, demyelination and hypertrophic glial proliferation.\nThe case is discussed in relation to the data in the literature.\nIt is argued that cases of CJD with severe involvement of the white matter should be classified as a new neuropathological subentity of CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 12,
+      "end": 15,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 12,
+          "end": 15
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Anatomic_location",
+      "start": 47,
+      "end": 59,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 47,
+          "end": 59
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Duration",
+      "start": 107,
+      "end": 114,
+      "text": "3-month",
+      "spans": [
+        {
+          "start": 107,
+          "end": 114
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 155,
+      "end": 175,
+      "text": "mental deterioration",
+      "spans": [
+        {
+          "start": 155,
+          "end": 175
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 177,
+      "end": 198,
+      "text": "coma vigil-like state",
+      "spans": [
+        {
+          "start": 177,
+          "end": 198
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 200,
+      "end": 219,
+      "text": "myoclonic twitching",
+      "spans": [
+        {
+          "start": 200,
+          "end": 219
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 227,
+      "end": 232,
+      "text": "limbs",
+      "spans": [
+        {
+          "start": 227,
+          "end": 232
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 244,
+      "end": 258,
+      "text": "facial muscles",
+      "spans": [
+        {
+          "start": 244,
+          "end": 258
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Electrophysio_test",
+      "start": 264,
+      "end": 267,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 264,
+          "end": 267
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 299,
+      "end": 302,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 299,
+          "end": 302
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Imaging_test",
+      "start": 314,
+      "end": 321,
+      "text": "CT scan",
+      "spans": [
+        {
+          "start": 314,
+          "end": 321
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Duration",
+      "start": 333,
+      "end": 341,
+      "text": "3 months",
+      "spans": [
+        {
+          "start": 333,
+          "end": 341
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Time_point",
+      "start": 342,
+      "end": 353,
+      "text": "after onset",
+      "spans": [
+        {
+          "start": 342,
+          "end": 353
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Anatomic_location",
+      "start": 376,
+      "end": 384,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 376,
+          "end": 384
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Anatomic_location",
+      "start": 389,
+      "end": 400,
+      "text": "subcortical",
+      "spans": [
+        {
+          "start": 389,
+          "end": 400
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Imaging_finding",
+      "start": 401,
+      "end": 408,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 401,
+          "end": 408
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 416,
+      "end": 421,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 416,
+          "end": 421
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Imaging_test",
+      "start": 434,
+      "end": 441,
+      "text": "CT scan",
+      "spans": [
+        {
+          "start": 434,
+          "end": 441
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Duration",
+      "start": 443,
+      "end": 458,
+      "text": "12 months later",
+      "spans": [
+        {
+          "start": 443,
+          "end": 458
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 482,
+      "end": 490,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 482,
+          "end": 490
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 495,
+      "end": 506,
+      "text": "subcortical",
+      "spans": [
+        {
+          "start": 495,
+          "end": 506
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Imaging_finding",
+      "start": 507,
+      "end": 514,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 507,
+          "end": 514
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 522,
+      "end": 527,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 522,
+          "end": 527
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Complication",
+      "start": 541,
+      "end": 545,
+      "text": "died",
+      "spans": [
+        {
+          "start": 541,
+          "end": 545
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Duration",
+      "start": 546,
+      "end": 555,
+      "text": "18 months",
+      "spans": [
+        {
+          "start": 546,
+          "end": 555
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Time_point",
+      "start": 556,
+      "end": 567,
+      "text": "after onset",
+      "spans": [
+        {
+          "start": 556,
+          "end": 567
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Autopsy",
+      "start": 569,
+      "end": 598,
+      "text": "Neuropathological examination",
+      "spans": [
+        {
+          "start": 569,
+          "end": 598
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Autopsy_finding",
+      "start": 615,
+      "end": 627,
+      "text": "degeneration",
+      "spans": [
+        {
+          "start": 615,
+          "end": 627
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 635,
+      "end": 646,
+      "text": "gray matter",
+      "spans": [
+        {
+          "start": 635,
+          "end": 646
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Autopsy_finding",
+      "start": 653,
+      "end": 663,
+      "text": "spongiosis",
+      "spans": [
+        {
+          "start": 653,
+          "end": 663
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Autopsy_finding",
+      "start": 665,
+      "end": 681,
+      "text": "loss of neurones",
+      "spans": [
+        {
+          "start": 665,
+          "end": 681
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Autopsy_finding",
+      "start": 686,
+      "end": 713,
+      "text": "hypertrophic glial reaction",
+      "spans": [
+        {
+          "start": 686,
+          "end": 713
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 719,
+      "end": 731,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 719,
+          "end": 731
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Autopsy_finding",
+      "start": 762,
+      "end": 772,
+      "text": "spongiosis",
+      "spans": [
+        {
+          "start": 762,
+          "end": 772
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Autopsy_finding",
+      "start": 774,
+      "end": 787,
+      "text": "demyelination",
+      "spans": [
+        {
+          "start": 774,
+          "end": 787
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Autopsy_finding",
+      "start": 792,
+      "end": 824,
+      "text": "hypertrophic glial proliferation",
+      "spans": [
+        {
+          "start": 792,
+          "end": 824
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Generic_Prion",
+      "start": 918,
+      "end": 921,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 918,
+          "end": 921
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Anatomic_location",
+      "start": 953,
+      "end": 965,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 953,
+          "end": 965
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Generic_Prion",
+      "start": 1027,
+      "end": 1030,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1027,
+          "end": 1030
+        }
+      ]
+    }
+  ]
+}

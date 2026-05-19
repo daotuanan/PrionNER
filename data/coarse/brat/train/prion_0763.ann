@@ -1,0 +1,11 @@
+T1	Acquired_Prion 20 53	variant Creutzfeldt-Jakob disease
+T2	Acquired_Prion 54 58	vCJD
+T3	Age 65 76	74-year old
+T4	Test_name 111 119	necropsy
+T5	Acquired_Prion 139 143	vCJD
+T6	Acquired_Prion 246 250	vCJD
+T12	Age 264 271	elderly
+T7	Test_name 327 353	magnetic resonance imaging
+T8	Test_name 387 413	neuropathological necropsy
+T9	Test_name 405 413	necropsy
+T10	Acquired_Prion 594 598	vCJD

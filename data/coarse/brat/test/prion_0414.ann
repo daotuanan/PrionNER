@@ -1,0 +1,46 @@
+T1	Sequences 41 66	diffusion-weighted images
+T3	Sequences 68 72	DWIs
+T4	Sequences 78 113	fluid-attenuated inversion recovery
+T5	Sequences 115 120	FLAIR
+T6	Generic_Prion 145 170	Creutzfeldt-Jakob disease
+T7	Generic_Prion 172 175	CJD
+T11	Sequences 278 281	DWI
+T12	Sequences 286 291	FLAIR
+T13	Generic_Prion 315 318	CJD
+T14	Sequences 400 403	DWI
+T15	Sequences 408 413	FLAIR
+T17	Generic_Prion 464 467	CJD
+T19	Differential_Diagnosis 512 520	dementia
+T20	Generic_Prion 549 552	CJD
+T21	Sequences 600 603	DWI
+T22	Sequences 608 613	FLAIR
+T24	Stats 626 629	91%
+T26	Stats 641 644	95%
+T31	Generic_Prion 676 679	CJD
+T34	Sequences 756 759	DWI
+T35	Sequences 765 770	FLAIR
+T36	Anatomic_location 803 809	cortex
+T37	Anatomic_location 814 830	deep gray matter
+T39	Anatomic_location 832 840	striatum
+T40	Anatomic_location 848 856	thalamus
+T42	Generic_Prion 882 885	CJD
+T43	Anatomic_location 887 893	cortex
+T45	Anatomic_location 912 928	deep gray matter
+T49	Findings 1000 1014	hyperintensity
+T50	Sequences 1023 1028	FLAIR
+T51	Sequences 1040 1043	DWI
+T53	Anatomic_location 1061 1072	gray matter
+T54	Anatomic_location 1080 1086	cortex
+T55	Anatomic_location 1088 1096	striatum
+T57	Anatomic_location 1098 1104;1122 1130	medial thalamus
+T2	Anatomic_location 1112 1130	posterior thalamus
+T58	Sequences 1213 1216	DWI
+T60	Sequences 1222 1227	FLAIR
+T9	Anatomic_location 1278 1286	cortical
+T61	Findings 1278 1303	cortical signal intensity
+T62	Generic_Prion 1354 1357	CJD
+T63	Differential_Diagnosis 1369 1377	dementia
+T66	Sequences 1436 1439	DWI
+T67	Sequences 1444 1449	FLAIR
+T70	Generic_Prion 1495 1498	CJD
+T71	Generic_Prion 1545 1548	CJD

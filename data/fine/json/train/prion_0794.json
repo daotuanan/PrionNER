@@ -1,0 +1,375 @@
+{
+  "doc_id": "prion_0794",
+  "text": "Creutzfeldt-Jakob disease (CJD) is the most frequent transmissible spongiform encephalopathy.\nIts definite diagnosis is ascertained by cerebral neuropathological exam.\nHowever, diagnosis of a probable or possible case of CJD can be evoked on the basis of Masters'classification which is based on the association of different clinical and electroencephalographical criteria.\nWe report the case of a 58-year-old woman who died in a geriatric unit of autopsy proven sporadic CJD.\nThe clinical course over 15 months was rapidly progressive dementia without characteristic clinical and EEG signs.\nThe case presentation did not meet the criteria of probable or possible CJD, according to Masters'classification.\nHowever, 4 months after the onset of the disease, t-Flair MRI revealed an increased signal intensity in the right frontal and occipital cortex which could suggest the diagnosis of CJD.\nThis case therefore stresses the contribution of MRI, especially diffusion-weighted imaging, for early diagnosis of CJD.\nIt shows also the short comings of Masters'classification which does not always enable diagnosis of CJD even though control measures would have to be rapidly undertaken, specially the decontamination of medico-surgical equipment.\nFinally, this case illustrates the great importance of post mortem exam in such context.\nIn light of this clinical observation, we discuss this rare diagnosis which should be considered in geriatrics when confronted with a rapidly progressive dementia",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 53,
+      "end": 92,
+      "text": "transmissible spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 53,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Anatomic_location",
+      "start": 135,
+      "end": 143,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 135,
+          "end": 143
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Autopsy",
+      "start": 144,
+      "end": 166,
+      "text": "neuropathological exam",
+      "spans": [
+        {
+          "start": 144,
+          "end": 166
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 221,
+      "end": 224,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 221,
+          "end": 224
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Age",
+      "start": 398,
+      "end": 409,
+      "text": "58-year-old",
+      "spans": [
+        {
+          "start": 398,
+          "end": 409
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Complication",
+      "start": 420,
+      "end": 424,
+      "text": "died",
+      "spans": [
+        {
+          "start": 420,
+          "end": 424
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Autopsy",
+      "start": 448,
+      "end": 455,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 448,
+          "end": 455
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "sCJD",
+      "start": 463,
+      "end": 475,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 463,
+          "end": 475
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Duration",
+      "start": 502,
+      "end": 511,
+      "text": "15 months",
+      "spans": [
+        {
+          "start": 502,
+          "end": 511
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 516,
+      "end": 544,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 516,
+          "end": 544
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Electrophysio_test",
+      "start": 581,
+      "end": 584,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 581,
+          "end": 584
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 664,
+      "end": 667,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 664,
+          "end": 667
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Duration",
+      "start": 715,
+      "end": 723,
+      "text": "4 months",
+      "spans": [
+        {
+          "start": 715,
+          "end": 723
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Time_point",
+      "start": 734,
+      "end": 754,
+      "text": "onset of the disease",
+      "spans": [
+        {
+          "start": 734,
+          "end": 754
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Imaging_sequence",
+      "start": 758,
+      "end": 763,
+      "text": "Flair",
+      "spans": [
+        {
+          "start": 758,
+          "end": 763
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Imaging_test",
+      "start": 764,
+      "end": 767,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 764,
+          "end": 767
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Imaging_finding",
+      "start": 780,
+      "end": 806,
+      "text": "increased signal intensity",
+      "spans": [
+        {
+          "start": 780,
+          "end": 806
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 820,
+      "end": 848,
+      "text": "frontal cortex",
+      "spans": [
+        {
+          "start": 820,
+          "end": 827
+        },
+        {
+          "start": 842,
+          "end": 848
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T27",
+      "label": "Anatomic_location",
+      "start": 832,
+      "end": 848,
+      "text": "occipital cortex",
+      "spans": [
+        {
+          "start": 832,
+          "end": 848
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Generic_Prion",
+      "start": 886,
+      "end": 889,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 886,
+          "end": 889
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Imaging_test",
+      "start": 940,
+      "end": 943,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 940,
+          "end": 943
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Imaging_sequence",
+      "start": 956,
+      "end": 982,
+      "text": "diffusion-weighted imaging",
+      "spans": [
+        {
+          "start": 956,
+          "end": 982
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Generic_Prion",
+      "start": 1007,
+      "end": 1010,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1007,
+          "end": 1010
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Generic_Prion",
+      "start": 1112,
+      "end": 1115,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1112,
+          "end": 1115
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Autopsy",
+      "start": 1297,
+      "end": 1313,
+      "text": "post mortem exam",
+      "spans": [
+        {
+          "start": 1297,
+          "end": 1313
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Symptom",
+      "start": 1465,
+      "end": 1493,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 1465,
+          "end": 1493
+        }
+      ]
+    }
+  ]
+}

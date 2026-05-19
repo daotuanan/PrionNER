@@ -1,0 +1,14 @@
+A serial neurophysiological study has been performed of 2 children during the clinical course of Creutzfeldt-Jakob disease after human growth hormone (hGH) treatment.
+Evolution of the EEG pattern was typical: slow waves, periodic sharp wave complexes, then extinction.
+VEP components were moderately altered.
+BAERs performed in only 1 child were normal.
+The blink reflex (BR) showed an early alteration of the R1 component.
+The ERG exhibited early and profound anomalies.
+Pathological changes were obvious at the first recording, at the beginning of the second month after clinical onset: increase in peak latencies, morphological changes and important reduction of b wave amplitude (a/b amplitude ratio > or = 0.70; normal range 0.27-0.41).
+The ERG was completely absent a few months later.
+These results are compared with the similar retinopathy described in CJD- or scrapie-infected rodents.
+In the 2 children, pathological changes in ERG and in BR were obvious several months before the development of the typical EEG pattern.
+Therefore, early ERG and BR recording can be helpful in the diagnosis of CJD, especially in this ataxic form following hGH treatment.
+
+<Related> YES or NO
+[DONE]

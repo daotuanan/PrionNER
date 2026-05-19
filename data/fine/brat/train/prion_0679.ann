@@ -1,0 +1,30 @@
+T1	Generic_Prion 12 37	Creutzfeldt-Jakob disease
+T2	Generic_Prion 39 42	CJD
+T3	Generic_Prion 47 72	spongiform encephalopathy
+T5	Generic_Prion 301 304	CJD
+T6	Duration 310 322	1987 to 1995
+T7	Generic_Prion 388 391	CJD
+T8	Autopsy 424 430	biopsy
+T9	Age 500 514	53 to 81 years
+T11	Duration 599 620	six and a half months
+T12	Symptom 667 675	dementia
+T13	Symptom 677 684	aphasia
+T14	Symptom 686 697	ataxic gait
+T15	Symptom 699 708;747 755	pyramidal problems
+T16	Symptom 710 724;747 755	extrapyramidal problems
+T18	Symptom 726 735	myoclonus
+T19	Symptom 740 755	visual problems
+T20	Generic_Prion 787 790	CJD
+T22	Electrophysio_test 852 855	EEG
+T23	Electrophysio_test 957 960	EEG
+T26	Imaging_test 1029 1034	SPECT
+T27	Generic_Prion 1078 1081	CJD
+T30	Autopsy 1149 1155	biopsy
+T31	Electrophysio_test 1198 1201	EEG
+T32	Imaging_test 1206 1211	SPECT
+T4	Age 530 538	66 years
+T10	Electrophysio_test 830 850	Electroencephalogram
+T17	Imaging_test 985 1027	Single photon emission computed tomography
+T35	Anatomic_location 418 423	brain
+T36	Anatomic_location 1143 1148	Brain
+T37	Complication 590 594	died

@@ -1,0 +1,180 @@
+{
+  "doc_id": "prion_0343",
+  "text": "BACKGROUND: There has been concern that children with variant Creutzfeldt-Jakob disease (vCJD) might be misdiagnosed as cases of Alpers' syndrome, as a spongiform degeneration of the brain is seen in both conditions.\nOBJECTIVE: To report a national prospective surveillance study of children with progressive intellectual and neurological deterioration, designed to detect any children in the United Kingdom with vCJD, to see whether this misdiagnosis is occurring.\nMETHODS: A monthly surveillance card is sent by the British Paediatric Surveillance Unit to all consultant paediatricians in the UK.\nThe card lists the disorders currently under surveillance.\nPaediatricians are asked to return the card, reporting cases seen in the previous month.\nThe BPSU office informs the surveillance groups about reported cases, and they obtain clinical information from the notifying paediatrician.\nRESULTS: After 5 years and 8 months of surveillance, 1244 children had been reported to the study.\nAlpers' syndrome was confirmed in two, although this was the suggested diagnosis in 11 children at the time of initial notification.\nCONCLUSIONS: The results show that Alpers' syndrome is rare and it is unlikely that vCJD cases are being misdiagnosed as Alpers' syndrome.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Acquired_Prion",
+      "start": 54,
+      "end": 87,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 54,
+          "end": 87
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Acquired_Prion",
+      "start": 89,
+      "end": 93,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 89,
+          "end": 93
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Differential_Diagnosis",
+      "start": 129,
+      "end": 145,
+      "text": "Alpers' syndrome",
+      "spans": [
+        {
+          "start": 129,
+          "end": 145
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 183,
+      "end": 188,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 183,
+          "end": 188
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 309,
+      "end": 352,
+      "text": "intellectual deterioration",
+      "spans": [
+        {
+          "start": 309,
+          "end": 321
+        },
+        {
+          "start": 339,
+          "end": 352
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 326,
+      "end": 352,
+      "text": "neurological deterioration",
+      "spans": [
+        {
+          "start": 326,
+          "end": 352
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Acquired_Prion",
+      "start": 413,
+      "end": 417,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 413,
+          "end": 417
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Time",
+      "start": 903,
+      "end": 923,
+      "text": "5 years and 8 months",
+      "spans": [
+        {
+          "start": 903,
+          "end": 923
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Differential_Diagnosis",
+      "start": 987,
+      "end": 1003,
+      "text": "Alpers' syndrome",
+      "spans": [
+        {
+          "start": 987,
+          "end": 1003
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Time",
+      "start": 1083,
+      "end": 1118,
+      "text": "at the time of initial notification",
+      "spans": [
+        {
+          "start": 1083,
+          "end": 1118
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Differential_Diagnosis",
+      "start": 1155,
+      "end": 1171,
+      "text": "Alpers' syndrome",
+      "spans": [
+        {
+          "start": 1155,
+          "end": 1171
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Acquired_Prion",
+      "start": 1204,
+      "end": 1208,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 1204,
+          "end": 1208
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Differential_Diagnosis",
+      "start": 1241,
+      "end": 1257,
+      "text": "Alpers' syndrome",
+      "spans": [
+        {
+          "start": 1241,
+          "end": 1257
+        }
+      ]
+    }
+  ]
+}

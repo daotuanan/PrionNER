@@ -1,0 +1,15 @@
+T5	Treatment 46 70	neurosurgical procedures
+T1	Generic_Prion 120 145	Creutzfeldt-Jakob disease
+T2	Generic_Prion 147 150	CJD
+T6	Treatment 188 211	lyophilized dural graft
+T7	Anatomic_location 242 252	cerebellar
+T4	Time 269 285	15 yr previously
+T9	Treatment 319 351	pituitary-derived growth hormone
+T12	Treatment 356 394	treatment of growth hormone deficiency
+T8	Anatomic_location 411 426	third ventricle
+T10	Time 444 457	13 yr earlier
+T15	Anatomic_location 475 485	cerebellar
+T11	Symptom 475 494	cerebellar symptoms
+T16	Treatment 529 543	growth hormone
+T17	Treatment 547 582	dural graft of cadaveric extraction
+T13	Generic_Prion 617 620	CJD

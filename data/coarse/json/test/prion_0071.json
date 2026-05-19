@@ -1,0 +1,396 @@
+{
+  "doc_id": "prion_0071",
+  "text": "BACKGROUND: Prion diseases are universally fatal causes of rapid progressive dementia owing to the formation and spread of prions throughout the brain.\nPalliative care focuses on improving quality of life for patients with serious or advanced medical conditions.\nTimely access to palliative care is central to the care of patients with prion disease and other progressive neurodegenerative diseases.\nWe sought to evaluate palliative care utilization and mode of delivery in patients with prion disease.\nMETHOD: Clinical data were extracted from the electronic medical records of patients with definite or probable prion disease diagnosed and managed across the Mayo Clinic Enterprise from January 2012 to August 2023.\nWe systematically evaluated the frequency of symptoms and signs likely to benefit from palliative care and considered the relationship between these features and palliative care resource utilization, method of delivery, and outcomes.\nRESULT: 172 patients with symptomatic prion disease were identified.\n165 (94.8%) patients experienced ≥1 symptom/sign likely to benefit from palliative care, yet only 113 (65.7%) patients accessed palliative care resources during the illness course (hospice care: 39.7%; palliative care consultation: 14.9% inpatient, 6.9% outpatient; both: 3.4%).\nLack of referral by the diagnosing clinician was the most common reason (55.9%) patients did not receive palliative care services.\nEarly and predominant language dysfunction, behavioral changes, constipation, and emergency department visits or hospital admissions were independently associated with greater odds of referral for palliative care services.\nGoals of care (i.e., living environment, nutritional and hospitalization plans) and advanced care plans (i.e., healthcare surrogates, living will, code status, hospice) were more likely to be documented in patients receiving palliative care consultations (88.6% and 93.2%, respectively) versus hospice care alone (7.8% and 14.5%, respectively; p <0.001).\nCONCLUSION: More than a third of patients with prion disease did not receive palliative care resources despite a high prevalence of symptoms/signs likely to benefit from palliative care.\nThese findings highlight an opportunity to enhance the care of patients with prion disease by promoting early access to palliative care resources that may support symptom management, enhance caregiver support, and reinforce patient autonomy by clarifying goals of care and advance care planning.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 12,
+      "end": 26,
+      "text": "Prion diseases",
+      "spans": [
+        {
+          "start": 12,
+          "end": 26
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Symptom",
+      "start": 59,
+      "end": 85,
+      "text": "rapid progressive dementia",
+      "spans": [
+        {
+          "start": 59,
+          "end": 85
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 145,
+      "end": 150,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 145,
+          "end": 150
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Treatment",
+      "start": 152,
+      "end": 167,
+      "text": "Palliative care",
+      "spans": [
+        {
+          "start": 152,
+          "end": 167
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Treatment",
+      "start": 280,
+      "end": 295,
+      "text": "palliative care",
+      "spans": [
+        {
+          "start": 280,
+          "end": 295
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 336,
+      "end": 349,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 336,
+          "end": 349
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Differential_Diagnosis",
+      "start": 360,
+      "end": 398,
+      "text": "progressive neurodegenerative diseases",
+      "spans": [
+        {
+          "start": 360,
+          "end": 398
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 488,
+      "end": 501,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 488,
+          "end": 501
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 614,
+      "end": 627,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 614,
+          "end": 627
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 689,
+      "end": 701,
+      "text": "January 2012",
+      "spans": [
+        {
+          "start": 689,
+          "end": 701
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Time",
+      "start": 705,
+      "end": 716,
+      "text": "August 2023",
+      "spans": [
+        {
+          "start": 705,
+          "end": 716
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Treatment",
+      "start": 805,
+      "end": 820,
+      "text": "palliative care",
+      "spans": [
+        {
+          "start": 805,
+          "end": 820
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Treatment",
+      "start": 880,
+      "end": 895,
+      "text": "palliative care",
+      "spans": [
+        {
+          "start": 880,
+          "end": 895
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 990,
+      "end": 1003,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 990,
+          "end": 1003
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Treatment",
+      "start": 1093,
+      "end": 1108,
+      "text": "palliative care",
+      "spans": [
+        {
+          "start": 1093,
+          "end": 1108
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Treatment",
+      "start": 1149,
+      "end": 1164,
+      "text": "palliative care",
+      "spans": [
+        {
+          "start": 1149,
+          "end": 1164
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Treatment",
+      "start": 1202,
+      "end": 1214,
+      "text": "hospice care",
+      "spans": [
+        {
+          "start": 1202,
+          "end": 1214
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Treatment",
+      "start": 1223,
+      "end": 1238,
+      "text": "palliative care",
+      "spans": [
+        {
+          "start": 1223,
+          "end": 1238
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Treatment",
+      "start": 1405,
+      "end": 1420,
+      "text": "palliative care",
+      "spans": [
+        {
+          "start": 1405,
+          "end": 1420
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 1453,
+      "end": 1473,
+      "text": "language dysfunction",
+      "spans": [
+        {
+          "start": 1453,
+          "end": 1473
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Symptom",
+      "start": 1475,
+      "end": 1493,
+      "text": "behavioral changes",
+      "spans": [
+        {
+          "start": 1475,
+          "end": 1493
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Symptom",
+      "start": 1495,
+      "end": 1507,
+      "text": "constipation",
+      "spans": [
+        {
+          "start": 1495,
+          "end": 1507
+        }
+      ]
+    },
+    {
+      "id": "T45",
+      "label": "Treatment",
+      "start": 1628,
+      "end": 1643,
+      "text": "palliative care",
+      "spans": [
+        {
+          "start": 1628,
+          "end": 1643
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Treatment",
+      "start": 1879,
+      "end": 1894,
+      "text": "palliative care",
+      "spans": [
+        {
+          "start": 1879,
+          "end": 1894
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Treatment",
+      "start": 1948,
+      "end": 1960,
+      "text": "hospice care",
+      "spans": [
+        {
+          "start": 1948,
+          "end": 1960
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Generic_Prion",
+      "start": 2056,
+      "end": 2069,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 2056,
+          "end": 2069
+        }
+      ]
+    },
+    {
+      "id": "T47",
+      "label": "Treatment",
+      "start": 2086,
+      "end": 2101,
+      "text": "palliative care",
+      "spans": [
+        {
+          "start": 2086,
+          "end": 2101
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Treatment",
+      "start": 2179,
+      "end": 2194,
+      "text": "palliative care",
+      "spans": [
+        {
+          "start": 2179,
+          "end": 2194
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Generic_Prion",
+      "start": 2273,
+      "end": 2286,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 2273,
+          "end": 2286
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Treatment",
+      "start": 2316,
+      "end": 2331,
+      "text": "palliative care",
+      "spans": [
+        {
+          "start": 2316,
+          "end": 2331
+        }
+      ]
+    }
+  ]
+}

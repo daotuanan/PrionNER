@@ -1,0 +1,32 @@
+T44	Test_name 55 58	CSF
+T2	Generic_Prion 125 150	Creutzfeldt-Jakob disease
+T3	Generic_Prion 152 155	CJD
+T74	Anatomic_location 164 169	brain
+T49	Test_name 298 301	CSF
+T5	Sporadic_Prion 319 331	sporadic CJD
+T7	Time 336 340	1996
+T6	Generic_Prion 354 357	CJD
+T9	Acquired_Prion 359 363	vCJD
+T8	Generic_Prion 424 456	bovine spongiform encephalopathy
+T50	Test_name 512 515	CSF
+T75	Anatomic_location 516 521	brain
+T10	Acquired_Prion 568 572	vCJD
+T53	Test_name 614 617	CSF
+T11	Acquired_Prion 640 644	vCJD
+T58	Test_name 860 863	CSF
+T15	Test_name 884 903	enzyme immunoassays
+T59	Test_name 949 952	CSF
+T17	Acquired_Prion 976 980	vCJD
+T62	Test_name 1062 1065	CSF
+T19	Acquired_Prion 1109 1113	vCJD
+T64	Test_name 1171 1174	CSF
+T24	Sporadic_Prion 1280 1292	sporadic CJD
+T25	Test_name 1307 1310	CSF
+T67	Test_name 1413 1416	CSF
+T69	Test_name 1441 1444	CSF
+T71	Test_name 1541 1544	CSF
+T36	Acquired_Prion 1590 1594	vCJD
+T38	Sporadic_Prion 1608 1620	sporadic CJD
+T37	Test_name 1649 1652	CSF
+T40	Acquired_Prion 1695 1699	vCJD
+T42	Differential_Diagnosis 1756 1772	non-CJD dementia

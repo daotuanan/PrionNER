@@ -1,0 +1,40 @@
+T1	Generic_Prion 32 64	bovine spongiform encephalopathy
+T2	Generic_Prion 66 69	BSE
+T3	Generic_Prion 72 97	Creutzfeldt-Jakob disease
+T4	Generic_Prion 99 102	CJD
+T5	Symptom 176 199	difficulty in balancing
+T6	Symptom 204 210	ataxia
+T7	Generic_Prion 226 229	CJD
+T9	Symptom 260 268	dementia
+T10	Generic_Prion 308 311	CJD
+T11	Acquired_Prion 360 365	nvCJD
+T14	Generic_Prion 409 412	CJD
+T15	Symptom 447 455	dementia
+T8	Findings 457 485	confluent spongiform changes
+T16	Anatomic_location 510 520	cerebellum
+T17	Acquired_Prion 563 568	nvCJD
+T19	Symptom 581 606	difficulty with balancing
+T20	Symptom 611 617	ataxia
+T12	Findings 626 654	confluent spongiform changes
+T21	Anatomic_location 671 681	cerebellum
+T13	Findings 689 716	large number of PrP plaques
+T22	Symptom 795 801	ataxic
+T23	Symptom 851 856	itchy
+T24	Symptom 982 991	trembling
+T25	Symptom 996 1002	ataxia
+T26	Generic_Prion 1032 1035	BSE
+T27	Acquired_Prion 1040 1045	nvCJD
+T29	Generic_Prion 1090 1093	BSE
+T30	Acquired_Prion 1098 1103	nvCJD
+T32	Time 1110 1117	8 years
+T33	Time 1124 1136	1989 to 1996
+T35	Generic_Prion 1178 1181	CJD
+T36	Age 1188 1222	aged between the ages of 18 and 84
+T37	Age 1228 1247	under the age of 40
+T39	Age 1255 1273	over the age of 40
+T40	Symptom 1312 1335	difficulty in balancing
+T41	Symptom 1340 1346	ataxia
+T42	Acquired_Prion 1403 1408	nvCJD
+T45	Age 1457 1475	over the age of 40
+T46	Acquired_Prion 1556 1561	nvCJD
+T48	Generic_Prion 1663 1666	BSE

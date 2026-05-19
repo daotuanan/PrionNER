@@ -1,0 +1,97 @@
+{
+  "doc_id": "prion_0486",
+  "text": "Between 1970 and 2003, seven cases of human dura mater-associated Creutzfeldt-Jakob disease (CJD) were identified in the UK.\nFurthermore, we identified a case of CJD in a porcine dura graft recipient.\nThe mean incubation period of the human dura mater cases was 93 (range 45-177) months.\nThe clinico-pathological features of the cases are described and compared with cases previously reported in the world literature.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Time",
+      "start": 0,
+      "end": 21,
+      "text": "Between 1970 and 2003",
+      "spans": [
+        {
+          "start": 0,
+          "end": 21
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Acquired_Prion",
+      "start": 38,
+      "end": 91,
+      "text": "human dura mater-associated Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 38,
+          "end": 91
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 93,
+      "end": 96,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 93,
+          "end": 96
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 162,
+      "end": 165,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 162,
+          "end": 165
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Treatment",
+      "start": 171,
+      "end": 189,
+      "text": "porcine dura graft",
+      "spans": [
+        {
+          "start": 171,
+          "end": 189
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Treatment",
+      "start": 235,
+      "end": 251,
+      "text": "human dura mater",
+      "spans": [
+        {
+          "start": 235,
+          "end": 251
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Time",
+      "start": 262,
+      "end": 286,
+      "text": "93 (range 45-177) months",
+      "spans": [
+        {
+          "start": 262,
+          "end": 286
+        }
+      ]
+    }
+  ]
+}

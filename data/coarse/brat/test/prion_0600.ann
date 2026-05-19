@@ -1,0 +1,19 @@
+T1	Age 2 13	73-year-old
+T2	Symptom 42 53	hemiparesis
+T3	Symptom 55 62	aphasia
+T4	Symptom 68 88	focal motor seizures
+T5	Test_name 90 93	EEG
+T20	Complication 138 142	died
+T7	Time 143 150	8 weeks
+T21	Time 151 162	after onset
+T8	Test_name 167 174	autopsy
+T9	Findings 193 210	spongiform change
+T10	Findings 212 225	neuronal loss
+T6	Findings 238 265	proliferation of astrocytes
+T11	Anatomic_location 320 327;347 353	insular cortex
+T16	Anatomic_location 332 353	centroparietal cortex
+T12	Generic_Prion 388 413	Creutzfeldt-Jakob disease
+T13	Generic_Prion 415 418	CJD
+T22	Test_name 425 434	pathology
+T14	Generic_Prion 548 551	CJD
+T19	Differential_Diagnosis 626 667	progressive unilateral cerebral disorders

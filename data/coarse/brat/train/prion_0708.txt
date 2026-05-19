@@ -1,0 +1,11 @@
+BACKGROUND: Magnetic resonance imaging of the brain has been of limited usefulness in the diagnosis of Creutzfeldt-Jakob disease.
+Abnormalities on T2-weighted images have been described, but these are neither highly sensitive nor specific.
+OBJECTIVE: To determine whether diffusion-weighted magnetic resonance images might be useful in the evaluation of Creutzfeldt-Jakob disease.
+CASE PRESENTATION: A 61-year-old woman with rapidly progressive dementia was referred for cranial magnetic resonance imaging.
+Diffusion-weighted images were obtained as part of the examination.
+Brain biopsy confirmed the diagnosis of Creutzfeldt-Jakob disease histologically.
+FINDINGS AND CONCLUSIONS: The diffusion-weighted magnetic resonance brain images demonstrated bilaterally symmetrical marked increase in signal intensity in the caudate nuclei, putamina, thalami, cingulate gyri, and right inferior frontal cortex.
+The apparent diffusion coefficient map showed abnormally low diffusion in these regions (as low as 40% of normal in the caudate head).
+This suggests that there is restricted diffusion in these regions.
+The T2-weighted images demonstrated slightly increased signal bilaterally in the caudate nuclei and putamina.
+These findings indicate that diffusion magnetic resonance imaging might be a sensitive means of imaging the abnormalities seen in Creutzfeldt-Jakob disease.

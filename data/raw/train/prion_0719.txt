@@ -1,0 +1,11 @@
+We reported an necropsy finding of a patient with Creutzfeldt-Jakob disease (CJD) who showed photo-stimulated giant spikes that simultaneously suppressed periodic synchronous discharges (PSD) and the loss of pupillary light reflex during the course of the illness.
+The necropsy revealed extensive gray and white matter lesions, and both the lateral geniculate body (LGB) and pregeniculate body were primarily affected.
+The superior colliculus, optic nerve and tracts were not affected.
+The cerebral cortices particularly of the occipital lobe were severely damaged.
+The Gennari line, however, was spared from lesion.
+The primary involvement of the LGB has been reported infrequently in CJD, however, it appears to be associated with the unusual electroencephalograph (EEG) feature of the present case.
+The pregeniculate lesion contributed to the loss of pupillary reflex.
+This finding indicates that the visual pathway may be involved in the mechanism of the generation of PSD in CJD.
+
+<Related> YES or NO
+[DONE]

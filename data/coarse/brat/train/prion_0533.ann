@@ -1,0 +1,36 @@
+T2	Time 3 7	1986
+T3	Familial_Prion 94 117	fatal familial insomnia
+T4	Familial_Prion 120 123	FFI
+T5	Age 415 438	between 37 and 61 years
+T6	Time 460 469	13 months
+T8	Time 486 500	7 to 25 months
+T10	Symptom 502 522	Progressive insomnia
+T7	Symptom 562 584	autonomic disturbances
+T12	Symptom 595 608	hyperhidrosis
+T13	Symptom 610 622	hyperthermia
+T14	Symptom 624 635	tachycardia
+T15	Symptom 641 653	hypertension
+T16	Symptom 689 695	ataxia
+T17	Symptom 697 706	myoclonus
+T18	Symptom 712 733	pyramidal dysfunction
+T19	Symptom 816 821;836 845	Sleep disorders
+T20	Symptom 826 845	autonomic disorders
+T21	Symptom 887 906	motor abnormalities
+T11	Test_name 976 990	Pathologically
+T9	Findings 1017 1024	atrophy
+T22	Anatomic_location 1032 1048	anterior ventral
+T23	Anatomic_location 1053 1080	mediodorsal thalamic nuclei
+T24	Anatomic_location 1088 1103	thalamic nuclei
+T37	Findings 1187 1194	gliosis
+T25	Anatomic_location 1202 1217	cerebral cortex
+T41	Anatomic_location 1240 1250	cerebellar
+T38	Findings 1251 1258	atrophy
+T39	Findings 1281 1295	severe atrophy
+T26	Anatomic_location 1303 1326	inferior olivary nuclei
+T27	Findings 1349 1368	spongy degeneration
+T28	Anatomic_location 1376 1391	cerebral cortex
+T29	Familial_Prion 1449 1452	FFI
+T30	Symptom 1564 1572	insomnia
+T42	Anatomic_location 1614 1622	thalamic
+T33	Familial_Prion 1655 1658	FFI
+T34	Generic_Prion 1694 1708	prion diseases

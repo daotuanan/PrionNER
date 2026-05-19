@@ -1,0 +1,11 @@
+T2	Generic_Prion 71 96	Creutzfeldt-Jakob disease
+T4	Generic_Prion 98 101	CJD
+T7	Time 156 195	between January 1979 and September 1999
+T8	Age 375 385	51.9 years
+T3	Sporadic_Prion 414 426	sporadic CJD
+T10	Age 428 436	63 years
+T5	Anatomic_location 475 485	cerebellar
+T11	Symptom 475 492	cerebellar ataxia
+T12	Symptom 494 508	disorientation
+T6	Symptom 514 520;535 546	visual disturbance
+T9	Symptom 524 546	oculomotor disturbance

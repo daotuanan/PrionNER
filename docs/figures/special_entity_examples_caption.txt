@@ -1,0 +1,1 @@
+Figure X. Representative annotation structures in the prion disease test set. Panel A shows a discontinuous symptom mention spanning two non-contiguous text segments. Panel B shows a nested case where "striatum" is contained within "striatum involvement". Panel C shows an overlap case where two entities share text without full containment.

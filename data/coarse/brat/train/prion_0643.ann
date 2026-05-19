@@ -1,0 +1,10 @@
+T1	Familial_Prion 13 52	Gerstmann-Sträussler-Scheinker syndrome
+T2	Familial_Prion 54 57	GSS
+T3	Anatomic_location 147 155	cortical
+T10	Symptom 147 164;172 182;183 191	cortical features associated dementia
+T4	Familial_Prion 168 171	GSS
+T5	Test_name 219 232	genetic tests
+T6	Familial_Prion 255 258	GSS
+T11	Symptom 328 336	dementia
+T7	Differential_Diagnosis 411 422	Alzheimer's
+T8	Differential_Diagnosis 426 443	vascular dementia

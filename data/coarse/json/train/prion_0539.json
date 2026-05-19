@@ -1,0 +1,123 @@
+{
+  "doc_id": "prion_0539",
+  "text": "A focus of Creutzfeldt-Jakob disease is present in Israel among Jews born in Libya.\nThe present study examines the clinical features in this particular group of patients.\nIn a country-wide study of Creutzfeldt-Jakob disease, we identified 114 patients; 49 were Libyan immigrants, and 65 (three of whom had Libyan ancestors) were born in other countries.\nThe clinical presentation and evolution of the disease is very similar in patients born in Libya and others without Libyan ancestors, but it tends to be more classical in the Libyan patients, with higher frequency of myoclonic jerks and periodic EEG and a progressive course of shorter duration.\nThe Libyan patients tend to complain more often of headache, which is most probably an ethnic expression for depression and loss of concentration.\nThere was no difference between the familial and nonfamilial cases.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 11,
+      "end": 36,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 11,
+          "end": 36
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 198,
+      "end": 223,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 198,
+          "end": 223
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 571,
+      "end": 586,
+      "text": "myoclonic jerks",
+      "spans": [
+        {
+          "start": 571,
+          "end": 586
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 600,
+      "end": 603,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 600,
+          "end": 603
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 701,
+      "end": 709,
+      "text": "headache",
+      "spans": [
+        {
+          "start": 701,
+          "end": 709
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 759,
+      "end": 769,
+      "text": "depression",
+      "spans": [
+        {
+          "start": 759,
+          "end": 769
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 774,
+      "end": 795,
+      "text": "loss of concentration",
+      "spans": [
+        {
+          "start": 774,
+          "end": 795
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Familial_Prion",
+      "start": 833,
+      "end": 841,
+      "text": "familial",
+      "spans": [
+        {
+          "start": 833,
+          "end": 841
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 846,
+      "end": 857,
+      "text": "nonfamilial",
+      "spans": [
+        {
+          "start": 846,
+          "end": 857
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "doc_id": "prion_0533",
+  "text": "In 1986, we reported two anatomoclinical observations of a familial condition that we called \"fatal familial insomnia\" (FFI).\nWe now present the pedigree as well as the clinical and neuropathologic findings in five new subjects.\nThe pedigree includes 288 members from six generations.\nMen and women are affected in a pattern consistent with an autosomal dominant inheritance.\nThe age of onset of the disease varies between 37 and 61 years; the course averages 13 months with a range of 7 to 25 months.\nProgressive insomnia (polygraphically proven in two cases); autonomic disturbances including hyperhidrosis, hyperthermia, tachycardia, and hypertension; and motor abnormalities including ataxia, myoclonus, and pyramidal dysfunction, were present in every case, but with variable severity and time of presentation.\nSleep and autonomic disorders were the earliest signs in two subjects, motor abnormalities were dominant in one, and others had intermediate clinical patterns.\nPathologically, all the cases had severe atrophy of the anterior ventral and mediodorsal thalamic nuclei.\nOther thalamic nuclei were less severely and inconsistently affected.\nIn addition, most of the cases had gliosis of the cerebral cortex, a moderate degree of cerebellar atrophy with \"torpedoes,\" and severe atrophy of the inferior olivary nuclei.\nOne case also showed spongy degeneration of the cerebral cortex.\nWe conclude that all the lesions were primary, and that FFI is a multisystem disease in which the different structures are primarily affected with different severity.\nThe insomnia appears to correlate best with the major thalamic pathology.\nThe possibility that FFI belongs to the group identified as prion diseases or diseases transmitted by unconventional agents is examined.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Time_point",
+      "start": 3,
+      "end": 7,
+      "text": "1986",
+      "spans": [
+        {
+          "start": 3,
+          "end": 7
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "FFI",
+      "start": 94,
+      "end": 117,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 94,
+          "end": 117
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "FFI",
+      "start": 120,
+      "end": 123,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 120,
+          "end": 123
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Age",
+      "start": 415,
+      "end": 438,
+      "text": "between 37 and 61 years",
+      "spans": [
+        {
+          "start": 415,
+          "end": 438
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Duration",
+      "start": 460,
+      "end": 469,
+      "text": "13 months",
+      "spans": [
+        {
+          "start": 460,
+          "end": 469
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Duration",
+      "start": 486,
+      "end": 500,
+      "text": "7 to 25 months",
+      "spans": [
+        {
+          "start": 486,
+          "end": 500
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 502,
+      "end": 522,
+      "text": "Progressive insomnia",
+      "spans": [
+        {
+          "start": 502,
+          "end": 522
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 562,
+      "end": 584,
+      "text": "autonomic disturbances",
+      "spans": [
+        {
+          "start": 562,
+          "end": 584
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 595,
+      "end": 608,
+      "text": "hyperhidrosis",
+      "spans": [
+        {
+          "start": 595,
+          "end": 608
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 610,
+      "end": 622,
+      "text": "hyperthermia",
+      "spans": [
+        {
+          "start": 610,
+          "end": 622
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 624,
+      "end": 635,
+      "text": "tachycardia",
+      "spans": [
+        {
+          "start": 624,
+          "end": 635
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 641,
+      "end": 653,
+      "text": "hypertension",
+      "spans": [
+        {
+          "start": 641,
+          "end": 653
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 689,
+      "end": 695,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 689,
+          "end": 695
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 697,
+      "end": 706,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 697,
+          "end": 706
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 712,
+      "end": 733,
+      "text": "pyramidal dysfunction",
+      "spans": [
+        {
+          "start": 712,
+          "end": 733
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Symptom",
+      "start": 816,
+      "end": 845,
+      "text": "Sleep disorders",
+      "spans": [
+        {
+          "start": 816,
+          "end": 821
+        },
+        {
+          "start": 836,
+          "end": 845
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 826,
+      "end": 845,
+      "text": "autonomic disorders",
+      "spans": [
+        {
+          "start": 826,
+          "end": 845
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Symptom",
+      "start": 887,
+      "end": 906,
+      "text": "motor abnormalities",
+      "spans": [
+        {
+          "start": 887,
+          "end": 906
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Autopsy",
+      "start": 976,
+      "end": 990,
+      "text": "Pathologically",
+      "spans": [
+        {
+          "start": 976,
+          "end": 990
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy_finding",
+      "start": 1017,
+      "end": 1024,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 1017,
+          "end": 1024
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 1032,
+      "end": 1048,
+      "text": "anterior ventral",
+      "spans": [
+        {
+          "start": 1032,
+          "end": 1048
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 1053,
+      "end": 1080,
+      "text": "mediodorsal thalamic nuclei",
+      "spans": [
+        {
+          "start": 1053,
+          "end": 1080
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Anatomic_location",
+      "start": 1088,
+      "end": 1103,
+      "text": "thalamic nuclei",
+      "spans": [
+        {
+          "start": 1088,
+          "end": 1103
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Autopsy_finding",
+      "start": 1187,
+      "end": 1194,
+      "text": "gliosis",
+      "spans": [
+        {
+          "start": 1187,
+          "end": 1194
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Anatomic_location",
+      "start": 1202,
+      "end": 1217,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 1202,
+          "end": 1217
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Anatomic_location",
+      "start": 1240,
+      "end": 1250,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 1240,
+          "end": 1250
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Autopsy_finding",
+      "start": 1251,
+      "end": 1258,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 1251,
+          "end": 1258
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Autopsy_finding",
+      "start": 1281,
+      "end": 1295,
+      "text": "severe atrophy",
+      "spans": [
+        {
+          "start": 1281,
+          "end": 1295
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 1303,
+      "end": 1326,
+      "text": "inferior olivary nuclei",
+      "spans": [
+        {
+          "start": 1303,
+          "end": 1326
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Autopsy_finding",
+      "start": 1349,
+      "end": 1368,
+      "text": "spongy degeneration",
+      "spans": [
+        {
+          "start": 1349,
+          "end": 1368
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Anatomic_location",
+      "start": 1376,
+      "end": 1391,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 1376,
+          "end": 1391
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "FFI",
+      "start": 1449,
+      "end": 1452,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 1449,
+          "end": 1452
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Symptom",
+      "start": 1564,
+      "end": 1572,
+      "text": "insomnia",
+      "spans": [
+        {
+          "start": 1564,
+          "end": 1572
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Anatomic_location",
+      "start": 1614,
+      "end": 1622,
+      "text": "thalamic",
+      "spans": [
+        {
+          "start": 1614,
+          "end": 1622
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "FFI",
+      "start": 1655,
+      "end": 1658,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 1655,
+          "end": 1658
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Generic_Prion",
+      "start": 1694,
+      "end": 1708,
+      "text": "prion diseases",
+      "spans": [
+        {
+          "start": 1694,
+          "end": 1708
+        }
+      ]
+    }
+  ]
+}

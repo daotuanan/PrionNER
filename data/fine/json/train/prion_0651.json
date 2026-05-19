@@ -1,0 +1,487 @@
+{
+  "doc_id": "prion_0651",
+  "text": "A 64-year-old man presented with a three day history of progressive Broca's aphasia, followed within 3 weeks by exclusively right-sided myoclonus, rigidity, and dystonia.\nWithin 4 weeks he was globally aphasic.\nHe died within 7 weeks of onset.\nIn the final week, rigidity and myoclonus became bilateral.\nCT and MRI were normal.\nSPECT showed diminished perfusion of the left hemisphere.\nEEG showed periodic discharges on the left.\nAt autopsy, there were marked cortical spongiform change, neuronal loss, and gliosis throughout the left hemisphere and in the right occipital cortex.\nElsewhere in the right hemisphere, spongiform change was non-existent to minimal.\nThere was moderate spongiform change in the molecular layer of the cerebellar cortex, much more marked on the left.\nClinical and pathological unilateral cerebral predominance extended to the ipsilateral cerebellum.\nCreutzfeldt-Jakob disease is an important consideration in patients with rapidly progressive unilateral cerebral signs associated with a movement disorder.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "64-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Duration",
+      "start": 35,
+      "end": 44,
+      "text": "three day",
+      "spans": [
+        {
+          "start": 35,
+          "end": 44
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 68,
+      "end": 83,
+      "text": "Broca's aphasia",
+      "spans": [
+        {
+          "start": 68,
+          "end": 83
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Duration",
+      "start": 101,
+      "end": 108,
+      "text": "3 weeks",
+      "spans": [
+        {
+          "start": 101,
+          "end": 108
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 136,
+      "end": 145,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 136,
+          "end": 145
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 147,
+      "end": 155,
+      "text": "rigidity",
+      "spans": [
+        {
+          "start": 147,
+          "end": 155
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 161,
+      "end": 169,
+      "text": "dystonia",
+      "spans": [
+        {
+          "start": 161,
+          "end": 169
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Duration",
+      "start": 178,
+      "end": 185,
+      "text": "4 weeks",
+      "spans": [
+        {
+          "start": 178,
+          "end": 185
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 193,
+      "end": 209,
+      "text": "globally aphasic",
+      "spans": [
+        {
+          "start": 193,
+          "end": 209
+        }
+      ]
+    },
+    {
+      "id": "T45",
+      "label": "Complication",
+      "start": 214,
+      "end": 218,
+      "text": "died",
+      "spans": [
+        {
+          "start": 214,
+          "end": 218
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Duration",
+      "start": 226,
+      "end": 233,
+      "text": "7 weeks",
+      "spans": [
+        {
+          "start": 226,
+          "end": 233
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 263,
+      "end": 271,
+      "text": "rigidity",
+      "spans": [
+        {
+          "start": 263,
+          "end": 271
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 276,
+      "end": 285,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 276,
+          "end": 285
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Imaging_test",
+      "start": 304,
+      "end": 306,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 304,
+          "end": 306
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Imaging_test",
+      "start": 311,
+      "end": 314,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 311,
+          "end": 314
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Imaging_test",
+      "start": 328,
+      "end": 333,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 328,
+          "end": 333
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Imaging_finding",
+      "start": 341,
+      "end": 361,
+      "text": "diminished perfusion",
+      "spans": [
+        {
+          "start": 341,
+          "end": 361
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 374,
+      "end": 384,
+      "text": "hemisphere",
+      "spans": [
+        {
+          "start": 374,
+          "end": 384
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Electrophysio_test",
+      "start": 386,
+      "end": 389,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 386,
+          "end": 389
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Autopsy",
+      "start": 433,
+      "end": 440,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 433,
+          "end": 440
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 460,
+      "end": 468,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 460,
+          "end": 468
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Autopsy_finding",
+      "start": 469,
+      "end": 486,
+      "text": "spongiform change",
+      "spans": [
+        {
+          "start": 469,
+          "end": 486
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Autopsy_finding",
+      "start": 488,
+      "end": 501,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 488,
+          "end": 501
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Autopsy_finding",
+      "start": 507,
+      "end": 514,
+      "text": "gliosis",
+      "spans": [
+        {
+          "start": 507,
+          "end": 514
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Anatomic_location",
+      "start": 535,
+      "end": 545,
+      "text": "hemisphere",
+      "spans": [
+        {
+          "start": 535,
+          "end": 545
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Anatomic_location",
+      "start": 563,
+      "end": 579,
+      "text": "occipital cortex",
+      "spans": [
+        {
+          "start": 563,
+          "end": 579
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Anatomic_location",
+      "start": 604,
+      "end": 614,
+      "text": "hemisphere",
+      "spans": [
+        {
+          "start": 604,
+          "end": 614
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Autopsy_finding",
+      "start": 616,
+      "end": 633,
+      "text": "spongiform change",
+      "spans": [
+        {
+          "start": 616,
+          "end": 633
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Autopsy_finding",
+      "start": 682,
+      "end": 699,
+      "text": "spongiform change",
+      "spans": [
+        {
+          "start": 682,
+          "end": 699
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 730,
+      "end": 747,
+      "text": "cerebellar cortex",
+      "spans": [
+        {
+          "start": 730,
+          "end": 747
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Anatomic_location",
+      "start": 816,
+      "end": 824,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 816,
+          "end": 824
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Autopsy_finding",
+      "start": 825,
+      "end": 837,
+      "text": "predominance",
+      "spans": [
+        {
+          "start": 825,
+          "end": 837
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Anatomic_location",
+      "start": 866,
+      "end": 876,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 866,
+          "end": 876
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Generic_Prion",
+      "start": 878,
+      "end": 903,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 878,
+          "end": 903
+        }
+      ]
+    },
+    {
+      "id": "T47",
+      "label": "Anatomic_location",
+      "start": 982,
+      "end": 990,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 982,
+          "end": 990
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Symptom",
+      "start": 982,
+      "end": 996,
+      "text": "cerebral signs",
+      "spans": [
+        {
+          "start": 982,
+          "end": 996
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Symptom",
+      "start": 1015,
+      "end": 1032,
+      "text": "movement disorder",
+      "spans": [
+        {
+          "start": 1015,
+          "end": 1032
+        }
+      ]
+    }
+  ]
+}

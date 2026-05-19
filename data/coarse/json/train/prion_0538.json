@@ -1,0 +1,180 @@
+{
+  "doc_id": "prion_0538",
+  "text": "Currently some experts are predicting the incidence of the rare yet rapidly fatal Creutzfeldt-Jakob disease (CJD) is on the rise.\nWorldwide, there is about one case per million people per year, but iatrogenic transmission is increasing.\nThere have been documented cases of CJD transmission through corneal transplants, stereotactic equipment, human growth hormone and dura mater grafts.\nIn addition, there are now three cases of laboratory workers with CJD from exposure in the workplace.\nNo known treatment alters the relentless course of CJD and there is no vaccine.\nIn every rapidly progressive unexplained dementia CJD must remain a diagnostic possibility.\nBecause the etiologic agent is virulent, definition of necessary precautions for staff members associated with such patients is needed.\nThus it is imperative medical personnel be well trained in the practice of universal precautions.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 82,
+      "end": 107,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 82,
+          "end": 107
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 109,
+      "end": 112,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 109,
+          "end": 112
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Stats",
+      "start": 156,
+      "end": 192,
+      "text": "one case per million people per year",
+      "spans": [
+        {
+          "start": 156,
+          "end": 192
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Acquired_Prion",
+      "start": 198,
+      "end": 221,
+      "text": "iatrogenic transmission",
+      "spans": [
+        {
+          "start": 198,
+          "end": 221
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 273,
+      "end": 276,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 273,
+          "end": 276
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Treatment",
+      "start": 298,
+      "end": 317,
+      "text": "corneal transplants",
+      "spans": [
+        {
+          "start": 298,
+          "end": 317
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Treatment",
+      "start": 343,
+      "end": 363,
+      "text": "human growth hormone",
+      "spans": [
+        {
+          "start": 343,
+          "end": 363
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Treatment",
+      "start": 368,
+      "end": 385,
+      "text": "dura mater grafts",
+      "spans": [
+        {
+          "start": 368,
+          "end": 385
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 453,
+      "end": 456,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 453,
+          "end": 456
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 540,
+      "end": 543,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 540,
+          "end": 543
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Treatment",
+      "start": 560,
+      "end": 567,
+      "text": "vaccine",
+      "spans": [
+        {
+          "start": 560,
+          "end": 567
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Differential_Diagnosis",
+      "start": 578,
+      "end": 618,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 578,
+          "end": 597
+        },
+        {
+          "start": 610,
+          "end": 618
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T16",
+      "label": "Generic_Prion",
+      "start": 619,
+      "end": 622,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 619,
+          "end": 622
+        }
+      ]
+    }
+  ]
+}

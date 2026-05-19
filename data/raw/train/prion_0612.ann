@@ -1,0 +1,17 @@
+T1	Generic_Prion 10 35	Creutzfeldt-Jakob disease
+T2	Generic_Prion 37 40	CJD
+T3	Age 47 58	52-year-old
+T4	Time_point 80 91	post mortem
+T5	Anatomic_location 118 130	white matter
+T7	Generic_Prion 270 273	CJD
+T8	Duration 279 296	three generations
+T9	Anatomic_location 371 383	white matter
+T10	Generic_Prion 443 446	CJD
+T11	Anatomic_location 481 493	white matter
+T12	Symptom 541 551	neuropathy
+T13	Anatomic_location 598 624	superficial peroneal nerve
+T14	Anatomic_location 659 676	peripheral nerves
+T15	Generic_Prion 712 715	CJD
+T16	Choose_Related 728 731	YES
+T6	Imaging_test 559 585	electron-microscopic study
+T17	Choose_Done 739 743	DONE

@@ -1,0 +1,188 @@
+{
+  "doc_id": "prion_0578",
+  "text": "A 27-year-old man presented disturbances of gait and language, quickly followed by intellectual deterioration, tetraplegia, anarthria and myoclonus.\nHistological examination of a cerebral biopsy showed not only cortical changes consistent with the diagnosis of Creutzfeldt-Jakob disease, but also many amyloid-plaques with variable morphology.\nThe diagnostic interpretation of the case particularly as to concern his relationship to s.c.\nGerstmann-Strüssler syndrome is discussed.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "27-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 28,
+      "end": 48,
+      "text": "disturbances of gait",
+      "spans": [
+        {
+          "start": 28,
+          "end": 48
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 53,
+      "end": 61,
+      "text": "language",
+      "spans": [
+        {
+          "start": 53,
+          "end": 61
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 83,
+      "end": 109,
+      "text": "intellectual deterioration",
+      "spans": [
+        {
+          "start": 83,
+          "end": 109
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 111,
+      "end": 122,
+      "text": "tetraplegia",
+      "spans": [
+        {
+          "start": 111,
+          "end": 122
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 124,
+      "end": 133,
+      "text": "anarthria",
+      "spans": [
+        {
+          "start": 124,
+          "end": 133
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 138,
+      "end": 147,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 138,
+          "end": 147
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 179,
+      "end": 187,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 179,
+          "end": 187
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 188,
+      "end": 194,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 188,
+          "end": 194
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 211,
+      "end": 219,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 211,
+          "end": 219
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Findings",
+      "start": 211,
+      "end": 227,
+      "text": "cortical changes",
+      "spans": [
+        {
+          "start": 211,
+          "end": 227
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Sporadic_Prion",
+      "start": 261,
+      "end": 286,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 261,
+          "end": 286
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 302,
+      "end": 317,
+      "text": "amyloid-plaques",
+      "spans": [
+        {
+          "start": 302,
+          "end": 317
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Familial_Prion",
+      "start": 438,
+      "end": 466,
+      "text": "Gerstmann-Strüssler syndrome",
+      "spans": [
+        {
+          "start": 438,
+          "end": 466
+        }
+      ]
+    }
+  ]
+}

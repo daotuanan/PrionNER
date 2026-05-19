@@ -1,0 +1,123 @@
+{
+  "doc_id": "prion_0808",
+  "text": "We report MR spectroscopic findings in a patient hospitalized with biopsy-proven variant Creutzfeldt-Jakob (vCJD) disease.\nN-acetyl aspartate was markedly decreased in the postero-medial part of the thalami (pulvinar) but was not diminished in the parieto-occipital white matter and cortical grey matter.\nThese observations, which are in accordance with the pathological findings in this disease, suggest that MR spectroscopy, a highly sensitive method for the detection of subtle brain metabolic dysfunction, could be of interest for the diagnosis, prognosis and therapeutic follow-up of vCJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "vCJD",
+      "start": 81,
+      "end": 106,
+      "text": "variant Creutzfeldt-Jakob",
+      "spans": [
+        {
+          "start": 81,
+          "end": 106
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "vCJD",
+      "start": 108,
+      "end": 112,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 108,
+          "end": 112
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 172,
+      "end": 206,
+      "text": "postero-medial part of the thalami",
+      "spans": [
+        {
+          "start": 172,
+          "end": 206
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 208,
+      "end": 216,
+      "text": "pulvinar",
+      "spans": [
+        {
+          "start": 208,
+          "end": 216
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 248,
+      "end": 278,
+      "text": "parieto-occipital white matter",
+      "spans": [
+        {
+          "start": 248,
+          "end": 278
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 283,
+      "end": 303,
+      "text": "cortical grey matter",
+      "spans": [
+        {
+          "start": 283,
+          "end": 303
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Imaging_test",
+      "start": 410,
+      "end": 425,
+      "text": "MR spectroscopy",
+      "spans": [
+        {
+          "start": 410,
+          "end": 425
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 481,
+      "end": 486,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 481,
+          "end": 486
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "vCJD",
+      "start": 589,
+      "end": 593,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 589,
+          "end": 593
+        }
+      ]
+    }
+  ]
+}

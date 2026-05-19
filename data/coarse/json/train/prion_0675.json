@@ -1,0 +1,162 @@
+{
+  "doc_id": "prion_0675",
+  "text": "Creutzfeldt-Jakob disease (CJD) is a rare, but fatal and transmissible brain disease.\nThe clinical diagnosis is based upon progressing dementia, myoclonic jerks and characteristic EEG changes, but it is difficult to diagnose and not only in the early phase of the disease.\nCerebral biopsy is reserve for individual selected cases and contested because of the danger of contamination from instruments and potential transmission.\nWe report three patients with histologically confirmed CJD and confirm that MRI is a valuable tool for the diagnosis of this disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 71,
+      "end": 76,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 71,
+          "end": 76
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 135,
+      "end": 143,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 135,
+          "end": 143
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 145,
+      "end": 160,
+      "text": "myoclonic jerks",
+      "spans": [
+        {
+          "start": 145,
+          "end": 160
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 180,
+      "end": 183,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 180,
+          "end": 183
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 245,
+      "end": 256,
+      "text": "early phase",
+      "spans": [
+        {
+          "start": 245,
+          "end": 256
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 273,
+      "end": 281,
+      "text": "Cerebral",
+      "spans": [
+        {
+          "start": 273,
+          "end": 281
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 282,
+      "end": 288,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 282,
+          "end": 288
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 458,
+      "end": 472,
+      "text": "histologically",
+      "spans": [
+        {
+          "start": 458,
+          "end": 472
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 483,
+      "end": 486,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 483,
+          "end": 486
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 504,
+      "end": 507,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 504,
+          "end": 507
+        }
+      ]
+    }
+  ]
+}

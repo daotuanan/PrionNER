@@ -1,0 +1,8 @@
+Decreased perfusion of the left frontal and left temporoparietal cortex has been shown in [123I] HIPDM planar and single photon emission computed tomographic images of a patient with Creutzfeldt-Jakob disease (CJD) that was proven by brain biopsy and subsequent autopsy.
+An EEG showed diffuse, periodic discharges most prominent to the left hemisphere.
+Concurrent head computed tomography (CT), nuclear magnetic resonance (NMR), and cerebral angiographic studies were negative.
+Abnormalities demonstrated by [123I]HPDM imaging and by EEG may represent changes in neurophysiological and neurochemical status while cerebral angiography, CT, and possibly NMR register only anatomic or structural lesions.
+Premortem diagnosis of CJD depends on brain biopsy; the availability of the [123I] HIPDM study may provide regional cerebral neurochemical and neurophysiological information, guiding or avoiding brain biopsy in the appropriate clinical setting.
+
+<Related> YES or NO
+[DONE]

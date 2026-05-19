@@ -1,0 +1,328 @@
+{
+  "doc_id": "prion_0719",
+  "text": "We reported an necropsy finding of a patient with Creutzfeldt-Jakob disease (CJD) who showed photo-stimulated giant spikes that simultaneously suppressed periodic synchronous discharges (PSD) and the loss of pupillary light reflex during the course of the illness.\nThe necropsy revealed extensive gray and white matter lesions, and both the lateral geniculate body (LGB) and pregeniculate body were primarily affected.\nThe superior colliculus, optic nerve and tracts were not affected.\nThe cerebral cortices particularly of the occipital lobe were severely damaged.\nThe Gennari line, however, was spared from lesion.\nThe primary involvement of the LGB has been reported infrequently in CJD, however, it appears to be associated with the unusual electroencephalograph (EEG) feature of the present case.\nThe pregeniculate lesion contributed to the loss of pupillary reflex.\nThis finding indicates that the visual pathway may be involved in the mechanism of the generation of PSD in CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Test_name",
+      "start": 15,
+      "end": 23,
+      "text": "necropsy",
+      "spans": [
+        {
+          "start": 15,
+          "end": 23
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 50,
+      "end": 75,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 50,
+          "end": 75
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 77,
+      "end": 80,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 77,
+          "end": 80
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 200,
+      "end": 230,
+      "text": "loss of pupillary light reflex",
+      "spans": [
+        {
+          "start": 200,
+          "end": 230
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 269,
+      "end": 277,
+      "text": "necropsy",
+      "spans": [
+        {
+          "start": 269,
+          "end": 277
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 297,
+      "end": 318,
+      "text": "gray matter",
+      "spans": [
+        {
+          "start": 297,
+          "end": 301
+        },
+        {
+          "start": 312,
+          "end": 318
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 306,
+      "end": 318,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 306,
+          "end": 318
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Findings",
+      "start": 319,
+      "end": 326,
+      "text": "lesions",
+      "spans": [
+        {
+          "start": 319,
+          "end": 326
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 341,
+      "end": 364,
+      "text": "lateral geniculate body",
+      "spans": [
+        {
+          "start": 341,
+          "end": 364
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 366,
+      "end": 369,
+      "text": "LGB",
+      "spans": [
+        {
+          "start": 366,
+          "end": 369
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 375,
+      "end": 393,
+      "text": "pregeniculate body",
+      "spans": [
+        {
+          "start": 375,
+          "end": 393
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 423,
+      "end": 442,
+      "text": "superior colliculus",
+      "spans": [
+        {
+          "start": 423,
+          "end": 442
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 444,
+      "end": 455,
+      "text": "optic nerve",
+      "spans": [
+        {
+          "start": 444,
+          "end": 455
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 444,
+      "end": 466,
+      "text": "optic tracts",
+      "spans": [
+        {
+          "start": 444,
+          "end": 449
+        },
+        {
+          "start": 460,
+          "end": 466
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 490,
+      "end": 507,
+      "text": "cerebral cortices",
+      "spans": [
+        {
+          "start": 490,
+          "end": 507
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 528,
+      "end": 542,
+      "text": "occipital lobe",
+      "spans": [
+        {
+          "start": 528,
+          "end": 542
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 570,
+      "end": 582,
+      "text": "Gennari line",
+      "spans": [
+        {
+          "start": 570,
+          "end": 582
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 648,
+      "end": 651,
+      "text": "LGB",
+      "spans": [
+        {
+          "start": 648,
+          "end": 651
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Generic_Prion",
+      "start": 686,
+      "end": 689,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 686,
+          "end": 689
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Test_name",
+      "start": 745,
+      "end": 772,
+      "text": "electroencephalograph (EEG)",
+      "spans": [
+        {
+          "start": 745,
+          "end": 772
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Symptom",
+      "start": 806,
+      "end": 826,
+      "text": "pregeniculate lesion",
+      "spans": [
+        {
+          "start": 806,
+          "end": 826
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Symptom",
+      "start": 846,
+      "end": 870,
+      "text": "loss of pupillary reflex",
+      "spans": [
+        {
+          "start": 846,
+          "end": 870
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Anatomic_location",
+      "start": 904,
+      "end": 918,
+      "text": "visual pathway",
+      "spans": [
+        {
+          "start": 904,
+          "end": 918
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Generic_Prion",
+      "start": 980,
+      "end": 983,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 980,
+          "end": 983
+        }
+      ]
+    }
+  ]
+}

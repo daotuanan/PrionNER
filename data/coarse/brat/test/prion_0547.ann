@@ -1,0 +1,7 @@
+T1	Generic_Prion 10 13	CJD
+T2	Test_name 36 39	EEG
+T4	Test_name 90 93	EEG
+T6	Test_name 110 114	EEGs
+T7	Time 179 187	5 months
+T8	Anatomic_location 237 247	hemisphere
+T9	Symptom 279 294	myoclonic jerks

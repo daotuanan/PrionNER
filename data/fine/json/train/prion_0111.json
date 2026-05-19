@@ -1,0 +1,284 @@
+{
+  "doc_id": "prion_0111",
+  "text": "Since a report in 1996 of 10 cases of Creutzfeldt-Jakob disease (CJD) with onset in a younger than usual age, a pattern of the disease has emerged.\nThis includes early neuropsychiatric features and sensory symptoms and neurological signs such as ataxia and involuntary movements later in the course of the disease.\nThree patients with varied clinical presentations and disease course seen at a single neurology unit are described.\nThe first patient was characterised by cognitive and psychiatric symptoms together with neurological signs.\nThe second patient presented with unusual behavioural disturbance and episodes of collapse.\nThe third patient exhibited striking psychomotor retardation and had abnormal CSF and MRI findings.\nAll patients succumbed in a state of akinetic mutism and myoclonus.\nAll three patients had the methionine/methionine genotype at codon 129 of the PrP gene and in two of the three patients a tonsil biopsy was performed with positive results.\nThese two patients also tested positive for the 14.3.3.\nprotein in the CSF.\nWhereas late features of the disease seem very similar in all cases, the initial presentation was variable and underlines the uncertainty of the range of the clinical phenotype.\nSuccessful diagnosis demands a high index of clinical suspicion.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Time_point",
+      "start": 18,
+      "end": 22,
+      "text": "1996",
+      "spans": [
+        {
+          "start": 18,
+          "end": 22
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 38,
+      "end": 63,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 38,
+          "end": 63
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 65,
+      "end": 68,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 65,
+          "end": 68
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Age",
+      "start": 86,
+      "end": 93,
+      "text": "younger",
+      "spans": [
+        {
+          "start": 86,
+          "end": 93
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 168,
+      "end": 193,
+      "text": "neuropsychiatric features",
+      "spans": [
+        {
+          "start": 168,
+          "end": 193
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 198,
+      "end": 214,
+      "text": "sensory symptoms",
+      "spans": [
+        {
+          "start": 198,
+          "end": 214
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 219,
+      "end": 237,
+      "text": "neurological signs",
+      "spans": [
+        {
+          "start": 219,
+          "end": 237
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 246,
+      "end": 252,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 246,
+          "end": 252
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 257,
+      "end": 278,
+      "text": "involuntary movements",
+      "spans": [
+        {
+          "start": 257,
+          "end": 278
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 470,
+      "end": 504,
+      "text": "cognitive symptoms",
+      "spans": [
+        {
+          "start": 470,
+          "end": 479
+        },
+        {
+          "start": 496,
+          "end": 504
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 484,
+      "end": 504,
+      "text": "psychiatric symptoms",
+      "spans": [
+        {
+          "start": 484,
+          "end": 504
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 519,
+      "end": 537,
+      "text": "neurological signs",
+      "spans": [
+        {
+          "start": 519,
+          "end": 537
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 581,
+      "end": 604,
+      "text": "behavioural disturbance",
+      "spans": [
+        {
+          "start": 581,
+          "end": 604
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Symptom",
+      "start": 609,
+      "end": 629,
+      "text": "episodes of collapse",
+      "spans": [
+        {
+          "start": 609,
+          "end": 629
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Symptom",
+      "start": 668,
+      "end": 691,
+      "text": "psychomotor retardation",
+      "spans": [
+        {
+          "start": 668,
+          "end": 691
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Blood_biomarker_test",
+      "start": 709,
+      "end": 712,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 709,
+          "end": 712
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Imaging_test",
+      "start": 717,
+      "end": 720,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 717,
+          "end": 720
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 768,
+      "end": 783,
+      "text": "akinetic mutism",
+      "spans": [
+        {
+          "start": 768,
+          "end": 783
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Symptom",
+      "start": 788,
+      "end": 797,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 788,
+          "end": 797
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Autopsy",
+      "start": 921,
+      "end": 934,
+      "text": "tonsil biopsy",
+      "spans": [
+        {
+          "start": 921,
+          "end": 934
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Blood_biomarker_test",
+      "start": 1043,
+      "end": 1046,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1043,
+          "end": 1046
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "doc_id": "prion_0836",
+  "text": "The present report concerns an autopsy case of CJD showing typical clinical features of CJD.\nThe patient was a Japanese woman without hereditary burden or dementing disorder anamnesis who was 70-years-old at the time of death.\nShe developed gait disturbance at age 68, followed by memory impairment, visual disturbance, and myoclonus.\nA neurological examination approximately 2 months after the disease onset revealed akinetic mutism, in addition to periodic synchronous discharges on electroencephalogram.\nSerial neuroradiological examinations disclosed progressive atrophy of the brain.\nShe died of bronchopneumonia 25 months after the disease onset.\nThe brain weighed 560 g (cerebrum 490 g, brainstem with cerebellum 70 g).\nMacroscopically, neuropathological examination showed prominent atrophy of the cerebrum, caudate nucleus, and cerebellum, in addition to necrosis of the cerebral white matter, compatible with panencephalopathic CJD.\nHistologically, there was neuronal loss with or without spongiform change in the cerebral cortex, parahippocampal gyrus, amygdala, striatum, pallidum, thalamus, pontine nucleus, and cerebellar granule cells, in addition to diffuse synaptic-type prion staining in the cerebrum and cerebellum.\nFurthermore, senile plaques, compatible with definite Consortium to establish a registry for Alzheimer's disease rank Alzheimer's disease, and neurofibrillary changes of the limbic system, consistent with stage IV of Braak's classification, were found.\nBased on these clinicopathological findings and a review of the published literature, it is concluded that there were two forms of coexistence of CJD and Alzheimer's disease in the same patient.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Autopsy",
+      "start": 31,
+      "end": 38,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 31,
+          "end": 38
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 47,
+      "end": 50,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 47,
+          "end": 50
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 88,
+      "end": 91,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 88,
+          "end": 91
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Age",
+      "start": 192,
+      "end": 204,
+      "text": "70-years-old",
+      "spans": [
+        {
+          "start": 192,
+          "end": 204
+        }
+      ]
+    },
+    {
+      "id": "T54",
+      "label": "Complication",
+      "start": 220,
+      "end": 225,
+      "text": "death",
+      "spans": [
+        {
+          "start": 220,
+          "end": 225
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 241,
+      "end": 257,
+      "text": "gait disturbance",
+      "spans": [
+        {
+          "start": 241,
+          "end": 257
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Age",
+      "start": 261,
+      "end": 267,
+      "text": "age 68",
+      "spans": [
+        {
+          "start": 261,
+          "end": 267
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 281,
+      "end": 298,
+      "text": "memory impairment",
+      "spans": [
+        {
+          "start": 281,
+          "end": 298
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 300,
+      "end": 318,
+      "text": "visual disturbance",
+      "spans": [
+        {
+          "start": 300,
+          "end": 318
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 324,
+      "end": 333,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 324,
+          "end": 333
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Duration",
+      "start": 376,
+      "end": 384,
+      "text": "2 months",
+      "spans": [
+        {
+          "start": 376,
+          "end": 384
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time_point",
+      "start": 385,
+      "end": 408,
+      "text": "after the disease onset",
+      "spans": [
+        {
+          "start": 385,
+          "end": 408
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 418,
+      "end": 433,
+      "text": "akinetic mutism",
+      "spans": [
+        {
+          "start": 418,
+          "end": 433
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Imaging_test",
+      "start": 514,
+      "end": 531,
+      "text": "neuroradiological",
+      "spans": [
+        {
+          "start": 514,
+          "end": 531
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Imaging_finding",
+      "start": 555,
+      "end": 574,
+      "text": "progressive atrophy",
+      "spans": [
+        {
+          "start": 555,
+          "end": 574
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 582,
+      "end": 587,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 582,
+          "end": 587
+        }
+      ]
+    },
+    {
+      "id": "T55",
+      "label": "Complication",
+      "start": 593,
+      "end": 597,
+      "text": "died",
+      "spans": [
+        {
+          "start": 593,
+          "end": 597
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Complication",
+      "start": 601,
+      "end": 617,
+      "text": "bronchopneumonia",
+      "spans": [
+        {
+          "start": 601,
+          "end": 617
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Duration",
+      "start": 618,
+      "end": 627,
+      "text": "25 months",
+      "spans": [
+        {
+          "start": 618,
+          "end": 627
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Time_point",
+      "start": 628,
+      "end": 651,
+      "text": "after the disease onset",
+      "spans": [
+        {
+          "start": 628,
+          "end": 651
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 657,
+      "end": 662,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 657,
+          "end": 662
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 678,
+      "end": 686,
+      "text": "cerebrum",
+      "spans": [
+        {
+          "start": 678,
+          "end": 686
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 694,
+      "end": 699,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 694,
+          "end": 699
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Anatomic_location",
+      "start": 694,
+      "end": 703,
+      "text": "brainstem",
+      "spans": [
+        {
+          "start": 694,
+          "end": 703
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Anatomic_location",
+      "start": 709,
+      "end": 719,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 709,
+          "end": 719
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Autopsy",
+      "start": 744,
+      "end": 773,
+      "text": "neuropathological examination",
+      "spans": [
+        {
+          "start": 744,
+          "end": 773
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Autopsy_finding",
+      "start": 791,
+      "end": 798,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 791,
+          "end": 798
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 806,
+      "end": 814,
+      "text": "cerebrum",
+      "spans": [
+        {
+          "start": 806,
+          "end": 814
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Anatomic_location",
+      "start": 816,
+      "end": 831,
+      "text": "caudate nucleus",
+      "spans": [
+        {
+          "start": 816,
+          "end": 831
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Anatomic_location",
+      "start": 837,
+      "end": 847,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 837,
+          "end": 847
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Autopsy_finding",
+      "start": 864,
+      "end": 872,
+      "text": "necrosis",
+      "spans": [
+        {
+          "start": 864,
+          "end": 872
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Anatomic_location",
+      "start": 880,
+      "end": 901,
+      "text": "cerebral white matter",
+      "spans": [
+        {
+          "start": 880,
+          "end": 901
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Generic_Prion",
+      "start": 938,
+      "end": 941,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 938,
+          "end": 941
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Autopsy_finding",
+      "start": 969,
+      "end": 982,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 969,
+          "end": 982
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Autopsy_finding",
+      "start": 999,
+      "end": 1016,
+      "text": "spongiform change",
+      "spans": [
+        {
+          "start": 999,
+          "end": 1016
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Anatomic_location",
+      "start": 1024,
+      "end": 1039,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 1024,
+          "end": 1039
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Anatomic_location",
+      "start": 1041,
+      "end": 1062,
+      "text": "parahippocampal gyrus",
+      "spans": [
+        {
+          "start": 1041,
+          "end": 1062
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Anatomic_location",
+      "start": 1064,
+      "end": 1072,
+      "text": "amygdala",
+      "spans": [
+        {
+          "start": 1064,
+          "end": 1072
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Anatomic_location",
+      "start": 1074,
+      "end": 1082,
+      "text": "striatum",
+      "spans": [
+        {
+          "start": 1074,
+          "end": 1082
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Anatomic_location",
+      "start": 1084,
+      "end": 1092,
+      "text": "pallidum",
+      "spans": [
+        {
+          "start": 1084,
+          "end": 1092
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Anatomic_location",
+      "start": 1094,
+      "end": 1102,
+      "text": "thalamus",
+      "spans": [
+        {
+          "start": 1094,
+          "end": 1102
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Anatomic_location",
+      "start": 1104,
+      "end": 1119,
+      "text": "pontine nucleus",
+      "spans": [
+        {
+          "start": 1104,
+          "end": 1119
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Anatomic_location",
+      "start": 1125,
+      "end": 1149,
+      "text": "cerebellar granule cells",
+      "spans": [
+        {
+          "start": 1125,
+          "end": 1149
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Anatomic_location",
+      "start": 1210,
+      "end": 1218,
+      "text": "cerebrum",
+      "spans": [
+        {
+          "start": 1210,
+          "end": 1218
+        }
+      ]
+    },
+    {
+      "id": "T47",
+      "label": "Anatomic_location",
+      "start": 1223,
+      "end": 1233,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 1223,
+          "end": 1233
+        }
+      ]
+    },
+    {
+      "id": "T48",
+      "label": "Differential_Diagnosis",
+      "start": 1328,
+      "end": 1347,
+      "text": "Alzheimer's disease",
+      "spans": [
+        {
+          "start": 1328,
+          "end": 1347
+        }
+      ]
+    },
+    {
+      "id": "T49",
+      "label": "Differential_Diagnosis",
+      "start": 1353,
+      "end": 1372,
+      "text": "Alzheimer's disease",
+      "spans": [
+        {
+          "start": 1353,
+          "end": 1372
+        }
+      ]
+    },
+    {
+      "id": "T50",
+      "label": "Anatomic_location",
+      "start": 1409,
+      "end": 1422,
+      "text": "limbic system",
+      "spans": [
+        {
+          "start": 1409,
+          "end": 1422
+        }
+      ]
+    },
+    {
+      "id": "T51",
+      "label": "Generic_Prion",
+      "start": 1634,
+      "end": 1637,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1634,
+          "end": 1637
+        }
+      ]
+    },
+    {
+      "id": "T52",
+      "label": "Differential_Diagnosis",
+      "start": 1642,
+      "end": 1661,
+      "text": "Alzheimer's disease",
+      "spans": [
+        {
+          "start": 1642,
+          "end": 1661
+        }
+      ]
+    }
+  ]
+}

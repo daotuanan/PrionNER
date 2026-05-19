@@ -1,0 +1,370 @@
+{
+  "doc_id": "prion_0006",
+  "text": "BACKGROUND: Creutzfeldt‐Jakob disease (CJD) is a progressive, irreversible, and fatal disease associated with the misfolding of a protein in the central nervous system.\nSeveral surveillance programs emerged worldwide after the epidemic of the early 2000s.\nIn Mexico, information about its epidemiology is scarce.\nA case series published in 2022 analyzed 24 cases over six years; however, its incidence and prevalence remain unknown.\nMETHOD: We analyzed patients evaluated in the Emergency Department of the “Manuel Velasco Suárez” National Institute of Neurology and Neurosurgery in Mexico City, whose final diagnosis was sporadic Creutzfeldt‐Jakob disease.\nUsing the electronic medical records, we calculated the incidence of the disease in the Emergency Department and analyzed clinical, imaging, EEG, and cerebrospinal fluid variables.\nFinally, we identified the states of origin of the analyzed patients.\nRESULT: In 2023, 9,060 patients were treated in our Emergency Department, with 5 cases of CJD detected.\nIn 2024, 9,934 patients were treated, and 10 cases were identified.\nThe incidence of CJD in our Emergency Department was 0.06% in 2023 and 0.10% in 2024.\nAnother patient who met the diagnostic criteria was identified but was treated as an outpatient.\nIn total, 16 cases met the diagnostic criteria.\nOnly 3 patients were originally from Mexico City (Figure 1).\nTwo patients presented with isolated dementia at diagnosis, while clinical presentations ranged from classic cases to atypical manifestations, such as psychosis and primary progressive aphasia.\nTwo patients had a family history of the disease.\nThe average age was 58 years, and 69% were male.\nAll patients had MRI abnormalities (Figure 2).\nClinical characteristics are summarized in Table 1.\nCONCLUSION: Creutzfeldt‐Jakob disease is a condition primarily characterized by rapidly progressive dementia, which can present with varied clinical features.\nIt leads to loss of independence in most cases within a year.\nThe current epidemiology of CJD in Mexico is unknown; understanding its incidence could help develop better strategies for managing patients presenting with rapidly progressive dementia in emergency settings.",
+  "entities": [
+    {
+      "id": "T21",
+      "label": "Generic_Prion",
+      "start": 12,
+      "end": 37,
+      "text": "Creutzfeldt‐Jakob disease",
+      "spans": [
+        {
+          "start": 12,
+          "end": 37
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 39,
+      "end": 42,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 39,
+          "end": 42
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Time",
+      "start": 243,
+      "end": 254,
+      "text": "early 2000s",
+      "spans": [
+        {
+          "start": 243,
+          "end": 254
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Time",
+      "start": 340,
+      "end": 344,
+      "text": "2022",
+      "spans": [
+        {
+          "start": 340,
+          "end": 344
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Time",
+      "start": 368,
+      "end": 377,
+      "text": "six years",
+      "spans": [
+        {
+          "start": 368,
+          "end": 377
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Sporadic_Prion",
+      "start": 622,
+      "end": 656,
+      "text": "sporadic Creutzfeldt‐Jakob disease",
+      "spans": [
+        {
+          "start": 622,
+          "end": 656
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Test_name",
+      "start": 790,
+      "end": 797,
+      "text": "imaging",
+      "spans": [
+        {
+          "start": 790,
+          "end": 797
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Test_name",
+      "start": 799,
+      "end": 802,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 799,
+          "end": 802
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Test_name",
+      "start": 808,
+      "end": 827,
+      "text": "cerebrospinal fluid",
+      "spans": [
+        {
+          "start": 808,
+          "end": 827
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time",
+      "start": 920,
+      "end": 924,
+      "text": "2023",
+      "spans": [
+        {
+          "start": 920,
+          "end": 924
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 999,
+      "end": 1002,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 999,
+          "end": 1002
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Time",
+      "start": 1016,
+      "end": 1020,
+      "text": "2024",
+      "spans": [
+        {
+          "start": 1016,
+          "end": 1020
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 1098,
+      "end": 1101,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1098,
+          "end": 1101
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Stats",
+      "start": 1134,
+      "end": 1139,
+      "text": "0.06%",
+      "spans": [
+        {
+          "start": 1134,
+          "end": 1139
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 1143,
+      "end": 1147,
+      "text": "2023",
+      "spans": [
+        {
+          "start": 1143,
+          "end": 1147
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Stats",
+      "start": 1152,
+      "end": 1157,
+      "text": "0.10%",
+      "spans": [
+        {
+          "start": 1152,
+          "end": 1157
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Time",
+      "start": 1161,
+      "end": 1165,
+      "text": "2024",
+      "spans": [
+        {
+          "start": 1161,
+          "end": 1165
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Symptom",
+      "start": 1401,
+      "end": 1418,
+      "text": "isolated dementia",
+      "spans": [
+        {
+          "start": 1401,
+          "end": 1418
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 1524,
+      "end": 1533,
+      "text": "psychosis",
+      "spans": [
+        {
+          "start": 1524,
+          "end": 1533
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 1538,
+      "end": 1565,
+      "text": "primary progressive aphasia",
+      "spans": [
+        {
+          "start": 1538,
+          "end": 1565
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Age",
+      "start": 1637,
+      "end": 1645,
+      "text": "58 years",
+      "spans": [
+        {
+          "start": 1637,
+          "end": 1645
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Test_name",
+      "start": 1683,
+      "end": 1686,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 1683,
+          "end": 1686
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Generic_Prion",
+      "start": 1777,
+      "end": 1802,
+      "text": "Creutzfeldt‐Jakob disease",
+      "spans": [
+        {
+          "start": 1777,
+          "end": 1802
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Symptom",
+      "start": 1845,
+      "end": 1873,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 1845,
+          "end": 1873
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Complication",
+      "start": 1936,
+      "end": 1956,
+      "text": "loss of independence",
+      "spans": [
+        {
+          "start": 1936,
+          "end": 1956
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Time",
+      "start": 1978,
+      "end": 1984,
+      "text": "a year",
+      "spans": [
+        {
+          "start": 1978,
+          "end": 1984
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Generic_Prion",
+      "start": 2014,
+      "end": 2017,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 2014,
+          "end": 2017
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Symptom",
+      "start": 2143,
+      "end": 2171,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 2143,
+          "end": 2171
+        }
+      ]
+    }
+  ]
+}

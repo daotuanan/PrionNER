@@ -1,0 +1,30 @@
+T1	Generic_Prion 35 60	spongiform encephalopathy
+T2	Autopsy_finding 65 91	cerebellar amyloid plaques
+T3	Autopsy_finding 104 121	kuru-like plaques
+T4	Generic_Prion 150 175	Creutzfeldt-Jakob disease
+T5	Generic_Prion 177 180	CJD
+T6	Autopsy_finding 195 215	multicentric plaques
+T7	GSS 245 283	Gerstmann-Sträussler-Scheinker disease
+T8	GSS 285 289	GSSD
+T9	Autopsy_finding 416 433	cerebellar plaque
+T10	Generic_Prion 466 469	CJD
+T11	Autopsy_finding 490 507	kuru-like plaques
+T12	Time_point 535 546	early onset
+T13	Age 556 571	age, 49.1 years
+T15	Duration 577 590	long duration
+T17	Generic_Prion 630 633	CJD
+T18	Autopsy_finding 651 668	kuru-like plaques
+T19	GSS 670 674	GSSD
+T20	Autopsy_finding 696 727	multicentric cerebellar plaques
+T21	Anatomic_location 709 719	cerebellar
+T22	Time_point 766 784	early age of onset
+T24	Age 795 805	42.7 years
+T25	Duration 820 833	long duration
+T27	Symptom 856 865	Myoclonus
+T28	GSS 884 888	GSSD
+T29	Autopsy_finding 917 934	spongiform change
+T30	Complication 948 973	spinal tract degeneration
+T14	Duration 601 610	34 months
+T16	Duration 844 853	73 months
+T26	Anatomic_location 416 426	cerebellar
+T32	Anatomic_location 65 75	cerebellar

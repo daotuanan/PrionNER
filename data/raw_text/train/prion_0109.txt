@@ -1,0 +1,10 @@
+Clinical differential diagnosis of early-onset dementia (EOD) includes familial Alzheimer disease (FAD) and hereditary prion disease.
+In both disease entities, postmortem brain histopathological examination is essential for unambiguous diagnosis.
+Mutations in the genes encoding the presenilins (PS1 and PS2) and amyloid precursor protein (APP) are associated with FAD, whereas mutations in the prion protein (PrP) gene are associated with prion disease.
+To investigate the proportion of EOD attributable to known genes, we prospectively (i.e., antemortem) screened these four genes for mutations by sequencing genomic PCR products from patients with EOD before age 60 years.
+Family history for dementia was positive (PFH) in 16 patients, negative (NFH) in 17 patients, and unknown (UFH) in 3 patients.
+In 12 patients, we found five novel mutations (in PS1, F105L; in PS2, T122P and M239I; and in PrP, Q160X and T188K) and five previously reported mutations (in APP, in three patients who were most likely unrelated, V717I; in PS1, A79V and M139V; and in PrP, P102L and T183A) that are all considered to be disease causing.
+Of these 12 patients, 9 had PFH.
+This indicates a detection rate of 56% (9/16) in patients with PFH.
+We found two mutations (APP V717I) in two of the three UFH patients, and only one mutation (PrP T188K) in 1 of the 17 patients with NFH.
+We conclude that because of the lack of specific antemortem diagnostic markers for FAD and hereditary prion disease, all four genes should be included in a molecular diagnostic program in patients with EOD who had PFH.

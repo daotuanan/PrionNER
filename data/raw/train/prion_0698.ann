@@ -1,0 +1,16 @@
+T1	Choose_Related 790 793	YES
+T2	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T3	Age 119 131	69 years old
+T5	Differential_Diagnosis 153 169	conduct disorder
+T7	Differential_Diagnosis 174 194	prosecution delirium
+T9	Symptom 235 243	dementia
+T10	Symptom 245 264	transient confusion
+T11	Symptom 266 278	parkinsonism
+T13	Symptom 280 286	ataxia
+T14	Symptom 291 309	abnormal movements
+T15	Genetic_test 587 604	PRP gene analysis
+T4	Electrophysio_test 330 350	electroencephalogram
+T6	Autopsy 564 582	histic exploration
+T8	Choose_Done 801 805	DONE
+T17	Complication 552 556	died
+T12	Anatomic_location 558 563	Brain

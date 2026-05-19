@@ -1,0 +1,656 @@
+{
+  "doc_id": "prion_0233",
+  "text": "BACKGROUND AND PURPOSE: Diffusion-weighted imaging can disclose distinct hyperintense lesions in Creutzfeldt-Jakob disease (CJD).\nHowever, these findings and chronologic changes of CJD at diffusion-weighted imaging have not been fully investigated.\nOur purpose was to assess the diagnostic value of diffusion-weighted imaging in depicting CJD-related lesions and in tracking the evolution of these lesions.\nWe also compared the sensitivity of diffusion-weighted imaging in depicting CJD-related lesions to that of fluid-attenuated inversion recovery (FLAIR) imaging.\nMETHODS: We reviewed findings in 13 patients with a diagnosis of CJD who underwent MR imaging, including diffusion-weighted imaging.\nNine patients were initially examined within 4 months of onset of symptoms (early stage), and eight were examined 4 months or later (late stage).\nWe evaluated four items: 1) distribution of lesions at diffusion-weighted imaging, 2) conspicuity of lesions at diffusion-weighted imaging and FLAIR imaging, 3) chronologic changes in lesions at diffusion-weighted imaging, and 4) chronologic changes in lesions revealed by apparent diffusion coefficient (ADC) maps.\nRESULTS: Patients had striatal lesions or cerebral cortical lesions or both.\nThe thalamus was involved in only one patient, and the globus pallidus was spared in all patients.\nThe sensitivity of diffusion-weighted imaging in depicting lesions was superior or at least equal to that of FLAIR imaging.\nHyperintense lesions at diffusion-weighted imaging changed in extent and intensity over time.\nUnlike infarction, lesional ADC decreased for 2 weeks or longer.\nCONCLUSION: The progressively hyperintense changes in the striata and cerebral cortices at diffusion-weighted imaging are considered characteristic of CJD.\nDiffusion-weighted imaging may be useful for the early diagnosis of CJD.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Imaging_sequence",
+      "start": 24,
+      "end": 50,
+      "text": "Diffusion-weighted imaging",
+      "spans": [
+        {
+          "start": 24,
+          "end": 50
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Imaging_finding",
+      "start": 73,
+      "end": 93,
+      "text": "hyperintense lesions",
+      "spans": [
+        {
+          "start": 73,
+          "end": 93
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 97,
+      "end": 122,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 97,
+          "end": 122
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 124,
+      "end": 127,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 124,
+          "end": 127
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 181,
+      "end": 184,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 181,
+          "end": 184
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Imaging_sequence",
+      "start": 188,
+      "end": 214,
+      "text": "diffusion-weighted imaging",
+      "spans": [
+        {
+          "start": 188,
+          "end": 214
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Imaging_sequence",
+      "start": 299,
+      "end": 325,
+      "text": "diffusion-weighted imaging",
+      "spans": [
+        {
+          "start": 299,
+          "end": 325
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Imaging_finding",
+      "start": 339,
+      "end": 358,
+      "text": "CJD-related lesions",
+      "spans": [
+        {
+          "start": 339,
+          "end": 358
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Imaging_sequence",
+      "start": 443,
+      "end": 469,
+      "text": "diffusion-weighted imaging",
+      "spans": [
+        {
+          "start": 443,
+          "end": 469
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Imaging_finding",
+      "start": 483,
+      "end": 502,
+      "text": "CJD-related lesions",
+      "spans": [
+        {
+          "start": 483,
+          "end": 502
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Imaging_sequence",
+      "start": 514,
+      "end": 565,
+      "text": "fluid-attenuated inversion recovery (FLAIR) imaging",
+      "spans": [
+        {
+          "start": 514,
+          "end": 565
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 632,
+      "end": 635,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 632,
+          "end": 635
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Imaging_test",
+      "start": 650,
+      "end": 660,
+      "text": "MR imaging",
+      "spans": [
+        {
+          "start": 650,
+          "end": 660
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Imaging_sequence",
+      "start": 672,
+      "end": 698,
+      "text": "diffusion-weighted imaging",
+      "spans": [
+        {
+          "start": 672,
+          "end": 698
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Duration",
+      "start": 745,
+      "end": 753,
+      "text": "4 months",
+      "spans": [
+        {
+          "start": 745,
+          "end": 753
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Time_point",
+      "start": 757,
+      "end": 774,
+      "text": "onset of symptoms",
+      "spans": [
+        {
+          "start": 757,
+          "end": 774
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Time_point",
+      "start": 776,
+      "end": 787,
+      "text": "early stage",
+      "spans": [
+        {
+          "start": 776,
+          "end": 787
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Duration",
+      "start": 814,
+      "end": 822,
+      "text": "4 months",
+      "spans": [
+        {
+          "start": 814,
+          "end": 822
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Time_point",
+      "start": 833,
+      "end": 843,
+      "text": "late stage",
+      "spans": [
+        {
+          "start": 833,
+          "end": 843
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Imaging_finding",
+      "start": 874,
+      "end": 897,
+      "text": "distribution of lesions",
+      "spans": [
+        {
+          "start": 874,
+          "end": 897
+        }
+      ]
+    },
+    {
+      "id": "T48",
+      "label": "Imaging_sequence",
+      "start": 901,
+      "end": 927,
+      "text": "diffusion-weighted imaging",
+      "spans": [
+        {
+          "start": 901,
+          "end": 927
+        }
+      ]
+    },
+    {
+      "id": "T49",
+      "label": "Imaging_finding",
+      "start": 932,
+      "end": 954,
+      "text": "conspicuity of lesions",
+      "spans": [
+        {
+          "start": 932,
+          "end": 954
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Imaging_sequence",
+      "start": 958,
+      "end": 984,
+      "text": "diffusion-weighted imaging",
+      "spans": [
+        {
+          "start": 958,
+          "end": 984
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Imaging_sequence",
+      "start": 989,
+      "end": 1002,
+      "text": "FLAIR imaging",
+      "spans": [
+        {
+          "start": 989,
+          "end": 1002
+        }
+      ]
+    },
+    {
+      "id": "T50",
+      "label": "Imaging_finding",
+      "start": 1007,
+      "end": 1037,
+      "text": "chronologic changes in lesions",
+      "spans": [
+        {
+          "start": 1007,
+          "end": 1037
+        }
+      ]
+    },
+    {
+      "id": "T51",
+      "label": "Imaging_sequence",
+      "start": 1041,
+      "end": 1068,
+      "text": "diffusion-weighted imaging,",
+      "spans": [
+        {
+          "start": 1041,
+          "end": 1068
+        }
+      ]
+    },
+    {
+      "id": "T52",
+      "label": "Imaging_finding",
+      "start": 1076,
+      "end": 1106,
+      "text": "chronologic changes in lesions",
+      "spans": [
+        {
+          "start": 1076,
+          "end": 1106
+        }
+      ]
+    },
+    {
+      "id": "T53",
+      "label": "Imaging_sequence",
+      "start": 1119,
+      "end": 1160,
+      "text": "apparent diffusion coefficient (ADC) maps",
+      "spans": [
+        {
+          "start": 1119,
+          "end": 1160
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 1184,
+      "end": 1192,
+      "text": "striatal",
+      "spans": [
+        {
+          "start": 1184,
+          "end": 1192
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Imaging_finding",
+      "start": 1193,
+      "end": 1200,
+      "text": "lesions",
+      "spans": [
+        {
+          "start": 1193,
+          "end": 1200
+        }
+      ]
+    },
+    {
+      "id": "T55",
+      "label": "Anatomic_location",
+      "start": 1204,
+      "end": 1221,
+      "text": "cerebral cortical",
+      "spans": [
+        {
+          "start": 1204,
+          "end": 1221
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Imaging_finding",
+      "start": 1222,
+      "end": 1229,
+      "text": "lesions",
+      "spans": [
+        {
+          "start": 1222,
+          "end": 1229
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Anatomic_location",
+      "start": 1243,
+      "end": 1251,
+      "text": "thalamus",
+      "spans": [
+        {
+          "start": 1243,
+          "end": 1251
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 1294,
+      "end": 1309,
+      "text": "globus pallidus",
+      "spans": [
+        {
+          "start": 1294,
+          "end": 1309
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Imaging_sequence",
+      "start": 1357,
+      "end": 1383,
+      "text": "diffusion-weighted imaging",
+      "spans": [
+        {
+          "start": 1357,
+          "end": 1383
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Imaging_finding",
+      "start": 1397,
+      "end": 1404,
+      "text": "lesions",
+      "spans": [
+        {
+          "start": 1397,
+          "end": 1404
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Imaging_sequence",
+      "start": 1447,
+      "end": 1460,
+      "text": "FLAIR imaging",
+      "spans": [
+        {
+          "start": 1447,
+          "end": 1460
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Imaging_finding",
+      "start": 1462,
+      "end": 1482,
+      "text": "Hyperintense lesions",
+      "spans": [
+        {
+          "start": 1462,
+          "end": 1482
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Imaging_test",
+      "start": 1486,
+      "end": 1512,
+      "text": "diffusion-weighted imaging",
+      "spans": [
+        {
+          "start": 1486,
+          "end": 1512
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Differential_Diagnosis",
+      "start": 1563,
+      "end": 1573,
+      "text": "infarction",
+      "spans": [
+        {
+          "start": 1563,
+          "end": 1573
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Imaging_sequence",
+      "start": 1584,
+      "end": 1587,
+      "text": "ADC",
+      "spans": [
+        {
+          "start": 1584,
+          "end": 1587
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Imaging_finding",
+      "start": 1588,
+      "end": 1597,
+      "text": "decreased",
+      "spans": [
+        {
+          "start": 1588,
+          "end": 1597
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Duration",
+      "start": 1602,
+      "end": 1619,
+      "text": "2 weeks or longer",
+      "spans": [
+        {
+          "start": 1602,
+          "end": 1619
+        }
+      ]
+    },
+    {
+      "id": "T58",
+      "label": "Imaging_finding",
+      "start": 1651,
+      "end": 1671,
+      "text": "hyperintense changes",
+      "spans": [
+        {
+          "start": 1651,
+          "end": 1671
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Anatomic_location",
+      "start": 1679,
+      "end": 1686,
+      "text": "striata",
+      "spans": [
+        {
+          "start": 1679,
+          "end": 1686
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Anatomic_location",
+      "start": 1691,
+      "end": 1708,
+      "text": "cerebral cortices",
+      "spans": [
+        {
+          "start": 1691,
+          "end": 1708
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Imaging_sequence",
+      "start": 1712,
+      "end": 1738,
+      "text": "diffusion-weighted imaging",
+      "spans": [
+        {
+          "start": 1712,
+          "end": 1738
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Generic_Prion",
+      "start": 1772,
+      "end": 1775,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1772,
+          "end": 1775
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Imaging_sequence",
+      "start": 1777,
+      "end": 1803,
+      "text": "Diffusion-weighted imaging",
+      "spans": [
+        {
+          "start": 1777,
+          "end": 1803
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Generic_Prion",
+      "start": 1845,
+      "end": 1848,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1845,
+          "end": 1848
+        }
+      ]
+    }
+  ]
+}

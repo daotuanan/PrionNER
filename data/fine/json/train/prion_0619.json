@@ -1,0 +1,149 @@
+{
+  "doc_id": "prion_0619",
+  "text": "A 20-year-old woman developed ataxia, extrapyramidal movements, myoclonus, and progressive dementia.\nBrain biopsy disclosed status spongiosus, diagnostic of Creutzfeldt-Jakob disease; this is the youngest spontaneous case ever reported.\nCreutzfeldt-Jakob disease can occur in young adulthood.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "20-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 30,
+      "end": 36,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 30,
+          "end": 36
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 38,
+      "end": 62,
+      "text": "extrapyramidal movements",
+      "spans": [
+        {
+          "start": 38,
+          "end": 62
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 64,
+      "end": 73,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 64,
+          "end": 73
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 79,
+      "end": 99,
+      "text": "progressive dementia",
+      "spans": [
+        {
+          "start": 79,
+          "end": 99
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 101,
+      "end": 106,
+      "text": "Brain",
+      "spans": [
+        {
+          "start": 101,
+          "end": 106
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Autopsy",
+      "start": 107,
+      "end": 113,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 107,
+          "end": 113
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Autopsy_finding",
+      "start": 124,
+      "end": 141,
+      "text": "status spongiosus",
+      "spans": [
+        {
+          "start": 124,
+          "end": 141
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 157,
+      "end": 182,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 157,
+          "end": 182
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 237,
+      "end": 262,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 237,
+          "end": 262
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Age",
+      "start": 276,
+      "end": 291,
+      "text": "young adulthood",
+      "spans": [
+        {
+          "start": 276,
+          "end": 291
+        }
+      ]
+    }
+  ]
+}

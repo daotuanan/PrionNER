@@ -1,0 +1,21 @@
+T24	Anatomic_location 0 8	Thalamic
+T23	Differential_Diagnosis 0 22	Thalamic degenerations
+T13	Differential_Diagnosis 26 35	dementias
+T25	Differential_Diagnosis 97 129	selective thalamic degenerations
+T11	Anatomic_location 107 115	thalamic
+T2	Anatomic_location 138 146	thalamic
+T26	Differential_Diagnosis 138 160	thalamic degenerations
+T12	Differential_Diagnosis 177 201	multiple system atrophy.
+T27	Differential_Diagnosis 202 234	Selective thalamic degenerations
+T3	Familial_Prion 279 302	fatal familial insomnia
+T4	Differential_Diagnosis 307 333	autosomal dominant disease
+T17	Differential_Diagnosis 564 591	selective thalamic dementia
+T14	Differential_Diagnosis 595 612	thalamic dementia
+T16	Differential_Diagnosis 629 652	multiple system atrophy
+T20	Differential_Diagnosis 686 713	selective thalamic dementia
+T21	Differential_Diagnosis 750 767	thalamic dementia
+T22	Differential_Diagnosis 784 807	multiple system atrophy
+T18	Differential_Diagnosis 912 929	thalamic dementia
+T19	Differential_Diagnosis 947 974	selective thalamic dementia
+T9	Familial_Prion 1008 1031	fatal familial insomnia
+T10	Sporadic_Prion 1008 1031	fatal familial insomnia

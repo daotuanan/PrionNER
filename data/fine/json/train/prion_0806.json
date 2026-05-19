@@ -1,0 +1,84 @@
+{
+  "doc_id": "prion_0806",
+  "text": "Variant Creutzfeldt-Jakob disease is caused by the transmission of bovine spongiform encephalopathy to humans.\nThe clinical and investigative features of variant CJD are relatively distinct from sporadic CJD.\nThe number of cases of vCJD are increasing with time in the UK, but the total future number of cases of vCJD is uncertain.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "vCJD",
+      "start": 0,
+      "end": 33,
+      "text": "Variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 33
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 67,
+      "end": 99,
+      "text": "bovine spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 67,
+          "end": 99
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "vCJD",
+      "start": 154,
+      "end": 165,
+      "text": "variant CJD",
+      "spans": [
+        {
+          "start": 154,
+          "end": 165
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "sCJD",
+      "start": 195,
+      "end": 207,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 195,
+          "end": 207
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "vCJD",
+      "start": 232,
+      "end": 236,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 232,
+          "end": 236
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "vCJD",
+      "start": 313,
+      "end": 317,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 313,
+          "end": 317
+        }
+      ]
+    }
+  ]
+}

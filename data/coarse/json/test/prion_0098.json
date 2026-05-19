@@ -1,0 +1,461 @@
+{
+  "doc_id": "prion_0098",
+  "text": "A 68 year old woman with sporadic Creutzfeldt-Jakob disease is described, who neither showed characteristic EEG abnormalities nor a positive test of the neuronal protein 14-3-3 or neuron specific enolase (NSE) in CSF, despite a clinical presentation with ataxia of cerebellar type, rapidly progressive dementia, myoclonus, and marked hyperintense signal abnormalities in the deep cortical layers and the basal ganglia on T2 and diffusion weighted MRI.\nMoreover she showed atypical clinical features with a syndrome of inappropriate antidiuretic hormone (ADH) secretion (SIADH) and a peripheral sensorimotor polyneuropathy.\nWhether these disturbances are independent of Creutzfeldt-Jakob disease or a feature of it is discussed.\nIt has recently been shown that in Creutzfeldt-Jakob disease different clinical and pathological phenotypes correlate with the polymorphism at codon 129 of the prion protein gene (PRNP) and the type of the protease resistant fragment that accumulates in the brain.\nAccording to the new classification at least six sporadic variants of Creutzfeldt-Jakob disease exist. The molecular genetic analysis showed heterozygosity of PRNP at codon 129 for methionine and valine and the presence of PrP(CJD) type 2 in the brain of this patient.\nAs a new feature of changes on MRI, striking cortical changes of hyperintense signals are described in diffusion weighted as well as T2 weighted MRI that directly correlate with the histomorphological spongy degeneration of the brain in this region.\nIn cases of rapidly progressive dementia, Creutzfeldt-Jakob disease always needs to be considered even if unusual features are present and current diagnostic criteria are not in favour of this disease.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "68 year old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Sporadic_Prion",
+      "start": 25,
+      "end": 59,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 25,
+          "end": 59
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Test_name",
+      "start": 108,
+      "end": 111,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 108,
+          "end": 111
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Test_name",
+      "start": 213,
+      "end": 216,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 213,
+          "end": 216
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 255,
+      "end": 280,
+      "text": "ataxia of cerebellar type",
+      "spans": [
+        {
+          "start": 255,
+          "end": 280
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 265,
+      "end": 275,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 265,
+          "end": 275
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 282,
+      "end": 310,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 282,
+          "end": 310
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 312,
+      "end": 321,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 312,
+          "end": 321
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Findings",
+      "start": 334,
+      "end": 367,
+      "text": "hyperintense signal abnormalities",
+      "spans": [
+        {
+          "start": 334,
+          "end": 367
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 375,
+      "end": 395,
+      "text": "deep cortical layers",
+      "spans": [
+        {
+          "start": 375,
+          "end": 395
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 404,
+      "end": 417,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 404,
+          "end": 417
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Sequences",
+      "start": 421,
+      "end": 423,
+      "text": "T2",
+      "spans": [
+        {
+          "start": 421,
+          "end": 423
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Sequences",
+      "start": 428,
+      "end": 446,
+      "text": "diffusion weighted",
+      "spans": [
+        {
+          "start": 428,
+          "end": 446
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Test_name",
+      "start": 447,
+      "end": 450,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 447,
+          "end": 450
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Complication",
+      "start": 506,
+      "end": 568,
+      "text": "syndrome of inappropriate antidiuretic hormone (ADH) secretion",
+      "spans": [
+        {
+          "start": 506,
+          "end": 568
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Complication",
+      "start": 570,
+      "end": 575,
+      "text": "SIADH",
+      "spans": [
+        {
+          "start": 570,
+          "end": 575
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Complication",
+      "start": 583,
+      "end": 621,
+      "text": "peripheral sensorimotor polyneuropathy",
+      "spans": [
+        {
+          "start": 583,
+          "end": 621
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 669,
+      "end": 694,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 669,
+          "end": 694
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 763,
+      "end": 788,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 763,
+          "end": 788
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Anatomic_location",
+      "start": 986,
+      "end": 991,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 986,
+          "end": 991
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Sporadic_Prion",
+      "start": 1042,
+      "end": 1088,
+      "text": "sporadic variants of Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 1042,
+          "end": 1088
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Test_name",
+      "start": 1100,
+      "end": 1126,
+      "text": "molecular genetic analysis",
+      "spans": [
+        {
+          "start": 1100,
+          "end": 1126
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Generic_Prion",
+      "start": 1220,
+      "end": 1223,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1220,
+          "end": 1223
+        }
+      ]
+    },
+    {
+      "id": "T45",
+      "label": "Anatomic_location",
+      "start": 1239,
+      "end": 1244,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 1239,
+          "end": 1244
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Test_name",
+      "start": 1293,
+      "end": 1296,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 1293,
+          "end": 1296
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Anatomic_location",
+      "start": 1307,
+      "end": 1315,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 1307,
+          "end": 1315
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Findings",
+      "start": 1327,
+      "end": 1347,
+      "text": "hyperintense signals",
+      "spans": [
+        {
+          "start": 1327,
+          "end": 1347
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Sequences",
+      "start": 1365,
+      "end": 1383,
+      "text": "diffusion weighted",
+      "spans": [
+        {
+          "start": 1365,
+          "end": 1383
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Sequences",
+      "start": 1395,
+      "end": 1406,
+      "text": "T2 weighted",
+      "spans": [
+        {
+          "start": 1395,
+          "end": 1406
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Test_name",
+      "start": 1407,
+      "end": 1410,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 1407,
+          "end": 1410
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Test_name",
+      "start": 1444,
+      "end": 1462,
+      "text": "histomorphological",
+      "spans": [
+        {
+          "start": 1444,
+          "end": 1462
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Findings",
+      "start": 1463,
+      "end": 1482,
+      "text": "spongy degeneration",
+      "spans": [
+        {
+          "start": 1463,
+          "end": 1482
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Anatomic_location",
+      "start": 1490,
+      "end": 1495,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 1490,
+          "end": 1495
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Symptom",
+      "start": 1524,
+      "end": 1552,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 1524,
+          "end": 1552
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Generic_Prion",
+      "start": 1554,
+      "end": 1579,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 1554,
+          "end": 1579
+        }
+      ]
+    }
+  ]
+}

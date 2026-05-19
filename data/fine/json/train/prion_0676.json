@@ -1,0 +1,188 @@
+{
+  "doc_id": "prion_0676",
+  "text": "Brainstem auditory evoked potentials (BAEP) were recorded and correlated with the clinical and electroencephalographic (EEG) findings in three verified cases of Creutzfeldt-Jakob disease (CJD).\nIn contrast to previous reports, there was progressive deterioration of the BAEPs, through initial asymmetry of wave latencies to abnormal wave morphology, and increased interpeak latencies.\nConsequently, in two of the patients, disorganization of the wave pattern and generalized conduction-time slowing appeared by the time there was a fully developed clinical picture of CJD with periodic EEG waves.\nIn the third, clinically mild CJD, asymmetry of wave latencies in the BAEP emerged, correlating with the appearance of periodicity on EEG.\nOur findings are consistent with the late, progressive involvement of the brainstem by the pathological process in CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Electrophysio_test",
+      "start": 0,
+      "end": 36,
+      "text": "Brainstem auditory evoked potentials",
+      "spans": [
+        {
+          "start": 0,
+          "end": 36
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Electrophysio_test",
+      "start": 38,
+      "end": 42,
+      "text": "BAEP",
+      "spans": [
+        {
+          "start": 38,
+          "end": 42
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Electrophysio_test",
+      "start": 95,
+      "end": 118,
+      "text": "electroencephalographic",
+      "spans": [
+        {
+          "start": 95,
+          "end": 118
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Electrophysio_test",
+      "start": 120,
+      "end": 123,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 120,
+          "end": 123
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 161,
+      "end": 186,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 161,
+          "end": 186
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 188,
+      "end": 191,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 188,
+          "end": 191
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Electrophysio_test",
+      "start": 270,
+      "end": 275,
+      "text": "BAEPs",
+      "spans": [
+        {
+          "start": 270,
+          "end": 275
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Generic_Prion",
+      "start": 568,
+      "end": 571,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 568,
+          "end": 571
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Electrophysio_test",
+      "start": 586,
+      "end": 589,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 586,
+          "end": 589
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Generic_Prion",
+      "start": 627,
+      "end": 630,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 627,
+          "end": 630
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Electrophysio_test",
+      "start": 667,
+      "end": 671,
+      "text": "BAEP",
+      "spans": [
+        {
+          "start": 667,
+          "end": 671
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Electrophysio_test",
+      "start": 731,
+      "end": 734,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 731,
+          "end": 734
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Anatomic_location",
+      "start": 810,
+      "end": 819,
+      "text": "brainstem",
+      "spans": [
+        {
+          "start": 810,
+          "end": 819
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Generic_Prion",
+      "start": 851,
+      "end": 854,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 851,
+          "end": 854
+        }
+      ]
+    }
+  ]
+}

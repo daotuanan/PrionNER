@@ -1,0 +1,14 @@
+T1	Generic_Prion 28 53	Creutzfeldt-Jakob disease
+T2	Anatomic_location 81 93	white matter
+T3	Anatomic_location 98 108	cerebellum
+T4	Imaging_test 117 119	CT
+T5	Anatomic_location 208 220	white matter
+T7	Choose_Related 307 310	YES
+T8	Anatomic_location 167 175	cerebral
+T9	Anatomic_location 180 190	cerebellar
+T14	Choose_Done 318 322	DONE
+T10	Imaging_finding 191 198	atrophy
+T11	Imaging_finding 221 232	hypodensity
+T6	Anatomic_location 277 294	fourth ventricles
+T13	Anatomic_location 265 272;284 294	lateral ventricles
+T12	Imaging_finding 238 261	progressive enlargement

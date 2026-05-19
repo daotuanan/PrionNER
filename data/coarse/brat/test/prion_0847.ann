@@ -1,0 +1,8 @@
+T1	Acquired_Prion 32 65	variant Creutzfeldt-Jakob disease
+T2	Generic_Prion 99 131	bovine spongiform encephalopathy
+T3	Acquired_Prion 186 197	variant CJD
+T4	Sporadic_Prion 227 239	sporadic CJD
+T10	Test_name 248 265	neuropathological
+T5	Acquired_Prion 312 316	vCJD
+T7	Acquired_Prion 384 388	vCJD
+T11	Acquired_Prion 435 445	iatrogenic

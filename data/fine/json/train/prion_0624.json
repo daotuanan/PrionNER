@@ -1,0 +1,448 @@
+{
+  "doc_id": "prion_0624",
+  "text": "A middle-aged neurosurgeon had an 18-month illness characterized by abnormal sleep patterns, paresthesias, and necrotizing cutaneous lesions with vasculitis and signs of cerebral, brainstem, vestibulocerebellar, and progressive spinal cord involvement.\nBiopsy specimens of nerve and skin showed an acute vasculitis with endovascular cellular proliferation in the pattern of a Köhlmeier-Degos lesion and focal epidermal necrosis.\nMental changes and cranial-nerve signs developed.\nMyoclonus occurred occasionally during sleep.\nAkinetic mutism ensued.\nAt autopsy, major abnormalities were limited to the nervous system and skin.\nSpongiform encephalopathy typical of Creutzfeldt-Jakob disease was found with amyloid kuru plaques.\nA cribriform change distinct from the spongiform change was seen focally in the white matter.\nScarred skin lesions and a healed, partially obliterative arteritis were noted.\nInoculation of brain and lung into nonhuman primates resulted in a spongiform encephalopathy.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Duration",
+      "start": 34,
+      "end": 42,
+      "text": "18-month",
+      "spans": [
+        {
+          "start": 34,
+          "end": 42
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 68,
+      "end": 91,
+      "text": "abnormal sleep patterns",
+      "spans": [
+        {
+          "start": 68,
+          "end": 91
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 93,
+      "end": 105,
+      "text": "paresthesias",
+      "spans": [
+        {
+          "start": 93,
+          "end": 105
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 111,
+      "end": 140,
+      "text": "necrotizing cutaneous lesions",
+      "spans": [
+        {
+          "start": 111,
+          "end": 140
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 146,
+      "end": 156,
+      "text": "vasculitis",
+      "spans": [
+        {
+          "start": 146,
+          "end": 156
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 161,
+      "end": 251,
+      "text": "signs of cerebral, brainstem, vestibulocerebellar, and progressive spinal cord involvement",
+      "spans": [
+        {
+          "start": 161,
+          "end": 251
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 170,
+      "end": 178,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 170,
+          "end": 178
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 180,
+      "end": 189,
+      "text": "brainstem",
+      "spans": [
+        {
+          "start": 180,
+          "end": 189
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Anatomic_location",
+      "start": 191,
+      "end": 210,
+      "text": "vestibulocerebellar",
+      "spans": [
+        {
+          "start": 191,
+          "end": 210
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 228,
+      "end": 239,
+      "text": "spinal cord",
+      "spans": [
+        {
+          "start": 228,
+          "end": 239
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Autopsy",
+      "start": 253,
+      "end": 259,
+      "text": "Biopsy",
+      "spans": [
+        {
+          "start": 253,
+          "end": 259
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Differential_Diagnosis",
+      "start": 304,
+      "end": 314,
+      "text": "vasculitis",
+      "spans": [
+        {
+          "start": 304,
+          "end": 314
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Autopsy_finding",
+      "start": 320,
+      "end": 355,
+      "text": "endovascular cellular proliferation",
+      "spans": [
+        {
+          "start": 320,
+          "end": 355
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Autopsy_finding",
+      "start": 376,
+      "end": 398,
+      "text": "Köhlmeier-Degos lesion",
+      "spans": [
+        {
+          "start": 376,
+          "end": 398
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Autopsy_finding",
+      "start": 409,
+      "end": 427,
+      "text": "epidermal necrosis",
+      "spans": [
+        {
+          "start": 409,
+          "end": 427
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 429,
+      "end": 443,
+      "text": "Mental changes",
+      "spans": [
+        {
+          "start": 429,
+          "end": 443
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 448,
+      "end": 467,
+      "text": "cranial-nerve signs",
+      "spans": [
+        {
+          "start": 448,
+          "end": 467
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 479,
+      "end": 488,
+      "text": "Myoclonus",
+      "spans": [
+        {
+          "start": 479,
+          "end": 488
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 525,
+      "end": 540,
+      "text": "Akinetic mutism",
+      "spans": [
+        {
+          "start": 525,
+          "end": 540
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Autopsy",
+      "start": 552,
+      "end": 559,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 552,
+          "end": 559
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Autopsy_finding",
+      "start": 567,
+      "end": 580,
+      "text": "abnormalities",
+      "spans": [
+        {
+          "start": 567,
+          "end": 580
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Anatomic_location",
+      "start": 601,
+      "end": 615,
+      "text": "nervous system",
+      "spans": [
+        {
+          "start": 601,
+          "end": 615
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Anatomic_location",
+      "start": 620,
+      "end": 624,
+      "text": "skin",
+      "spans": [
+        {
+          "start": 620,
+          "end": 624
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Generic_Prion",
+      "start": 626,
+      "end": 651,
+      "text": "Spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 626,
+          "end": 651
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Generic_Prion",
+      "start": 663,
+      "end": 688,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 663,
+          "end": 688
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Autopsy_finding",
+      "start": 704,
+      "end": 724,
+      "text": "amyloid kuru plaques",
+      "spans": [
+        {
+          "start": 704,
+          "end": 724
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Autopsy_finding",
+      "start": 728,
+      "end": 745,
+      "text": "cribriform change",
+      "spans": [
+        {
+          "start": 728,
+          "end": 745
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Autopsy_finding",
+      "start": 764,
+      "end": 781,
+      "text": "spongiform change",
+      "spans": [
+        {
+          "start": 764,
+          "end": 781
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 806,
+      "end": 818,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 806,
+          "end": 818
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Complication",
+      "start": 820,
+      "end": 840,
+      "text": "Scarred skin lesions",
+      "spans": [
+        {
+          "start": 820,
+          "end": 840
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Complication",
+      "start": 865,
+      "end": 887,
+      "text": "obliterative arteritis",
+      "spans": [
+        {
+          "start": 865,
+          "end": 887
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Anatomic_location",
+      "start": 915,
+      "end": 920,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 915,
+          "end": 920
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Anatomic_location",
+      "start": 925,
+      "end": 929,
+      "text": "lung",
+      "spans": [
+        {
+          "start": 925,
+          "end": 929
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Generic_Prion",
+      "start": 967,
+      "end": 992,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 967,
+          "end": 992
+        }
+      ]
+    }
+  ]
+}

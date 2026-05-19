@@ -1,0 +1,409 @@
+{
+  "doc_id": "prion_0520",
+  "text": "We report an autopsy-diagnosed case of Creutzfeldt-Jacob disease (CJD) showing diffuse reduced uptake in SPECT and a high level of neuron-specific enolase (NSE) in the cerebrospinal fluid (CSF).\nA 75-year-old woman with a 3-month history of progressive gait ataxia and dementia was examined.\nFour months after onset of the disease, she developed an akinetic mutism with normal CT and MRI.\nShe was admitted for further examination, and electroencephalography showed periodic synchronous discharges.\nNSE in the CSF showed a high level at 90.6 ng/ml, and SPECT showed diffuse reduced uptake in the supratentorial region, with relatively spared uptake in the cerebellum.\nShe died 13 months after onset of the disease, and the autopsy diagnosis was CJD.\nSPECT data and the level of NSE in CSF seem to be useful for clinical diagnosis and pathogenetic analysis in the early stage of CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Autopsy",
+      "start": 13,
+      "end": 20,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 13,
+          "end": 20
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 39,
+      "end": 64,
+      "text": "Creutzfeldt-Jacob disease",
+      "spans": [
+        {
+          "start": 39,
+          "end": 64
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 66,
+      "end": 69,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 66,
+          "end": 69
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Imaging_finding",
+      "start": 79,
+      "end": 101,
+      "text": "diffuse reduced uptake",
+      "spans": [
+        {
+          "start": 79,
+          "end": 101
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Imaging_test",
+      "start": 105,
+      "end": 110,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 105,
+          "end": 110
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Blood_biomarker_test",
+      "start": 168,
+      "end": 187,
+      "text": "cerebrospinal fluid",
+      "spans": [
+        {
+          "start": 168,
+          "end": 187
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Blood_biomarker_test",
+      "start": 189,
+      "end": 192,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 189,
+          "end": 192
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Age",
+      "start": 197,
+      "end": 208,
+      "text": "75-year-old",
+      "spans": [
+        {
+          "start": 197,
+          "end": 208
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Duration",
+      "start": 222,
+      "end": 229,
+      "text": "3-month",
+      "spans": [
+        {
+          "start": 222,
+          "end": 229
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 241,
+      "end": 264,
+      "text": "progressive gait ataxia",
+      "spans": [
+        {
+          "start": 241,
+          "end": 264
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 269,
+      "end": 277,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 269,
+          "end": 277
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Duration",
+      "start": 292,
+      "end": 303,
+      "text": "Four months",
+      "spans": [
+        {
+          "start": 292,
+          "end": 303
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Time_point",
+      "start": 304,
+      "end": 315,
+      "text": "after onset",
+      "spans": [
+        {
+          "start": 304,
+          "end": 315
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 349,
+      "end": 364,
+      "text": "akinetic mutism",
+      "spans": [
+        {
+          "start": 349,
+          "end": 364
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Imaging_test",
+      "start": 377,
+      "end": 379,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 377,
+          "end": 379
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Imaging_test",
+      "start": 384,
+      "end": 387,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 384,
+          "end": 387
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Electrophysio_test",
+      "start": 435,
+      "end": 457,
+      "text": "electroencephalography",
+      "spans": [
+        {
+          "start": 435,
+          "end": 457
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Blood_biomarker_test",
+      "start": 509,
+      "end": 512,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 509,
+          "end": 512
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Imaging_test",
+      "start": 552,
+      "end": 557,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 552,
+          "end": 557
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Imaging_finding",
+      "start": 565,
+      "end": 587,
+      "text": "diffuse reduced uptake",
+      "spans": [
+        {
+          "start": 565,
+          "end": 587
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Anatomic_location",
+      "start": 595,
+      "end": 616,
+      "text": "supratentorial region",
+      "spans": [
+        {
+          "start": 595,
+          "end": 616
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Imaging_finding",
+      "start": 634,
+      "end": 647,
+      "text": "spared uptake",
+      "spans": [
+        {
+          "start": 634,
+          "end": 647
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Anatomic_location",
+      "start": 655,
+      "end": 665,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 655,
+          "end": 665
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Complication",
+      "start": 671,
+      "end": 675,
+      "text": "died",
+      "spans": [
+        {
+          "start": 671,
+          "end": 675
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Duration",
+      "start": 676,
+      "end": 685,
+      "text": "13 months",
+      "spans": [
+        {
+          "start": 676,
+          "end": 685
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Time_point",
+      "start": 686,
+      "end": 697,
+      "text": "after onset",
+      "spans": [
+        {
+          "start": 686,
+          "end": 697
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Autopsy",
+      "start": 722,
+      "end": 739,
+      "text": "autopsy diagnosis",
+      "spans": [
+        {
+          "start": 722,
+          "end": 739
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Generic_Prion",
+      "start": 744,
+      "end": 747,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 744,
+          "end": 747
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Imaging_test",
+      "start": 749,
+      "end": 754,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 749,
+          "end": 754
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Anatomic_location",
+      "start": 784,
+      "end": 787,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 784,
+          "end": 787
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Generic_Prion",
+      "start": 877,
+      "end": 880,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 877,
+          "end": 880
+        }
+      ]
+    }
+  ]
+}

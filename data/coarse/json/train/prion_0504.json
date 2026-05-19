@@ -1,0 +1,237 @@
+{
+  "doc_id": "prion_0504",
+  "text": "An autopsy case of Creutzfeldt-Jakob disease with Kuru-like neuropathological changes which revealed clinically extrapyramidal, pyramidal and psychic symptoms is presented in this report.\nOn microscopic examination, status spongiosus, neuronal degeneration, proliferation of hypertrophic astrocytes and numerous plaques were observed in the cerebrum and cerebellum accompanied with widespread demyelinization.\nThese plaques which suggested Kuru plaques measuring 10 to 60 micron were strongly PAS positive and had a dense central core surrounded by a halo of fine radially arranged fibrils.\nAs for the relationship between Creutzfeldt-Jakob disease and Kuru, the significance of these morphological changes is discussed.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Test_name",
+      "start": 3,
+      "end": 10,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 3,
+          "end": 10
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 19,
+      "end": 44,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 19,
+          "end": 44
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Acquired_Prion",
+      "start": 50,
+      "end": 54,
+      "text": "Kuru",
+      "spans": [
+        {
+          "start": 50,
+          "end": 54
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Findings",
+      "start": 50,
+      "end": 85,
+      "text": "Kuru-like neuropathological changes",
+      "spans": [
+        {
+          "start": 50,
+          "end": 85
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 112,
+      "end": 158,
+      "text": "extrapyramidal symptoms",
+      "spans": [
+        {
+          "start": 112,
+          "end": 126
+        },
+        {
+          "start": 150,
+          "end": 158
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 128,
+      "end": 158,
+      "text": "pyramidal symptoms",
+      "spans": [
+        {
+          "start": 128,
+          "end": 137
+        },
+        {
+          "start": 150,
+          "end": 158
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 142,
+      "end": 158,
+      "text": "psychic symptoms",
+      "spans": [
+        {
+          "start": 142,
+          "end": 158
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Findings",
+      "start": 216,
+      "end": 233,
+      "text": "status spongiosus",
+      "spans": [
+        {
+          "start": 216,
+          "end": 233
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Findings",
+      "start": 235,
+      "end": 256,
+      "text": "neuronal degeneration",
+      "spans": [
+        {
+          "start": 235,
+          "end": 256
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Findings",
+      "start": 258,
+      "end": 298,
+      "text": "proliferation of hypertrophic astrocytes",
+      "spans": [
+        {
+          "start": 258,
+          "end": 298
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Findings",
+      "start": 303,
+      "end": 319,
+      "text": "numerous plaques",
+      "spans": [
+        {
+          "start": 303,
+          "end": 319
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 341,
+      "end": 349,
+      "text": "cerebrum",
+      "spans": [
+        {
+          "start": 341,
+          "end": 349
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 354,
+      "end": 364,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 354,
+          "end": 364
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Findings",
+      "start": 393,
+      "end": 408,
+      "text": "demyelinization",
+      "spans": [
+        {
+          "start": 393,
+          "end": 408
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Findings",
+      "start": 440,
+      "end": 452,
+      "text": "Kuru plaques",
+      "spans": [
+        {
+          "start": 440,
+          "end": 452
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 623,
+      "end": 648,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 623,
+          "end": 648
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Acquired_Prion",
+      "start": 653,
+      "end": 657,
+      "text": "Kuru",
+      "spans": [
+        {
+          "start": 653,
+          "end": 657
+        }
+      ]
+    }
+  ]
+}

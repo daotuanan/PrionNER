@@ -1,0 +1,7 @@
+T1	Duration 0 21	Between 1970 and 2003
+T3	iCJD 38 91	human dura mater-associated Creutzfeldt-Jakob disease
+T4	Generic_Prion 93 96	CJD
+T5	Generic_Prion 162 165	CJD
+T6	Duration 262 286	93 (range 45-177) months
+T2	Treatment 171 189	porcine dura graft
+T8	Treatment 235 251	human dura mater

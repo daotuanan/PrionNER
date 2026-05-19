@@ -1,0 +1,28 @@
+T1	Test_name 15 34	neuropathologically
+T2	Generic_Prion 58 83	Creutzfeldt-Jakob disease
+T33	Complication 88 92	died
+T3	Time 106 127	between 1980 and 1987
+T31	Anatomic_location 284 289	brain
+T5	Age 308 322	42 to 63 years
+T8	Time 390 406	3.5 to 24 months
+T10	Symptom 440 458	behavioral changes
+T12	Time 487 512	one year to several weeks
+T13	Symptom 521 544	neurological impairment
+T4	Symptom 580 589;621 633	pyramidal disturbances
+T6	Symptom 591 605;621 633	extrapyramidal disturbances
+T7	Symptom 610 633	cerebellar disturbances
+T16	Symptom 646 664	movement disorders
+T17	Symptom 669 689	progressive dementia
+T18	Symptom 691 709	Visual alterations
+T9	Test_name 745 748	EEG
+T22	Anatomic_location 776 784	cortical
+T11	Findings 785 803	spongiform changes
+T24	Findings 838 856	neuronal depletion
+T25	Findings 861 883	astroglial hyperplasia
+T20	Findings 908 935	No white matter involvement
+T26	Anatomic_location 911 923	white matter
+T27	Test_name 961 963	CT
+T32	Anatomic_location 964 969	brain
+T28	Test_name 982 1005	histopathological study
+T15	Test_name 1009 1017	biopsied
+T19	Test_name 1022 1031	autopsied

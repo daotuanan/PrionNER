@@ -1,0 +1,84 @@
+{
+  "doc_id": "prion_0693",
+  "text": "Kuru, the progressive and fatal neurologic disorder which occurred exclusively among natives of the New Guinea Highlands, were reviewed.\nEarly history of kuru investigation, epidemiology, clinical findings, pathological findings, successful transmission with chimpanzees, from unconventional virus to prion hypothesis and the similarities to \"variant of Creutzfeldt-Jakob disease\" were discussed in the literature.\nAlthough the incidence of kuru has markedly declined with the suppression of cannibalism, it is important from a historical perspective because it was the first human transmissible prion disease to be recognized.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Kuru",
+      "start": 0,
+      "end": 4,
+      "text": "Kuru",
+      "spans": [
+        {
+          "start": 0,
+          "end": 4
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Kuru",
+      "start": 154,
+      "end": 158,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 154,
+          "end": 158
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 301,
+      "end": 317,
+      "text": "prion hypothesis",
+      "spans": [
+        {
+          "start": 301,
+          "end": 317
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 343,
+      "end": 379,
+      "text": "variant of Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 343,
+          "end": 379
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Kuru",
+      "start": 441,
+      "end": 445,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 441,
+          "end": 445
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 596,
+      "end": 609,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 596,
+          "end": 609
+        }
+      ]
+    }
+  ]
+}

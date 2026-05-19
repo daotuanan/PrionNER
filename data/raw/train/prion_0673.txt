@@ -1,0 +1,7 @@
+Fatal familial insomnia (FFI) has been exclusively associated with a pathogenic mutation at codon 178 in the PRNP gene coupled with methionine (Met) at codon 129.
+We now describe a subject with familial Creutzfeldt-Jakob disease, heterozygous for the pathogenic lysine (Lys) mutation at codon 200 and homozygous for Met at codon 129 of the PRNP gene, who was affected by severe insomnia.
+At autopsy the patient had significant involvement of the thalamus, as previously described in subjects affected by FFI with the codon 178 mutation.
+This case demonstrates the wide variability of the clinical expressions in patients with the codon 200 mutation, that may include insomnia and thalamic pathology.
+
+<Related> YES or NO
+[DONE]

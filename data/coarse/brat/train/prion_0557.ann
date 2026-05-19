@@ -1,0 +1,21 @@
+T1	Test_name 3 10	autopsy
+T2	Generic_Prion 19 43	Creutzfeld-Jacob disease
+T19	Findings 60 75	amyloid plaques
+T3	Age 91 102	45-year-old
+T23	Complication 134 138	died
+T5	Time 167 173	5-year
+T6	Symptom 199 227	progressive cerebellar signs
+T4	Anatomic_location 211 221	cerebellar
+T7	Symptom 229 243	Mental changes
+T22	Anatomic_location 248 258	brain-stem
+T8	Symptom 248 264	brain-stem signs
+T9	Time 282 292	late stage
+T10	Symptom 294 303	Myoclonus
+T11	Symptom 325 340	Akinetic mutism
+T12	Test_name 353 360	autopsy
+T13	Generic_Prion 370 395	spongiform encephalopathy
+T20	Findings 412 427	amyloid plaques
+T17	Findings 442 474	degeneration of the white matter
+T14	Anatomic_location 462 474	white matter
+T15	Familial_Prion 498 536	Gerstmann-Sträussler-Scheinker disease
+T16	Sporadic_Prion 541 592	panencephalopathic type of Creutzfeld-Jacob disease

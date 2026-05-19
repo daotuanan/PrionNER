@@ -1,0 +1,4 @@
+BACKGROUND: The determination of the form of prion disease and early diagnosis are important for prognostic, public health, and epidemiologic reasons.
+OBJECTIVE: To describe a patient with sporadic Creutzfeldt-Jakob disease (sCJD) who had a clinical history and initial electroencephalogram and magnetic resonance imaging findings consistent with variant CJD (vCJD).
+RESULTS: Results of a repeated electroencephalogram were suggestive of sCJD, and a subsequent brain biopsy confirmed this diagnosis.
+CONCLUSIONS: This case cautions against relying solely on T2- and diffusion-weighted pulvinar hyperintensity and clinical features to differentiate between vCJD and sCJD, and further supports established diagnostic criteria for vCJD.

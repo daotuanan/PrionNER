@@ -1,0 +1,305 @@
+{
+  "doc_id": "prion_0730",
+  "text": "We report a 72-year-old man with Creutzfeldt-Jakob disease.\nHe showed a progressive dementia, myoclonus, and other neurological symptoms.\nDNA analysis showed a normal variation of prion gene (codon 129, Met/Met: codon 219, Glu/Glu).\nHe had periodic synchronous discharge on electroencephalogram and brain atrophy on CT scan and MRI.\nDiffusion images on his brain MRI revealed a marked increase in signal intensity in the caudate nuclei, putamen, and cerebral cortices.\nThese changes may represent spongy changes of the brain and seem to be a feature of brain MRI in Creutzfeldt-Jakob disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 12,
+      "end": 23,
+      "text": "72-year-old",
+      "spans": [
+        {
+          "start": 12,
+          "end": 23
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 33,
+      "end": 58,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 33,
+          "end": 58
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 72,
+      "end": 92,
+      "text": "progressive dementia",
+      "spans": [
+        {
+          "start": 72,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 94,
+      "end": 103,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 94,
+          "end": 103
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 115,
+      "end": 136,
+      "text": "neurological symptoms",
+      "spans": [
+        {
+          "start": 115,
+          "end": 136
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Genetic_test",
+      "start": 138,
+      "end": 150,
+      "text": "DNA analysis",
+      "spans": [
+        {
+          "start": 138,
+          "end": 150
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Electrophysio_test",
+      "start": 274,
+      "end": 294,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 274,
+          "end": 294
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Anatomic_location",
+      "start": 299,
+      "end": 304,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 299,
+          "end": 304
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Imaging_finding",
+      "start": 305,
+      "end": 312,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 305,
+          "end": 312
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Imaging_test",
+      "start": 316,
+      "end": 323,
+      "text": "CT scan",
+      "spans": [
+        {
+          "start": 316,
+          "end": 323
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Imaging_test",
+      "start": 328,
+      "end": 331,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 328,
+          "end": 331
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Imaging_sequence",
+      "start": 333,
+      "end": 349,
+      "text": "Diffusion images",
+      "spans": [
+        {
+          "start": 333,
+          "end": 349
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 357,
+      "end": 362,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 357,
+          "end": 362
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Imaging_test",
+      "start": 363,
+      "end": 366,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 363,
+          "end": 366
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Imaging_finding",
+      "start": 378,
+      "end": 413,
+      "text": "marked increase in signal intensity",
+      "spans": [
+        {
+          "start": 378,
+          "end": 413
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 421,
+      "end": 435,
+      "text": "caudate nuclei",
+      "spans": [
+        {
+          "start": 421,
+          "end": 435
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 437,
+      "end": 444,
+      "text": "putamen",
+      "spans": [
+        {
+          "start": 437,
+          "end": 444
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 450,
+      "end": 467,
+      "text": "cerebral cortices",
+      "spans": [
+        {
+          "start": 450,
+          "end": 467
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Autopsy_finding",
+      "start": 497,
+      "end": 511,
+      "text": "spongy changes",
+      "spans": [
+        {
+          "start": 497,
+          "end": 511
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Anatomic_location",
+      "start": 519,
+      "end": 524,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 519,
+          "end": 524
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Anatomic_location",
+      "start": 553,
+      "end": 558,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 553,
+          "end": 558
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Imaging_test",
+      "start": 559,
+      "end": 562,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 559,
+          "end": 562
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Generic_Prion",
+      "start": 566,
+      "end": 591,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 566,
+          "end": 591
+        }
+      ]
+    }
+  ]
+}

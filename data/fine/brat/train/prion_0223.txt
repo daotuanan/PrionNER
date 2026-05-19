@@ -1,0 +1,10 @@
+OBJECTIVE: To gain a better understanding of how mutations of the prion protein (PrP) gene are responsible for progressive dementia syndrome and to clarify the correlation between genotype and phenotype, which should help to explain how the prion promotes neurological symptoms. BACKGROUND: Genetic prion diseases are associated with point or insertional mutations in the PrP gene.
+The insertional mutations described so far consist of one to nine extra octapeptide repeats, except three repeats.
+Insertions of one to four extra octapeptide repeats cause Creutzfeldt-Jakob disease (CJD) in patients without a family history of neurological disorders.
+CJD generally presents as progressive dementia.
+METHODS: Routine clinical assessment and sequence analysis of the PrP gene of DNA from a 56 year old Japanese man with progressive dementia syndrome.
+RESULTS: Sequence analysis disclosed a novel four octapeptide repeat insertion within the PrP gene.
+The patient was initially affected by progressive cerebellar and brainstem signs; a few months later myoclonus and rapidly progressive dementia appeared.
+These symptoms were similar to those of sporadic CJD.
+CONCLUSION: Taken together with previous investigations of CJD patients with insertional mutations, the current observation strengthens the notion that small octapeptide insertions from one to four extra repeats within the PrP gene cause CJD, which is characterised by late onset after the sixth decade, rapid progression, death within a few months, and lack of a family history of neurological disorders, the latter suggesting incomplete penetrance.
+Different patients with four extra octapeptide repeats have different patterns of extra insertions, suggesting that progression of the disease depends on the number of extra repeats.

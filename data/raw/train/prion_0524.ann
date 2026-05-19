@@ -1,0 +1,8 @@
+T1	Generic_Prion 45 70	Creutzfeldt-Jakob disease
+T2	Time_point 214 221	1980-89
+T3	Duration 232 247	ten year period
+T10	Age 614 624	65.2 years
+T11	Duration 659 669	5.3 months
+T4	Choose_Done 907 911	DONE
+T5	Incidence 326 344	0.37 cases/million
+T6	Choose_Related 903 905	NO

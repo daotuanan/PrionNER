@@ -1,0 +1,240 @@
+{
+  "doc_id": "prion_0595",
+  "text": "We report the coincidence of pathologically confirmed sporadic CJD in two unrelated schoolteachers who shared a school wing for 9 months.\nThe first developed ataxia, tremulousness, and dementia 5 months after his last contact with his colleague.\nDiagnosis of CJD was made 2 months later by brain biopsy.\nEight months later, the second teacher developed similar symptoms and died after 9 months.\nWhether this unique coincidence reflects mere chance or some form of direct viral transmission is unknown.\nContinued epidemiologic surveillance for any future \"coincidence\" is warranted.",
+  "entities": [
+    {
+      "id": "T18",
+      "label": "Test_name",
+      "start": 29,
+      "end": 43,
+      "text": "pathologically",
+      "spans": [
+        {
+          "start": 29,
+          "end": 43
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Sporadic_Prion",
+      "start": 54,
+      "end": 66,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 54,
+          "end": 66
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Time",
+      "start": 128,
+      "end": 136,
+      "text": "9 months",
+      "spans": [
+        {
+          "start": 128,
+          "end": 136
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 158,
+      "end": 164,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 158,
+          "end": 164
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 166,
+      "end": 179,
+      "text": "tremulousness",
+      "spans": [
+        {
+          "start": 166,
+          "end": 179
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 185,
+      "end": 193,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 185,
+          "end": 193
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Time",
+      "start": 194,
+      "end": 202,
+      "text": "5 months",
+      "spans": [
+        {
+          "start": 194,
+          "end": 202
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Time",
+      "start": 194,
+      "end": 244,
+      "text": "5 months after his last contact with his colleague",
+      "spans": [
+        {
+          "start": 194,
+          "end": 244
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 259,
+      "end": 262,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 259,
+          "end": 262
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Time",
+      "start": 272,
+      "end": 280,
+      "text": "2 months",
+      "spans": [
+        {
+          "start": 272,
+          "end": 280
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Time",
+      "start": 272,
+      "end": 286,
+      "text": "2 months later",
+      "spans": [
+        {
+          "start": 272,
+          "end": 286
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 290,
+      "end": 295,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 290,
+          "end": 295
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 296,
+      "end": 302,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 296,
+          "end": 302
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Time",
+      "start": 304,
+      "end": 316,
+      "text": "Eight months",
+      "spans": [
+        {
+          "start": 304,
+          "end": 316
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Time",
+      "start": 304,
+      "end": 322,
+      "text": "Eight months later",
+      "spans": [
+        {
+          "start": 304,
+          "end": 322
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 353,
+      "end": 369,
+      "text": "similar symptoms",
+      "spans": [
+        {
+          "start": 353,
+          "end": 369
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Complication",
+      "start": 374,
+      "end": 378,
+      "text": "died",
+      "spans": [
+        {
+          "start": 374,
+          "end": 378
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 385,
+      "end": 393,
+      "text": "9 months",
+      "spans": [
+        {
+          "start": 385,
+          "end": 393
+        }
+      ]
+    }
+  ]
+}

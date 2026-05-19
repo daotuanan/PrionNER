@@ -1,0 +1,123 @@
+{
+  "doc_id": "prion_0678",
+  "text": "We report a case of Creutzfeldt-Jakob (CJD) disease in a 72-year-old man without characteristic EEG alterations.\nUnusually abundant pleomorphic PrP-immunopositive amyloid plaques were found in the cerebellum.\nDespite of this similarity with Gerstmann-Străussler-Scheinker (GSS) disease the case cannot be classified as GSS lacking classical GSS 102 PRNP gene mutation.\nThe ultrastructural findings were similar to those described previously for CJD.\nThe close contact of reactive astrocytes with both oligodendroglia and microglia in this case suggests their possible functional interaction.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 20,
+      "end": 37,
+      "text": "Creutzfeldt-Jakob",
+      "spans": [
+        {
+          "start": 20,
+          "end": 37
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 57,
+      "end": 68,
+      "text": "72-year-old",
+      "spans": [
+        {
+          "start": 57,
+          "end": 68
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 96,
+      "end": 99,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 96,
+          "end": 99
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Findings",
+      "start": 144,
+      "end": 178,
+      "text": "PrP-immunopositive amyloid plaques",
+      "spans": [
+        {
+          "start": 144,
+          "end": 178
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 197,
+      "end": 207,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 197,
+          "end": 207
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Familial_Prion",
+      "start": 241,
+      "end": 271,
+      "text": "Gerstmann-Străussler-Scheinker",
+      "spans": [
+        {
+          "start": 241,
+          "end": 271
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Familial_Prion",
+      "start": 319,
+      "end": 322,
+      "text": "GSS",
+      "spans": [
+        {
+          "start": 319,
+          "end": 322
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 445,
+      "end": 448,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 445,
+          "end": 448
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Findings",
+      "start": 471,
+      "end": 490,
+      "text": "reactive astrocytes",
+      "spans": [
+        {
+          "start": 471,
+          "end": 490
+        }
+      ]
+    }
+  ]
+}

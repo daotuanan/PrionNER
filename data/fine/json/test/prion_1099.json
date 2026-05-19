@@ -1,0 +1,227 @@
+{
+  "doc_id": "prion_1099",
+  "text": "Iatrogenic transmission of Creutzfeldt-Jakob disease (CJD) has occurred through particular medical procedures.\nAmong them, dura mater grafts and pituitary-derived growth hormone obtained from human cadavers undiagnosed as CJD are the most frequent sources of infection.\nRecent advances in our knowledge about dura mater graft- and human pituitary-derived growth hormone-associated CJD patients have revealed that the combination of the infected CJD strain and the PRNP genotype of the patient determines their clinical, neuropathologic, and biochemical features.\nIn this chapter, we summarize the clinical, neuropathologic, biochemical, and diagnostic features of dura mater graft- and human pituitary-derived growth hormone-associated CJD patients for the appropriate diagnosis of iatrogenic CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "iCJD",
+      "start": 0,
+      "end": 52,
+      "text": "Iatrogenic transmission of Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 52
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 54,
+      "end": 57,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 54,
+          "end": 57
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Treatment",
+      "start": 123,
+      "end": 140,
+      "text": "dura mater grafts",
+      "spans": [
+        {
+          "start": 123,
+          "end": 140
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Treatment",
+      "start": 145,
+      "end": 177,
+      "text": "pituitary-derived growth hormone",
+      "spans": [
+        {
+          "start": 145,
+          "end": 177
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 222,
+      "end": 225,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 222,
+          "end": 225
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Treatment",
+      "start": 309,
+      "end": 325,
+      "text": "dura mater graft",
+      "spans": [
+        {
+          "start": 309,
+          "end": 325
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "iCJD",
+      "start": 309,
+      "end": 384,
+      "text": "dura mater graft- and human pituitary-derived growth hormone-associated CJD",
+      "spans": [
+        {
+          "start": 309,
+          "end": 384
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Treatment",
+      "start": 331,
+      "end": 369,
+      "text": "human pituitary-derived growth hormone",
+      "spans": [
+        {
+          "start": 331,
+          "end": 369
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 381,
+      "end": 384,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 381,
+          "end": 384
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 445,
+      "end": 448,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 445,
+          "end": 448
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Autopsy",
+      "start": 520,
+      "end": 535,
+      "text": "neuropathologic",
+      "spans": [
+        {
+          "start": 520,
+          "end": 535
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Autopsy",
+      "start": 607,
+      "end": 622,
+      "text": "neuropathologic",
+      "spans": [
+        {
+          "start": 607,
+          "end": 622
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Treatment",
+      "start": 664,
+      "end": 680,
+      "text": "dura mater graft",
+      "spans": [
+        {
+          "start": 664,
+          "end": 680
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "iCJD",
+      "start": 664,
+      "end": 739,
+      "text": "dura mater graft- and human pituitary-derived growth hormone-associated CJD",
+      "spans": [
+        {
+          "start": 664,
+          "end": 739
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Treatment",
+      "start": 686,
+      "end": 724,
+      "text": "human pituitary-derived growth hormone",
+      "spans": [
+        {
+          "start": 686,
+          "end": 724
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 736,
+      "end": 739,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 736,
+          "end": 739
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "iCJD",
+      "start": 782,
+      "end": 796,
+      "text": "iatrogenic CJD",
+      "spans": [
+        {
+          "start": 782,
+          "end": 796
+        }
+      ]
+    }
+  ]
+}

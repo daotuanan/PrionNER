@@ -1,0 +1,6 @@
+A man was studied with sporadic Creutzfeldt-Jakob disease (sCJD) who had serial cortical syndromes evolving over 15 months without significant ataxia, prominent myoclonus, or periodic complexes on EEG examinations.
+This clinical phenotype correlated with a predominantly cortical and striatal distribution of lesions and accumulation of protease resistant prion protein with relative sparing of the brainstem or cerebellum.
+No amyloid plaques were seen and prion protein (PrP) immunohistochemistry only demonstrated very faint granular deposits in the cerebral cortex.
+Molecular analysis showed homozygosity for valine at codon 129 in the prion protein gene (PRNP) and protease resistant prion protein type 1 deposition.
+The comparison of molecular and clinicopathological features of the present case with those previously reported in sCJD, indicates that valine homozygosity at codon 129 and type 1 protease resistant prion protein are associated with a distinct phenotypic variant of sCJD.
+The data also support the view that the PRNP codon 129 polymorphism and the physicochemical properties of the protease resistant prion protein are major determinants of phenotypic variability in sCJD.

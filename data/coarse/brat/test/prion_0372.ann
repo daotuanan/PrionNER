@@ -1,0 +1,12 @@
+T4	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T5	Generic_Prion 27 30	CJD
+T2	Test_name 55 62	autopsy
+T10	Test_name 67 93	neuropathologic evaluation
+T7	Time 99 108	1990-2000
+T8	Generic_Prion 109 112	CJD
+T3	Test_name 113 120	autopsy
+T6	Generic_Prion 195 198	CJD
+T11	Generic_Prion 255 258	CJD
+T13	Test_name 279 286	autopsy
+T16	Test_name 318 325	autopsy
+T15	Generic_Prion 350 353	CJD

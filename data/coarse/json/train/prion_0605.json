@@ -1,0 +1,45 @@
+{
+  "doc_id": "prion_0605",
+  "text": "A case of extremely advanced Creutzfeldt-Jakob disease of the cortico-striato-cerebellar type is described.\nThe different stages of the disease are documented by computer-tomography.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 29,
+      "end": 54,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 29,
+          "end": 54
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 62,
+      "end": 88,
+      "text": "cortico-striato-cerebellar",
+      "spans": [
+        {
+          "start": 62,
+          "end": 88
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Test_name",
+      "start": 162,
+      "end": 181,
+      "text": "computer-tomography",
+      "spans": [
+        {
+          "start": 162,
+          "end": 181
+        }
+      ]
+    }
+  ]
+}

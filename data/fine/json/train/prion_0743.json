@@ -1,0 +1,474 @@
+{
+  "doc_id": "prion_0743",
+  "text": "Creutzfeldt-Jakob's disease (CJD) is characterised by rapidly progressive dementia, ataxia, myoclonus, and several other neurological deficits.\nIt generally affects older adults and occurs in sporadic, genetic and iatrogenic forms.\nDeath occurs usually within one year after onset of the disease.\nThe diagnosis is based on clinical criteria, neurophysiological and radiological findings, and confirmed by postmortal histopathology.\nDuring the last two years several cases of CJD have been reported with diffusion-weighted magnetic resonance imaging (MR) abnormalities, represented by increased signal intensity indicating reduced diffusion in basal ganglia and/or cortex cerebri.\nThese abnormalities seem to be characteristic of CJD.\nWe report a case of CJD in a 54-year-old woman who developed vertigo, nystagmus, ataxia, myoclonus, and dementia over a period of eight months.\nDiffusion-weighted magnetic resonance imaging showed increased signal intensity in corpus striatum and gyrus cinguli.\nThe diagnosis was postmortally confirmed with histopathology.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 27,
+      "text": "Creutzfeldt-Jakob's disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 27
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 29,
+      "end": 32,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 29,
+          "end": 32
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 54,
+      "end": 82,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 54,
+          "end": 82
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 84,
+      "end": 90,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 84,
+          "end": 90
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 92,
+      "end": 101,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 92,
+          "end": 101
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Age",
+      "start": 165,
+      "end": 170,
+      "text": "older",
+      "spans": [
+        {
+          "start": 165,
+          "end": 170
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "sCJD",
+      "start": 192,
+      "end": 200,
+      "text": "sporadic",
+      "spans": [
+        {
+          "start": 192,
+          "end": 200
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "fCJD",
+      "start": 202,
+      "end": 209,
+      "text": "genetic",
+      "spans": [
+        {
+          "start": 202,
+          "end": 209
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "iCJD",
+      "start": 214,
+      "end": 224,
+      "text": "iatrogenic",
+      "spans": [
+        {
+          "start": 214,
+          "end": 224
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Complication",
+      "start": 232,
+      "end": 237,
+      "text": "Death",
+      "spans": [
+        {
+          "start": 232,
+          "end": 237
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Duration",
+      "start": 260,
+      "end": 268,
+      "text": "one year",
+      "spans": [
+        {
+          "start": 260,
+          "end": 268
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time_point",
+      "start": 269,
+      "end": 295,
+      "text": "after onset of the disease",
+      "spans": [
+        {
+          "start": 269,
+          "end": 295
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Autopsy",
+      "start": 405,
+      "end": 430,
+      "text": "postmortal histopathology",
+      "spans": [
+        {
+          "start": 405,
+          "end": 430
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Duration",
+      "start": 448,
+      "end": 457,
+      "text": "two years",
+      "spans": [
+        {
+          "start": 448,
+          "end": 457
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 475,
+      "end": 478,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 475,
+          "end": 478
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Imaging_sequence",
+      "start": 503,
+      "end": 521,
+      "text": "diffusion-weighted",
+      "spans": [
+        {
+          "start": 503,
+          "end": 521
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Imaging_test",
+      "start": 522,
+      "end": 548,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 522,
+          "end": 548
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Imaging_test",
+      "start": 550,
+      "end": 552,
+      "text": "MR",
+      "spans": [
+        {
+          "start": 550,
+          "end": 552
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Imaging_finding",
+      "start": 584,
+      "end": 610,
+      "text": "increased signal intensity",
+      "spans": [
+        {
+          "start": 584,
+          "end": 610
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 643,
+      "end": 656,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 643,
+          "end": 656
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 664,
+      "end": 678,
+      "text": "cortex cerebri",
+      "spans": [
+        {
+          "start": 664,
+          "end": 678
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Generic_Prion",
+      "start": 729,
+      "end": 732,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 729,
+          "end": 732
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Generic_Prion",
+      "start": 754,
+      "end": 757,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 754,
+          "end": 757
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Age",
+      "start": 763,
+      "end": 774,
+      "text": "54-year-old",
+      "spans": [
+        {
+          "start": 763,
+          "end": 774
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Symptom",
+      "start": 795,
+      "end": 802,
+      "text": "vertigo",
+      "spans": [
+        {
+          "start": 795,
+          "end": 802
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Symptom",
+      "start": 804,
+      "end": 813,
+      "text": "nystagmus",
+      "spans": [
+        {
+          "start": 804,
+          "end": 813
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Symptom",
+      "start": 815,
+      "end": 821,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 815,
+          "end": 821
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Symptom",
+      "start": 823,
+      "end": 832,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 823,
+          "end": 832
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Symptom",
+      "start": 838,
+      "end": 846,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 838,
+          "end": 846
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Duration",
+      "start": 864,
+      "end": 876,
+      "text": "eight months",
+      "spans": [
+        {
+          "start": 864,
+          "end": 876
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Imaging_sequence",
+      "start": 878,
+      "end": 896,
+      "text": "Diffusion-weighted",
+      "spans": [
+        {
+          "start": 878,
+          "end": 896
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Imaging_test",
+      "start": 897,
+      "end": 923,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 897,
+          "end": 923
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Imaging_finding",
+      "start": 931,
+      "end": 957,
+      "text": "increased signal intensity",
+      "spans": [
+        {
+          "start": 931,
+          "end": 957
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 961,
+      "end": 976,
+      "text": "corpus striatum",
+      "spans": [
+        {
+          "start": 961,
+          "end": 976
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Anatomic_location",
+      "start": 981,
+      "end": 994,
+      "text": "gyrus cinguli",
+      "spans": [
+        {
+          "start": 981,
+          "end": 994
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Autopsy",
+      "start": 1042,
+      "end": 1056,
+      "text": "histopathology",
+      "spans": [
+        {
+          "start": 1042,
+          "end": 1056
+        }
+      ]
+    }
+  ]
+}

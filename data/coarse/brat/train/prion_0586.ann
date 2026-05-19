@@ -1,0 +1,28 @@
+T24	Findings 0 19	Decreased perfusion
+T1	Anatomic_location 32 39	frontal
+T14	Anatomic_location 49 71	temporoparietal cortex
+T25	Test_name 97 109	HIPDM planar
+T26	Test_name 114 157	single photon emission computed tomographic
+T2	Generic_Prion 183 208	Creutzfeldt-Jakob disease
+T3	Generic_Prion 210 213	CJD
+T28	Anatomic_location 234 239	brain
+T4	Test_name 240 246	biopsy
+T5	Test_name 262 269	autopsy
+T6	Test_name 274 277	EEG
+T8	Anatomic_location 341 351	hemisphere
+T9	Test_name 369 388	computed tomography
+T10	Test_name 390 392	CT
+T11	Test_name 395 421	nuclear magnetic resonance
+T12	Test_name 423 426	NMR
+T13	Test_name 433 462	cerebral angiographic studies
+T7	Test_name 508 526	[123I]HPDM imaging
+T15	Test_name 534 537	EEG
+T16	Test_name 613 633	cerebral angiography
+T17	Test_name 635 637	CT
+T18	Test_name 652 655	NMR
+T20	Generic_Prion 725 728	CJD
+T29	Anatomic_location 740 745	brain
+T21	Test_name 746 752	biopsy
+T19	Test_name 778 796	[123I] HIPDM study
+T30	Anatomic_location 897 902	brain
+T22	Test_name 903 909	biopsy

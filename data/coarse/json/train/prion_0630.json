@@ -1,0 +1,32 @@
+{
+  "doc_id": "prion_0630",
+  "text": "Three cases of probable iatrogenic transmission of Creutzfeldt-Jakob disease by neurosurgery are detailed together with a cluster of three cases in Eastern England possibly connected by dental procedures, and the development of Creutzfeldt-Jakob disease in a patient who had been in social contact with a familial case.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 51,
+      "end": 76,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 51,
+          "end": 76
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 228,
+      "end": 253,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 228,
+          "end": 253
+        }
+      ]
+    }
+  ]
+}

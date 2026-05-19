@@ -1,0 +1,393 @@
+{
+  "doc_id": "prion_0325",
+  "text": "Two Japanese sporadic Creutzfeld-Jakob disease (sCJD) patients with valine homozygosity at codon 129 of the prion protein gene and protease-resistant prion protein (PrP(Sc)) type 2 (VV2) are described.\nIn contrast with Western countries, this type of sCJD is very rare in Japan.\nIn 123 sCJD cases, only two were recognised as VV2 by the Japanese CJD surveillance committee.\nThe clinical symptoms and pathological findings of the patients were similar to those of European and US patients.\nThe noteworthy finding of diffusion weighted MRI (DWI) was that an abnormal high intensity covered a wide range of the thalamus including the dorsomedial nucleus, the pulvinar, and the ventral anterior, lateral, and posterolateral nuclei.\nThis thalamic pattern has not been recognised in sCJD with methionine homozygosity and PrP(Sc) type 1 (MM1) or methionine/valine heterozygosity and PrP(Sc) type 1 (MV1) which comprises the vast majority of sCJD.\nThis finding may be characteristic to VV2 and may distinguish it from MM1, MV1, and variant CJD.\nDWI can provide a very important clue for the antemortem diagnosis of VV2 subjects.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Sporadic_Prion",
+      "start": 13,
+      "end": 46,
+      "text": "sporadic Creutzfeld-Jakob disease",
+      "spans": [
+        {
+          "start": 13,
+          "end": 46
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Sporadic_Prion",
+      "start": 48,
+      "end": 52,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 48,
+          "end": 52
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Sporadic_Prion",
+      "start": 182,
+      "end": 185,
+      "text": "VV2",
+      "spans": [
+        {
+          "start": 182,
+          "end": 185
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Sporadic_Prion",
+      "start": 251,
+      "end": 255,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 251,
+          "end": 255
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Sporadic_Prion",
+      "start": 286,
+      "end": 290,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 286,
+          "end": 290
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Sporadic_Prion",
+      "start": 326,
+      "end": 329,
+      "text": "VV2",
+      "spans": [
+        {
+          "start": 326,
+          "end": 329
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 346,
+      "end": 349,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 346,
+          "end": 349
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 400,
+      "end": 412,
+      "text": "pathological",
+      "spans": [
+        {
+          "start": 400,
+          "end": 412
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Sequences",
+      "start": 515,
+      "end": 533,
+      "text": "diffusion weighted",
+      "spans": [
+        {
+          "start": 515,
+          "end": 533
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 534,
+      "end": 537,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 534,
+          "end": 537
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Sequences",
+      "start": 539,
+      "end": 542,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 539,
+          "end": 542
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Findings",
+      "start": 565,
+      "end": 579,
+      "text": "high intensity",
+      "spans": [
+        {
+          "start": 565,
+          "end": 579
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 608,
+      "end": 616,
+      "text": "thalamus",
+      "spans": [
+        {
+          "start": 608,
+          "end": 616
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 631,
+      "end": 650,
+      "text": "dorsomedial nucleus",
+      "spans": [
+        {
+          "start": 631,
+          "end": 650
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 656,
+      "end": 664,
+      "text": "pulvinar",
+      "spans": [
+        {
+          "start": 656,
+          "end": 664
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 674,
+      "end": 726,
+      "text": "ventral anterior nuclei",
+      "spans": [
+        {
+          "start": 674,
+          "end": 690
+        },
+        {
+          "start": 720,
+          "end": 726
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 692,
+      "end": 726,
+      "text": "lateral nuclei",
+      "spans": [
+        {
+          "start": 692,
+          "end": 699
+        },
+        {
+          "start": 720,
+          "end": 726
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 705,
+      "end": 726,
+      "text": "posterolateral nuclei",
+      "spans": [
+        {
+          "start": 705,
+          "end": 726
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Anatomic_location",
+      "start": 733,
+      "end": 741,
+      "text": "thalamic",
+      "spans": [
+        {
+          "start": 733,
+          "end": 741
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Sporadic_Prion",
+      "start": 777,
+      "end": 781,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 777,
+          "end": 781
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Sporadic_Prion",
+      "start": 831,
+      "end": 834,
+      "text": "MM1",
+      "spans": [
+        {
+          "start": 831,
+          "end": 834
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Sporadic_Prion",
+      "start": 892,
+      "end": 895,
+      "text": "MV1",
+      "spans": [
+        {
+          "start": 892,
+          "end": 895
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Sporadic_Prion",
+      "start": 934,
+      "end": 938,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 934,
+          "end": 938
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Sporadic_Prion",
+      "start": 978,
+      "end": 981,
+      "text": "VV2",
+      "spans": [
+        {
+          "start": 978,
+          "end": 981
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Sporadic_Prion",
+      "start": 1010,
+      "end": 1013,
+      "text": "MM1",
+      "spans": [
+        {
+          "start": 1010,
+          "end": 1013
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Sporadic_Prion",
+      "start": 1015,
+      "end": 1018,
+      "text": "MV1",
+      "spans": [
+        {
+          "start": 1015,
+          "end": 1018
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Acquired_Prion",
+      "start": 1024,
+      "end": 1035,
+      "text": "variant CJD",
+      "spans": [
+        {
+          "start": 1024,
+          "end": 1035
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Sequences",
+      "start": 1037,
+      "end": 1040,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 1037,
+          "end": 1040
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Sporadic_Prion",
+      "start": 1107,
+      "end": 1110,
+      "text": "VV2",
+      "spans": [
+        {
+          "start": 1107,
+          "end": 1110
+        }
+      ]
+    }
+  ]
+}

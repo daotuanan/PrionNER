@@ -1,0 +1,24 @@
+T1	Generic_Prion 0 25	Creutzfeldt-Jakob disease
+T2	Generic_Prion 27 30	CJD
+T5	Symptom 200 220	progressive dementia
+T6	Symptom 222 231	myoclonus
+T8	Symptom 289 309	Psychiatric symptoms
+T9	Generic_Prion 329 332	CJD
+T11	Generic_Prion 396 399	CJD
+T12	Incidence 417 431	1 in 1 000 000
+T15	Autopsy 573 581	biopsies
+T16	Autopsy 585 608	post-mortem evaluations
+T17	Generic_Prion 765 768	CJD
+T18	Symptom 823 843	psychiatric symptoms
+T19	Symptom 867 888	neurological symptoms
+T20	sCJD 929 941	sporadic CJD
+T22	Autopsy 1002 1008	biopsy
+T23	Electrophysio_test 1019 1040	electroencephalograms
+T24	Electrophysio_test 1042 1045	EEG
+T25	Generic_Prion 1147 1150	CJD
+T26	Electrophysio_test 1221 1224	EEG
+T3	Symptom 237 247;279 287	cerebellar findings
+T4	Symptom 249 258;279 287	pyramidal findings
+T7	Symptom 264 287	extrapyramidal findings
+T13	Anatomic_location 567 572	brain
+T14	Anatomic_location 996 1001	brain

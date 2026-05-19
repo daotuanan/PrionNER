@@ -1,0 +1,919 @@
+{
+  "doc_id": "prion_0007",
+  "text": "INTRODUCTION: Creutzfeldt‐Jakob disease (CJD) is a rare, fatal neurodegenerative disorder caused by misfolded prion proteins that accumulate in the brain, leading to spongiform encephalopathy.\nIt is characterized by rapidly progressive mental decline and other neurological symptoms, typically resulting in death within a year.\nStroke like symptoms as vertigo with CJD was not reported in the literature and hence we present our case.\nCASE PRESENTATION: 65‐year old female with past medical history of chronic hypertension presented to the emergency department with persistent dizziness that started a month prior.\nShe described it as spinning.\nNo reported change in mentation or memory issues.\nOn exam she was alert and oriented, chorea‐athetoid type movements of the left hand, abnormal finger to nose worse on the left side, and horizontal nystagmus more prominent on the left side.\nMRI brain with and without contrast revealed subtle DWI and FLAIR changes over the bilateral caudate and Putamen, right temporal and occipital area.\nSymptoms were worsening with agitation, visual hallucinations, and cognitive impairments.\nEEG performed showed right temporal sharp waves and diffuse generalized Triphasic waves, did not respond to anti seizure medications.\nAutoimmune and Paraneoplastic encephalitis panel came back negative.\nCSF studies were unremarkable.\nShe had positive CSF RT‐QulC confirmed diagnosis of Creutzfeldt‐Jakob Disease.\nDISCUSSION: CJD is extremely rare with an estimated global incidence of approximately 1 to 2 cases per million people per year.\nDespite its rarity, early recognition is crucial, as the disease progresses rapidly and can mimic other neurological conditions as Stroke.\nClinicians should maintain a high index of suspicion for CJD in patients presenting with vertigo and cerebellar ataxia that quickly evolve into profound cognitive decline.\nThe clinical presentation may initially appear nonspecific, as stroke like symptoms, with early symptoms including ataxia, develop visual disturbances, dysarthria, dysphagia, myoclonus, and marked impairments in coordination and mobility.\nDue to the atypical nature and rapid progression of symptoms, CJD poses significant diagnostic challenges and often requires a multidisciplinary approach.\nCONCLUSIONS: This case highlights the critical importance of including Creutzfeldt‐Jakob Disease in the differential diagnosis of patients presenting with stroke like symptom as vertigo accompanied by rapidly progressive dementia and ataxia.\nThe patient's swift neurological deterioration, along with characteristic EEG findings and positive RT‐QuIC assay, emphasizes the need for early recognition and a high index of clinical suspicion when evaluating unexplained stroke like symptoms, cognitive and motor symptoms. [Image: see text]",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 14,
+      "end": 39,
+      "text": "Creutzfeldt‐Jakob disease",
+      "spans": [
+        {
+          "start": 14,
+          "end": 39
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 41,
+      "end": 44,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 41,
+          "end": 44
+        }
+      ]
+    },
+    {
+      "id": "T78",
+      "label": "Anatomic_location",
+      "start": 148,
+      "end": 153,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 148,
+          "end": 153
+        }
+      ]
+    },
+    {
+      "id": "T59",
+      "label": "Symptom",
+      "start": 216,
+      "end": 250,
+      "text": "rapidly progressive mental decline",
+      "spans": [
+        {
+          "start": 216,
+          "end": 250
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 261,
+      "end": 282,
+      "text": "neurological symptoms",
+      "spans": [
+        {
+          "start": 261,
+          "end": 282
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Complication",
+      "start": 307,
+      "end": 312,
+      "text": "death",
+      "spans": [
+        {
+          "start": 307,
+          "end": 312
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Time",
+      "start": 313,
+      "end": 326,
+      "text": "within a year",
+      "spans": [
+        {
+          "start": 313,
+          "end": 326
+        }
+      ]
+    },
+    {
+      "id": "T60",
+      "label": "Symptom",
+      "start": 328,
+      "end": 348,
+      "text": "Stroke like symptoms",
+      "spans": [
+        {
+          "start": 328,
+          "end": 348
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 352,
+      "end": 359,
+      "text": "vertigo",
+      "spans": [
+        {
+          "start": 352,
+          "end": 359
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 365,
+      "end": 368,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 365,
+          "end": 368
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Age",
+      "start": 454,
+      "end": 465,
+      "text": "65‐year old",
+      "spans": [
+        {
+          "start": 454,
+          "end": 465
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 566,
+      "end": 586,
+      "text": "persistent dizziness",
+      "spans": [
+        {
+          "start": 566,
+          "end": 586
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Time",
+      "start": 600,
+      "end": 613,
+      "text": "a month prior",
+      "spans": [
+        {
+          "start": 600,
+          "end": 613
+        }
+      ]
+    },
+    {
+      "id": "T70",
+      "label": "Symptom",
+      "start": 635,
+      "end": 643,
+      "text": "spinning",
+      "spans": [
+        {
+          "start": 635,
+          "end": 643
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 667,
+      "end": 676,
+      "text": "mentation",
+      "spans": [
+        {
+          "start": 667,
+          "end": 676
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 680,
+      "end": 693,
+      "text": "memory issues",
+      "spans": [
+        {
+          "start": 680,
+          "end": 693
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 731,
+      "end": 761,
+      "text": "chorea‐athetoid type movements",
+      "spans": [
+        {
+          "start": 731,
+          "end": 761
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 780,
+      "end": 803,
+      "text": "abnormal finger to nose",
+      "spans": [
+        {
+          "start": 780,
+          "end": 803
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 832,
+      "end": 852,
+      "text": "horizontal nystagmus",
+      "spans": [
+        {
+          "start": 832,
+          "end": 852
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Test_name",
+      "start": 886,
+      "end": 921,
+      "text": "MRI with contrast",
+      "spans": [
+        {
+          "start": 886,
+          "end": 889
+        },
+        {
+          "start": 896,
+          "end": 900
+        },
+        {
+          "start": 913,
+          "end": 921
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T61",
+      "label": "Test_name",
+      "start": 886,
+      "end": 921,
+      "text": "MRI without contrast",
+      "spans": [
+        {
+          "start": 886,
+          "end": 889
+        },
+        {
+          "start": 905,
+          "end": 921
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T79",
+      "label": "Anatomic_location",
+      "start": 890,
+      "end": 895,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 890,
+          "end": 895
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Sequences",
+      "start": 938,
+      "end": 941,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 938,
+          "end": 941
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Findings",
+      "start": 938,
+      "end": 959,
+      "text": "DWI and FLAIR changes",
+      "spans": [
+        {
+          "start": 938,
+          "end": 959
+        }
+      ]
+    },
+    {
+      "id": "T62",
+      "label": "Sequences",
+      "start": 946,
+      "end": 951,
+      "text": "FLAIR",
+      "spans": [
+        {
+          "start": 946,
+          "end": 951
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 979,
+      "end": 986,
+      "text": "caudate",
+      "spans": [
+        {
+          "start": 979,
+          "end": 986
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 991,
+      "end": 998,
+      "text": "Putamen",
+      "spans": [
+        {
+          "start": 991,
+          "end": 998
+        }
+      ]
+    },
+    {
+      "id": "T64",
+      "label": "Anatomic_location",
+      "start": 1006,
+      "end": 1014,
+      "text": "temporal",
+      "spans": [
+        {
+          "start": 1006,
+          "end": 1014
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 1019,
+      "end": 1033,
+      "text": "occipital area",
+      "spans": [
+        {
+          "start": 1019,
+          "end": 1033
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Symptom",
+      "start": 1064,
+      "end": 1073,
+      "text": "agitation",
+      "spans": [
+        {
+          "start": 1064,
+          "end": 1073
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Symptom",
+      "start": 1075,
+      "end": 1096,
+      "text": "visual hallucinations",
+      "spans": [
+        {
+          "start": 1075,
+          "end": 1096
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Symptom",
+      "start": 1102,
+      "end": 1123,
+      "text": "cognitive impairments",
+      "spans": [
+        {
+          "start": 1102,
+          "end": 1123
+        }
+      ]
+    },
+    {
+      "id": "T65",
+      "label": "Test_name",
+      "start": 1125,
+      "end": 1128,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 1125,
+          "end": 1128
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Anatomic_location",
+      "start": 1152,
+      "end": 1160,
+      "text": "temporal",
+      "spans": [
+        {
+          "start": 1152,
+          "end": 1160
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Treatment",
+      "start": 1233,
+      "end": 1257,
+      "text": "anti seizure medications",
+      "spans": [
+        {
+          "start": 1233,
+          "end": 1257
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Differential_Diagnosis",
+      "start": 1259,
+      "end": 1301,
+      "text": "Autoimmune encephalitis",
+      "spans": [
+        {
+          "start": 1259,
+          "end": 1269
+        },
+        {
+          "start": 1289,
+          "end": 1301
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T68",
+      "label": "Differential_Diagnosis",
+      "start": 1274,
+      "end": 1301,
+      "text": "Paraneoplastic encephalitis",
+      "spans": [
+        {
+          "start": 1274,
+          "end": 1301
+        }
+      ]
+    },
+    {
+      "id": "T69",
+      "label": "Test_name",
+      "start": 1328,
+      "end": 1331,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1328,
+          "end": 1331
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Test_name",
+      "start": 1376,
+      "end": 1387,
+      "text": "CSF RT‐QulC",
+      "spans": [
+        {
+          "start": 1376,
+          "end": 1387
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Generic_Prion",
+      "start": 1411,
+      "end": 1436,
+      "text": "Creutzfeldt‐Jakob Disease",
+      "spans": [
+        {
+          "start": 1411,
+          "end": 1436
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Generic_Prion",
+      "start": 1450,
+      "end": 1453,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1450,
+          "end": 1453
+        }
+      ]
+    },
+    {
+      "id": "T71",
+      "label": "Stats",
+      "start": 1524,
+      "end": 1564,
+      "text": "1 to 2 cases per million people per year",
+      "spans": [
+        {
+          "start": 1524,
+          "end": 1564
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Differential_Diagnosis",
+      "start": 1670,
+      "end": 1693,
+      "text": "neurological conditions",
+      "spans": [
+        {
+          "start": 1670,
+          "end": 1693
+        }
+      ]
+    },
+    {
+      "id": "T72",
+      "label": "Differential_Diagnosis",
+      "start": 1697,
+      "end": 1703,
+      "text": "Stroke",
+      "spans": [
+        {
+          "start": 1697,
+          "end": 1703
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Generic_Prion",
+      "start": 1762,
+      "end": 1765,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1762,
+          "end": 1765
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Symptom",
+      "start": 1794,
+      "end": 1801,
+      "text": "vertigo",
+      "spans": [
+        {
+          "start": 1794,
+          "end": 1801
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Symptom",
+      "start": 1806,
+      "end": 1823,
+      "text": "cerebellar ataxia",
+      "spans": [
+        {
+          "start": 1806,
+          "end": 1823
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Symptom",
+      "start": 1858,
+      "end": 1875,
+      "text": "cognitive decline",
+      "spans": [
+        {
+          "start": 1858,
+          "end": 1875
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Symptom",
+      "start": 1940,
+      "end": 1960,
+      "text": "stroke like symptoms",
+      "spans": [
+        {
+          "start": 1940,
+          "end": 1960
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Symptom",
+      "start": 1992,
+      "end": 1998,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 1992,
+          "end": 1998
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Symptom",
+      "start": 2008,
+      "end": 2027,
+      "text": "visual disturbances",
+      "spans": [
+        {
+          "start": 2008,
+          "end": 2027
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Symptom",
+      "start": 2029,
+      "end": 2039,
+      "text": "dysarthria",
+      "spans": [
+        {
+          "start": 2029,
+          "end": 2039
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Symptom",
+      "start": 2041,
+      "end": 2050,
+      "text": "dysphagia",
+      "spans": [
+        {
+          "start": 2041,
+          "end": 2050
+        }
+      ]
+    },
+    {
+      "id": "T45",
+      "label": "Symptom",
+      "start": 2052,
+      "end": 2061,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 2052,
+          "end": 2061
+        }
+      ]
+    },
+    {
+      "id": "T73",
+      "label": "Symptom",
+      "start": 2074,
+      "end": 2101,
+      "text": "impairments in coordination",
+      "spans": [
+        {
+          "start": 2074,
+          "end": 2101
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Symptom",
+      "start": 2074,
+      "end": 2114,
+      "text": "impairments mobility",
+      "spans": [
+        {
+          "start": 2074,
+          "end": 2085
+        },
+        {
+          "start": 2106,
+          "end": 2114
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T47",
+      "label": "Generic_Prion",
+      "start": 2178,
+      "end": 2181,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 2178,
+          "end": 2181
+        }
+      ]
+    },
+    {
+      "id": "T74",
+      "label": "Generic_Prion",
+      "start": 2342,
+      "end": 2367,
+      "text": "Creutzfeldt‐Jakob Disease",
+      "spans": [
+        {
+          "start": 2342,
+          "end": 2367
+        }
+      ]
+    },
+    {
+      "id": "T75",
+      "label": "Symptom",
+      "start": 2426,
+      "end": 2445,
+      "text": "stroke like symptom",
+      "spans": [
+        {
+          "start": 2426,
+          "end": 2445
+        }
+      ]
+    },
+    {
+      "id": "T48",
+      "label": "Symptom",
+      "start": 2449,
+      "end": 2456,
+      "text": "vertigo",
+      "spans": [
+        {
+          "start": 2449,
+          "end": 2456
+        }
+      ]
+    },
+    {
+      "id": "T76",
+      "label": "Symptom",
+      "start": 2472,
+      "end": 2500,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 2472,
+          "end": 2500
+        }
+      ]
+    },
+    {
+      "id": "T50",
+      "label": "Symptom",
+      "start": 2505,
+      "end": 2511,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 2505,
+          "end": 2511
+        }
+      ]
+    },
+    {
+      "id": "T52",
+      "label": "Symptom",
+      "start": 2533,
+      "end": 2559,
+      "text": "neurological deterioration",
+      "spans": [
+        {
+          "start": 2533,
+          "end": 2559
+        }
+      ]
+    },
+    {
+      "id": "T49",
+      "label": "Test_name",
+      "start": 2587,
+      "end": 2590,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 2587,
+          "end": 2590
+        }
+      ]
+    },
+    {
+      "id": "T54",
+      "label": "Test_name",
+      "start": 2613,
+      "end": 2626,
+      "text": "RT‐QuIC assay",
+      "spans": [
+        {
+          "start": 2613,
+          "end": 2626
+        }
+      ]
+    },
+    {
+      "id": "T55",
+      "label": "Symptom",
+      "start": 2737,
+      "end": 2757,
+      "text": "stroke like symptoms",
+      "spans": [
+        {
+          "start": 2737,
+          "end": 2757
+        }
+      ]
+    },
+    {
+      "id": "T51",
+      "label": "Symptom",
+      "start": 2759,
+      "end": 2787,
+      "text": "cognitive symptoms",
+      "spans": [
+        {
+          "start": 2759,
+          "end": 2768
+        },
+        {
+          "start": 2779,
+          "end": 2787
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T56",
+      "label": "Symptom",
+      "start": 2773,
+      "end": 2787,
+      "text": "motor symptoms",
+      "spans": [
+        {
+          "start": 2773,
+          "end": 2787
+        }
+      ]
+    }
+  ]
+}

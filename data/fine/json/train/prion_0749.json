@@ -1,0 +1,214 @@
+{
+  "doc_id": "prion_0749",
+  "text": "Rapidly progressive dementia in an adult with findings of bilateral, symmetric high signal intensity on T2-weighted sequences and normal findings on T1-weighted sequences predominantly in the deep grey matter is suggestive of Creutzfeldt-Jakob disease (CJD).\nThe peripheral cortex may be involved, as it was in the present case.\nThe absence of subcortical periventricular white matter high signal intensity suggests that symmetric high signal intensities within the basal ganglia and cortical grey matter are more likely to be due to a degenerative process rather than due to ischaemia, infection or tumour.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Symptom",
+      "start": 0,
+      "end": 28,
+      "text": "Rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 0,
+          "end": 28
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Imaging_finding",
+      "start": 79,
+      "end": 100,
+      "text": "high signal intensity",
+      "spans": [
+        {
+          "start": 79,
+          "end": 100
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Imaging_sequence",
+      "start": 104,
+      "end": 125,
+      "text": "T2-weighted sequences",
+      "spans": [
+        {
+          "start": 104,
+          "end": 125
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Imaging_sequence",
+      "start": 149,
+      "end": 170,
+      "text": "T1-weighted sequences",
+      "spans": [
+        {
+          "start": 149,
+          "end": 170
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 192,
+      "end": 208,
+      "text": "deep grey matter",
+      "spans": [
+        {
+          "start": 192,
+          "end": 208
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 226,
+      "end": 251,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 226,
+          "end": 251
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 253,
+      "end": 256,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 253,
+          "end": 256
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 263,
+      "end": 280,
+      "text": "peripheral cortex",
+      "spans": [
+        {
+          "start": 263,
+          "end": 280
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 344,
+      "end": 384,
+      "text": "subcortical periventricular white matter",
+      "spans": [
+        {
+          "start": 344,
+          "end": 384
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Imaging_finding",
+      "start": 385,
+      "end": 406,
+      "text": "high signal intensity",
+      "spans": [
+        {
+          "start": 385,
+          "end": 406
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Imaging_finding",
+      "start": 431,
+      "end": 454,
+      "text": "high signal intensities",
+      "spans": [
+        {
+          "start": 431,
+          "end": 454
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 466,
+      "end": 479,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 466,
+          "end": 479
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 484,
+      "end": 504,
+      "text": "cortical grey matter",
+      "spans": [
+        {
+          "start": 484,
+          "end": 504
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Differential_Diagnosis",
+      "start": 576,
+      "end": 585,
+      "text": "ischaemia",
+      "spans": [
+        {
+          "start": 576,
+          "end": 585
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Differential_Diagnosis",
+      "start": 587,
+      "end": 596,
+      "text": "infection",
+      "spans": [
+        {
+          "start": 587,
+          "end": 596
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Differential_Diagnosis",
+      "start": 600,
+      "end": 606,
+      "text": "tumour",
+      "spans": [
+        {
+          "start": 600,
+          "end": 606
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+T2	Generic_Prion 54 79	Creutzfeldt-Jakob disease
+T3	Duration 94 100	1992-7
+T5	Generic_Prion 322 347	Creutzfeldt-Jakob disease
+T7	Time_point 441 462	between 1992 and 1997
+T12	Duration 917 923	1992-7
+T16	Complication 289 295	deaths
+T17	Complication 710 716	deaths
+T4	sCJD 864 907	sporadic cases of Creutzfeldt-Jakob disease
+T6	Age 948 953	older
+T8	sCJD 722 756	sporadic Creutzfeldt-Jakob disease
+T9	Age 488 493	older

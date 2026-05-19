@@ -1,0 +1,17 @@
+BACKGROUND: Prion diseases are a group of invariably fatal neurodegenerative disorders affecting humans and a wide range of mammals.
+An essential part of the infectious agent, termed the prion, is composed of an abnormal isoform (PrPSc) of a host-encoded normal cellular protein (PrPC).
+The conversion of PrPC to PrPSc is thought to play a crucial role in the development of prion diseases and leads to PrPSc deposition, mainly in the central nervous system.
+Sporadic Creutzfeldt-Jakob disease (sCJD), the most common form of human prion disease, presents with a marked clinical heterogeneity.
+This diversity is accompanied by a molecular signature which can be defined by histological, biochemical, and genetic means.
+The molecular classification of sCJD is an important tool to aid in the understanding of underlying disease mechanisms and the development of therapy protocols.
+Comparability of classifications is hampered by disparity of applied methods and inter-observer variability.
+METHODS AND FINDINGS: To overcome these difficulties, we developed a new quantification protocol for PrPSc by using internal standards on each Western blot, which allows for generation and direct comparison of individual PrPSc profiles.
+By studying PrPSc profiles and PrPSc type expression within nine defined central nervous system areas of 50 patients with sCJD, we were able to show distinct PrPSc distribution patterns in diverse subtypes of sCJD.
+Furthermore, we were able to demonstrate the co-existence of more than one PrPSc type in individuals with sCJD in about 20% of all patients and in more than 50% of patients heterozygous for a polymorphism on codon 129 of the gene encoding the prion protein (PRNP).
+CONCLUSION: PrPSc profiling represents a valuable tool for the molecular classification of human prion diseases and has important implications for their diagnosis by brain biopsy.
+Our results show that the co-existence of more than one PrPSc type might be influenced by genetic and brain region-specific determinants.
+These findings provide valuable insights into the generation of distinct PrPSc types.
+
+<Related> YES or NO
+[DONE]
+[CHECK]

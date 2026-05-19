@@ -1,0 +1,6 @@
+T1	Generic_Prion 18 43	Creutzfeldt-Jakob disease
+T4	Sporadic_Prion 45 60	Heidenhain type
+T5	Time 94 107	initial onset
+T2	Symptom 111 126	visual symptoms
+T3	Test_name 141 148	autopsy
+T6	Test_name 318 338	electroencephalogram

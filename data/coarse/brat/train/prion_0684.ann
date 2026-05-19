@@ -1,0 +1,13 @@
+T1	Generic_Prion 13 38	Cruetzfeldt-Jakob disease
+T2	Treatment 89 126	received human growth hormone extract
+T3	Time 168 177	2.9 years
+T6	Time 215 249	between January 1984 and July 1985
+T4	Time 333 348	17 +/- 9 months
+T7	Anatomic_location 402 412	cerebellar
+T9	Symptom 402 419	cerebellar ataxia
+T10	Symptom 424 446	ocular motor disorders
+T12	Symptom 477 501	Neurologic deterioration
+T13	Symptom 513 521	dementia
+T14	Symptom 526 541	myoclonic jerks
+T15	Time 559 565	months
+T17	Time 615 636	between 1959 and 1988

@@ -1,0 +1,219 @@
+{
+  "doc_id": "prion_0555",
+  "text": "A 70-year-old man developed a syndrome of progressive nondominant parietal and occipital dysfunction including palinopsia and a visual field defect.\nDespite the marked focality of his clinical findings, radiologic studies were normal.\nMyoclonus and ataxia began 6 weeks after onset of his illness at which time brain biopsy confirmed Creutzfeldt-Jakob disease (CJD).\nThis is the first reported case of palinopsia due to CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "70-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 54,
+      "end": 100,
+      "text": "nondominant parietal dysfunction",
+      "spans": [
+        {
+          "start": 54,
+          "end": 74
+        },
+        {
+          "start": 89,
+          "end": 100
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 79,
+      "end": 100,
+      "text": "occipital dysfunction",
+      "spans": [
+        {
+          "start": 79,
+          "end": 100
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 111,
+      "end": 121,
+      "text": "palinopsia",
+      "spans": [
+        {
+          "start": 111,
+          "end": 121
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 128,
+      "end": 147,
+      "text": "visual field defect",
+      "spans": [
+        {
+          "start": 128,
+          "end": 147
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Imaging_test",
+      "start": 203,
+      "end": 221,
+      "text": "radiologic studies",
+      "spans": [
+        {
+          "start": 203,
+          "end": 221
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 235,
+      "end": 244,
+      "text": "Myoclonus",
+      "spans": [
+        {
+          "start": 235,
+          "end": 244
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 249,
+      "end": 255,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 249,
+          "end": 255
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Duration",
+      "start": 262,
+      "end": 269,
+      "text": "6 weeks",
+      "spans": [
+        {
+          "start": 262,
+          "end": 269
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Time_point",
+      "start": 262,
+      "end": 281,
+      "text": "6 weeks after onset",
+      "spans": [
+        {
+          "start": 262,
+          "end": 281
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 311,
+      "end": 316,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 311,
+          "end": 316
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy",
+      "start": 317,
+      "end": 323,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 317,
+          "end": 323
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 334,
+      "end": 359,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 334,
+          "end": 359
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 361,
+      "end": 364,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 361,
+          "end": 364
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 402,
+      "end": 412,
+      "text": "palinopsia",
+      "spans": [
+        {
+          "start": 402,
+          "end": 412
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 420,
+      "end": 423,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 420,
+          "end": 423
+        }
+      ]
+    }
+  ]
+}

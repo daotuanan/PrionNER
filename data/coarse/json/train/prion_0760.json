@@ -1,0 +1,188 @@
+{
+  "doc_id": "prion_0760",
+  "text": "We present serial changes on diffusion-weighted MRI (DWI) in a patient with Creutzfeldt-Jakob disease (CJD).\nDWI revealed serial changes of abnormal hyperintense lesions that had become more extensive and conspicuous with progression of neurologic findings, more sensitively than conventional MRI.\nIn the late stage, disappearance of abnormal hyperintense lesions on DWI was observed.\nDWI proved to be particularly useful for monitoring the progression of CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Sequences",
+      "start": 29,
+      "end": 47,
+      "text": "diffusion-weighted",
+      "spans": [
+        {
+          "start": 29,
+          "end": 47
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Test_name",
+      "start": 48,
+      "end": 51,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 48,
+          "end": 51
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Sequences",
+      "start": 53,
+      "end": 56,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 53,
+          "end": 56
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 76,
+      "end": 101,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 76,
+          "end": 101
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 103,
+      "end": 106,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 103,
+          "end": 106
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Sequences",
+      "start": 109,
+      "end": 112,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 109,
+          "end": 112
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Findings",
+      "start": 140,
+      "end": 169,
+      "text": "abnormal hyperintense lesions",
+      "spans": [
+        {
+          "start": 140,
+          "end": 169
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 237,
+      "end": 256,
+      "text": "neurologic findings",
+      "spans": [
+        {
+          "start": 237,
+          "end": 256
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 293,
+      "end": 296,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 293,
+          "end": 296
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Time",
+      "start": 305,
+      "end": 315,
+      "text": "late stage",
+      "spans": [
+        {
+          "start": 305,
+          "end": 315
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 334,
+      "end": 363,
+      "text": "abnormal hyperintense lesions",
+      "spans": [
+        {
+          "start": 334,
+          "end": 363
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Sequences",
+      "start": 367,
+      "end": 370,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 367,
+          "end": 370
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Sequences",
+      "start": 385,
+      "end": 388,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 385,
+          "end": 388
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 456,
+      "end": 459,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 456,
+          "end": 459
+        }
+      ]
+    }
+  ]
+}

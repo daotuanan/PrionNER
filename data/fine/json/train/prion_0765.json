@@ -1,0 +1,136 @@
+{
+  "doc_id": "prion_0765",
+  "text": "Creutzfeldt-Jakob disease (CJD) is an uncommon rapidly progressive neurological disorder which can have protean clinical presentations.\nWe report an autopsy-proven case of CJD presenting initially as epilepsia partialis continua but then developing the typical clinical features of CJD over several weeks.\nCJD should be considered in the differential diagnosis of new onset epilepsia partialis continua in adults.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Differential_Diagnosis",
+      "start": 67,
+      "end": 88,
+      "text": "neurological disorder",
+      "spans": [
+        {
+          "start": 67,
+          "end": 88
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Autopsy",
+      "start": 149,
+      "end": 163,
+      "text": "autopsy-proven",
+      "spans": [
+        {
+          "start": 149,
+          "end": 163
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 172,
+      "end": 175,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 172,
+          "end": 175
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Differential_Diagnosis",
+      "start": 200,
+      "end": 228,
+      "text": "epilepsia partialis continua",
+      "spans": [
+        {
+          "start": 200,
+          "end": 228
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 282,
+      "end": 285,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 282,
+          "end": 285
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Duration",
+      "start": 291,
+      "end": 304,
+      "text": "several weeks",
+      "spans": [
+        {
+          "start": 291,
+          "end": 304
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 306,
+      "end": 309,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 306,
+          "end": 309
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Differential_Diagnosis",
+      "start": 374,
+      "end": 402,
+      "text": "epilepsia partialis continua",
+      "spans": [
+        {
+          "start": 374,
+          "end": 402
+        }
+      ]
+    }
+  ]
+}

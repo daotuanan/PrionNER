@@ -1,0 +1,15 @@
+T1	Symptom 14 53	Progressive myoclonic cerebellar ataxia
+T2	Age 202 213	53-year-old
+T3	Symptom 300 316	an unstable gait
+T5	Symptom 362 423	the progressive and insidious widening of the base of support
+T6	Symptom 489 498	myoclonus
+T7	Symptom 503 542	a deterioration of the higher functions
+T18	Complication 556 560	died
+T8	Time 561 572	four months
+T9	Time 583 604	onset of the symptoms
+T10	Test_name 654 672	pathological study
+T11	Anatomic_location 680 685	brain
+T12	Generic_Prion 730 755	spongiform encephalopathy
+T13	Generic_Prion 757 782	Creutzfeldt-Jakob disease
+T14	Generic_Prion 798 823	Creutzfeldt-Jakob disease
+T15	Symptom 874 904	progressive cerebellar ataxias

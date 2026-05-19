@@ -1,0 +1,19 @@
+{
+  "doc_id": "prion_0568",
+  "text": "While the incidence of Creutzfeldt-Jakob disease is very low worldwide, sufficient cases are appearing in neurological units to warrant increasing nursing information.\nIn this article epidemiology, etiology, clinical manifestations, and diagnosis, specific nursing diagnoses and suggested areas of intervention with special reference to family involvement are addressed.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 23,
+      "end": 48,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 23,
+          "end": 48
+        }
+      ]
+    }
+  ]
+}

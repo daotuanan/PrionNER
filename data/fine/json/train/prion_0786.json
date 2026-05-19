@@ -1,0 +1,435 @@
+{
+  "doc_id": "prion_0786",
+  "text": "Creutzfeldt-Jakob disease (CJD) is increasingly being reported over the last three decades as a result of heightened awareness of the disease.\nVarious studies have reported annual incidence of 0.5-1.5 cases of CJD per million of general population.\nIn India, the disease is still under reported.\nOver the period spanning from 1968-1997, National Institute of Mental Health and Neurosciences (NIMHANS), Bangalore recorded 69 cases of CJD from different parts of India in the CJD registry.\nThis paper describes the clinical experience with cases of CJD managed at the Department of Neurology, G.B. Pant Hospital, New Delhi from 1990-1998.\nIn this series, the mean age of the patients was 53.80 (+/- 7.32) years and there were 5 females and 5 males.\nMyoclonus was present in all the cases and abnormal behaviour with or without other features was the presenting complaint in 7 of the 10 patients, while one patient of CJD had cerebellar ataxia as the presenting feature.\nOne patient with occipital variant of CJD presented with acute onset cortical blindness and myoclonic jerks.\nOne of the patients had acute psychosis precipitated by emotional stress at the onset.\nExtrapyramidal features were noted in 7 of the 10 patients before death.\nThe mean duration of symptoms from the onset of disease to death was 6.6 (+/- 6.11) months.\nClassical EEG changes were observed in all the patients, except in one possible case of occipital variant of CJD, where we did not have access to EEG record.\nBrain biopsy could be undertaken in 3 patients, and in 2 patients the features of subacute spongiform encephalopathy (SSE) were noted.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Incidence",
+      "start": 193,
+      "end": 225,
+      "text": "0.5-1.5 cases of CJD per million",
+      "spans": [
+        {
+          "start": 193,
+          "end": 225
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 210,
+      "end": 213,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 210,
+          "end": 213
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Duration",
+      "start": 326,
+      "end": 335,
+      "text": "1968-1997",
+      "spans": [
+        {
+          "start": 326,
+          "end": 335
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 433,
+      "end": 436,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 433,
+          "end": 436
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 474,
+      "end": 477,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 474,
+          "end": 477
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 547,
+      "end": 550,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 547,
+          "end": 550
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Duration",
+      "start": 626,
+      "end": 635,
+      "text": "1990-1998",
+      "spans": [
+        {
+          "start": 626,
+          "end": 635
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Age",
+      "start": 686,
+      "end": 708,
+      "text": "53.80 (+/- 7.32) years",
+      "spans": [
+        {
+          "start": 686,
+          "end": 708
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 747,
+      "end": 756,
+      "text": "Myoclonus",
+      "spans": [
+        {
+          "start": 747,
+          "end": 756
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 790,
+      "end": 808,
+      "text": "abnormal behaviour",
+      "spans": [
+        {
+          "start": 790,
+          "end": 808
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Generic_Prion",
+      "start": 915,
+      "end": 918,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 915,
+          "end": 918
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Anatomic_location",
+      "start": 923,
+      "end": 933,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 923,
+          "end": 933
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Symptom",
+      "start": 923,
+      "end": 940,
+      "text": "cerebellar ataxia",
+      "spans": [
+        {
+          "start": 923,
+          "end": 940
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 985,
+      "end": 994,
+      "text": "occipital",
+      "spans": [
+        {
+          "start": 985,
+          "end": 994
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 985,
+      "end": 1009,
+      "text": "occipital variant of CJD",
+      "spans": [
+        {
+          "start": 985,
+          "end": 1009
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Symptom",
+      "start": 1037,
+      "end": 1055,
+      "text": "cortical blindness",
+      "spans": [
+        {
+          "start": 1037,
+          "end": 1055
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Symptom",
+      "start": 1060,
+      "end": 1075,
+      "text": "myoclonic jerks",
+      "spans": [
+        {
+          "start": 1060,
+          "end": 1075
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Symptom",
+      "start": 1101,
+      "end": 1116,
+      "text": "acute psychosis",
+      "spans": [
+        {
+          "start": 1101,
+          "end": 1116
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Symptom",
+      "start": 1133,
+      "end": 1149,
+      "text": "emotional stress",
+      "spans": [
+        {
+          "start": 1133,
+          "end": 1149
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Time_point",
+      "start": 1150,
+      "end": 1162,
+      "text": "at the onset",
+      "spans": [
+        {
+          "start": 1150,
+          "end": 1162
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Symptom",
+      "start": 1164,
+      "end": 1187,
+      "text": "Extrapyramidal features",
+      "spans": [
+        {
+          "start": 1164,
+          "end": 1187
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Complication",
+      "start": 1230,
+      "end": 1235,
+      "text": "death",
+      "spans": [
+        {
+          "start": 1230,
+          "end": 1235
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Complication",
+      "start": 1296,
+      "end": 1301,
+      "text": "death",
+      "spans": [
+        {
+          "start": 1296,
+          "end": 1301
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Duration",
+      "start": 1306,
+      "end": 1327,
+      "text": "6.6 (+/- 6.11) months",
+      "spans": [
+        {
+          "start": 1306,
+          "end": 1327
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Electrophysio_test",
+      "start": 1339,
+      "end": 1342,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 1339,
+          "end": 1342
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 1417,
+      "end": 1441,
+      "text": "occipital variant of CJD",
+      "spans": [
+        {
+          "start": 1417,
+          "end": 1441
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Electrophysio_test",
+      "start": 1475,
+      "end": 1478,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 1475,
+          "end": 1478
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Anatomic_location",
+      "start": 1487,
+      "end": 1492,
+      "text": "Brain",
+      "spans": [
+        {
+          "start": 1487,
+          "end": 1492
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Autopsy",
+      "start": 1493,
+      "end": 1499,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 1493,
+          "end": 1499
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Generic_Prion",
+      "start": 1569,
+      "end": 1603,
+      "text": "subacute spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 1569,
+          "end": 1603
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Generic_Prion",
+      "start": 1605,
+      "end": 1608,
+      "text": "SSE",
+      "spans": [
+        {
+          "start": 1605,
+          "end": 1608
+        }
+      ]
+    }
+  ]
+}

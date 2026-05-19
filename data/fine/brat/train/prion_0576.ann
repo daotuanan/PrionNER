@@ -1,0 +1,19 @@
+T2	Age 2 13	77-year-old
+T6	Duration 115 122	5 weeks
+T7	Autopsy_finding 157 170	neuronal loss
+T8	Autopsy_finding 211 229	spongiform changes
+T9	Anatomic_location 243 258	cerebral cortex
+T10	Anatomic_location 264 285	cerebral white matter
+T11	Anatomic_location 426 445	cerebral hemisphere
+T3	Autopsy 131 138	autopsy
+T5	Autopsy_finding 172 206	severe proliferation of astrocytes
+T16	Autopsy_finding 293 332	loosening with astroglial proliferation
+T17	Autopsy 366 383	neuropathological
+T13	Generic_Prion 541 544	CJD
+T14	Symptom 651 678	ntermittent hemiconvulsions
+T4	Symptom 27 55	intermittent hemiconvulsions
+T19	Autopsy_finding 384 413	changes were slight or absent
+T12	Generic_Prion 514 539	Creutzfeldt-Jakob disease
+T15	Generic_Prion 567 570	CJD
+T20	Autopsy 447 464	Histopathological
+T21	Autopsy_finding 447 472	Histopathological changes

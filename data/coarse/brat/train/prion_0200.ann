@@ -1,0 +1,37 @@
+T23	Sequences 22 34;58 68	conventional MR imaging
+T2	Sequences 39 57	diffusion-weighted
+T39	Test_name 58 68	MR imaging
+T3	Generic_Prion 131 156	Creutzfeldt-Jakob disease
+T5	Sequences 225 237;315 325	conventional MR imaging
+T6	Sequences 239 250	T2-weighted
+T4	Sequences 255 290	fluid-attenuated inversion recovery
+T28	Sequences 296 314	diffusion-weighted
+T25	Test_name 315 325	MR imaging
+T8	Test_name 348 354	biopsy
+T7	Generic_Prion 362 387	Creutzfeldt-Jakob disease
+T27	Findings 393 423;463 476	signal intensity of the lesion markedly high
+T24	Findings 393 423;478 491	signal intensity of the lesion slightly high
+T26	Findings 393 423;496 506	signal intensity of the lesion isointense
+T35	Anatomic_location 527 532	brain
+T10	Sequences 576 594	diffusion-weighted
+T31	Test_name 595 604	MR images
+T29	Findings 628 649	high signal intensity
+T11	Anatomic_location 657 670	basal ganglia
+T12	Anatomic_location 693 701	Cortical
+T30	Findings 702 709	lesions
+T13	Sequences 727 745	diffusion-weighted
+T37	Test_name 746 755	MR images
+T15	Sequences 776 811	fluid-attenuated inversion recovery
+T38	Test_name 812 821	MR images
+T16	Sequences 851 862	T2-weighted
+T9	Sequences 871 893	Conventional MR images
+T17	Test_name 884 893	MR images
+T14	Findings 901 931	slightly high signal intensity
+T18	Sequences 954 979	diffusion-weighted images
+T32	Findings 996 1017	high signal intensity
+T19	Sequences 1039 1057	Diffusion-weighted
+T33	Test_name 1058 1068	MR imaging
+T20	Generic_Prion 1141 1166	Creutzfeldt-Jakob disease
+T36	Findings 1204 1210	lesion
+T21	Anatomic_location 1223 1240	cerebral cortices
+T22	Anatomic_location 1245 1258	basal ganglia

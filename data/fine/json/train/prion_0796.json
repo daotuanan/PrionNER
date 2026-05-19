@@ -1,0 +1,331 @@
+{
+  "doc_id": "prion_0796",
+  "text": "OBJECTIVE: To describe the early psychiatric and neurological features of variant Creutzfeldt-Jakob disease.\nDESIGN: Cohort study.\nSETTING: National surveillance system for Creutzfeldt-Jakob disease in the United Kingdom.\nPARTICIPANTS: The first 100 cases of variant Creutzfeldt-Jakob disease identified in the United Kingdom.\nMAIN OUTCOME MEASURES: The timing and nature of early psychiatric and neurological symptoms in variant Creutzfeldt-Jakob disease.\nRESULTS: The early stages of variant Creutzfeldt-Jakob disease are dominated by psychiatric symptoms, but neurological symptoms precede psychiatric symptoms in 15% of cases and are present in combination with psychiatric symptoms in 22% of cases from the onset of disease.\nCommon early psychiatric features include dysphoria, withdrawal, anxiety, insomnia, and loss of interest.\nNo common early neurological features exist, but a significant proportion of patients do exhibit neurological symptoms within 4 months of clinical onset, including poor memory, pain, sensory symptoms, unsteadiness of gait, and dysarthria.\nCONCLUSIONS: Although the diagnosis of variant Creutzfeldt-Jakob disease may be impossible in the early stages of the illness, particular combinations of psychiatric and neurological features may allow early diagnosis in an appreciable proportion of patients.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "vCJD",
+      "start": 74,
+      "end": 107,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 74,
+          "end": 107
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 173,
+      "end": 198,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 173,
+          "end": 198
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "vCJD",
+      "start": 259,
+      "end": 292,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 259,
+          "end": 292
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 397,
+      "end": 418,
+      "text": "neurological symptoms",
+      "spans": [
+        {
+          "start": 397,
+          "end": 418
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "vCJD",
+      "start": 422,
+      "end": 455,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 422,
+          "end": 455
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "vCJD",
+      "start": 486,
+      "end": 519,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 486,
+          "end": 519
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 537,
+      "end": 557,
+      "text": "psychiatric symptoms",
+      "spans": [
+        {
+          "start": 537,
+          "end": 557
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 563,
+      "end": 584,
+      "text": "neurological symptoms",
+      "spans": [
+        {
+          "start": 563,
+          "end": 584
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 593,
+      "end": 613,
+      "text": "psychiatric symptoms",
+      "spans": [
+        {
+          "start": 593,
+          "end": 613
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 666,
+      "end": 686,
+      "text": "psychiatric symptoms",
+      "spans": [
+        {
+          "start": 666,
+          "end": 686
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Time_point",
+      "start": 712,
+      "end": 728,
+      "text": "onset of disease",
+      "spans": [
+        {
+          "start": 712,
+          "end": 728
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Symptom",
+      "start": 772,
+      "end": 781,
+      "text": "dysphoria",
+      "spans": [
+        {
+          "start": 772,
+          "end": 781
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 783,
+      "end": 793,
+      "text": "withdrawal",
+      "spans": [
+        {
+          "start": 783,
+          "end": 793
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Symptom",
+      "start": 795,
+      "end": 802,
+      "text": "anxiety",
+      "spans": [
+        {
+          "start": 795,
+          "end": 802
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Symptom",
+      "start": 804,
+      "end": 812,
+      "text": "insomnia",
+      "spans": [
+        {
+          "start": 804,
+          "end": 812
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Symptom",
+      "start": 818,
+      "end": 834,
+      "text": "loss of interest",
+      "spans": [
+        {
+          "start": 818,
+          "end": 834
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Symptom",
+      "start": 933,
+      "end": 954,
+      "text": "neurological symptoms",
+      "spans": [
+        {
+          "start": 933,
+          "end": 954
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Duration",
+      "start": 962,
+      "end": 970,
+      "text": "4 months",
+      "spans": [
+        {
+          "start": 962,
+          "end": 970
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Symptom",
+      "start": 1000,
+      "end": 1011,
+      "text": "poor memory",
+      "spans": [
+        {
+          "start": 1000,
+          "end": 1011
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Symptom",
+      "start": 1013,
+      "end": 1017,
+      "text": "pain",
+      "spans": [
+        {
+          "start": 1013,
+          "end": 1017
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Symptom",
+      "start": 1019,
+      "end": 1035,
+      "text": "sensory symptoms",
+      "spans": [
+        {
+          "start": 1019,
+          "end": 1035
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Symptom",
+      "start": 1037,
+      "end": 1057,
+      "text": "unsteadiness of gait",
+      "spans": [
+        {
+          "start": 1037,
+          "end": 1057
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Symptom",
+      "start": 1063,
+      "end": 1073,
+      "text": "dysarthria",
+      "spans": [
+        {
+          "start": 1063,
+          "end": 1073
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "vCJD",
+      "start": 1114,
+      "end": 1147,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 1114,
+          "end": 1147
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Time_point",
+      "start": 1173,
+      "end": 1200,
+      "text": "early stages of the illness",
+      "spans": [
+        {
+          "start": 1173,
+          "end": 1200
+        }
+      ]
+    }
+  ]
+}

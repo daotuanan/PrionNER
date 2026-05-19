@@ -1,0 +1,214 @@
+{
+  "doc_id": "prion_0529",
+  "text": "The serial changes in computed tomography (CT) as correlated with the clinical and electroencephalographic findings were evaluated in 3 patients with Creutzfeldt-Jakob disease.\nThe disease was subsequently confirmed histologically in 2.\nCT revealed that brain atrophy began in an early clinical stage and was prominent even before the state of akinetic mutism.\nPeriodic synchronous discharges (PSDs) were observed either before or simultaneous with the observation of myoclonus.\nWith progressive brain atrophy, the frequency of PSDs and the degree of myoclonus both decreased and disappeared 8 to 15 months after the onset of disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Test_name",
+      "start": 22,
+      "end": 41,
+      "text": "computed tomography",
+      "spans": [
+        {
+          "start": 22,
+          "end": 41
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Test_name",
+      "start": 43,
+      "end": 45,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 43,
+          "end": 45
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 83,
+      "end": 115,
+      "text": "electroencephalographic findings",
+      "spans": [
+        {
+          "start": 83,
+          "end": 115
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 150,
+      "end": 175,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 150,
+          "end": 175
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Test_name",
+      "start": 216,
+      "end": 230,
+      "text": "histologically",
+      "spans": [
+        {
+          "start": 216,
+          "end": 230
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 237,
+      "end": 239,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 237,
+          "end": 239
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 254,
+      "end": 259,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 254,
+          "end": 259
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Findings",
+      "start": 260,
+      "end": 267,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 260,
+          "end": 267
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Time",
+      "start": 280,
+      "end": 300,
+      "text": "early clinical stage",
+      "spans": [
+        {
+          "start": 280,
+          "end": 300
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 344,
+      "end": 359,
+      "text": "akinetic mutism",
+      "spans": [
+        {
+          "start": 344,
+          "end": 359
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 468,
+      "end": 477,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 468,
+          "end": 477
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 496,
+      "end": 501,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 496,
+          "end": 501
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 502,
+      "end": 509,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 502,
+          "end": 509
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 551,
+      "end": 560,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 551,
+          "end": 560
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Time",
+      "start": 592,
+      "end": 606,
+      "text": "8 to 15 months",
+      "spans": [
+        {
+          "start": 592,
+          "end": 606
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Time",
+      "start": 607,
+      "end": 622,
+      "text": "after the onset",
+      "spans": [
+        {
+          "start": 607,
+          "end": 622
+        }
+      ]
+    }
+  ]
+}

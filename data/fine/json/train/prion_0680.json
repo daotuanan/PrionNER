@@ -1,0 +1,201 @@
+{
+  "doc_id": "prion_0680",
+  "text": "We describe a case of a patient with Creutzfeldt-Jakob disease (CJD) characterized by a rapid clinical course lasting one and a half months, by: presence of focal dystonic movements at onset, absence of mental deterioration in the period preceding the impairment of consciousness, ataxia, myoclonus and periodic EEG abnormalities.\nThe autopsy confirmed subacute spongiform encephalopathy, but no evident neuronal loss was observed.\nAn acute clinical course of CJD may explain this latter histological finding which, in turn, probably provides an explanation for the absence of intellectual impairment.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 37,
+      "end": 62,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 37,
+          "end": 62
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 64,
+      "end": 67,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 64,
+          "end": 67
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Duration",
+      "start": 118,
+      "end": 139,
+      "text": "one and a half months",
+      "spans": [
+        {
+          "start": 118,
+          "end": 139
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 157,
+      "end": 181,
+      "text": "focal dystonic movements",
+      "spans": [
+        {
+          "start": 157,
+          "end": 181
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time_point",
+      "start": 182,
+      "end": 190,
+      "text": "at onset",
+      "spans": [
+        {
+          "start": 182,
+          "end": 190
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 203,
+      "end": 223,
+      "text": "mental deterioration",
+      "spans": [
+        {
+          "start": 203,
+          "end": 223
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 252,
+      "end": 279,
+      "text": "impairment of consciousness",
+      "spans": [
+        {
+          "start": 252,
+          "end": 279
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 281,
+      "end": 287,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 281,
+          "end": 287
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 289,
+      "end": 298,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 289,
+          "end": 298
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Electrophysio_test",
+      "start": 312,
+      "end": 315,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 312,
+          "end": 315
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Autopsy",
+      "start": 335,
+      "end": 342,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 335,
+          "end": 342
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 353,
+      "end": 387,
+      "text": "subacute spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 353,
+          "end": 387
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Autopsy_finding",
+      "start": 404,
+      "end": 417,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 404,
+          "end": 417
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 460,
+      "end": 463,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 460,
+          "end": 463
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 577,
+      "end": 600,
+      "text": "intellectual impairment",
+      "spans": [
+        {
+          "start": 577,
+          "end": 600
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "doc_id": "prion_0514",
+  "text": "A case suggestive of Creutzfeldt-Jakob disease in an adult with widespread lesions of the cerebral cortex, striatum and the spinal cord is reported.\nAnatomopathological studies showed neuronal degeneration, astrocytic proliferation, intense lymphoplasmocytic activity and slight spongiform degeneration.\nThis inflammatory lymphocytic infiltration corroborates the hypothesis of viral etiology of this disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 21,
+      "end": 46,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 21,
+          "end": 46
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Anatomic_location",
+      "start": 90,
+      "end": 105,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 90,
+          "end": 105
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Anatomic_location",
+      "start": 107,
+      "end": 115,
+      "text": "striatum",
+      "spans": [
+        {
+          "start": 107,
+          "end": 115
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 124,
+      "end": 135,
+      "text": "spinal cord",
+      "spans": [
+        {
+          "start": 124,
+          "end": 135
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Test_name",
+      "start": 149,
+      "end": 176,
+      "text": "Anatomopathological studies",
+      "spans": [
+        {
+          "start": 149,
+          "end": 176
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Findings",
+      "start": 184,
+      "end": 205,
+      "text": "neuronal degeneration",
+      "spans": [
+        {
+          "start": 184,
+          "end": 205
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Findings",
+      "start": 207,
+      "end": 231,
+      "text": "astrocytic proliferation",
+      "spans": [
+        {
+          "start": 207,
+          "end": 231
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Findings",
+      "start": 241,
+      "end": 267,
+      "text": "lymphoplasmocytic activity",
+      "spans": [
+        {
+          "start": 241,
+          "end": 267
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Findings",
+      "start": 279,
+      "end": 302,
+      "text": "spongiform degeneration",
+      "spans": [
+        {
+          "start": 279,
+          "end": 302
+        }
+      ]
+    }
+  ]
+}

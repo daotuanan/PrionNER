@@ -1,0 +1,11 @@
+A 68 year old woman with sporadic Creutzfeldt-Jakob disease is described, who neither showed characteristic EEG abnormalities nor a positive test of the neuronal protein 14-3-3 or neuron specific enolase (NSE) in CSF, despite a clinical presentation with ataxia of cerebellar type, rapidly progressive dementia, myoclonus, and marked hyperintense signal abnormalities in the deep cortical layers and the basal ganglia on T2 and diffusion weighted MRI.
+Moreover she showed atypical clinical features with a syndrome of inappropriate antidiuretic hormone (ADH) secretion (SIADH) and a peripheral sensorimotor polyneuropathy.
+Whether these disturbances are independent of Creutzfeldt-Jakob disease or a feature of it is discussed.
+It has recently been shown that in Creutzfeldt-Jakob disease different clinical and pathological phenotypes correlate with the polymorphism at codon 129 of the prion protein gene (PRNP) and the type of the protease resistant fragment that accumulates in the brain.
+According to the new classification at least six sporadic variants of Creutzfeldt-Jakob disease exist. The molecular genetic analysis showed heterozygosity of PRNP at codon 129 for methionine and valine and the presence of PrP(CJD) type 2 in the brain of this patient.
+As a new feature of changes on MRI, striking cortical changes of hyperintense signals are described in diffusion weighted as well as T2 weighted MRI that directly correlate with the histomorphological spongy degeneration of the brain in this region.
+In cases of rapidly progressive dementia, Creutzfeldt-Jakob disease always needs to be considered even if unusual features are present and current diagnostic criteria are not in favour of this disease.
+
+<Related> YES or NO
+[DONE]
+[CHECK]

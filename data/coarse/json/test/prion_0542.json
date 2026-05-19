@@ -1,0 +1,167 @@
+{
+  "doc_id": "prion_0542",
+  "text": "We present a proven case of Creutzfeldt-Jakob disease with severe involvement of white matter and cerebellum.\nSerial CT showed a unique pattern consisting of discrete cerebral and cerebellar atrophy, diffuse white matter hypodensity, and progressive enlargement of lateral and fourth ventricles.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 28,
+      "end": 53,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 28,
+          "end": 53
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Anatomic_location",
+      "start": 81,
+      "end": 93,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 81,
+          "end": 93
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Anatomic_location",
+      "start": 98,
+      "end": 108,
+      "text": "cerebellum",
+      "spans": [
+        {
+          "start": 98,
+          "end": 108
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 117,
+      "end": 119,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 117,
+          "end": 119
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 167,
+      "end": 175,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 167,
+          "end": 175
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 180,
+      "end": 190,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 180,
+          "end": 190
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Findings",
+      "start": 191,
+      "end": 198,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 191,
+          "end": 198
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 208,
+      "end": 220,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 208,
+          "end": 220
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Findings",
+      "start": 221,
+      "end": 232,
+      "text": "hypodensity",
+      "spans": [
+        {
+          "start": 221,
+          "end": 232
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 238,
+      "end": 261,
+      "text": "progressive enlargement",
+      "spans": [
+        {
+          "start": 238,
+          "end": 261
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 265,
+      "end": 294,
+      "text": "lateral ventricles",
+      "spans": [
+        {
+          "start": 265,
+          "end": 272
+        },
+        {
+          "start": 284,
+          "end": 294
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 277,
+      "end": 294,
+      "text": "fourth ventricles",
+      "spans": [
+        {
+          "start": 277,
+          "end": 294
+        }
+      ]
+    }
+  ]
+}

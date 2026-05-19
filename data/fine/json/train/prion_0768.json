@@ -1,0 +1,375 @@
+{
+  "doc_id": "prion_0768",
+  "text": "PURPOSE: This report describes quantitative SPECT cerebral blood flow (CBF) changes in a patient with the confirmed Heidenhain variant of Creutzfeldt-Jakob disease.\nMATERIALS AND METHODS: A 60-year-old man reported visual disturbances, including left hemianopsia.\nAn electroencephalogram, magnetic resonance imaging, cerebral arteriogram, and quantitative SPECT CBF imaging with Xe-133, with and without acetazolamide, were performed.\nAfter the patient's death, an autopsy was performed.\nRESULTS: The electroencephalographic findings were nonspecific, those of magnetic resonance imaging were normal, and the cerebral arteriogram showed minimal atherosclerosis.\nHowever, the SPECT scan revealed marked depression of perfusion in the parietal and occipital cortices that did not change with the administration of acetazolamide.\nAutopsy results were consistent with CJD.\nCONCLUSIONS: Although there is no consistent pattern of CBF changes that is characteristic of Creutzfeldt-Jakob disease, the Heidenhain variant of that disease may be an exception.\nClinical symptoms include profound changes in vision, and the pattern of CBF changes in the patient described here included depression of perfusion in areas of primary and associated visual cortex.\nAlso of interest is the finding that although other imaging did not reveal an abnormality, the CBF changes were marked.\nIn addition, vasoreactivity is poor in response to acetazolamide, a finding that occurs only late in other neuronal degenerative conditions such as Alzheimer's disease.",
+  "entities": [
+    {
+      "id": "T9",
+      "label": "Imaging_test",
+      "start": 44,
+      "end": 75,
+      "text": "SPECT cerebral blood flow (CBF)",
+      "spans": [
+        {
+          "start": 44,
+          "end": 75
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "sCJD",
+      "start": 116,
+      "end": 134,
+      "text": "Heidenhain variant",
+      "spans": [
+        {
+          "start": 116,
+          "end": 134
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 138,
+      "end": 163,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 138,
+          "end": 163
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 190,
+      "end": 201,
+      "text": "60-year-old",
+      "spans": [
+        {
+          "start": 190,
+          "end": 201
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 215,
+      "end": 234,
+      "text": "visual disturbances",
+      "spans": [
+        {
+          "start": 215,
+          "end": 234
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 246,
+      "end": 262,
+      "text": "left hemianopsia",
+      "spans": [
+        {
+          "start": 246,
+          "end": 262
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Electrophysio_test",
+      "start": 267,
+      "end": 287,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 267,
+          "end": 287
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Imaging_test",
+      "start": 289,
+      "end": 315,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 289,
+          "end": 315
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Imaging_test",
+      "start": 317,
+      "end": 337,
+      "text": "cerebral arteriogram",
+      "spans": [
+        {
+          "start": 317,
+          "end": 337
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Imaging_test",
+      "start": 356,
+      "end": 373,
+      "text": "SPECT CBF imaging",
+      "spans": [
+        {
+          "start": 356,
+          "end": 373
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Complication",
+      "start": 455,
+      "end": 460,
+      "text": "death",
+      "spans": [
+        {
+          "start": 455,
+          "end": 460
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Autopsy",
+      "start": 465,
+      "end": 472,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 465,
+          "end": 472
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Electrophysio_test",
+      "start": 501,
+      "end": 524,
+      "text": "electroencephalographic",
+      "spans": [
+        {
+          "start": 501,
+          "end": 524
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Imaging_test",
+      "start": 561,
+      "end": 587,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 561,
+          "end": 587
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Imaging_test",
+      "start": 609,
+      "end": 629,
+      "text": "cerebral arteriogram",
+      "spans": [
+        {
+          "start": 609,
+          "end": 629
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Imaging_test",
+      "start": 675,
+      "end": 685,
+      "text": "SPECT scan",
+      "spans": [
+        {
+          "start": 675,
+          "end": 685
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Imaging_finding",
+      "start": 702,
+      "end": 725,
+      "text": "depression of perfusion",
+      "spans": [
+        {
+          "start": 702,
+          "end": 725
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 733,
+      "end": 764,
+      "text": "parietal cortices",
+      "spans": [
+        {
+          "start": 733,
+          "end": 741
+        },
+        {
+          "start": 756,
+          "end": 764
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T31",
+      "label": "Anatomic_location",
+      "start": 746,
+      "end": 764,
+      "text": "occipital cortices",
+      "spans": [
+        {
+          "start": 746,
+          "end": 764
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Autopsy",
+      "start": 827,
+      "end": 834,
+      "text": "Autopsy",
+      "spans": [
+        {
+          "start": 827,
+          "end": 834
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Generic_Prion",
+      "start": 864,
+      "end": 867,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 864,
+          "end": 867
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Generic_Prion",
+      "start": 963,
+      "end": 988,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 963,
+          "end": 988
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "sCJD",
+      "start": 994,
+      "end": 1012,
+      "text": "Heidenhain variant",
+      "spans": [
+        {
+          "start": 994,
+          "end": 1012
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Symptom",
+      "start": 1076,
+      "end": 1102,
+      "text": "profound changes in vision",
+      "spans": [
+        {
+          "start": 1076,
+          "end": 1102
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Imaging_finding",
+      "start": 1123,
+      "end": 1134,
+      "text": "CBF changes",
+      "spans": [
+        {
+          "start": 1123,
+          "end": 1134
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Imaging_finding",
+      "start": 1174,
+      "end": 1197,
+      "text": "depression of perfusion",
+      "spans": [
+        {
+          "start": 1174,
+          "end": 1197
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 1233,
+      "end": 1246,
+      "text": "visual cortex",
+      "spans": [
+        {
+          "start": 1233,
+          "end": 1246
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Differential_Diagnosis",
+      "start": 1516,
+      "end": 1535,
+      "text": "Alzheimer's disease",
+      "spans": [
+        {
+          "start": 1516,
+          "end": 1535
+        }
+      ]
+    }
+  ]
+}

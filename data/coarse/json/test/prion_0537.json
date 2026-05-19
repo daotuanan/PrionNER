@@ -1,0 +1,188 @@
+{
+  "doc_id": "prion_0537",
+  "text": "A case of Creutzfeldt-Jakob disease (CJD) in a 32 year old man is presented.\nThe clinical picture included a rapid progressive dementia associated with ataxia, global aphasia, myoclonus and pyramidal signs, death occurred after 13 months.\nThe diagnosis of CJD was confirmed by CT and neuropathological studies.\nThis is the first report of CJD occurring in Venezuela.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 10,
+      "end": 35,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 10,
+          "end": 35
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 37,
+      "end": 40,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 37,
+          "end": 40
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 47,
+      "end": 58,
+      "text": "32 year old",
+      "spans": [
+        {
+          "start": 47,
+          "end": 58
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 109,
+      "end": 135,
+      "text": "rapid progressive dementia",
+      "spans": [
+        {
+          "start": 109,
+          "end": 135
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 152,
+      "end": 158,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 152,
+          "end": 158
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 160,
+      "end": 174,
+      "text": "global aphasia",
+      "spans": [
+        {
+          "start": 160,
+          "end": 174
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 176,
+      "end": 185,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 176,
+          "end": 185
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 190,
+      "end": 205,
+      "text": "pyramidal signs",
+      "spans": [
+        {
+          "start": 190,
+          "end": 205
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Complication",
+      "start": 207,
+      "end": 212,
+      "text": "death",
+      "spans": [
+        {
+          "start": 207,
+          "end": 212
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Time",
+      "start": 228,
+      "end": 237,
+      "text": "13 months",
+      "spans": [
+        {
+          "start": 228,
+          "end": 237
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 256,
+      "end": 259,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 256,
+          "end": 259
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 277,
+      "end": 279,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 277,
+          "end": 279
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 284,
+      "end": 309,
+      "text": "neuropathological studies",
+      "spans": [
+        {
+          "start": 284,
+          "end": 309
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 339,
+      "end": 342,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 339,
+          "end": 342
+        }
+      ]
+    }
+  ]
+}

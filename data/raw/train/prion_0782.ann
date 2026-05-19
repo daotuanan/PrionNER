@@ -1,0 +1,12 @@
+T1	Age 36 47	50-year-old
+T2	Duration 109 118	15 months
+T3	Symptom 131 149	demential syndrome
+T4	Symptom 154 163	myoclonia
+T5	Autopsy 175 181	biopsy
+T6	Generic_Prion 214 239	spongiform encephalopathy
+T7	Electrophysio_test 245 248	EEG
+T9	Anatomic_location 301 311	hemisphere
+T10	Generic_Prion 331 345	prion diseases
+T11	Choose_Related 370 373	YES
+T8	Choose_Done 381 385	DONE
+T12	Anatomic_location 169 174	brain

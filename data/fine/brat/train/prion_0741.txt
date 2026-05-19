@@ -1,0 +1,8 @@
+High signal intensity within the posterior thalamus (pulvinar nucleus) has been noted on MRI in patients with new variant Creutzfeldt-Jakob disease (nvCJD).
+In this study MRI examinations from three patients with proven nvCJD were compared with MRI examinations from a control group of 14 age-matched subjects with no neurological abnormalities.
+Mean signal intensity from seven target areas (periaqueductal tissue, posterior thalamus, dorsomedial thalamus, anterior thalamus, putamen, caudate head and frontal white matter) was calculated in each case.
+Absolute signal intensity measurements were not significantly different between the groups.
+Patients with nvCJD showed significantly higher signal intensity within dorsomedial thalamus, posterior thalamus and periaqueductal region than control patients when these measurements were normalized to the signal intensity of normal appearing white matter.
+Highly significant differences in posterior thalamus/putamen signal intensity ratio (PPR) and posterior thalamus/caudate ratio (PCR) were observed between the groups.
+For proton density images, PPR and PCR were greater than 1 for all nvCJD patients and less than 1 for all control patients.
+Both PPR and PCR are simple to calculate and offer a simple, non-invasive indicator of nvCJD.

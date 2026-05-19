@@ -1,0 +1,201 @@
+{
+  "doc_id": "prion_0831",
+  "text": "INTRODUCTION: Progressive myoclonic cerebellar ataxia is a clinical entity with an important spectrum of possible diagnoses that requires a complex and exhaustive differential diagnosis.\nCASE REPORT: A 53-year-old male patient with no relevant medical history who was admitted to hospital because of an unstable gait, together with mild bilateral dysymmetry and the progressive and insidious widening of the base of support.\nThe patient's symptoms then became more pronounced and included myoclonus and a deterioration of the higher functions.\nThe patient died four months after the onset of the symptoms.\nThe explorations that were conducted included a pathological study of the brain, which confirmed the diagnosis of classical spongiform encephalopathy (Creutzfeldt-Jakob disease).\nCONCLUSIONS: Creutzfeldt-Jakob disease must be included in the differential diagnosis of progressive cerebellar ataxias.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Symptom",
+      "start": 14,
+      "end": 53,
+      "text": "Progressive myoclonic cerebellar ataxia",
+      "spans": [
+        {
+          "start": 14,
+          "end": 53
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 202,
+      "end": 213,
+      "text": "53-year-old",
+      "spans": [
+        {
+          "start": 202,
+          "end": 213
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 300,
+      "end": 316,
+      "text": "an unstable gait",
+      "spans": [
+        {
+          "start": 300,
+          "end": 316
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 362,
+      "end": 423,
+      "text": "the progressive and insidious widening of the base of support",
+      "spans": [
+        {
+          "start": 362,
+          "end": 423
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 489,
+      "end": 498,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 489,
+          "end": 498
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 503,
+      "end": 542,
+      "text": "a deterioration of the higher functions",
+      "spans": [
+        {
+          "start": 503,
+          "end": 542
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Complication",
+      "start": 556,
+      "end": 560,
+      "text": "died",
+      "spans": [
+        {
+          "start": 556,
+          "end": 560
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Time",
+      "start": 561,
+      "end": 572,
+      "text": "four months",
+      "spans": [
+        {
+          "start": 561,
+          "end": 572
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Time",
+      "start": 583,
+      "end": 604,
+      "text": "onset of the symptoms",
+      "spans": [
+        {
+          "start": 583,
+          "end": 604
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 654,
+      "end": 672,
+      "text": "pathological study",
+      "spans": [
+        {
+          "start": 654,
+          "end": 672
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 680,
+      "end": 685,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 680,
+          "end": 685
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 730,
+      "end": 755,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 730,
+          "end": 755
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 757,
+      "end": 782,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 757,
+          "end": 782
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 798,
+      "end": 823,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 798,
+          "end": 823
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 874,
+      "end": 904,
+      "text": "progressive cerebellar ataxias",
+      "spans": [
+        {
+          "start": 874,
+          "end": 904
+        }
+      ]
+    }
+  ]
+}

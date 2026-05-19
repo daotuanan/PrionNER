@@ -1,0 +1,318 @@
+{
+  "doc_id": "prion_0742",
+  "text": "Today the diagnosis of Creutzfeldt-Jakob disease (CJD) is proven only postmortem or by evidence of neuropathology.\nDuring the patient's lifetime EEG recordings or cerebrospinal fluid analysis may support the diagnosis.\nIn most cases, T2-MRI scans show hyperintensities of the basal ganglia.\nA new imaging technique called diffusion-weighted MRI (DWI) has recently been established.\nThe sensitivity of DWI was evaluated in five patients suspected of CJD.\nAll five cases showed hyperintense signal changes in the basal ganglia on DWI sequences.\nThese findings were more pronounced in DWI than in T2, FLAIR, or PD-weighted images.\nThus, DWI seems to be the most sensitive sequence for detecting changes in patients with suspected CJD.\nMoreover, its short scanning time ensures that fewer artifacts occur, especially in the case of myoclonus.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 23,
+      "end": 48,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 23,
+          "end": 48
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 50,
+      "end": 53,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 50,
+          "end": 53
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Autopsy",
+      "start": 99,
+      "end": 113,
+      "text": "neuropathology",
+      "spans": [
+        {
+          "start": 99,
+          "end": 113
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Electrophysio_test",
+      "start": 145,
+      "end": 148,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 145,
+          "end": 148
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Blood_biomarker_test",
+      "start": 163,
+      "end": 191,
+      "text": "cerebrospinal fluid analysis",
+      "spans": [
+        {
+          "start": 163,
+          "end": 191
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Imaging_sequence",
+      "start": 234,
+      "end": 236,
+      "text": "T2",
+      "spans": [
+        {
+          "start": 234,
+          "end": 236
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Imaging_test",
+      "start": 237,
+      "end": 240,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 237,
+          "end": 240
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Imaging_finding",
+      "start": 252,
+      "end": 268,
+      "text": "hyperintensities",
+      "spans": [
+        {
+          "start": 252,
+          "end": 268
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 276,
+      "end": 289,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 276,
+          "end": 289
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Imaging_sequence",
+      "start": 322,
+      "end": 340,
+      "text": "diffusion-weighted",
+      "spans": [
+        {
+          "start": 322,
+          "end": 340
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Imaging_test",
+      "start": 341,
+      "end": 344,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 341,
+          "end": 344
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Imaging_sequence",
+      "start": 346,
+      "end": 349,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 346,
+          "end": 349
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Imaging_sequence",
+      "start": 401,
+      "end": 404,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 401,
+          "end": 404
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 449,
+      "end": 452,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 449,
+          "end": 452
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Imaging_finding",
+      "start": 476,
+      "end": 503,
+      "text": "hyperintense signal changes",
+      "spans": [
+        {
+          "start": 476,
+          "end": 503
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 511,
+      "end": 524,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 511,
+          "end": 524
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Imaging_sequence",
+      "start": 528,
+      "end": 531,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 528,
+          "end": 531
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Imaging_sequence",
+      "start": 582,
+      "end": 585,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 582,
+          "end": 585
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Imaging_sequence",
+      "start": 594,
+      "end": 596,
+      "text": "T2",
+      "spans": [
+        {
+          "start": 594,
+          "end": 596
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Imaging_sequence",
+      "start": 598,
+      "end": 603,
+      "text": "FLAIR",
+      "spans": [
+        {
+          "start": 598,
+          "end": 603
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Imaging_sequence",
+      "start": 608,
+      "end": 626,
+      "text": "PD-weighted images",
+      "spans": [
+        {
+          "start": 608,
+          "end": 626
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Imaging_sequence",
+      "start": 634,
+      "end": 637,
+      "text": "DWI",
+      "spans": [
+        {
+          "start": 634,
+          "end": 637
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Generic_Prion",
+      "start": 727,
+      "end": 730,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 727,
+          "end": 730
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Symptom",
+      "start": 828,
+      "end": 837,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 828,
+          "end": 837
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "doc_id": "prion_0669",
+  "text": "We report a case of the unusual panencephalopathic type of Creutzfeldt-Jakob disease (CJD) in Taiwan.\nThis 59-year-old woman presented in 1983 with typical clinical manifestations of CJD and died 16 months later.\nPostmortem examination revealed severe neuronal loss, spongiosis and gliosis extensively in cerebral cortex and striatum as well as in the white matter.\nWe also report 6 other CJD patients seen from 1983 to 1991 at Veterans General Hospital-Taipei.",
+  "entities": [
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 32,
+      "end": 50,
+      "text": "panencephalopathic",
+      "spans": [
+        {
+          "start": 32,
+          "end": 50
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 59,
+      "end": 84,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 59,
+          "end": 84
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 86,
+      "end": 89,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 86,
+          "end": 89
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 107,
+      "end": 118,
+      "text": "59-year-old",
+      "spans": [
+        {
+          "start": 107,
+          "end": 118
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Time",
+      "start": 138,
+      "end": 142,
+      "text": "1983",
+      "spans": [
+        {
+          "start": 138,
+          "end": 142
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 183,
+      "end": 186,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 183,
+          "end": 186
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Complication",
+      "start": 191,
+      "end": 195,
+      "text": "died",
+      "spans": [
+        {
+          "start": 191,
+          "end": 195
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Time",
+      "start": 196,
+      "end": 205,
+      "text": "16 months",
+      "spans": [
+        {
+          "start": 196,
+          "end": 205
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Time",
+      "start": 196,
+      "end": 211,
+      "text": "16 months later",
+      "spans": [
+        {
+          "start": 196,
+          "end": 211
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 213,
+      "end": 235,
+      "text": "Postmortem examination",
+      "spans": [
+        {
+          "start": 213,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Findings",
+      "start": 252,
+      "end": 265,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 252,
+          "end": 265
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Findings",
+      "start": 267,
+      "end": 277,
+      "text": "spongiosis",
+      "spans": [
+        {
+          "start": 267,
+          "end": 277
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Findings",
+      "start": 282,
+      "end": 289,
+      "text": "gliosis",
+      "spans": [
+        {
+          "start": 282,
+          "end": 289
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 305,
+      "end": 320,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 305,
+          "end": 320
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 325,
+      "end": 333,
+      "text": "striatum",
+      "spans": [
+        {
+          "start": 325,
+          "end": 333
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 352,
+      "end": 364,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 352,
+          "end": 364
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 389,
+      "end": 392,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 389,
+          "end": 392
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Time",
+      "start": 412,
+      "end": 424,
+      "text": "1983 to 1991",
+      "spans": [
+        {
+          "start": 412,
+          "end": 424
+        }
+      ]
+    }
+  ]
+}

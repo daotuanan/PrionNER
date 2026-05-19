@@ -1,0 +1,5 @@
+We report the use of diffusion-weighted MR imaging in the early diagnosis and monitoring of the progression of a histopathologically proved case of sporadic Creutzfeldt-Jakob disease.
+Ribbon-like areas of hyperintensity in the cerebral cortex on diffusion-weighted images corresponded to the localization of periodic sharp-wave complexes on the electroencephalogram.
+
+<Related> YES or NO
+[DONE]

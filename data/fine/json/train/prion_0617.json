@@ -1,0 +1,432 @@
+{
+  "doc_id": "prion_0617",
+  "text": "Findings are reported in three members of a Japanese family with a chronic familial disease characterized by signs of marked cerebellar dysfunction, mild pyramidal and extrapyramidal dysfunction, and loss or decrease of the knee and ankle jerks.\nAlthough the clinical features suggested olivopontocerebellar atrophy, postmortem study of one patient with obvious dementia revealed massive multiform plaques of Kuru type as well as multicentric, senile, and primitive types throughout the central nervous system, most prominent in the cerebellar and cerebral cortices and caudate nucleus.\nThere was degeneration of the spinocerebellar and pyramidal tracts, posterior columns, superior cerebellar peduncles, cerebellar cortex, dentate nucleus, and vestibular nuclei as well as gliosis of the inferior colliculus and cerebellar foliar white matter.\nThere were no cerebral spongiform changes, although slight spongy alteration without glial reaction was present.\nThe clinical and neuropathological characteristics were consistent with those reported as Gerstmann-Sträussler-Scheinker's disease in an Austrian family.",
+  "entities": [
+    {
+      "id": "T28",
+      "label": "Anatomic_location",
+      "start": 125,
+      "end": 135,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 125,
+          "end": 135
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Symptom",
+      "start": 125,
+      "end": 147,
+      "text": "cerebellar dysfunction",
+      "spans": [
+        {
+          "start": 125,
+          "end": 147
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Symptom",
+      "start": 154,
+      "end": 194,
+      "text": "pyramidal dysfunction",
+      "spans": [
+        {
+          "start": 154,
+          "end": 163
+        },
+        {
+          "start": 183,
+          "end": 194
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 168,
+      "end": 194,
+      "text": "extrapyramidal dysfunction",
+      "spans": [
+        {
+          "start": 168,
+          "end": 194
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 200,
+      "end": 244,
+      "text": "loss or decrease of the knee and ankle jerks",
+      "spans": [
+        {
+          "start": 200,
+          "end": 244
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 287,
+      "end": 307,
+      "text": "olivopontocerebellar",
+      "spans": [
+        {
+          "start": 287,
+          "end": 307
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Autopsy_finding",
+      "start": 308,
+      "end": 315,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 308,
+          "end": 315
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Autopsy",
+      "start": 317,
+      "end": 333,
+      "text": "postmortem study",
+      "spans": [
+        {
+          "start": 317,
+          "end": 333
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 362,
+      "end": 370,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 362,
+          "end": 370
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Autopsy_finding",
+      "start": 388,
+      "end": 418,
+      "text": "multiform plaques of Kuru type",
+      "spans": [
+        {
+          "start": 388,
+          "end": 418
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Kuru",
+      "start": 409,
+      "end": 418,
+      "text": "Kuru type",
+      "spans": [
+        {
+          "start": 409,
+          "end": 418
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Autopsy_finding",
+      "start": 430,
+      "end": 471,
+      "text": "multicentric, senile, and primitive types",
+      "spans": [
+        {
+          "start": 430,
+          "end": 471
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 487,
+      "end": 509,
+      "text": "central nervous system",
+      "spans": [
+        {
+          "start": 487,
+          "end": 509
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Anatomic_location",
+      "start": 533,
+      "end": 543,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 533,
+          "end": 543
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 548,
+      "end": 565,
+      "text": "cerebral cortices",
+      "spans": [
+        {
+          "start": 548,
+          "end": 565
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 570,
+      "end": 585,
+      "text": "caudate nucleus",
+      "spans": [
+        {
+          "start": 570,
+          "end": 585
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Autopsy_finding",
+      "start": 597,
+      "end": 609,
+      "text": "degeneration",
+      "spans": [
+        {
+          "start": 597,
+          "end": 609
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 617,
+      "end": 653,
+      "text": "spinocerebellar tracts",
+      "spans": [
+        {
+          "start": 617,
+          "end": 632
+        },
+        {
+          "start": 647,
+          "end": 653
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 637,
+      "end": 653,
+      "text": "pyramidal tracts",
+      "spans": [
+        {
+          "start": 637,
+          "end": 653
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 655,
+      "end": 672,
+      "text": "posterior columns",
+      "spans": [
+        {
+          "start": 655,
+          "end": 672
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 674,
+      "end": 703,
+      "text": "superior cerebellar peduncles",
+      "spans": [
+        {
+          "start": 674,
+          "end": 703
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 705,
+      "end": 722,
+      "text": "cerebellar cortex",
+      "spans": [
+        {
+          "start": 705,
+          "end": 722
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 724,
+      "end": 739,
+      "text": "dentate nucleus",
+      "spans": [
+        {
+          "start": 724,
+          "end": 739
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 745,
+      "end": 762,
+      "text": "vestibular nuclei",
+      "spans": [
+        {
+          "start": 745,
+          "end": 762
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Autopsy_finding",
+      "start": 774,
+      "end": 781,
+      "text": "gliosis",
+      "spans": [
+        {
+          "start": 774,
+          "end": 781
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 789,
+      "end": 808,
+      "text": "inferior colliculus",
+      "spans": [
+        {
+          "start": 789,
+          "end": 808
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 813,
+      "end": 843,
+      "text": "cerebellar foliar white matter",
+      "spans": [
+        {
+          "start": 813,
+          "end": 843
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Anatomic_location",
+      "start": 859,
+      "end": 867,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 859,
+          "end": 867
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Autopsy_finding",
+      "start": 868,
+      "end": 886,
+      "text": "spongiform changes",
+      "spans": [
+        {
+          "start": 868,
+          "end": 886
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy_finding",
+      "start": 904,
+      "end": 921,
+      "text": "spongy alteration",
+      "spans": [
+        {
+          "start": 904,
+          "end": 921
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Autopsy",
+      "start": 975,
+      "end": 992,
+      "text": "neuropathological",
+      "spans": [
+        {
+          "start": 975,
+          "end": 992
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "GSS",
+      "start": 1048,
+      "end": 1088,
+      "text": "Gerstmann-Sträussler-Scheinker's disease",
+      "spans": [
+        {
+          "start": 1048,
+          "end": 1088
+        }
+      ]
+    }
+  ]
+}

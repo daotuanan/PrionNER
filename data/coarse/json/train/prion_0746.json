@@ -1,0 +1,320 @@
+{
+  "doc_id": "prion_0746",
+  "text": "OBJECTIVE: To describe a rare phenotypic variant of P102L Gerstmann-Sträussler-Scheinker disease (GSS).\nBACKGROUND: Classic GSS is characterized by an early age at onset, prominent cerebellar signs with a slowly evolving dementia, and a neuropathology including multifocal PrP-positive plaques and variable but usually modest spongiform change.\nMETHODS: Clinical, neuropathologic, immunohistochemical, and molecular genetic analysis of three sisters in a Hungarian family was performed.\nRESULTS: The clinical course of all three sisters was indistinguishable from sporadic Creutzfeldt-Jakob disease (CJD).\nNeuropathologic examination revealed spongiform changes, PrP (prion)-positive unicentric \"kuru\" or multicentric plaques, and abundant beta-A4-positive senile plaques.\nMolecular genetic analysis of the PRNP gene showed the heterozygous codon P102L mutation of classic GSS, with the methionine encoding allele of a heterozygous codon 129 coupled to the mutant 102 allele.\nCONCLUSION: The authors report the second recorded example of a sporadic CJD phenotype occurring in association with the P102L GSS genotype, and the first instance in which the phenotype was the rule rather than the exception, or was associated with prominent beta-A4 plaque formation.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Familial_Prion",
+      "start": 58,
+      "end": 96,
+      "text": "Gerstmann-Sträussler-Scheinker disease",
+      "spans": [
+        {
+          "start": 58,
+          "end": 96
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Familial_Prion",
+      "start": 98,
+      "end": 101,
+      "text": "GSS",
+      "spans": [
+        {
+          "start": 98,
+          "end": 101
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Familial_Prion",
+      "start": 124,
+      "end": 127,
+      "text": "GSS",
+      "spans": [
+        {
+          "start": 124,
+          "end": 127
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 181,
+      "end": 197,
+      "text": "cerebellar signs",
+      "spans": [
+        {
+          "start": 181,
+          "end": 197
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 221,
+      "end": 229,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 221,
+          "end": 229
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Test_name",
+      "start": 237,
+      "end": 251,
+      "text": "neuropathology",
+      "spans": [
+        {
+          "start": 237,
+          "end": 251
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Findings",
+      "start": 273,
+      "end": 293,
+      "text": "PrP-positive plaques",
+      "spans": [
+        {
+          "start": 273,
+          "end": 293
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Findings",
+      "start": 326,
+      "end": 343,
+      "text": "spongiform change",
+      "spans": [
+        {
+          "start": 326,
+          "end": 343
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 364,
+      "end": 379,
+      "text": "neuropathologic",
+      "spans": [
+        {
+          "start": 364,
+          "end": 379
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Test_name",
+      "start": 381,
+      "end": 400,
+      "text": "immunohistochemical",
+      "spans": [
+        {
+          "start": 381,
+          "end": 400
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 406,
+      "end": 432,
+      "text": "molecular genetic analysis",
+      "spans": [
+        {
+          "start": 406,
+          "end": 432
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Sporadic_Prion",
+      "start": 564,
+      "end": 598,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 564,
+          "end": 598
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 600,
+      "end": 603,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 600,
+          "end": 603
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Test_name",
+      "start": 606,
+      "end": 633,
+      "text": "Neuropathologic examination",
+      "spans": [
+        {
+          "start": 606,
+          "end": 633
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Findings",
+      "start": 643,
+      "end": 661,
+      "text": "spongiform changes",
+      "spans": [
+        {
+          "start": 643,
+          "end": 661
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Findings",
+      "start": 663,
+      "end": 725,
+      "text": "PrP (prion)-positive unicentric \"kuru\" plaques",
+      "spans": [
+        {
+          "start": 663,
+          "end": 701
+        },
+        {
+          "start": 718,
+          "end": 725
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T14",
+      "label": "Findings",
+      "start": 705,
+      "end": 725,
+      "text": "multicentric plaques",
+      "spans": [
+        {
+          "start": 705,
+          "end": 717
+        },
+        {
+          "start": 718,
+          "end": 725
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T18",
+      "label": "Findings",
+      "start": 740,
+      "end": 771,
+      "text": "beta-A4-positive senile plaques",
+      "spans": [
+        {
+          "start": 740,
+          "end": 763
+        },
+        {
+          "start": 764,
+          "end": 771
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T19",
+      "label": "Test_name",
+      "start": 773,
+      "end": 799,
+      "text": "Molecular genetic analysis",
+      "spans": [
+        {
+          "start": 773,
+          "end": 799
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Familial_Prion",
+      "start": 873,
+      "end": 876,
+      "text": "GSS",
+      "spans": [
+        {
+          "start": 873,
+          "end": 876
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Sporadic_Prion",
+      "start": 1040,
+      "end": 1052,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 1040,
+          "end": 1052
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Familial_Prion",
+      "start": 1103,
+      "end": 1106,
+      "text": "GSS",
+      "spans": [
+        {
+          "start": 1103,
+          "end": 1106
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Findings",
+      "start": 1236,
+      "end": 1260,
+      "text": "beta-A4 plaque formation",
+      "spans": [
+        {
+          "start": 1236,
+          "end": 1260
+        }
+      ]
+    }
+  ]
+}

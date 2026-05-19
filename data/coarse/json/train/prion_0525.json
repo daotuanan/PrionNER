@@ -1,0 +1,357 @@
+{
+  "doc_id": "prion_0525",
+  "text": "A 47-year-old man began to suffer from progressive truncal ataxia and mental alterations typical of Wernicke-Korsakoff syndrome.\nHe showed confusional state, hallucinations, delirium of jealousy and a serious impairment of recent memory.\nThe symptomatology lasted 13 months, but only in the last weeks was it complicated by myoclonias.\nTriphasic pseudoperiodic sharp-waves characterized the EEG-recordings only in the final stage.\nMacroscopic examination of the brain showed marked atrophy of the mammillary bodies and superior vermis.\nHowever, the histological features were consistent with Creutzfeldt-Jakob disease (CJD) with focal accentuation of the changes in the latter structures.\nThis case supports the hypothesis that CJD-changes begin focally in the CNS and, subsequently, spread along neuronal pathways, probably via central axons.\nOnly in the final stage does the pathological process involve most parts of the gray matter.\nA focal accentuation of the CJD process in the cerebello-mammillo-thalamic system caused in this case a Wernicke-Korsakoff-like syndrome.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "47-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 39,
+      "end": 65,
+      "text": "progressive truncal ataxia",
+      "spans": [
+        {
+          "start": 39,
+          "end": 65
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 70,
+      "end": 88,
+      "text": "mental alterations",
+      "spans": [
+        {
+          "start": 70,
+          "end": 88
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Differential_Diagnosis",
+      "start": 100,
+      "end": 127,
+      "text": "Wernicke-Korsakoff syndrome",
+      "spans": [
+        {
+          "start": 100,
+          "end": 127
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 139,
+      "end": 156,
+      "text": "confusional state",
+      "spans": [
+        {
+          "start": 139,
+          "end": 156
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 158,
+      "end": 172,
+      "text": "hallucinations",
+      "spans": [
+        {
+          "start": 158,
+          "end": 172
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 174,
+      "end": 194,
+      "text": "delirium of jealousy",
+      "spans": [
+        {
+          "start": 174,
+          "end": 194
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 209,
+      "end": 236,
+      "text": "impairment of recent memory",
+      "spans": [
+        {
+          "start": 209,
+          "end": 236
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Time",
+      "start": 264,
+      "end": 273,
+      "text": "13 months",
+      "spans": [
+        {
+          "start": 264,
+          "end": 273
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 324,
+      "end": 334,
+      "text": "myoclonias",
+      "spans": [
+        {
+          "start": 324,
+          "end": 334
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Test_name",
+      "start": 391,
+      "end": 405,
+      "text": "EEG-recordings",
+      "spans": [
+        {
+          "start": 391,
+          "end": 405
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Test_name",
+      "start": 431,
+      "end": 454,
+      "text": "Macroscopic examination",
+      "spans": [
+        {
+          "start": 431,
+          "end": 454
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 462,
+      "end": 467,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 462,
+          "end": 467
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 482,
+      "end": 489,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 482,
+          "end": 489
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 497,
+      "end": 514,
+      "text": "mammillary bodies",
+      "spans": [
+        {
+          "start": 497,
+          "end": 514
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 519,
+      "end": 534,
+      "text": "superior vermis",
+      "spans": [
+        {
+          "start": 519,
+          "end": 534
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Test_name",
+      "start": 549,
+      "end": 570,
+      "text": "histological features",
+      "spans": [
+        {
+          "start": 549,
+          "end": 570
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Generic_Prion",
+      "start": 592,
+      "end": 617,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 592,
+          "end": 617
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Generic_Prion",
+      "start": 619,
+      "end": 622,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 619,
+          "end": 622
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Generic_Prion",
+      "start": 728,
+      "end": 731,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 728,
+          "end": 731
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Anatomic_location",
+      "start": 761,
+      "end": 764,
+      "text": "CNS",
+      "spans": [
+        {
+          "start": 761,
+          "end": 764
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Time",
+      "start": 856,
+      "end": 867,
+      "text": "final stage",
+      "spans": [
+        {
+          "start": 856,
+          "end": 867
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 877,
+      "end": 889,
+      "text": "pathological",
+      "spans": [
+        {
+          "start": 877,
+          "end": 889
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 924,
+      "end": 935,
+      "text": "gray matter",
+      "spans": [
+        {
+          "start": 924,
+          "end": 935
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Generic_Prion",
+      "start": 965,
+      "end": 968,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 965,
+          "end": 968
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Anatomic_location",
+      "start": 984,
+      "end": 1018,
+      "text": "cerebello-mammillo-thalamic system",
+      "spans": [
+        {
+          "start": 984,
+          "end": 1018
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 1041,
+      "end": 1073,
+      "text": "Wernicke-Korsakoff-like syndrome",
+      "spans": [
+        {
+          "start": 1041,
+          "end": 1073
+        }
+      ]
+    }
+  ]
+}

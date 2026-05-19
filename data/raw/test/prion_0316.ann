@@ -1,0 +1,13 @@
+T1	Choose_Related 416 419	YES
+T2	Age 2 13	44 year old
+T4	Symptom 50 72	cerebellar disturbance
+T5	Time_point 87 101	13 years after
+T11	Generic_Prion 243 268	Creutzfeldt-Jakob disease
+T13	Autopsy 286 294	necropsy
+T15	Generic_Prion 332 357	Creutzfeldt-Jakob disease
+T3	Choose_Done 427 431	DONE
+T6	Treatment 376 403	human derived gonadotrophin
+T7	Anatomic_location 50 60	cerebellar
+T8	Treatment 112 160	human pituitary derived gonadotrophin injections
+T10	Complication 205 209	died
+T9	Duration 224 235	nine months

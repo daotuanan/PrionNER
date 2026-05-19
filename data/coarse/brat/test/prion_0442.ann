@@ -1,0 +1,14 @@
+T1	Time 12 50	Between January 1993 and December 2003
+T4	Time 20 32	January 1993
+T6	Time 37 50	December 2003
+T5	Generic_Prion 69 92	familial prion diseases
+T8	Generic_Prion 178 205	spongiform encephalopathies
+T7	Test_name 406 423	neuropathological
+T12	Test_name 489 502	analysing DNA
+T16	Test_name 673 699	genetic molecular analysis
+T24	Familial_Prion 1116 1139	fatal familial insomnia
+T25	Familial_Prion 1141 1144	FFI
+T29	Generic_Prion 1244 1275	Creutzfeldt-Jakob disease (CJD)
+T9	Test_name 1348 1360	pathological
+T31	Familial_Prion 1436 1439	FFI
+T32	Familial_Prion 1444 1450	CJD178

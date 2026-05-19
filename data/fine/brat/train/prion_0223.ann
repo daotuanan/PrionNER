@@ -1,0 +1,21 @@
+T3	Differential_Diagnosis 111 140	progressive dementia syndrome
+T5	Symptom 256 277	neurological symptoms
+T7	Generic_Prion 555 580	Creutzfeldt-Jakob disease
+T8	Generic_Prion 582 585	CJD
+T9	Generic_Prion 651 654	CJD
+T11	Age 788 799	56 year old
+T13	Symptom 818 847	progressive dementia syndrome
+T16	Symptom 1050 1059	myoclonus
+T17	Symptom 1064 1092	rapidly progressive dementia
+T18	sCJD 1143 1155	sporadic CJD
+T20	Generic_Prion 1216 1219	CJD
+T4	Generic_Prion 291 313	Genetic prion diseases
+T26	Differential_Diagnosis 627 649	neurological disorders
+T27	Symptom 677 697	progressive dementia
+T12	Symptom 1024 1029;987 1009	signs progressive cerebellar
+T14	Symptom 1014 1029	brainstem signs
+T30	Generic_Prion 1395 1398	CJD
+T21	Age 1437 1459	after the sixth decade
+T32	Complication 1480 1485	death
+T22	Duration 1493 1505	a few months
+T33	Symptom 1539 1561	neurological disorders

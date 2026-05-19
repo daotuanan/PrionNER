@@ -1,0 +1,370 @@
+{
+  "doc_id": "prion_0628",
+  "text": "Chronological changes of computerized tomography (CT) findings and clinical signs and symptoms were studied in 3 patients of Creutzfeldt-Jakob disease.\nCT revealed no brain atrophy in the stage when the patients showed frequent myoclonus and fell rapidly into the state of akinetic mutism.\nOne autopsied case of this stage showed no macroscopical brain atrophy at all.\nMicroscopical examination revealed extensive spongiform change in cerebral cortices (except for hippocampus), thalamus, basal ganglia, midbrain and a part of cerebellar cortex, but neuronal loss and gliosis were not severe.\nIn other 2 cases conspicuous brain atrophy was noted in CT several months after this rapidly worsening period.\nTherefore when discussing pathological findings of Creutzfeldt-Jakob disease, we must consider when the patient died in the clinical course of this disorder.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Test_name",
+      "start": 25,
+      "end": 48,
+      "text": "computerized tomography",
+      "spans": [
+        {
+          "start": 25,
+          "end": 48
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Test_name",
+      "start": 50,
+      "end": 52,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 50,
+          "end": 52
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 125,
+      "end": 150,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 125,
+          "end": 150
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Test_name",
+      "start": 152,
+      "end": 154,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 152,
+          "end": 154
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Anatomic_location",
+      "start": 167,
+      "end": 172,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 167,
+          "end": 172
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Findings",
+      "start": 173,
+      "end": 180,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 173,
+          "end": 180
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 219,
+      "end": 237,
+      "text": "frequent myoclonus",
+      "spans": [
+        {
+          "start": 219,
+          "end": 237
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 273,
+      "end": 288,
+      "text": "akinetic mutism",
+      "spans": [
+        {
+          "start": 273,
+          "end": 288
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 294,
+      "end": 303,
+      "text": "autopsied",
+      "spans": [
+        {
+          "start": 294,
+          "end": 303
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Anatomic_location",
+      "start": 347,
+      "end": 352,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 347,
+          "end": 352
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Findings",
+      "start": 353,
+      "end": 360,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 353,
+          "end": 360
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 369,
+      "end": 394,
+      "text": "Microscopical examination",
+      "spans": [
+        {
+          "start": 369,
+          "end": 394
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 414,
+      "end": 431,
+      "text": "spongiform change",
+      "spans": [
+        {
+          "start": 414,
+          "end": 431
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 435,
+      "end": 452,
+      "text": "cerebral cortices",
+      "spans": [
+        {
+          "start": 435,
+          "end": 452
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 465,
+      "end": 476,
+      "text": "hippocampus",
+      "spans": [
+        {
+          "start": 465,
+          "end": 476
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 479,
+      "end": 487,
+      "text": "thalamus",
+      "spans": [
+        {
+          "start": 479,
+          "end": 487
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 489,
+      "end": 502,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 489,
+          "end": 502
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 504,
+      "end": 512,
+      "text": "midbrain",
+      "spans": [
+        {
+          "start": 504,
+          "end": 512
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 527,
+      "end": 544,
+      "text": "cerebellar cortex",
+      "spans": [
+        {
+          "start": 527,
+          "end": 544
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Findings",
+      "start": 550,
+      "end": 563,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 550,
+          "end": 563
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Findings",
+      "start": 568,
+      "end": 575,
+      "text": "gliosis",
+      "spans": [
+        {
+          "start": 568,
+          "end": 575
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Anatomic_location",
+      "start": 622,
+      "end": 627,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 622,
+          "end": 627
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Findings",
+      "start": 628,
+      "end": 635,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 628,
+          "end": 635
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Test_name",
+      "start": 649,
+      "end": 651,
+      "text": "CT",
+      "spans": [
+        {
+          "start": 649,
+          "end": 651
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Time",
+      "start": 652,
+      "end": 666,
+      "text": "several months",
+      "spans": [
+        {
+          "start": 652,
+          "end": 666
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Findings",
+      "start": 730,
+      "end": 751,
+      "text": "pathological findings",
+      "spans": [
+        {
+          "start": 730,
+          "end": 751
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Generic_Prion",
+      "start": 755,
+      "end": 780,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 755,
+          "end": 780
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Complication",
+      "start": 816,
+      "end": 820,
+      "text": "died",
+      "spans": [
+        {
+          "start": 816,
+          "end": 820
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "doc_id": "prion_0613",
+  "text": "A family with Gerstmann-Sträussler-Scheinker disease had coincidental clinical onset in three members of two generations, a phenomenon suggesting a common source of a transmissible agent.\nA regular dietary supplement in this family was home-bred rabbit.\nThe clinical picture, although generally similar to that in previous accounts, included the unusual findings of visual loss (one patient) and sensory loss (one patient), and dementia was not apparent until late in the illness in two patients.\nPathological examination of a cerebellar cortical biopsy specimen from one patient and postmortem tissue from two patients revealed multicentric amyloid plaques located in cerebral and cerebellar cortex, basal ganglia, and white matter with degeneration of corticospinal, dorsal spinocerebellar, dentatorubral, and geniculocalcarine tracts and dorsal columns.\nSpongiform change was focal and confined to the superficial cerebral cortical layers.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "GSS",
+      "start": 14,
+      "end": 52,
+      "text": "Gerstmann-Sträussler-Scheinker disease",
+      "spans": [
+        {
+          "start": 14,
+          "end": 52
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 366,
+      "end": 377,
+      "text": "visual loss",
+      "spans": [
+        {
+          "start": 366,
+          "end": 377
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 396,
+      "end": 408,
+      "text": "sensory loss",
+      "spans": [
+        {
+          "start": 396,
+          "end": 408
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 428,
+      "end": 436,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 428,
+          "end": 436
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Time_point",
+      "start": 460,
+      "end": 479,
+      "text": "late in the illness",
+      "spans": [
+        {
+          "start": 460,
+          "end": 479
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Autopsy",
+      "start": 497,
+      "end": 521,
+      "text": "Pathological examination",
+      "spans": [
+        {
+          "start": 497,
+          "end": 521
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Anatomic_location",
+      "start": 527,
+      "end": 546,
+      "text": "cerebellar cortical",
+      "spans": [
+        {
+          "start": 527,
+          "end": 546
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Autopsy",
+      "start": 547,
+      "end": 553,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 547,
+          "end": 553
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Autopsy_finding",
+      "start": 629,
+      "end": 657,
+      "text": "multicentric amyloid plaques",
+      "spans": [
+        {
+          "start": 629,
+          "end": 657
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 669,
+      "end": 699,
+      "text": "cerebral cortex",
+      "spans": [
+        {
+          "start": 669,
+          "end": 677
+        },
+        {
+          "start": 693,
+          "end": 699
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T27",
+      "label": "Anatomic_location",
+      "start": 682,
+      "end": 699,
+      "text": "cerebellar cortex",
+      "spans": [
+        {
+          "start": 682,
+          "end": 699
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 701,
+      "end": 714,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 701,
+          "end": 714
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 720,
+      "end": 732,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 720,
+          "end": 732
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Autopsy_finding",
+      "start": 738,
+      "end": 750,
+      "text": "degeneration",
+      "spans": [
+        {
+          "start": 738,
+          "end": 750
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 754,
+      "end": 767,
+      "text": "corticospinal",
+      "spans": [
+        {
+          "start": 754,
+          "end": 767
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 769,
+      "end": 791,
+      "text": "dorsal spinocerebellar",
+      "spans": [
+        {
+          "start": 769,
+          "end": 791
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 793,
+      "end": 806,
+      "text": "dentatorubral",
+      "spans": [
+        {
+          "start": 793,
+          "end": 806
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Anatomic_location",
+      "start": 812,
+      "end": 836,
+      "text": "geniculocalcarine tracts",
+      "spans": [
+        {
+          "start": 812,
+          "end": 836
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Anatomic_location",
+      "start": 841,
+      "end": 855,
+      "text": "dorsal columns",
+      "spans": [
+        {
+          "start": 841,
+          "end": 855
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Autopsy_finding",
+      "start": 857,
+      "end": 874,
+      "text": "Spongiform change",
+      "spans": [
+        {
+          "start": 857,
+          "end": 874
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 905,
+      "end": 941,
+      "text": "superficial cerebral cortical layers",
+      "spans": [
+        {
+          "start": 905,
+          "end": 941
+        }
+      ]
+    }
+  ]
+}

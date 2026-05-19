@@ -1,0 +1,34 @@
+T1	Symptom 125 147	cerebellar dysfunction
+T2	Symptom 168 194	extrapyramidal dysfunction
+T3	Symptom 200 244	loss or decrease of the knee and ankle jerks
+T5	Autopsy 317 333	postmortem study
+T6	Symptom 362 370	dementia
+T7	Kuru 409 418	Kuru type
+T8	Anatomic_location 487 509	central nervous system
+T10	Anatomic_location 570 585	caudate nucleus
+T11	Anatomic_location 617 632;647 653	spinocerebellar tracts
+T12	Anatomic_location 655 672	posterior columns
+T13	Anatomic_location 674 703	superior cerebellar peduncles
+T14	Anatomic_location 705 722	cerebellar cortex
+T15	Anatomic_location 724 739	dentate nucleus
+T16	Anatomic_location 745 762	vestibular nuclei
+T17	Anatomic_location 789 808	inferior colliculus
+T18	Anatomic_location 813 843	cerebellar foliar white matter
+T19	Autopsy_finding 868 886	spongiform changes
+T20	GSS 1048 1088	Gerstmann-Sträussler-Scheinker's disease
+T21	Choose_Related 1123 1126	YES
+T4	Anatomic_location 287 307	olivopontocerebellar
+T22	Autopsy_finding 388 418	multiform plaques of Kuru type
+T23	Anatomic_location 548 565	cerebral cortices
+T9	Autopsy_finding 904 921	spongy alteration
+T24	Autopsy 975 992	neuropathological
+T25	Choose_Done 1134 1138	DONE
+T26	Anatomic_location 637 653	pyramidal tracts
+T27	Anatomic_location 859 867	cerebral
+T28	Anatomic_location 125 135	cerebellar
+T29	Symptom 154 163;183 194	pyramidal dysfunction
+T30	Autopsy_finding 308 315	atrophy
+T31	Autopsy_finding 430 471	multicentric, senile, and primitive types
+T32	Anatomic_location 533 543	cerebellar
+T33	Autopsy_finding 774 781	gliosis
+T34	Autopsy_finding 597 609	degeneration

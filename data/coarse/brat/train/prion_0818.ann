@@ -1,0 +1,18 @@
+T1	Generic_Prion 45 58	prion disease
+T2	Sporadic_Prion 189 223	sporadic Creutzfeldt-Jakob disease
+T3	Sporadic_Prion 225 229	sCJD
+T4	Test_name 270 290	electroencephalogram
+T5	Test_name 295 321	magnetic resonance imaging
+T6	Acquired_Prion 347 358	variant CJD
+T7	Acquired_Prion 360 364	vCJD
+T8	Test_name 398 418	electroencephalogram
+T10	Sporadic_Prion 438 442	sCJD
+T20	Anatomic_location 461 466	brain
+T11	Test_name 467 473	biopsy
+T21	Sequences 558 560;575 584	T2 -weighted
+T12	Sequences 566 584	diffusion-weighted
+T13	Anatomic_location 585 593	pulvinar
+T14	Findings 594 608	hyperintensity
+T16	Acquired_Prion 656 660	vCJD
+T17	Sporadic_Prion 665 669	sCJD
+T18	Acquired_Prion 728 732	vCJD

@@ -1,0 +1,9 @@
+T1	Generic_Prion 10 35	Creutzfeldt-Jakob disease
+T2	Generic_Prion 37 40	CJD
+T3	Age 59 70	28-year-old
+T8	Treatment 85 117	received a cadaveric dural graft
+T9	Time 118 127	19 months
+T4	Time 118 135	19 months earlier
+T5	Differential_Diagnosis 157 170	cholesteatoma
+T10	Treatment 263 277	Cadaveric dura
+T6	Generic_Prion 337 340	CJD

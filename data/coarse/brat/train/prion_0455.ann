@@ -1,0 +1,36 @@
+T5	Acquired_Prion 89 122	variant Creutzfeldt-Jakob disease
+T6	Acquired_Prion 124 128	vCJD
+T11	Generic_Prion 232 235	CJD
+T1	Test_name 246 261	CSF tau protein
+T2	Test_name 266 275	tau-pT181
+T16	Sporadic_Prion 310 322	sporadic CJD
+T18	Sporadic_Prion 324 328	sCJD
+T21	Acquired_Prion 348 352	vCJD
+T24	Sporadic_Prion 357 361	sCJD
+T27	Acquired_Prion 379 383	vCJD
+T29	Test_name 400 413	Innotest hTau
+T30	Test_name 418 435	Innotest P-Thr181
+T3	Test_name 478 493	CSF tau protein
+T34	Sporadic_Prion 512 516	sCJD
+T38	Acquired_Prion 563 567	vCJD
+T43	Sporadic_Prion 627 631	sCJD
+T46	Acquired_Prion 675 679	vCJD
+T51	Acquired_Prion 759 763	vCJD
+T53	Sporadic_Prion 772 776	sCJD
+T59	Sporadic_Prion 857 861	sCJD
+T62	Acquired_Prion 889 893	vCJD
+T70	Acquired_Prion 974 978	vCJD
+T72	Sporadic_Prion 987 991	sCJD
+T4	Test_name 1000 1015	CSF tau protein
+T77	Sporadic_Prion 1062 1066	sCJD
+T79	Acquired_Prion 1071 1075	vCJD
+T7	Test_name 1104 1117	CSF tau-pT181
+T84	Acquired_Prion 1147 1151	vCJD
+T88	Sporadic_Prion 1175 1179	sCJD
+T8	Test_name 1181 1227	Measurement of CSF tau-pT181/tau protein ratio
+T9	Test_name 1274 1289	CSF tau protein
+T97	Acquired_Prion 1307 1311	vCJD
+T99	Sporadic_Prion 1315 1319	sCJD
+T10	Test_name 1349 1362	CSF tau-pT181
+T104	Acquired_Prion 1372 1376	vCJD
+T107	Acquired_Prion 1470 1474	vCJD

@@ -1,0 +1,266 @@
+{
+  "doc_id": "prion_0893",
+  "text": "CONTEXT: Fatal familial insomnia (FFI) is a genetically transmitted neurodegenerative prion disease that incurs great suffering and has neither a treatment nor a cure.\nThe clinical literature is devoid of management plans (other than palliative).\nPart 1 of this article reviews the sparse literature about FFI, including case descriptions.\nPart 2 of this paper describes the efforts of 1 patient (with the rapid-course Met-Met subtype) to contend with his devastating symptoms and improve the quality of his life.\nDESIGN: Interventions were based on the premise that some symptoms may be secondary to insomnia and not a direct result of the disease itself.\nStrategies (derived by trial and error) were devised to induce sleep and increase alertness.\nInterventions included vitamin supplementation, narcoleptics, anesthesia, stimulants, sensory deprivation, exercise, light entrainment, growth hormone, and electroconvulsive therapy.\nRESULTS: The patient exceeded the average survival time by nearly 1 year, and during this time (when most patients are totally incapacitated), he was able to write a book and to successfully drive hundreds of miles.\nCONCLUSION: Methods to induce sleep may extend and enhance life during the disease, although they do not prevent death.\nIt is hoped that some of his methods might inspire further clinical studies.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Familial_Prion",
+      "start": 9,
+      "end": 32,
+      "text": "Fatal familial insomnia",
+      "spans": [
+        {
+          "start": 9,
+          "end": 32
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Familial_Prion",
+      "start": 34,
+      "end": 37,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 34,
+          "end": 37
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 86,
+      "end": 99,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 86,
+          "end": 99
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Familial_Prion",
+      "start": 306,
+      "end": 309,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 306,
+          "end": 309
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Sporadic_Prion",
+      "start": 419,
+      "end": 434,
+      "text": "Met-Met subtype",
+      "spans": [
+        {
+          "start": 419,
+          "end": 434
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 601,
+      "end": 609,
+      "text": "insomnia",
+      "spans": [
+        {
+          "start": 601,
+          "end": 609
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Treatment",
+      "start": 713,
+      "end": 725,
+      "text": "induce sleep",
+      "spans": [
+        {
+          "start": 713,
+          "end": 725
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Treatment",
+      "start": 730,
+      "end": 748,
+      "text": "increase alertness",
+      "spans": [
+        {
+          "start": 730,
+          "end": 748
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Treatment",
+      "start": 773,
+      "end": 796,
+      "text": "vitamin supplementation",
+      "spans": [
+        {
+          "start": 773,
+          "end": 796
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Treatment",
+      "start": 798,
+      "end": 810,
+      "text": "narcoleptics",
+      "spans": [
+        {
+          "start": 798,
+          "end": 810
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Treatment",
+      "start": 812,
+      "end": 822,
+      "text": "anesthesia",
+      "spans": [
+        {
+          "start": 812,
+          "end": 822
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Treatment",
+      "start": 824,
+      "end": 834,
+      "text": "stimulants",
+      "spans": [
+        {
+          "start": 824,
+          "end": 834
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Treatment",
+      "start": 836,
+      "end": 855,
+      "text": "sensory deprivation",
+      "spans": [
+        {
+          "start": 836,
+          "end": 855
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Treatment",
+      "start": 857,
+      "end": 865,
+      "text": "exercise",
+      "spans": [
+        {
+          "start": 857,
+          "end": 865
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Treatment",
+      "start": 867,
+      "end": 884,
+      "text": "light entrainment",
+      "spans": [
+        {
+          "start": 867,
+          "end": 884
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Treatment",
+      "start": 886,
+      "end": 900,
+      "text": "growth hormone",
+      "spans": [
+        {
+          "start": 886,
+          "end": 900
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Treatment",
+      "start": 906,
+      "end": 931,
+      "text": "electroconvulsive therapy",
+      "spans": [
+        {
+          "start": 906,
+          "end": 931
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Time",
+      "start": 992,
+      "end": 1005,
+      "text": "nearly 1 year",
+      "spans": [
+        {
+          "start": 992,
+          "end": 1005
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Treatment",
+      "start": 1172,
+      "end": 1184,
+      "text": "induce sleep",
+      "spans": [
+        {
+          "start": 1172,
+          "end": 1184
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Complication",
+      "start": 1262,
+      "end": 1267,
+      "text": "death",
+      "spans": [
+        {
+          "start": 1262,
+          "end": 1267
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "doc_id": "prion_0687",
+  "text": "a 67-year-old man with bipolar disorder developed a Creutzfeldt-Jakob like syndrome during lithium carbonate treatment.\nLithium serum level was within the therapeutic range.\nComplete clinical-electroencephalographic recovery was achieved after lithium therapy was discontinued.\nSeveral cases of lithium-induced Creutzfeldt-Jakob syndrome have been reported to date; all of them were elderly patients and a half had \"therapeutic\" lithium serum levels.\nPatients in this age group receiving antimanic maintenance treatment should keep lithium serum levels as low as possible.\nLithium neurotoxicity should be considered in Creutzfeldt-Jakob disease differential diagnosis, serial electroencephalograms being the most valuable.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "67-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Differential_Diagnosis",
+      "start": 23,
+      "end": 39,
+      "text": "bipolar disorder",
+      "spans": [
+        {
+          "start": 23,
+          "end": 39
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Differential_Diagnosis",
+      "start": 52,
+      "end": 83,
+      "text": "Creutzfeldt-Jakob like syndrome",
+      "spans": [
+        {
+          "start": 52,
+          "end": 83
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Treatment",
+      "start": 91,
+      "end": 118,
+      "text": "lithium carbonate treatment",
+      "spans": [
+        {
+          "start": 91,
+          "end": 118
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Treatment",
+      "start": 244,
+      "end": 259,
+      "text": "lithium therapy",
+      "spans": [
+        {
+          "start": 244,
+          "end": 259
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Differential_Diagnosis",
+      "start": 295,
+      "end": 337,
+      "text": "lithium-induced Creutzfeldt-Jakob syndrome",
+      "spans": [
+        {
+          "start": 295,
+          "end": 337
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Age",
+      "start": 383,
+      "end": 390,
+      "text": "elderly",
+      "spans": [
+        {
+          "start": 383,
+          "end": 390
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Treatment",
+      "start": 488,
+      "end": 519,
+      "text": "antimanic maintenance treatment",
+      "spans": [
+        {
+          "start": 488,
+          "end": 519
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Differential_Diagnosis",
+      "start": 573,
+      "end": 594,
+      "text": "Lithium neurotoxicity",
+      "spans": [
+        {
+          "start": 573,
+          "end": 594
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Generic_Prion",
+      "start": 619,
+      "end": 644,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 619,
+          "end": 644
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Electrophysio_test",
+      "start": 676,
+      "end": 697,
+      "text": "electroencephalograms",
+      "spans": [
+        {
+          "start": 676,
+          "end": 697
+        }
+      ]
+    }
+  ]
+}

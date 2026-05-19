@@ -1,0 +1,214 @@
+{
+  "doc_id": "prion_0522",
+  "text": "OBJECTIVE: To identify a possible gene defect in a large kindred with atypical Creutzfeldt-Jakob disease (CJD).\nSUBJECTS: Over 360 kindred members, with and without progressive dementia.\nMETHODS: Family, hospital, and clinic records were reviewed.\nThe DNA was extracted from paraffin-embedded brain tissue of two deceased patients, and from blood leukocytes of nine healthy persons at risk.\nDNA was subjected to polymerase chain reaction and then analyzed by restriction endonuclease and single nucleotide primer extension.\nRESULTS: Nine family members had progressive fatal neurological disease consistent with CJD without myoclonus or typical electroencephalographic findings.\nSupranuclear gaze palsy was present in all five patients who underwent eye examinations.\nTwo neuropathologically confirmed cases and five of nine at-risk family members had an identical mutation (GAG to AAG, glutamic acid to lysine) in codon 200 of the amyloid gene (PRNP) on chromosome 20.\nCONCLUSIONS: Clinically atypical CJD with early supranuclear gaze palsy but without myoclonus or characteristic electroencephalographic periodicity patterns is associated with the codon 200Lys mutation in the largest CJD kindred yet reported.\nThe clinical concept of familial CJD should be enlarged to include this unusual phenotype.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 79,
+      "end": 104,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 79,
+          "end": 104
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 106,
+      "end": 109,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 106,
+          "end": 109
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 165,
+      "end": 185,
+      "text": "progressive dementia",
+      "spans": [
+        {
+          "start": 165,
+          "end": 185
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Anatomic_location",
+      "start": 293,
+      "end": 298,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 293,
+          "end": 298
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Molecular_assay",
+      "start": 412,
+      "end": 437,
+      "text": "polymerase chain reaction",
+      "spans": [
+        {
+          "start": 412,
+          "end": 437
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 612,
+      "end": 615,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 612,
+          "end": 615
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 624,
+      "end": 633,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 624,
+          "end": 633
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Electrophysio_test",
+      "start": 645,
+      "end": 677,
+      "text": "electroencephalographic findings",
+      "spans": [
+        {
+          "start": 645,
+          "end": 677
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 679,
+      "end": 702,
+      "text": "Supranuclear gaze palsy",
+      "spans": [
+        {
+          "start": 679,
+          "end": 702
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Autopsy",
+      "start": 772,
+      "end": 791,
+      "text": "neuropathologically",
+      "spans": [
+        {
+          "start": 772,
+          "end": 791
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Generic_Prion",
+      "start": 1003,
+      "end": 1006,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1003,
+          "end": 1006
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 1012,
+      "end": 1041,
+      "text": "early supranuclear gaze palsy",
+      "spans": [
+        {
+          "start": 1012,
+          "end": 1041
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 1054,
+      "end": 1063,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 1054,
+          "end": 1063
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Electrophysio_test",
+      "start": 1082,
+      "end": 1126,
+      "text": "electroencephalographic periodicity patterns",
+      "spans": [
+        {
+          "start": 1082,
+          "end": 1126
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Generic_Prion",
+      "start": 1187,
+      "end": 1190,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1187,
+          "end": 1190
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "fCJD",
+      "start": 1237,
+      "end": 1249,
+      "text": "familial CJD",
+      "spans": [
+        {
+          "start": 1237,
+          "end": 1249
+        }
+      ]
+    }
+  ]
+}

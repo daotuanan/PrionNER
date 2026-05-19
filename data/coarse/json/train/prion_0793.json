@@ -1,0 +1,214 @@
+{
+  "doc_id": "prion_0793",
+  "text": "Since 1996, over one hundred cases of variant Creutzfeldt-Jakob disease have appeared, mostly in the United Kingdom.\nIn this review, we summarise the major clinical features of this progressive neurodegenerative condition and compare them with those of sporadic Creutzfeldt-Jakob disease.\nWe emphasise the young age (median 26 years) at presentation and the dominant psychiatric/behavioural features, particularly depression.\nSensory symptoms are present initially in half the cases and florid psychiatric symptoms, such as delusions or hallucinations, are also common.\nGiven these symptoms, many patients present in clinical practice initially to a psychiatrist but are referred to neurologists when neurological signs become apparent.\nAlthough the definitive diagnosis remains neuropathological, a confident pre-mortem diagnosis is now possible when the 'pulvinar sign' is seen on magnetic resonance imaging studies.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Time",
+      "start": 0,
+      "end": 10,
+      "text": "Since 1996",
+      "spans": [
+        {
+          "start": 0,
+          "end": 10
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Acquired_Prion",
+      "start": 38,
+      "end": 71,
+      "text": "variant Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 38,
+          "end": 71
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Differential_Diagnosis",
+      "start": 182,
+      "end": 221,
+      "text": "progressive neurodegenerative condition",
+      "spans": [
+        {
+          "start": 182,
+          "end": 221
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Sporadic_Prion",
+      "start": 253,
+      "end": 287,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 253,
+          "end": 287
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Age",
+      "start": 324,
+      "end": 332,
+      "text": "26 years",
+      "spans": [
+        {
+          "start": 324,
+          "end": 332
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 367,
+      "end": 399,
+      "text": "psychiatric/behavioural features",
+      "spans": [
+        {
+          "start": 367,
+          "end": 399
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 414,
+      "end": 424,
+      "text": "depression",
+      "spans": [
+        {
+          "start": 414,
+          "end": 424
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 426,
+      "end": 442,
+      "text": "Sensory symptoms",
+      "spans": [
+        {
+          "start": 426,
+          "end": 442
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 494,
+      "end": 514,
+      "text": "psychiatric symptoms",
+      "spans": [
+        {
+          "start": 494,
+          "end": 514
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 524,
+      "end": 533,
+      "text": "delusions",
+      "spans": [
+        {
+          "start": 524,
+          "end": 533
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 537,
+      "end": 551,
+      "text": "hallucinations",
+      "spans": [
+        {
+          "start": 537,
+          "end": 551
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 701,
+      "end": 719,
+      "text": "neurological signs",
+      "spans": [
+        {
+          "start": 701,
+          "end": 719
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Test_name",
+      "start": 779,
+      "end": 796,
+      "text": "neuropathological",
+      "spans": [
+        {
+          "start": 779,
+          "end": 796
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Time",
+      "start": 810,
+      "end": 820,
+      "text": "pre-mortem",
+      "spans": [
+        {
+          "start": 810,
+          "end": 820
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Findings",
+      "start": 857,
+      "end": 870,
+      "text": "pulvinar sign",
+      "spans": [
+        {
+          "start": 857,
+          "end": 870
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Test_name",
+      "start": 883,
+      "end": 909,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 883,
+          "end": 909
+        }
+      ]
+    }
+  ]
+}

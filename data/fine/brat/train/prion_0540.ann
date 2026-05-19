@@ -1,0 +1,15 @@
+T1	Generic_Prion 71 96	Creutzfeldt-Jakob disease
+T2	Generic_Prion 98 101	CJD
+T3	Autopsy_finding 171 178	atrophy
+T7	Symptom 340 348	demented
+T8	Generic_Prion 378 381	CJD
+T4	Imaging_test 31 39;7 25	imagings magnetic resonance
+T6	Imaging_test 27 29	MR
+T10	Autopsy 47 56	autopsied
+T11	Imaging_test 192 203	MR imagings
+T12	Imaging_finding 276 283	atrophy
+T5	Anatomic_location 267 275	cortical
+T13	Imaging_test 314 322	MR image
+T14	Age 349 360	middle-aged
+T15	Imaging_test 424 434	MR imaging
+T17	Anatomic_location 165 170	brain

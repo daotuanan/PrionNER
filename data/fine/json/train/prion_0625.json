@@ -1,0 +1,201 @@
+{
+  "doc_id": "prion_0625",
+  "text": "The authors describe a man aged 43 years with a typical onset of the disease with cerebellar signs and progressive dementia prevailing during a 4 month course of the illness.\nNeuropathological examination demonstrated subacute spongiform encephalopathy with significant although not overwhelming damage to the cerebellar cortex.\nThe case is an example of the ataxic form of this disease isolated in 1965.\nIn the clinical diagnosis of Creutzfeldt-Jakob disease cerebellar signs may play a similarly important role as myoclonia and characteristic EEG curve.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 27,
+      "end": 40,
+      "text": "aged 43 years",
+      "spans": [
+        {
+          "start": 27,
+          "end": 40
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Anatomic_location",
+      "start": 82,
+      "end": 92,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 82,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 82,
+      "end": 98,
+      "text": "cerebellar signs",
+      "spans": [
+        {
+          "start": 82,
+          "end": 98
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 103,
+      "end": 123,
+      "text": "progressive dementia",
+      "spans": [
+        {
+          "start": 103,
+          "end": 123
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Duration",
+      "start": 144,
+      "end": 151,
+      "text": "4 month",
+      "spans": [
+        {
+          "start": 144,
+          "end": 151
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Autopsy",
+      "start": 175,
+      "end": 204,
+      "text": "Neuropathological examination",
+      "spans": [
+        {
+          "start": 175,
+          "end": 204
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Autopsy_finding",
+      "start": 218,
+      "end": 252,
+      "text": "subacute spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 218,
+          "end": 252
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Anatomic_location",
+      "start": 310,
+      "end": 327,
+      "text": "cerebellar cortex",
+      "spans": [
+        {
+          "start": 310,
+          "end": 327
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 359,
+      "end": 365,
+      "text": "ataxic",
+      "spans": [
+        {
+          "start": 359,
+          "end": 365
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Time_point",
+      "start": 399,
+      "end": 403,
+      "text": "1965",
+      "spans": [
+        {
+          "start": 399,
+          "end": 403
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 434,
+      "end": 459,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 434,
+          "end": 459
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 460,
+      "end": 470,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 460,
+          "end": 470
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 460,
+      "end": 476,
+      "text": "cerebellar signs",
+      "spans": [
+        {
+          "start": 460,
+          "end": 476
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 516,
+      "end": 525,
+      "text": "myoclonia",
+      "spans": [
+        {
+          "start": 516,
+          "end": 525
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Electrophysio_test",
+      "start": 545,
+      "end": 548,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 545,
+          "end": 548
+        }
+      ]
+    }
+  ]
+}

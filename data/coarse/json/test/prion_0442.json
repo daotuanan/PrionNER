@@ -1,0 +1,188 @@
+{
+  "doc_id": "prion_0442",
+  "text": "BACKGROUND: Between January 1993 and December 2003, 19 patients with familial prion diseases due to the D178N mutation were referred to the regional epidemiological registry for spongiform encephalopathies in the Basque Country in Spain, a small community of some 2,100,000 inhabitants.\nMETHODS: Ten further patients belonging to the same pedigrees were retrospectively ascertained through neurological or neuropathological records.\nIn four of the patients, the diagnosis was confirmed by analysing DNA obtained from paraffin blocks.\nIn this article, we report on the clinical, genetic, and pathological features of the 23 patients carrying the D178N mutation confirmed by genetic molecular analysis.\nHaplotyping studies suggest a founder effect among Basque born families, explaining in part this unusually high incidence of the D178N mutation in a small community.\nOnly two patients (8%) lack familial antecedents.\nRESULTS: We have observed a phenotypic variability even among homozygous 129MM patients.\nOur findings challenge the currently accepted belief that MM homozygosity in codon 129 is always related to a fatal familial insomnia (FFI) phenotype.\nIndeed, seven out of 17 patients with a 129MM genotype in this series presented with a Creutzfeldt-Jakob disease (CJD) clinicopathological picture.\nCONCLUSIONS: The considerable clinical and pathological overlapping observed among homozygous 129MM patients favours the view that FFI and CJD178 are the extremes of a spectrum rather than two discrete and separate entities.\nOther genetic or environmental factors apart from the polymorphism in codon 129 may play a role in determining the phenotypic expression of the D178N mutation in the PRNP gene.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Time",
+      "start": 12,
+      "end": 50,
+      "text": "Between January 1993 and December 2003",
+      "spans": [
+        {
+          "start": 12,
+          "end": 50
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Time",
+      "start": 20,
+      "end": 32,
+      "text": "January 1993",
+      "spans": [
+        {
+          "start": 20,
+          "end": 32
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Time",
+      "start": 37,
+      "end": 50,
+      "text": "December 2003",
+      "spans": [
+        {
+          "start": 37,
+          "end": 50
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 69,
+      "end": 92,
+      "text": "familial prion diseases",
+      "spans": [
+        {
+          "start": 69,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 178,
+      "end": 205,
+      "text": "spongiform encephalopathies",
+      "spans": [
+        {
+          "start": 178,
+          "end": 205
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 406,
+      "end": 423,
+      "text": "neuropathological",
+      "spans": [
+        {
+          "start": 406,
+          "end": 423
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 489,
+      "end": 502,
+      "text": "analysing DNA",
+      "spans": [
+        {
+          "start": 489,
+          "end": 502
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Test_name",
+      "start": 673,
+      "end": 699,
+      "text": "genetic molecular analysis",
+      "spans": [
+        {
+          "start": 673,
+          "end": 699
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Familial_Prion",
+      "start": 1116,
+      "end": 1139,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 1116,
+          "end": 1139
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Familial_Prion",
+      "start": 1141,
+      "end": 1144,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 1141,
+          "end": 1144
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Generic_Prion",
+      "start": 1244,
+      "end": 1275,
+      "text": "Creutzfeldt-Jakob disease (CJD)",
+      "spans": [
+        {
+          "start": 1244,
+          "end": 1275
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Test_name",
+      "start": 1348,
+      "end": 1360,
+      "text": "pathological",
+      "spans": [
+        {
+          "start": 1348,
+          "end": 1360
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Familial_Prion",
+      "start": 1436,
+      "end": 1439,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 1436,
+          "end": 1439
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Familial_Prion",
+      "start": 1444,
+      "end": 1450,
+      "text": "CJD178",
+      "spans": [
+        {
+          "start": 1444,
+          "end": 1450
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+T1	FFI 9 32	Fatal familial insomnia
+T3	FFI 34 37	FFI
+T4	Generic_Prion 86 99	prion disease
+T8	FFI 306 309	FFI
+T12	Symptom 601 609	insomnia
+T15	Treatment 773 796	vitamin supplementation
+T16	Treatment 798 810	narcoleptics
+T17	Treatment 812 822	anesthesia
+T18	Treatment 824 834	stimulants
+T19	Treatment 836 855	sensory deprivation
+T20	Treatment 857 865	exercise
+T21	Treatment 867 884	light entrainment
+T22	Treatment 886 900	growth hormone
+T23	Treatment 906 931	electroconvulsive therapy
+T25	Duration 992 1005	nearly 1 year
+T29	Complication 1262 1267	death
+T30	Choose_Related 1357 1360	YES
+T2	Treatment 713 725	induce sleep
+T5	Treatment 730 748	increase alertness
+T7	Treatment 1172 1184	induce sleep
+T9	Choose_Done 1368 1372	DONE
+T10	sCJD 419 434	Met-Met subtype
+T6	Choose_Done 1375 1380	CHECK

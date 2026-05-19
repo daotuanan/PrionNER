@@ -1,0 +1,16 @@
+T2	Symptom 35 55	early-onset dementia
+T4	Differential_Diagnosis 365 368	FAD
+T5	Generic_Prion 440 453	prion disease
+T6	Molecular_assay 619 622	PCR
+T3	Generic_Prion 108 132	hereditary prion disease
+T32	Differential_Diagnosis 99 102	FAD
+T33	Differential_Diagnosis 71 97	familial Alzheimer disease
+T34	Autopsy 177 206	histopathological examination
+T42	Symptom 57 60	EOD
+T43	Symptom 488 491	EOD
+T7	Age 662 674	age 60 years
+T44	Differential_Diagnosis 695 703	dementia
+T29	Differential_Diagnosis 1445 1448	FAD
+T30	Generic_Prion 1453 1477	hereditary prion disease
+T64	Symptom 1564 1567	EOD
+T65	Anatomic_location 171 176	brain

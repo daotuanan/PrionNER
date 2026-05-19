@@ -1,0 +1,15 @@
+OBJECTIVE: To assess cognitive function in variant Creutzfeldt-Jakob disease (vCJD).
+We describe the neuropsychological profiles of 10 cases and compare these data with cross sectional data obtained from patients with histologically confirmed sporadic CJD and cases with inherited prion disease with confirmed mutations in the prion protein gene.
+METHODS: Patients referred to the Specialist Cognitive Disorders Clinic at the National Hospital for Neurology and Neurosurgery and the National Prion Clinic at St Mary's Hospital, London for further investigation of suspected CJD were recruited into the study.
+The neuropsychological test battery evaluated general intelligence, visual and verbal memory, nominal skills, literacy skills, visual perception and visuospatial functions, and visuospatial and executive function.
+RESULTS: The results indicate that moderate to severe cognitive decline is a characteristic feature of vCJD.
+Specifically, verbal and visual memory impairments and executive dysfunction were pervasive in all disease groups.
+Nominal skills were impaired in variant and sporadic CJD, significantly so when compared with the inherited prion disease group.
+Perceptual impairment was less frequent in the vCJD group than in the sporadic and inherited groups.
+CONCLUSION: This study confirms the occurrence of generalised cognitive decline in patients with vCJD.
+Although decline in cognitive function ultimately affects all domains, there is a suggestion that some components of visual perception may be spared in vCJD.
+The results also suggest that nominal function may be preserved in some cases with inherited prion disease.
+
+<Related> YES or NO
+[DONE]
+[CHECK]

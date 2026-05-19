@@ -1,0 +1,55 @@
+T2	Differential_Diagnosis 67 86	Alzheimer's disease
+T3	Differential_Diagnosis 95 120	dementia with Lewy bodies
+T4	Generic_Prion 156 181	Creutzfeldt-Jakob disease
+T5	Generic_Prion 183 186	CJD
+T6	Autopsy 315 323	necropsy
+T7	Generic_Prion 359 362	CJD
+T8	Generic_Prion 473 476	CJD
+T9	Autopsy 485 493	necropsy
+T10	Differential_Diagnosis 501 503	AD
+T11	Generic_Prion 595 598	CJD
+T12	Generic_Prion 744 747	CJD
+T13	Differential_Diagnosis 749 751	AD
+T14	Differential_Diagnosis 757 760	DLB
+T15	Generic_Prion 814 817	CJD
+T17	Symptom 937 946	Myoclonus
+T18	Symptom 951 964	limb rigidity
+T20	Symptom 986 1004	neurological signs
+T22	Symptom 1101 1113	parkinsonism
+T27	Generic_Prion 1200 1203	CJD
+T29	Generic_Prion 1321 1324	CJD
+T30	Differential_Diagnosis 1379 1382	DLB
+T33	Generic_Prion 1527 1530	CJD
+T38	Generic_Prion 1635 1638	CJD
+T40	Symptom 1717 1725	rigidity
+T41	Differential_Diagnosis 1727 1729	AD
+T42	Differential_Diagnosis 1787 1790	DLB
+T43	Generic_Prion 1900 1903	CJD
+T44	Differential_Diagnosis 1925 1928	DLB
+T46	Differential_Diagnosis 289 292	DLB
+T47	Anatomic_location 303 309	Brains
+T48	Generic_Prion 398 425	spongiform encephalopathies
+T49	Differential_Diagnosis 514 517	DLB
+T54	Symptom 771 779	Demented
+T16	Symptom 860 884	focal neurological signs
+T53	Electrophysio_test 904 907	EEG
+T19	Differential_Diagnosis 1018 1027	dementias
+T57	Differential_Diagnosis 1029 1032	DLB
+T58	Differential_Diagnosis 1090 1093	DLB
+T25	Electrophysio_test 1185 1188	EEG
+T60	Differential_Diagnosis 1237 1239	AD
+T63	Blood_biomarker_test 1284 1287	CSF
+T66	Differential_Diagnosis 1347 1349	AD
+T67	Differential_Diagnosis 1412 1415	DLB
+T68	Differential_Diagnosis 1419 1421	AD
+T69	Symptom 1576 1604	rapidly progressive dementia
+T36	Symptom 1609 1633	focal neurological signs
+T37	Symptom 1692 1700	dementia
+T39	Symptom 1702 1711	myoclonus
+T71	Symptom 1824 1836	parkinsonism
+T72	Symptom 1840 1852	fluctuations
+T73	Symptom 1124 1136	fluctuations
+T74	Electrophysio_test 1878 1881	EEG
+T75	Blood_biomarker_test 1885 1888	CSF
+T76	Differential_Diagnosis 1919 1921	AD
+T21	Differential_Diagnosis 282 284	AD

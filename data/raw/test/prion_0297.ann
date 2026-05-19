@@ -1,0 +1,15 @@
+T1	Choose_Related 484 487	YES
+T2	Symptom 27 53	neurological deterioration
+T3	Symptom 71 91	cognitive impairment
+T4	Symptom 93 102	myoclonus
+T5	Symptom 104 124	Parkinson's syndrome
+T7	Symptom 163 177	fasciculations
+T8	Generic_Prion 224 249	Creutzfeldt-Jakob disease
+T9	Treatment 306 313	lithium
+T10	Treatment 318 331	nortriptyline
+T11	Electrophysio_test 138 158	electroencephalogram
+T6	Autopsy 203 209	biopsy
+T13	Generic_Prion 372 389	Creutzfeldt-Jakob
+T12	Differential_Diagnosis 359 403	drug-induced Creutzfeldt-Jakob like syndrome
+T14	Choose_Done 495 499	DONE
+T15	Anatomic_location 197 202	brain

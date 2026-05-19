@@ -1,0 +1,9 @@
+We conducted serial EEG and SPECT studies on one female with Creutzfeldt-Jakob disease (CJD).
+In an analysis of EEG, a periodic synchronous discharge (PSD) was observed in the middle of the third stage (terminal stage) of Bernoulli's classification.
+The frequency of PSD was the highest at the beginning of the third stage, followed by a gradual decrease and disappeared at the end of the third stage.
+In the middle of the third stage, SPECT disclosed blood flow differences between the cerebrum and other regions (the cerebellum and the brainstem), while no such difference was observed by SPECT at the end of the third stage.
+It was suggested that the appearance of PSD requires the presence of a pathological change in the cerebrum precedent to other regions.
+
+<Related> YES or NO
+[DONE]
+[CHECK]

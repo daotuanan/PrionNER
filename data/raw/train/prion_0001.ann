@@ -1,0 +1,79 @@
+T1	Choose_Related 3065 3068	YES
+T2	Generic_Prion 6 31	Creutzfeldt–Jakob Disease
+T3	Generic_Prion 33 36	CJD
+T5	Generic_Prion 145 148	CJD
+T6	Symptom 316 333	cognitive decline
+T7	Symptom 335 352	motor dysfunction
+T9	Symptom 358 377	personality changes
+T10	Age 429 440	59-year-old
+T11	Duration 515 523	two-week
+T12	Symptom 535 554	behavioural changes
+T13	Symptom 556 566	aggression
+T14	Symptom 568 585	left facial droop
+T15	Symptom 587 601	disorientation
+T16	Symptom 603 620	poor coordination
+T17	Symptom 626 641	mild dysarthria
+T18	Symptom 650 667	repetitive speech
+T21	Imaging_test 729 736	CT scan
+T23	Anatomic_location 773 785	frontal lobe
+T24	Imaging_test 796 799	MRI
+T25	Anatomic_location 878 898	cerebral hemispheres
+T26	Differential_Diagnosis 936 942	stroke
+T27	Differential_Diagnosis 944 960	vasogenic oedema
+T28	Differential_Diagnosis 962 978	old brain injury
+T29	Differential_Diagnosis 980 998	post-ictal changes
+T30	Differential_Diagnosis 1000 1012	encephalitis
+T31	Blood_biomarker_test 1030 1041	blood tests
+T36	Molecular_assay 1192 1205	protein assay
+T37	sCJD 1269 1281	sporadic CJD
+T39	Treatment 1330 1340	clonazepam
+T40	Treatment 1365 1384	low-dose quetiapine
+T41	Symptom 1552 1557;1562 1566	sleep poor
+T42	Symptom 1576 1586	aggression
+T43	Time_point 1613 1632	late in the evening
+T44	Treatment 1769 1779	quetiapine
+T45	Treatment 1784 1799	benzodiazepines
+T46	Treatment 1853 1864	haloperidol
+T47	Symptom 1902 1912	aggression
+T48	Symptom 1978 1987	dysphasia
+T49	Symptom 2020 2042	behavioural challenges
+T50	Treatment 2064 2077	physiotherapy
+T51	Treatment 2079 2099	occupational therapy
+T52	Treatment 2116 2128	nursing care
+T53	Treatment 2184 2195	haloperidol
+T54	Symptom 2257 2269	restlessness
+T57	Complication 2420 2429	dysphasia
+T58	Symptom 2439 2445	ataxia
+T59	Generic_Prion 2508 2511	CJD
+T60	Symptom 2517 2542	neuropsychiatric symptoms
+T61	Time_point 2543 2551	at onset
+T63	Symptom 2575 2593	neurological signs
+T64	Symptom 2609 2618	agitation
+T65	Symptom 2623 2633	aggression
+T66	Treatment 2651 2678	pharmacological adjustments
+T67	Symptom 2724 2749	neuropsychiatric symptoms
+T68	Generic_Prion 2814 2817	CJD
+T4	sCJD 153 161;196 201	sporadic forms
+T69	vCJD 163 170;196 201	variant forms
+T70	fCJD 172 179;196 201	genetic forms
+T71	iCJD 185 195;196 201	iatrogenic forms
+T72	Prevalence 250 281	1–2 people per million annually
+T20	Anatomic_location 827 835	gyriform
+T73	Imaging_finding 836 857	diffusion restriction
+T74	Electrophysio_test 1014 1017	EEG
+T75	Blood_biomarker_test 1055 1067	CSF analysis
+T81	Blood_biomarker_test 1149 1161	CSF virology
+T82	Blood_biomarker_test 1149 1152;1166 1174	CSF cultures
+T38	Symptom 1434 1442	agitated
+T83	Symptom 1455 1461;1475 1485	verbal aggression
+T84	Symptom 1466 1485	physical aggression
+T85	Symptom 1805 1815	aggression
+T86	Symptom 2130 2151	Parkinsonism symptoms
+T87	Treatment 2271 2281	Quetiapine
+T56	Treatment 2382 2389	feeding
+T88	Treatment 2394 2407	personal care
+T62	Generic_Prion 2718 2721	CJD
+T89	Symptom 2866 2907	rapid-onset neuropsychiatric disturbances
+T90	Choose_Done 3076 3080	DONE
+T91	Anatomic_location 131 136	brain
+T92	Anatomic_location 966 971	brain

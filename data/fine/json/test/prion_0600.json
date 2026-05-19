@@ -1,0 +1,258 @@
+{
+  "doc_id": "prion_0600",
+  "text": "A 73-year-old woman had progressive right hemiparesis, aphasia, and focal motor seizures.\nEEG showed periodic discharges on the left.\nShe died 8 weeks after onset.\nAt autopsy, there was marked spongiform change, neuronal loss, and severe proliferation of astrocytes predominantly on the left and most prominently in the insular and centroparietal cortex.\nThe changes were consistent with Creutzfeldt-Jakob disease (CJD), but pathology was slight or absent on the right side.\nThis case appears as the first report of what might be called unilateral CJD.\nSuch a condition should be included within the differential diagnosis of progressive unilateral cerebral disorders.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 13,
+      "text": "73-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 42,
+      "end": 53,
+      "text": "hemiparesis",
+      "spans": [
+        {
+          "start": 42,
+          "end": 53
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 55,
+      "end": 62,
+      "text": "aphasia",
+      "spans": [
+        {
+          "start": 55,
+          "end": 62
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 68,
+      "end": 88,
+      "text": "focal motor seizures",
+      "spans": [
+        {
+          "start": 68,
+          "end": 88
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Electrophysio_test",
+      "start": 90,
+      "end": 93,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 90,
+          "end": 93
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Complication",
+      "start": 138,
+      "end": 142,
+      "text": "died",
+      "spans": [
+        {
+          "start": 138,
+          "end": 142
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Duration",
+      "start": 143,
+      "end": 150,
+      "text": "8 weeks",
+      "spans": [
+        {
+          "start": 143,
+          "end": 150
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Time_point",
+      "start": 151,
+      "end": 162,
+      "text": "after onset",
+      "spans": [
+        {
+          "start": 151,
+          "end": 162
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Autopsy",
+      "start": 167,
+      "end": 174,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 167,
+          "end": 174
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy_finding",
+      "start": 193,
+      "end": 210,
+      "text": "spongiform change",
+      "spans": [
+        {
+          "start": 193,
+          "end": 210
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Autopsy_finding",
+      "start": 212,
+      "end": 225,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 212,
+          "end": 225
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Autopsy_finding",
+      "start": 238,
+      "end": 265,
+      "text": "proliferation of astrocytes",
+      "spans": [
+        {
+          "start": 238,
+          "end": 265
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 320,
+      "end": 353,
+      "text": "insular cortex",
+      "spans": [
+        {
+          "start": 320,
+          "end": 327
+        },
+        {
+          "start": 347,
+          "end": 353
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 332,
+      "end": 353,
+      "text": "centroparietal cortex",
+      "spans": [
+        {
+          "start": 332,
+          "end": 353
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 388,
+      "end": 413,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 388,
+          "end": 413
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 415,
+      "end": 418,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 415,
+          "end": 418
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Autopsy",
+      "start": 425,
+      "end": 434,
+      "text": "pathology",
+      "spans": [
+        {
+          "start": 425,
+          "end": 434
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 548,
+      "end": 551,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 548,
+          "end": 551
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Differential_Diagnosis",
+      "start": 626,
+      "end": 667,
+      "text": "progressive unilateral cerebral disorders",
+      "spans": [
+        {
+          "start": 626,
+          "end": 667
+        }
+      ]
+    }
+  ]
+}

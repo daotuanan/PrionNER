@@ -1,0 +1,1 @@
+Figure X. A discontinuous entity example. The Symptom mention "verbal aggression" is annotated across two non-contiguous spans in the phrase "verbal and physical aggression".

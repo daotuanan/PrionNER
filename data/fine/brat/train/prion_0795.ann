@@ -1,0 +1,24 @@
+T1	Generic_Prion 0 14	Prion diseases
+T2	Generic_Prion 53 78	spongiform encephalopathy
+T4	Generic_Prion 102 127	Creutzfeldt-Jakob disease
+T5	Generic_Prion 129 132	CJD
+T6	vCJD 138 171	variant Creutzfeldt-Jakob disease
+T8	vCJD 173 177	vCJD
+T10	Autopsy 247 271	histological examination
+T11	Anatomic_location 275 297	central nervous tissue
+T12	Autopsy 310 316	biopsy
+T13	Autopsy 320 331	post mortem
+T14	Blood_biomarker_test 344 360	diagnostic tests
+T15	Anatomic_location 400 419	cerebrospinal fluid
+T16	Anatomic_location 423 428	blood
+T17	sCJD 441 483	sporadic form of Creutzfeldt-Jakob disease
+T19	Anatomic_location 503 525	central nervous system
+T20	vCJD 546 586	variant of the Creutzfeldt-Jakob disease
+T22	Anatomic_location 591 613	lymphoreticular system
+T23	Anatomic_location 628 635	tonsils
+T24	Autopsy 663 679	tonsillar biopsy
+T25	Autopsy 716 722	biopsy
+T26	Generic_Prion 771 774	CJD
+T27	vCJD 779 783	vCJD
+T30	Anatomic_location 304 309	brain
+T31	Anatomic_location 710 715	brain

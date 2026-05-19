@@ -1,0 +1,344 @@
+{
+  "doc_id": "prion_0015",
+  "text": "BACKGROUND: Creutzfeld‐Jakob disease (CJD) is an extremely rare neurodegenerative disorder, caused by the deposition of pathogenic protein components, known as prions, in the central nervous system.\nIt may present a variable combination of symptoms that include rapidly progressive dementia, ataxia, extrapyramidal symptoms, and myoclonus.\nIts sporadic form is the most frequent (90%).\nTo date, there is no effective treatment, and the average survival time is 5 months.\nGiven its low frequency, there is little evidence on prognostic and therapeutic factors.\nMETHOD: Retrospective review of medical records of patients with a diagnosis of CJD based on the WHO diagnostic criteria, who consulted in a referral neurological center in Argentina between January 2006 and July 2021.\nData about demographic variables, presenting symptoms, magnetic resonance imaging of the brain, electroencephalogram, protein 14.3.3, treatment and survivance was recorded for each case.\nRESULT: 64 patients were included (73% men, median age 64 years).\n1 patient had a diagnosis of genetic CJD, the remaining 63 cases corresponding to sporadic CJD.\n91% had a probable CJD diagnosis according to the WHO criteria.\nThe most frequent clinical variants were classical (28%) and cognitive (28%).\n23 patients received glucocorticoid treatment (35%).\nThe median survival time was 7 months.\nClinical presentation and treatment with corticosteroids did not have a significant impact on survival times, while the use of antipsychotics was associated with a notable reduction of it.\nCONCLUSION: In our experience, the median survival time of patients with CJD was 7 months.\nThe use of antipsychotics could lead to a reduction in survival times.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 12,
+      "end": 36,
+      "text": "Creutzfeld‐Jakob disease",
+      "spans": [
+        {
+          "start": 12,
+          "end": 36
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 38,
+      "end": 41,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 38,
+          "end": 41
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 262,
+      "end": 290,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 262,
+          "end": 290
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 292,
+      "end": 298,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 292,
+          "end": 298
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 300,
+      "end": 323,
+      "text": "extrapyramidal symptoms",
+      "spans": [
+        {
+          "start": 300,
+          "end": 323
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 329,
+      "end": 338,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 329,
+          "end": 338
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "sCJD",
+      "start": 344,
+      "end": 357,
+      "text": "sporadic form",
+      "spans": [
+        {
+          "start": 344,
+          "end": 357
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Duration",
+      "start": 461,
+      "end": 469,
+      "text": "5 months",
+      "spans": [
+        {
+          "start": 461,
+          "end": 469
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 640,
+      "end": 643,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 640,
+          "end": 643
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Duration",
+      "start": 743,
+      "end": 777,
+      "text": "between January 2006 and July 2021",
+      "spans": [
+        {
+          "start": 743,
+          "end": 777
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Time_point",
+      "start": 751,
+      "end": 763,
+      "text": "January 2006",
+      "spans": [
+        {
+          "start": 751,
+          "end": 763
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Time_point",
+      "start": 768,
+      "end": 777,
+      "text": "July 2021",
+      "spans": [
+        {
+          "start": 768,
+          "end": 777
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Imaging_test",
+      "start": 834,
+      "end": 860,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 834,
+          "end": 860
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Anatomic_location",
+      "start": 868,
+      "end": 873,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 868,
+          "end": 873
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Electrophysio_test",
+      "start": 875,
+      "end": 895,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 875,
+          "end": 895
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Age",
+      "start": 1021,
+      "end": 1029,
+      "text": "64 years",
+      "spans": [
+        {
+          "start": 1021,
+          "end": 1029
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "fCJD",
+      "start": 1061,
+      "end": 1072,
+      "text": "genetic CJD",
+      "spans": [
+        {
+          "start": 1061,
+          "end": 1072
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "sCJD",
+      "start": 1114,
+      "end": 1126,
+      "text": "sporadic CJD",
+      "spans": [
+        {
+          "start": 1114,
+          "end": 1126
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Generic_Prion",
+      "start": 1147,
+      "end": 1150,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1147,
+          "end": 1150
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Treatment",
+      "start": 1291,
+      "end": 1315,
+      "text": "glucocorticoid treatment",
+      "spans": [
+        {
+          "start": 1291,
+          "end": 1315
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Duration",
+      "start": 1352,
+      "end": 1360,
+      "text": "7 months",
+      "spans": [
+        {
+          "start": 1352,
+          "end": 1360
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Treatment",
+      "start": 1403,
+      "end": 1418,
+      "text": "corticosteroids",
+      "spans": [
+        {
+          "start": 1403,
+          "end": 1418
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Treatment",
+      "start": 1489,
+      "end": 1503,
+      "text": "antipsychotics",
+      "spans": [
+        {
+          "start": 1489,
+          "end": 1503
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Generic_Prion",
+      "start": 1624,
+      "end": 1627,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1624,
+          "end": 1627
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Duration",
+      "start": 1632,
+      "end": 1640,
+      "text": "7 months",
+      "spans": [
+        {
+          "start": 1632,
+          "end": 1640
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Treatment",
+      "start": 1653,
+      "end": 1667,
+      "text": "antipsychotics",
+      "spans": [
+        {
+          "start": 1653,
+          "end": 1667
+        }
+      ]
+    }
+  ]
+}

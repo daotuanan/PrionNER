@@ -1,0 +1,149 @@
+{
+  "doc_id": "prion_0141",
+  "text": "A total of 65 cases of Creutzfeldt-Jakob disease with a history of cadaveric dura transplantation in Japan were analysed to clarify the epidemiologic features of such patients and to explore whether other such patients will appear in the future.\nThe age at transplantation averaged 44.4 years with a standard deviation of 14.4 years.\nThe age at onset had an average of 53.0 years with a standard deviation of 14.1 years.\nThe shortest latent period was 14 months, and the longest was 218 months with an average of 103.1 months and a standard deviation of 49.9 months.\nFrom the relationship between the calendar year at transplantation and the latent period, other such patients will appear in the near future.\nThe current data suggested that several patients with Creutzfeldt-Jakob disease will occur from those receiving cadaveric dura mater grafts in the near future.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 23,
+      "end": 48,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 23,
+          "end": 48
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Treatment",
+      "start": 67,
+      "end": 97,
+      "text": "cadaveric dura transplantation",
+      "spans": [
+        {
+          "start": 67,
+          "end": 97
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Treatment",
+      "start": 257,
+      "end": 272,
+      "text": "transplantation",
+      "spans": [
+        {
+          "start": 257,
+          "end": 272
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Age",
+      "start": 282,
+      "end": 292,
+      "text": "44.4 years",
+      "spans": [
+        {
+          "start": 282,
+          "end": 292
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Age",
+      "start": 369,
+      "end": 379,
+      "text": "53.0 years",
+      "spans": [
+        {
+          "start": 369,
+          "end": 379
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Time",
+      "start": 452,
+      "end": 461,
+      "text": "14 months",
+      "spans": [
+        {
+          "start": 452,
+          "end": 461
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Time",
+      "start": 483,
+      "end": 493,
+      "text": "218 months",
+      "spans": [
+        {
+          "start": 483,
+          "end": 493
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Time",
+      "start": 513,
+      "end": 525,
+      "text": "103.1 months",
+      "spans": [
+        {
+          "start": 513,
+          "end": 525
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Treatment",
+      "start": 618,
+      "end": 633,
+      "text": "transplantation",
+      "spans": [
+        {
+          "start": 618,
+          "end": 633
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Generic_Prion",
+      "start": 763,
+      "end": 788,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 763,
+          "end": 788
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Treatment",
+      "start": 821,
+      "end": 848,
+      "text": "cadaveric dura mater grafts",
+      "spans": [
+        {
+          "start": 821,
+          "end": 848
+        }
+      ]
+    }
+  ]
+}

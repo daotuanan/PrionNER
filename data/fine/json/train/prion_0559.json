@@ -1,0 +1,45 @@
+{
+  "doc_id": "prion_0559",
+  "text": "Creutzfeldt-Jakob disease is a 'slow virus' illness usually presenting as a rapidly progressive dementia.\nAlthough rare, its laboratory and accidental transmission has given it great theoretical importance.\nHowever, the infective agent remains mysterious and it is not known how, or even whether, natural transmission occurs.\nClinical diagnosis is difficult, treatment unfortunately unsuccessful and special precautions are necessary in dealing with potentially infectious material.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 76,
+      "end": 104,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 76,
+          "end": 104
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Treatment",
+      "start": 359,
+      "end": 368,
+      "text": "treatment",
+      "spans": [
+        {
+          "start": 359,
+          "end": 368
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+T1	Treatment 84 117	treated with human growth hormone
+T2	Time 118 139	between 1969 and 1979
+T3	Complication 150 173	parainfluenza pneumonia
+T4	Time 174 182	2 months
+T11	Time 183 215	after her last hormone treatment
+T12	Differential_Diagnosis 246 276	progressive neurologic disease
+T5	Test_name 295 302	autopsy
+T6	Findings 332 349	spongiform change
+T7	Findings 354 366	astrogliosis
+T8	Anatomic_location 374 389	corpus striatum
+T14	Complication 432 436	died
+T15	Complication 440 462	intercurrent infection
+T9	Generic_Prion 527 552	Creutzfeldt-Jakob disease

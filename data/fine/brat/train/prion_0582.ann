@@ -1,0 +1,7 @@
+T1	Generic_Prion 60 85	Creutzfeldt-Jakob disease
+T2	Age 104 115	32-year-old
+T3	Differential_Diagnosis 139 165	idiopathic hypopituitarism
+T4	Time_point 190 206	late adolescence
+T5	Duration 208 220	1970 to 1973
+T6	Treatment 179 186;227 247	treated human growth hormone
+T7	Anatomic_location 280 296	pituitary glands

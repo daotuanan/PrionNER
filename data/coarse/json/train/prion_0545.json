@@ -1,0 +1,227 @@
+{
+  "doc_id": "prion_0545",
+  "text": "We have encountered a case of Creutzfeldt-Jakob disease associated with myocarditis.\nA 77 year-old woman was admitted to a hospital with complaints of rapidly progressive visual disturbance, myoclonus and dementia.\nElectroencephalogram revealed a periodic synchronous discharge and Creutzfeldt-Jakob disease was suspected.\nThen she moved to our hospital, because acute myocarditis was combined with ST-T changes on electrocardiogram, and generalized hypokinetic motion of the left ventricle on echocardiogram.\nThe abnormal findings in electrocardiography and echocardiography were transient.\nBlood levels of enzymes derived from the myocardium were slightly elevated.\nWe could not find a distinct increase in the titer of neutralizing antibody to various viruses.\nIn this case, the cause of myocarditis may have been associated with the infectious agent of Creutzfeldt-Jakob disease.\nThis report might be the first one with a case of Creutzfeldt-Jakob disease complicated with myocarditis.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 30,
+      "end": 55,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 30,
+          "end": 55
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Complication",
+      "start": 72,
+      "end": 83,
+      "text": "myocarditis",
+      "spans": [
+        {
+          "start": 72,
+          "end": 83
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 87,
+      "end": 98,
+      "text": "77 year-old",
+      "spans": [
+        {
+          "start": 87,
+          "end": 98
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 151,
+      "end": 189,
+      "text": "rapidly progressive visual disturbance",
+      "spans": [
+        {
+          "start": 151,
+          "end": 189
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 191,
+      "end": 200,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 191,
+          "end": 200
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 205,
+      "end": 213,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 205,
+          "end": 213
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 215,
+      "end": 235,
+      "text": "Electroencephalogram",
+      "spans": [
+        {
+          "start": 215,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 282,
+      "end": 307,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 282,
+          "end": 307
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Complication",
+      "start": 363,
+      "end": 380,
+      "text": "acute myocarditis",
+      "spans": [
+        {
+          "start": 363,
+          "end": 380
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Test_name",
+      "start": 415,
+      "end": 432,
+      "text": "electrocardiogram",
+      "spans": [
+        {
+          "start": 415,
+          "end": 432
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Test_name",
+      "start": 494,
+      "end": 508,
+      "text": "echocardiogram",
+      "spans": [
+        {
+          "start": 494,
+          "end": 508
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Test_name",
+      "start": 535,
+      "end": 554,
+      "text": "electrocardiography",
+      "spans": [
+        {
+          "start": 535,
+          "end": 554
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Test_name",
+      "start": 559,
+      "end": 575,
+      "text": "echocardiography",
+      "spans": [
+        {
+          "start": 559,
+          "end": 575
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Complication",
+      "start": 791,
+      "end": 802,
+      "text": "myocarditis",
+      "spans": [
+        {
+          "start": 791,
+          "end": 802
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Generic_Prion",
+      "start": 857,
+      "end": 882,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 857,
+          "end": 882
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Generic_Prion",
+      "start": 934,
+      "end": 959,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 934,
+          "end": 959
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Complication",
+      "start": 977,
+      "end": 988,
+      "text": "myocarditis",
+      "spans": [
+        {
+          "start": 977,
+          "end": 988
+        }
+      ]
+    }
+  ]
+}

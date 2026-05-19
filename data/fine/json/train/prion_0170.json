@@ -1,0 +1,721 @@
+{
+  "doc_id": "prion_0170",
+  "text": "OBJECTIVES: To describe the clinical presentation of patients with Alzheimer's disease (AD) or dementia with Lewy bodies (DLB) who were suspected of having Creutzfeldt-Jakob disease (CJD) and to investigate whether current clinical diagnostic criteria cover these atypical forms of AD and DLB.\nMETHODS: Brains from necropsy were examined for the diagnosis of CJD at the German reference centre for spongiform encephalopathies.\nSymptoms and signs in patients with suspected CJD in whom necropsy showed AD (n=19) or DLB (n=12) were analysed.\nTheir data were compared with a group of patients with CJD (n=25) to determine overlapping and discriminating clinical features.\nAll patients were classified according to clinical diagnostic criteria for CJD, AD, and DLB.\nRESULTS: Demented patients were suspected of having CJD if disease was rapidly progressing and/or focal neurological signs appeared and/or an EEG showed sharp wave complexes.\nMyoclonus and limb rigidity were the most common neurological signs in all three dementias.\nDLB was not suspected in any patient, although patients with DLB showed parkinsonism (58%) and fluctuations (58%).\nPeriodic sharp wave complexes (PSWCs) in EEG typical of CJD were found in five patients with AD and one patient with DLB.\n14-3-3 Protein in CSF was detected in 20 patients with CJD, in two patients with AD, but not in any patient with DLB.\nAlthough most patients with DLB or AD met the clinical criteria for their respective diagnosis (74% and 90%), they also fulfilled criteria for CJD (42% and 58%).\nCONCLUSIONS: In patients with rapidly progressive dementia and focal neurological signs, CJD should be the first line diagnosis.\nFacing the triad dementia, myoclonus, and rigidity, AD should be considered if the disease course is longer and DLB is the differential diagnosis if parkinsonism or fluctuations are present.\nFindings on EEG or CSF typical of CJD do not exclude AD or DLB.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Differential_Diagnosis",
+      "start": 67,
+      "end": 86,
+      "text": "Alzheimer's disease",
+      "spans": [
+        {
+          "start": 67,
+          "end": 86
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Differential_Diagnosis",
+      "start": 95,
+      "end": 120,
+      "text": "dementia with Lewy bodies",
+      "spans": [
+        {
+          "start": 95,
+          "end": 120
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 156,
+      "end": 181,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 156,
+          "end": 181
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 183,
+      "end": 186,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 183,
+          "end": 186
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Differential_Diagnosis",
+      "start": 282,
+      "end": 284,
+      "text": "AD",
+      "spans": [
+        {
+          "start": 282,
+          "end": 284
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Differential_Diagnosis",
+      "start": 289,
+      "end": 292,
+      "text": "DLB",
+      "spans": [
+        {
+          "start": 289,
+          "end": 292
+        }
+      ]
+    },
+    {
+      "id": "T47",
+      "label": "Anatomic_location",
+      "start": 303,
+      "end": 309,
+      "text": "Brains",
+      "spans": [
+        {
+          "start": 303,
+          "end": 309
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Autopsy",
+      "start": 315,
+      "end": 323,
+      "text": "necropsy",
+      "spans": [
+        {
+          "start": 315,
+          "end": 323
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 359,
+      "end": 362,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 359,
+          "end": 362
+        }
+      ]
+    },
+    {
+      "id": "T48",
+      "label": "Generic_Prion",
+      "start": 398,
+      "end": 425,
+      "text": "spongiform encephalopathies",
+      "spans": [
+        {
+          "start": 398,
+          "end": 425
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 473,
+      "end": 476,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 473,
+          "end": 476
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy",
+      "start": 485,
+      "end": 493,
+      "text": "necropsy",
+      "spans": [
+        {
+          "start": 485,
+          "end": 493
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Differential_Diagnosis",
+      "start": 501,
+      "end": 503,
+      "text": "AD",
+      "spans": [
+        {
+          "start": 501,
+          "end": 503
+        }
+      ]
+    },
+    {
+      "id": "T49",
+      "label": "Differential_Diagnosis",
+      "start": 514,
+      "end": 517,
+      "text": "DLB",
+      "spans": [
+        {
+          "start": 514,
+          "end": 517
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 595,
+      "end": 598,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 595,
+          "end": 598
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 744,
+      "end": 747,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 744,
+          "end": 747
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Differential_Diagnosis",
+      "start": 749,
+      "end": 751,
+      "text": "AD",
+      "spans": [
+        {
+          "start": 749,
+          "end": 751
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Differential_Diagnosis",
+      "start": 757,
+      "end": 760,
+      "text": "DLB",
+      "spans": [
+        {
+          "start": 757,
+          "end": 760
+        }
+      ]
+    },
+    {
+      "id": "T54",
+      "label": "Symptom",
+      "start": 771,
+      "end": 779,
+      "text": "Demented",
+      "spans": [
+        {
+          "start": 771,
+          "end": 779
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 814,
+      "end": 817,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 814,
+          "end": 817
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 860,
+      "end": 884,
+      "text": "focal neurological signs",
+      "spans": [
+        {
+          "start": 860,
+          "end": 884
+        }
+      ]
+    },
+    {
+      "id": "T53",
+      "label": "Electrophysio_test",
+      "start": 904,
+      "end": 907,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 904,
+          "end": 907
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 937,
+      "end": 946,
+      "text": "Myoclonus",
+      "spans": [
+        {
+          "start": 937,
+          "end": 946
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 951,
+      "end": 964,
+      "text": "limb rigidity",
+      "spans": [
+        {
+          "start": 951,
+          "end": 964
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 986,
+      "end": 1004,
+      "text": "neurological signs",
+      "spans": [
+        {
+          "start": 986,
+          "end": 1004
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Differential_Diagnosis",
+      "start": 1018,
+      "end": 1027,
+      "text": "dementias",
+      "spans": [
+        {
+          "start": 1018,
+          "end": 1027
+        }
+      ]
+    },
+    {
+      "id": "T57",
+      "label": "Differential_Diagnosis",
+      "start": 1029,
+      "end": 1032,
+      "text": "DLB",
+      "spans": [
+        {
+          "start": 1029,
+          "end": 1032
+        }
+      ]
+    },
+    {
+      "id": "T58",
+      "label": "Differential_Diagnosis",
+      "start": 1090,
+      "end": 1093,
+      "text": "DLB",
+      "spans": [
+        {
+          "start": 1090,
+          "end": 1093
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Symptom",
+      "start": 1101,
+      "end": 1113,
+      "text": "parkinsonism",
+      "spans": [
+        {
+          "start": 1101,
+          "end": 1113
+        }
+      ]
+    },
+    {
+      "id": "T73",
+      "label": "Symptom",
+      "start": 1124,
+      "end": 1136,
+      "text": "fluctuations",
+      "spans": [
+        {
+          "start": 1124,
+          "end": 1136
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Electrophysio_test",
+      "start": 1185,
+      "end": 1188,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 1185,
+          "end": 1188
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Generic_Prion",
+      "start": 1200,
+      "end": 1203,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1200,
+          "end": 1203
+        }
+      ]
+    },
+    {
+      "id": "T60",
+      "label": "Differential_Diagnosis",
+      "start": 1237,
+      "end": 1239,
+      "text": "AD",
+      "spans": [
+        {
+          "start": 1237,
+          "end": 1239
+        }
+      ]
+    },
+    {
+      "id": "T63",
+      "label": "Blood_biomarker_test",
+      "start": 1284,
+      "end": 1287,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1284,
+          "end": 1287
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Generic_Prion",
+      "start": 1321,
+      "end": 1324,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1321,
+          "end": 1324
+        }
+      ]
+    },
+    {
+      "id": "T66",
+      "label": "Differential_Diagnosis",
+      "start": 1347,
+      "end": 1349,
+      "text": "AD",
+      "spans": [
+        {
+          "start": 1347,
+          "end": 1349
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Differential_Diagnosis",
+      "start": 1379,
+      "end": 1382,
+      "text": "DLB",
+      "spans": [
+        {
+          "start": 1379,
+          "end": 1382
+        }
+      ]
+    },
+    {
+      "id": "T67",
+      "label": "Differential_Diagnosis",
+      "start": 1412,
+      "end": 1415,
+      "text": "DLB",
+      "spans": [
+        {
+          "start": 1412,
+          "end": 1415
+        }
+      ]
+    },
+    {
+      "id": "T68",
+      "label": "Differential_Diagnosis",
+      "start": 1419,
+      "end": 1421,
+      "text": "AD",
+      "spans": [
+        {
+          "start": 1419,
+          "end": 1421
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Generic_Prion",
+      "start": 1527,
+      "end": 1530,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1527,
+          "end": 1530
+        }
+      ]
+    },
+    {
+      "id": "T69",
+      "label": "Symptom",
+      "start": 1576,
+      "end": 1604,
+      "text": "rapidly progressive dementia",
+      "spans": [
+        {
+          "start": 1576,
+          "end": 1604
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Symptom",
+      "start": 1609,
+      "end": 1633,
+      "text": "focal neurological signs",
+      "spans": [
+        {
+          "start": 1609,
+          "end": 1633
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Generic_Prion",
+      "start": 1635,
+      "end": 1638,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1635,
+          "end": 1638
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Symptom",
+      "start": 1692,
+      "end": 1700,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 1692,
+          "end": 1700
+        }
+      ]
+    },
+    {
+      "id": "T39",
+      "label": "Symptom",
+      "start": 1702,
+      "end": 1711,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 1702,
+          "end": 1711
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Symptom",
+      "start": 1717,
+      "end": 1725,
+      "text": "rigidity",
+      "spans": [
+        {
+          "start": 1717,
+          "end": 1725
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Differential_Diagnosis",
+      "start": 1727,
+      "end": 1729,
+      "text": "AD",
+      "spans": [
+        {
+          "start": 1727,
+          "end": 1729
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Differential_Diagnosis",
+      "start": 1787,
+      "end": 1790,
+      "text": "DLB",
+      "spans": [
+        {
+          "start": 1787,
+          "end": 1790
+        }
+      ]
+    },
+    {
+      "id": "T71",
+      "label": "Symptom",
+      "start": 1824,
+      "end": 1836,
+      "text": "parkinsonism",
+      "spans": [
+        {
+          "start": 1824,
+          "end": 1836
+        }
+      ]
+    },
+    {
+      "id": "T72",
+      "label": "Symptom",
+      "start": 1840,
+      "end": 1852,
+      "text": "fluctuations",
+      "spans": [
+        {
+          "start": 1840,
+          "end": 1852
+        }
+      ]
+    },
+    {
+      "id": "T74",
+      "label": "Electrophysio_test",
+      "start": 1878,
+      "end": 1881,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 1878,
+          "end": 1881
+        }
+      ]
+    },
+    {
+      "id": "T75",
+      "label": "Blood_biomarker_test",
+      "start": 1885,
+      "end": 1888,
+      "text": "CSF",
+      "spans": [
+        {
+          "start": 1885,
+          "end": 1888
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Generic_Prion",
+      "start": 1900,
+      "end": 1903,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1900,
+          "end": 1903
+        }
+      ]
+    },
+    {
+      "id": "T76",
+      "label": "Differential_Diagnosis",
+      "start": 1919,
+      "end": 1921,
+      "text": "AD",
+      "spans": [
+        {
+          "start": 1919,
+          "end": 1921
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Differential_Diagnosis",
+      "start": 1925,
+      "end": 1928,
+      "text": "DLB",
+      "spans": [
+        {
+          "start": 1925,
+          "end": 1928
+        }
+      ]
+    }
+  ]
+}

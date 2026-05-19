@@ -1,0 +1,19 @@
+T1	Generic_Prion 47 72	Creutzfeldt-Jakob disease
+T2	Generic_Prion 74 77	CJD
+T21	Sporadic_Prion 80 95	Heidenhain type
+T3	Test_name 97 125	positron emission tomography
+T4	Test_name 127 130	PET
+T5	Findings 145 174	decreased glucose utilization
+T6	Anatomic_location 182 197	occipital lobes
+T7	Anatomic_location 202 228	adjacent cortical regions.
+T8	Test_name 229 271	Single photon emission computed tomography
+T9	Test_name 273 278	SPECT
+T10	Sequences 285 299	99mTc-bicisate
+T14	Findings 309 341	"coupled" decrease in blood flow
+T11	Anatomic_location 355 369	cortical areas
+T12	Test_name 400 426	magnetic resonance imaging
+T13	Test_name 428 431	MRI
+T15	Time 452 463	early stage
+T16	Generic_Prion 467 470	CJD
+T18	Differential_Diagnosis 634 642	dementia
+T19	Test_name 659 662	EEG

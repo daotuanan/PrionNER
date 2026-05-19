@@ -1,0 +1,201 @@
+{
+  "doc_id": "prion_0612",
+  "text": "A case of Creutzfeldt-Jakob disease (CJD) in a 52-year-old man is described.\nAt post mortem, extensive involvement of white matter was seen.\nA few similar cases have been reported mainly by Japanese authors.\nOur patients belonged to a French family in which 14 cases of CJD over three generations have been recorded.\nOne of the patient's first cousins also had extensive white matter involvement.\nThis is an unusual panencephalopathic form of CJD.\nThe causes of the involvement of white matter are unknown.\nThere was no clinical evidence of neuropathy but an electron-microscopic study of biopsied superficial peroneal nerve showed it to be present.\nStudy of peripheral nerves is suggested for all patients with CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 10,
+      "end": 35,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 10,
+          "end": 35
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 37,
+      "end": 40,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 37,
+          "end": 40
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 47,
+      "end": 58,
+      "text": "52-year-old",
+      "spans": [
+        {
+          "start": 47,
+          "end": 58
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Time",
+      "start": 80,
+      "end": 91,
+      "text": "post mortem",
+      "spans": [
+        {
+          "start": 80,
+          "end": 91
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 118,
+      "end": 130,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 118,
+          "end": 130
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Generic_Prion",
+      "start": 270,
+      "end": 273,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 270,
+          "end": 273
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Time",
+      "start": 279,
+      "end": 296,
+      "text": "three generations",
+      "spans": [
+        {
+          "start": 279,
+          "end": 296
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 371,
+      "end": 383,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 371,
+          "end": 383
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 443,
+      "end": 446,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 443,
+          "end": 446
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 481,
+      "end": 493,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 481,
+          "end": 493
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 541,
+      "end": 551,
+      "text": "neuropathy",
+      "spans": [
+        {
+          "start": 541,
+          "end": 551
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 559,
+      "end": 585,
+      "text": "electron-microscopic study",
+      "spans": [
+        {
+          "start": 559,
+          "end": 585
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 598,
+      "end": 624,
+      "text": "superficial peroneal nerve",
+      "spans": [
+        {
+          "start": 598,
+          "end": 624
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 659,
+      "end": 676,
+      "text": "peripheral nerves",
+      "spans": [
+        {
+          "start": 659,
+          "end": 676
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 712,
+      "end": 715,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 712,
+          "end": 715
+        }
+      ]
+    }
+  ]
+}

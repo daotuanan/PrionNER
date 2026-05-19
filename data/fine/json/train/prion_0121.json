@@ -1,0 +1,253 @@
+{
+  "doc_id": "prion_0121",
+  "text": "The clinical presentation and evolution, neuropathological findings, and genotyping of three members of a Spanish family affected with fatal familial insomnia are reported.\nThe mother and two of her offspring developed a rapidly evolving disease with insomnia and behavioural disorders as the initial symptoms and died between 5 and 10 months after the onset of the illness.\nFrontal brain biopsy in the mother disclosed only non-significant spongiosis, and full neuropathological examination of her offspring showed thalamic and olivary degeneration with isolated focal cortical spongiosis.\nGenetic examination could only be performed in the contemporary patients and both harboured the prion protein (PrP) 178Asn mutation and homozygous 129 Met/Met genotype.",
+  "entities": [
+    {
+      "id": "T17",
+      "label": "Autopsy",
+      "start": 41,
+      "end": 58,
+      "text": "neuropathological",
+      "spans": [
+        {
+          "start": 41,
+          "end": 58
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Genetic_test",
+      "start": 73,
+      "end": 83,
+      "text": "genotyping",
+      "spans": [
+        {
+          "start": 73,
+          "end": 83
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "FFI",
+      "start": 135,
+      "end": 158,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 135,
+          "end": 158
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 251,
+      "end": 259,
+      "text": "insomnia",
+      "spans": [
+        {
+          "start": 251,
+          "end": 259
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 264,
+      "end": 285,
+      "text": "behavioural disorders",
+      "spans": [
+        {
+          "start": 264,
+          "end": 285
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Complication",
+      "start": 314,
+      "end": 318,
+      "text": "died",
+      "spans": [
+        {
+          "start": 314,
+          "end": 318
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Duration",
+      "start": 327,
+      "end": 342,
+      "text": "5 and 10 months",
+      "spans": [
+        {
+          "start": 327,
+          "end": 342
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Time_point",
+      "start": 327,
+      "end": 373,
+      "text": "5 and 10 months after the onset of the illness",
+      "spans": [
+        {
+          "start": 327,
+          "end": 373
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 375,
+      "end": 382,
+      "text": "Frontal",
+      "spans": [
+        {
+          "start": 375,
+          "end": 382
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Anatomic_location",
+      "start": 383,
+      "end": 388,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 383,
+          "end": 388
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Autopsy",
+      "start": 389,
+      "end": 395,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 389,
+          "end": 395
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Autopsy_finding",
+      "start": 441,
+      "end": 451,
+      "text": "spongiosis",
+      "spans": [
+        {
+          "start": 441,
+          "end": 451
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Autopsy",
+      "start": 462,
+      "end": 491,
+      "text": "neuropathological examination",
+      "spans": [
+        {
+          "start": 462,
+          "end": 491
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Anatomic_location",
+      "start": 516,
+      "end": 524,
+      "text": "thalamic",
+      "spans": [
+        {
+          "start": 516,
+          "end": 524
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 529,
+      "end": 536,
+      "text": "olivary",
+      "spans": [
+        {
+          "start": 529,
+          "end": 536
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Autopsy_finding",
+      "start": 537,
+      "end": 549,
+      "text": "degeneration",
+      "spans": [
+        {
+          "start": 537,
+          "end": 549
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Anatomic_location",
+      "start": 570,
+      "end": 578,
+      "text": "cortical",
+      "spans": [
+        {
+          "start": 570,
+          "end": 578
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Autopsy_finding",
+      "start": 579,
+      "end": 589,
+      "text": "spongiosis",
+      "spans": [
+        {
+          "start": 579,
+          "end": 589
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Genetic_test",
+      "start": 591,
+      "end": 610,
+      "text": "Genetic examination",
+      "spans": [
+        {
+          "start": 591,
+          "end": 610
+        }
+      ]
+    }
+  ]
+}

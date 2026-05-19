@@ -1,0 +1,25 @@
+T1	Imaging_test 25 51	magnetic resonance imaging
+T3	Imaging_test 190 216	magnetic resonance imaging
+T4	iCJD 250 286	iatrogenic Creutzfeldt-Jakob disease
+T7	Symptom 388 403	alien hand sign
+T9	Imaging_test 447 473	magnetic resonance imaging
+T10	Anatomic_location 506 514	cortical
+T13	Symptom 591 619	rapidly progressive dementia
+T14	Generic_Prion 638 663	Creutzfeldt-Jakob disease
+T15	Autopsy 684 690	biopsy
+T16	Imaging_test 710 736	magnetic resonance imaging
+T19	Imaging_test 770 796	magnetic resonance imaging
+T20	Generic_Prion 838 863	Creutzfeldt-Jakob disease
+T21	Choose_Related 912 915	YES
+T6	Anatomic_location 59 64	brain
+T8	Imaging_sequence 428 446	Diffusion-weighted
+T22	Imaging_finding 515 538	diffusion abnormalities
+T18	Imaging_sequence 751 769	diffusion-weighted
+T23	iCJD 883 893	iatrogenic
+T24	Choose_Done 923 927	DONE
+T25	Anatomic_location 224 229	brain
+T26	Anatomic_location 481 486	brain
+T27	Anatomic_location 678 683	brain
+T28	Anatomic_location 704 709	Brain
+T12	Treatment 349 373	corneal transplantations
+T2	iCJD 85 130	iatrogenic cases of Creutzfeldt-Jakob disease

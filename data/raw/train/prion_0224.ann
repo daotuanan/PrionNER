@@ -1,0 +1,17 @@
+T1	Choose_Related 589 592	YES
+T2	Age 2 13	47 year old
+T4	Generic_Prion 62 87	Creutzfeldt-Jakob disease
+T5	Generic_Prion 89 92	CJD
+T9	Symptom 232 251	cerebellar syndrome
+T10	iCJD 278 292	iatrogenic CJD
+T12	iCJD 353 367	iatrogenic CJD
+T15	Generic_Prion 410 413	CJD
+T17	Treatment 506 509	hGH
+T18	iCJD 526 540	iatrogenic CJD
+T3	Time_point 94 167	38 years after receiving a low dose of human derived growth hormone (hGH)
+T6	Treatment 121 167	low dose of human derived growth hormone (hGH)
+T7	Treatment 438 441	hGH
+T8	Choose_Done 600 604	DONE
+T11	Autopsy 45 54	pathology
+T13	Duration 94 102	38 years
+T14	Anatomic_location 232 242	cerebellar

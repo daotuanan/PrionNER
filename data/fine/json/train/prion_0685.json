@@ -1,0 +1,162 @@
+{
+  "doc_id": "prion_0685",
+  "text": "We report a familial form of Creutzfeldt-Jakob disease, associated with a unique insert mutation of the PRNP gene in an American family of Ukrainian origin.\nTen family members exhibited early age at onset and long-duration illnesses characterized primarily by personality changes, cognitive impairment, and spasticity.\nThe proband, presenting at age 42 years, exhibited a fairly stable, nonprogressive course over 7 years, followed by precipitous decline and death in the eighth year.\nOther affected family members exhibited marked clinical heterogeneity.\nEach tested affected member had an insert mutation consisting of five extra octapeptide repeats between codons 51 and 91 of the PRNP gene on chromosome 20.\nExamination of two autopsy cases showed classic spongiform change, neuronal loss and astrocytosis in one case, and minimal pathologic abnormality in the other case.\nThis report documents a new insert mutation of the PRNP gene, and confirms the early age of onset, characteristically prolonged clinical course, and clinical and pathologic heterogeneity seen in such mutations.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "fCJD",
+      "start": 12,
+      "end": 54,
+      "text": "familial form of Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 12,
+          "end": 54
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 260,
+      "end": 279,
+      "text": "personality changes",
+      "spans": [
+        {
+          "start": 260,
+          "end": 279
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 281,
+      "end": 301,
+      "text": "cognitive impairment",
+      "spans": [
+        {
+          "start": 281,
+          "end": 301
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 307,
+      "end": 317,
+      "text": "spasticity",
+      "spans": [
+        {
+          "start": 307,
+          "end": 317
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Age",
+      "start": 346,
+      "end": 358,
+      "text": "age 42 years",
+      "spans": [
+        {
+          "start": 346,
+          "end": 358
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Duration",
+      "start": 414,
+      "end": 421,
+      "text": "7 years",
+      "spans": [
+        {
+          "start": 414,
+          "end": 421
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Complication",
+      "start": 459,
+      "end": 464,
+      "text": "death",
+      "spans": [
+        {
+          "start": 459,
+          "end": 464
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Time_point",
+      "start": 468,
+      "end": 483,
+      "text": "the eighth year",
+      "spans": [
+        {
+          "start": 468,
+          "end": 483
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Autopsy",
+      "start": 731,
+      "end": 738,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 731,
+          "end": 738
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Autopsy_finding",
+      "start": 760,
+      "end": 777,
+      "text": "spongiform change",
+      "spans": [
+        {
+          "start": 760,
+          "end": 777
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Autopsy_finding",
+      "start": 779,
+      "end": 792,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 779,
+          "end": 792
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Autopsy_finding",
+      "start": 797,
+      "end": 809,
+      "text": "astrocytosis",
+      "spans": [
+        {
+          "start": 797,
+          "end": 809
+        }
+      ]
+    }
+  ]
+}

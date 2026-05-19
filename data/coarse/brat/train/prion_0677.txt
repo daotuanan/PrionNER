@@ -1,0 +1,5 @@
+The human prion diseases, Creutzfeldt-Jakob disease, Gerstmann-Strøaussler-Scheinker syndrome and kuru, are neurodegenerative disorders sharing clinical features of rapidly progressive neurodegenerative dementia and cerebellar symptoms of marked ataxia and tremor, resulting in death within one year after onset.
+Similar diseases have been described in animals, such as scrapie in sheep and goats, and bovine spongiform encephalopathy in cattle (mad cow disease).
+The very long incubation period, the lack of a host immune response, and a neurological triad of spongiosis, astrocytosis and amyloid plaque formation have suggested these diseases to have a common aetiology.
+A highly effective transmissible agent, fundamentally different from viruses, has been identified and the term prion adopted to distinguish it from viruses and viroids.
+CJD is unique in occurring both in inherited, sporadic and acquired forms.

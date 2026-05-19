@@ -1,0 +1,32 @@
+{
+  "doc_id": "prion_0503",
+  "text": "The authors report a case of Jakob-Creutzfeldt disease diagnosed at autopsy.\nIn the discussion attention is called to characteristic clinical manifestations and possibilities of intravital diagnosis of the disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 29,
+      "end": 54,
+      "text": "Jakob-Creutzfeldt disease",
+      "spans": [
+        {
+          "start": 29,
+          "end": 54
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Autopsy",
+      "start": 68,
+      "end": 75,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 68,
+          "end": 75
+        }
+      ]
+    }
+  ]
+}

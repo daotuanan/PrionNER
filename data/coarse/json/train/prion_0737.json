@@ -1,0 +1,162 @@
+{
+  "doc_id": "prion_0737",
+  "text": "Spongiform encephalopathies (prion diseases) are a group of neurodegenerative disorders that affect both humans and animals and have common pathologic (spongiform changes, astrogliosis and neuronal loss) and clinical features.\nThe paper shows clinical presentations of human spongioform encephalopathies: Creutzfeldt-Jakob disease, Gerstmann-Straussler-Scheinker disease and fatal familiar insomnia.\nA new variant of Jakob-Creutzfeld disease, with unique clinical (earlier onset, psychiatric symptoms and lack of the characteristic EEG abnormalities) and pathological features was described.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 29,
+      "end": 43,
+      "text": "prion diseases",
+      "spans": [
+        {
+          "start": 29,
+          "end": 43
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Test_name",
+      "start": 140,
+      "end": 150,
+      "text": "pathologic",
+      "spans": [
+        {
+          "start": 140,
+          "end": 150
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Findings",
+      "start": 152,
+      "end": 170,
+      "text": "spongiform changes",
+      "spans": [
+        {
+          "start": 152,
+          "end": 170
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Findings",
+      "start": 172,
+      "end": 184,
+      "text": "astrogliosis",
+      "spans": [
+        {
+          "start": 172,
+          "end": 184
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Findings",
+      "start": 189,
+      "end": 202,
+      "text": "neuronal loss",
+      "spans": [
+        {
+          "start": 189,
+          "end": 202
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 305,
+      "end": 330,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 305,
+          "end": 330
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Familial_Prion",
+      "start": 332,
+      "end": 370,
+      "text": "Gerstmann-Straussler-Scheinker disease",
+      "spans": [
+        {
+          "start": 332,
+          "end": 370
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Familial_Prion",
+      "start": 375,
+      "end": 398,
+      "text": "fatal familiar insomnia",
+      "spans": [
+        {
+          "start": 375,
+          "end": 398
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 417,
+      "end": 441,
+      "text": "Jakob-Creutzfeld disease",
+      "spans": [
+        {
+          "start": 417,
+          "end": 441
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 465,
+      "end": 478,
+      "text": "earlier onset",
+      "spans": [
+        {
+          "start": 465,
+          "end": 478
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 480,
+      "end": 500,
+      "text": "psychiatric symptoms",
+      "spans": [
+        {
+          "start": 480,
+          "end": 500
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 532,
+      "end": 535,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 532,
+          "end": 535
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "doc_id": "prion_0547",
+  "text": "A case of CJD with PLD in the first EEG is reported.\nThe PLD became bilateral in the next EEG.\nThe subsequent EEGs showed shifting asymmetries.\nIn this case, PSD reappeared after 5 months' absence.\nThe PLD occasionally appeared over the hemisphere ipsilateral to the side of the myoclonic jerks.\nThe clinical significance of the PLD and reappearance of PD, and the diagnostic importance of PLD are discussed.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 10,
+      "end": 13,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 10,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Electrophysio_test",
+      "start": 36,
+      "end": 39,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 36,
+          "end": 39
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Electrophysio_test",
+      "start": 90,
+      "end": 93,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 90,
+          "end": 93
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Electrophysio_test",
+      "start": 110,
+      "end": 114,
+      "text": "EEGs",
+      "spans": [
+        {
+          "start": 110,
+          "end": 114
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Duration",
+      "start": 179,
+      "end": 187,
+      "text": "5 months",
+      "spans": [
+        {
+          "start": 179,
+          "end": 187
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 237,
+      "end": 247,
+      "text": "hemisphere",
+      "spans": [
+        {
+          "start": 237,
+          "end": 247
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 279,
+      "end": 294,
+      "text": "myoclonic jerks",
+      "spans": [
+        {
+          "start": 279,
+          "end": 294
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+T1	Generic_Prion 127 152	Creutzfeldt-Jakob disease
+T2	Generic_Prion 154 157	CJD
+T4	Generic_Prion 215 218	CJD
+T5	Duration 231 254	16 months to nine years
+T6	Symptom 299 318	cerebellar symptoms
+T7	Symptom 325 333	dementia
+T8	Symptom 338 347	myoclonus
+T9	Time_point 362 374	later stages
+T10	Electrophysio_test 391 395	EEGs
+T13	Imaging_test 464 466	CT
+T14	Imaging_test 471 474	MRI
+T16	Time_point 500 512	early stages
+T20	Time_point 642 653	late stages
+T21	Autopsy 715 721	biopsy
+T22	Genetic_test 741 767	Molecular genetic analysis
+T24	iCJD 1000 1030	iatrogenic transmission of CJD
+T26	Generic_Prion 1129 1132	CJD
+T27	Choose_Related 1182 1185	YES
+T11	Anatomic_location 77 92	posterior fossa
+T12	Imaging_finding 552 559	atrophy
+T17	Anatomic_location 528 536	cerebral
+T18	Anatomic_location 541 551	cerebellar
+T19	Imaging_finding 565 578	widened sulci
+T23	Imaging_finding 583 624	collections of fluid over the convexities
+T28	Autopsy 684 698	histologically
+T25	Choose_Done 1193 1197	DONE
+T29	Anatomic_location 709 714	brain
+T15	Anatomic_location 299 309	cerebellar
+T3	Treatment 27 59	dural grafts of cadaveric origin
+T30	Treatment 178 193	dural placement

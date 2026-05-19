@@ -1,0 +1,258 @@
+{
+  "doc_id": "prion_0512",
+  "text": "The authors describe a case of sub-acute spongiform encephalopathy with an ultrastructural study in a man of 65 with associated dementia, extra-pyramidal syndrome, myoclonia, optical disorders, pyramidal syndrome and speech disorders, rapidly leading to death one and a half months later.\nElectroencephalograms were at first disorganized with persistent delta and theta activity and only in the last record did short runs of repetitive activity appear.\nHistologically, there was severe status spongiosus, a moderate degree of neuronal depopulation with a noticeable astrocytary gliosis.\nUnder the electron microscope, the neuropile in the astrocytes was found to be pitted with numerous cavities and so were, to a lesser extent, the axonal projections.\nThe vessels were normal.\nNothing was found to indicate viral structures.\nAttention is drawn to the nosological connection between this type of observation and Creutzfeldt-Jakob disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 31,
+      "end": 66,
+      "text": "sub-acute spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 31,
+          "end": 66
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 109,
+      "end": 111,
+      "text": "65",
+      "spans": [
+        {
+          "start": 109,
+          "end": 111
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 128,
+      "end": 136,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 128,
+          "end": 136
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 138,
+      "end": 162,
+      "text": "extra-pyramidal syndrome",
+      "spans": [
+        {
+          "start": 138,
+          "end": 162
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 164,
+      "end": 173,
+      "text": "myoclonia",
+      "spans": [
+        {
+          "start": 164,
+          "end": 173
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 175,
+      "end": 192,
+      "text": "optical disorders",
+      "spans": [
+        {
+          "start": 175,
+          "end": 192
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 194,
+      "end": 212,
+      "text": "pyramidal syndrome",
+      "spans": [
+        {
+          "start": 194,
+          "end": 212
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 217,
+      "end": 233,
+      "text": "speech disorders",
+      "spans": [
+        {
+          "start": 217,
+          "end": 233
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Complication",
+      "start": 254,
+      "end": 259,
+      "text": "death",
+      "spans": [
+        {
+          "start": 254,
+          "end": 259
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Duration",
+      "start": 260,
+      "end": 287,
+      "text": "one and a half months later",
+      "spans": [
+        {
+          "start": 260,
+          "end": 287
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Electrophysio_test",
+      "start": 289,
+      "end": 310,
+      "text": "Electroencephalograms",
+      "spans": [
+        {
+          "start": 289,
+          "end": 310
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Autopsy",
+      "start": 453,
+      "end": 467,
+      "text": "Histologically",
+      "spans": [
+        {
+          "start": 453,
+          "end": 467
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Autopsy_finding",
+      "start": 486,
+      "end": 503,
+      "text": "status spongiosus",
+      "spans": [
+        {
+          "start": 486,
+          "end": 503
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Autopsy_finding",
+      "start": 526,
+      "end": 547,
+      "text": "neuronal depopulation",
+      "spans": [
+        {
+          "start": 526,
+          "end": 547
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Autopsy_finding",
+      "start": 566,
+      "end": 585,
+      "text": "astrocytary gliosis",
+      "spans": [
+        {
+          "start": 566,
+          "end": 585
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Autopsy_finding",
+      "start": 622,
+      "end": 695,
+      "text": "neuropile with numerous cavities",
+      "spans": [
+        {
+          "start": 622,
+          "end": 631
+        },
+        {
+          "start": 673,
+          "end": 695
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 639,
+      "end": 649,
+      "text": "astrocytes",
+      "spans": [
+        {
+          "start": 639,
+          "end": 649
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 733,
+      "end": 751,
+      "text": "axonal projections",
+      "spans": [
+        {
+          "start": 733,
+          "end": 751
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Generic_Prion",
+      "start": 912,
+      "end": 937,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 912,
+          "end": 937
+        }
+      ]
+    }
+  ]
+}

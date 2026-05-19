@@ -1,0 +1,188 @@
+{
+  "doc_id": "prion_0698",
+  "text": "Creutzfeldt-Jakob disease is relatively poorly documented in psychiatry.\nAn observation will be presented concerning a 69 years old patient admitted for conduct disorder and prosecution delirium.\nIn fact, the symptomatology associated dementia, transient confusion, parkinsonism, ataxia and abnormal movements.\nIn the checkup the electroencephalogram gave us an important orientation for diagnosis.\nAfter a thoracic trauma the patient was admitted in an intensive care unit with a positive pressure ventilation.\nHis general condition worsened until he died.\nBrain histic exploration and PRP gene analysis confirmed the diagnosis.\nEven if there is no efficient treatment, such a diagnosis has to be done in order to take prophylactic measures and conduct epidemiological surveys.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Age",
+      "start": 119,
+      "end": 131,
+      "text": "69 years old",
+      "spans": [
+        {
+          "start": 119,
+          "end": 131
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Differential_Diagnosis",
+      "start": 153,
+      "end": 169,
+      "text": "conduct disorder",
+      "spans": [
+        {
+          "start": 153,
+          "end": 169
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Differential_Diagnosis",
+      "start": 174,
+      "end": 194,
+      "text": "prosecution delirium",
+      "spans": [
+        {
+          "start": 174,
+          "end": 194
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 235,
+      "end": 243,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 235,
+          "end": 243
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 245,
+      "end": 264,
+      "text": "transient confusion",
+      "spans": [
+        {
+          "start": 245,
+          "end": 264
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 266,
+      "end": 278,
+      "text": "parkinsonism",
+      "spans": [
+        {
+          "start": 266,
+          "end": 278
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 280,
+      "end": 286,
+      "text": "ataxia",
+      "spans": [
+        {
+          "start": 280,
+          "end": 286
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 291,
+      "end": 309,
+      "text": "abnormal movements",
+      "spans": [
+        {
+          "start": 291,
+          "end": 309
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 330,
+      "end": 350,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 330,
+          "end": 350
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Complication",
+      "start": 552,
+      "end": 556,
+      "text": "died",
+      "spans": [
+        {
+          "start": 552,
+          "end": 556
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 558,
+      "end": 563,
+      "text": "Brain",
+      "spans": [
+        {
+          "start": 558,
+          "end": 563
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Test_name",
+      "start": 564,
+      "end": 582,
+      "text": "histic exploration",
+      "spans": [
+        {
+          "start": 564,
+          "end": 582
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Test_name",
+      "start": 587,
+      "end": 604,
+      "text": "PRP gene analysis",
+      "spans": [
+        {
+          "start": 587,
+          "end": 604
+        }
+      ]
+    }
+  ]
+}

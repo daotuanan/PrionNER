@@ -1,0 +1,7 @@
+BACKGROUND: Creutzfeldt-Jakob disease (CJD) is a rare transmissible disease that typically causes a rapidly progressive dementia and leads to death in less than 1 year.
+Although a few anecdotal reports suggest that diffusion-weighted magnetic resonance imaging may help substantiate premortem diagnosis of CJD, detailed correlation between radiographic data and clinical, electrophysiologic, and metabolic parameters is not available.
+METHODS: Signal abnormalities on diffusion-weighted images in 3 consecutive patients with probable CJD were correlated with psychometric features, electroencephalographic findings, and functional images with either positron emission tomography or single photon emission computed tomography.
+RESULTS: Focality of abnormalities on diffusion-weighted image, not apparent on routine magnetic resonance images, correlated closely with clinical manifestations of CJD.
+The topographic distribution of signal abnormality on diffusion-weighted image corresponded with abnormal metabolism or perfusion on positron emission and single photon emission computed tomographic scans.
+In 2 cases, the laterality of diffusion abnormalities correlated with periodic sharp wave activity on electroencephalograms.
+CONCLUSION: These findings extend previous observations that suggested a diagnostic and localizing utility of diffusion-weighted imaging in CJD.

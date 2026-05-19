@@ -1,0 +1,19 @@
+T1	Choose_Related 724 727	YES
+T2	Treatment 41 51	quinacrine
+T5	Generic_Prion 88 113	Creutzfeldt-Jakob disease
+T6	Generic_Prion 115 118	CJD
+T8	Treatment 145 155	quinacrine
+T10	Treatment 245 255	quinacrine
+T11	Anatomic_location 315 334	blood-brain barrier
+T14	Generic_Prion 465 468	CJD
+T15	Treatment 507 517	quinacrine
+T16	Treatment 526 545	combination therapy
+T18	Treatment 665 674	verapamil
+T19	Generic_Prion 708 711	CJD
+T3	Complication 133 189	toxicity of quinacrine to liver and hematological system
+T4	Choose_Done 735 739	DONE
+T7	Treatment 396 406	quinacrine
+T9	Treatment 287 311	p-glycoprotein inhibitor
+T12	Treatment 411 435	p-glycoprotein inhibitor
+T13	Treatment 437 446	verapamil
+T17	Treatment 649 659	quinacrine

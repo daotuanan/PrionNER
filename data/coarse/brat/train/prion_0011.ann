@@ -1,0 +1,35 @@
+T32	Test_name 35 56	electroencephalograph
+T33	Test_name 58 61	EEG
+T2	Test_name 79 94	polysomnography
+T3	Familial_Prion 129 152	Fatal Familial Insomnia
+T4	Familial_Prion 154 157	FFI
+T5	Age 201 212	32-year-old
+T35	Test_name 269 272	EEG
+T36	Test_name 295 299	PSGs
+T6	Sporadic_Prion 301 306	FFI-1
+T7	Sporadic_Prion 311 316	FFI-2
+T8	Differential_Diagnosis 346 354	insomnia
+T9	Test_name 359 363	PLMS
+T71	Familial_Prion 389 392	FFI
+T10	Time 405 413	120 days
+T11	Familial_Prion 451 454	FFI
+T13	Time 468 475	89 days
+T37	Complication 485 490	death
+T38	Test_name 492 495	PSG
+T39	Test_name 514 517	EEG
+T40	Test_name 554 557	EEG
+T44	Symptom 736 744	insomnia
+T14	Familial_Prion 790 795	FFI-1
+T15	Familial_Prion 800 805	FFI-2
+T16	Test_name 806 810	PSGs
+T22	Familial_Prion 989 994	FFI-1
+T54	Differential_Diagnosis 1080 1088	insomnia
+T55	Familial_Prion 1104 1109	FFI-1
+T59	Differential_Diagnosis 1173 1181	insomnia
+T23	Familial_Prion 1257 1262	FFI-1
+T26	Differential_Diagnosis 1309 1326	insomnia disorder
+T28	Test_name 1370 1373	PSG
+T29	Familial_Prion 1377 1380	FFI
+T31	Symptom 1390 1411	poor sleep efficiency
+T30	Test_name 1490 1493	EEG
+T58	Differential_Diagnosis 1593 1601	insomnia

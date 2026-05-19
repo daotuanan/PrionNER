@@ -1,0 +1,123 @@
+{
+  "doc_id": "prion_0642",
+  "text": "We serially examined a patient with Creutzfeldt-Jakob disease using fludeoxyglucose F 18 and positron emission tomography.\nMarked cerebral hypometabolism reflected clinical deterioration in the early stages of Creutzfeldt-Jakob disease when no parenchymal abnormalities were present on MR imaging.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 36,
+      "end": 61,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 36,
+          "end": 61
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Sequences",
+      "start": 68,
+      "end": 88,
+      "text": "fludeoxyglucose F 18",
+      "spans": [
+        {
+          "start": 68,
+          "end": 88
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Test_name",
+      "start": 93,
+      "end": 121,
+      "text": "positron emission tomography",
+      "spans": [
+        {
+          "start": 93,
+          "end": 121
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 130,
+      "end": 138,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 130,
+          "end": 138
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Findings",
+      "start": 139,
+      "end": 153,
+      "text": "hypometabolism",
+      "spans": [
+        {
+          "start": 139,
+          "end": 153
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time",
+      "start": 194,
+      "end": 206,
+      "text": "early stages",
+      "spans": [
+        {
+          "start": 194,
+          "end": 206
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 210,
+      "end": 235,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 210,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Findings",
+      "start": 244,
+      "end": 269,
+      "text": "parenchymal abnormalities",
+      "spans": [
+        {
+          "start": 244,
+          "end": 269
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 286,
+      "end": 296,
+      "text": "MR imaging",
+      "spans": [
+        {
+          "start": 286,
+          "end": 296
+        }
+      ]
+    }
+  ]
+}

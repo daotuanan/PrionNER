@@ -1,0 +1,471 @@
+{
+  "doc_id": "prion_0713",
+  "text": "OBJECTIVES: Among the classification criteria for the diagnosis of Creutzfeldt-Jakob disease, akinetic mutism is described as a symptom which helps to establish the diagnosis as possible or probable.\nAkinetic mutism has been anatomically divided into two forms--the mesencephalic form and the frontal form.\nThe aim of this study was to delimit the symptom of akinetic mutism in patients with Creutzfeldt-Jakob disease from the complex of symptoms of an apallic syndrome and to assign it to the individual forms.\nMETHODS: Between April and December 1996, 25 akinetic and mute patients with Creutzfeldt-Jakob disease were consecutively examined.\nThe patients were classified according to the definition of akinetic mutism by Cairns and secondly in accordance with the features constituting the complete picture of an appalic syndrome (defined by Gerstenbrand).\nRESULTS: From 25 patients with definite Creutzfeldt-Jakob disease, 24 patients showed impoverishment of speech and, after a mean duration of four (range 1.1-11.2) months, almost complete absence of voluntary movements and speech.\nSeven patients were classified as being mute and akinetic and assigned to the mesencephalic form whereas 13 patients were classified as apallic.\nOne patient was mute without being akinetic and four patients were comatose.\nCONCLUSION: Diffuse brain damage underlies akinetic mutism in patients with Creutzfeldt-Jakob disease.\nThe term can be used as a classification criterion for the diagnosis of Creutzfeldt-Jakob disease; however, it should be applied very carefully and delimited clearly from the apallic syndrome.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 67,
+      "end": 92,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 67,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 94,
+      "end": 109,
+      "text": "akinetic mutism",
+      "spans": [
+        {
+          "start": 94,
+          "end": 109
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 200,
+      "end": 215,
+      "text": "Akinetic mutism",
+      "spans": [
+        {
+          "start": 200,
+          "end": 215
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 266,
+      "end": 279,
+      "text": "mesencephalic",
+      "spans": [
+        {
+          "start": 266,
+          "end": 279
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 266,
+      "end": 284,
+      "text": "mesencephalic form",
+      "spans": [
+        {
+          "start": 266,
+          "end": 284
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 293,
+      "end": 300,
+      "text": "frontal",
+      "spans": [
+        {
+          "start": 293,
+          "end": 300
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 293,
+      "end": 305,
+      "text": "frontal form",
+      "spans": [
+        {
+          "start": 293,
+          "end": 305
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 359,
+      "end": 374,
+      "text": "akinetic mutism",
+      "spans": [
+        {
+          "start": 359,
+          "end": 374
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Generic_Prion",
+      "start": 392,
+      "end": 417,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 392,
+          "end": 417
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Differential_Diagnosis",
+      "start": 453,
+      "end": 469,
+      "text": "apallic syndrome",
+      "spans": [
+        {
+          "start": 453,
+          "end": 469
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Duration",
+      "start": 521,
+      "end": 552,
+      "text": "Between April and December 1996",
+      "spans": [
+        {
+          "start": 521,
+          "end": 552
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 557,
+      "end": 565,
+      "text": "akinetic",
+      "spans": [
+        {
+          "start": 557,
+          "end": 565
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 570,
+      "end": 574,
+      "text": "mute",
+      "spans": [
+        {
+          "start": 570,
+          "end": 574
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Generic_Prion",
+      "start": 589,
+      "end": 614,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 589,
+          "end": 614
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 704,
+      "end": 719,
+      "text": "akinetic mutism",
+      "spans": [
+        {
+          "start": 704,
+          "end": 719
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Differential_Diagnosis",
+      "start": 815,
+      "end": 831,
+      "text": "appalic syndrome",
+      "spans": [
+        {
+          "start": 815,
+          "end": 831
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Generic_Prion",
+      "start": 899,
+      "end": 924,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 899,
+          "end": 924
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Symptom",
+      "start": 945,
+      "end": 969,
+      "text": "impoverishment of speech",
+      "spans": [
+        {
+          "start": 945,
+          "end": 969
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Duration",
+      "start": 1000,
+      "end": 1028,
+      "text": "four months",
+      "spans": [
+        {
+          "start": 1000,
+          "end": 1004
+        },
+        {
+          "start": 1022,
+          "end": 1028
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 1037,
+      "end": 1076,
+      "text": "complete absence of voluntary movements",
+      "spans": [
+        {
+          "start": 1037,
+          "end": 1076
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 1037,
+      "end": 1087,
+      "text": "complete absence of speech",
+      "spans": [
+        {
+          "start": 1037,
+          "end": 1056
+        },
+        {
+          "start": 1081,
+          "end": 1087
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T31",
+      "label": "Symptom",
+      "start": 1129,
+      "end": 1133,
+      "text": "mute",
+      "spans": [
+        {
+          "start": 1129,
+          "end": 1133
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Symptom",
+      "start": 1138,
+      "end": 1146,
+      "text": "akinetic",
+      "spans": [
+        {
+          "start": 1138,
+          "end": 1146
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 1167,
+      "end": 1180,
+      "text": "mesencephalic",
+      "spans": [
+        {
+          "start": 1167,
+          "end": 1180
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Symptom",
+      "start": 1167,
+      "end": 1185,
+      "text": "mesencephalic form",
+      "spans": [
+        {
+          "start": 1167,
+          "end": 1185
+        }
+      ]
+    },
+    {
+      "id": "T35",
+      "label": "Symptom",
+      "start": 1225,
+      "end": 1232,
+      "text": "apallic",
+      "spans": [
+        {
+          "start": 1225,
+          "end": 1232
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Symptom",
+      "start": 1250,
+      "end": 1254,
+      "text": "mute",
+      "spans": [
+        {
+          "start": 1250,
+          "end": 1254
+        }
+      ]
+    },
+    {
+      "id": "T38",
+      "label": "Symptom",
+      "start": 1269,
+      "end": 1277,
+      "text": "akinetic",
+      "spans": [
+        {
+          "start": 1269,
+          "end": 1277
+        }
+      ]
+    },
+    {
+      "id": "T40",
+      "label": "Symptom",
+      "start": 1301,
+      "end": 1309,
+      "text": "comatose",
+      "spans": [
+        {
+          "start": 1301,
+          "end": 1309
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Anatomic_location",
+      "start": 1323,
+      "end": 1336,
+      "text": "Diffuse brain",
+      "spans": [
+        {
+          "start": 1323,
+          "end": 1336
+        }
+      ]
+    },
+    {
+      "id": "T49",
+      "label": "Anatomic_location",
+      "start": 1331,
+      "end": 1336,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 1331,
+          "end": 1336
+        }
+      ]
+    },
+    {
+      "id": "T43",
+      "label": "Symptom",
+      "start": 1354,
+      "end": 1369,
+      "text": "akinetic mutism",
+      "spans": [
+        {
+          "start": 1354,
+          "end": 1369
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Generic_Prion",
+      "start": 1387,
+      "end": 1412,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 1387,
+          "end": 1412
+        }
+      ]
+    },
+    {
+      "id": "T45",
+      "label": "Generic_Prion",
+      "start": 1486,
+      "end": 1511,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 1486,
+          "end": 1511
+        }
+      ]
+    },
+    {
+      "id": "T47",
+      "label": "Differential_Diagnosis",
+      "start": 1589,
+      "end": 1605,
+      "text": "apallic syndrome",
+      "spans": [
+        {
+          "start": 1589,
+          "end": 1605
+        }
+      ]
+    }
+  ]
+}

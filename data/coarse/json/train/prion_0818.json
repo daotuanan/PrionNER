@@ -1,0 +1,245 @@
+{
+  "doc_id": "prion_0818",
+  "text": "BACKGROUND: The determination of the form of prion disease and early diagnosis are important for prognostic, public health, and epidemiologic reasons.\nOBJECTIVE: To describe a patient with sporadic Creutzfeldt-Jakob disease (sCJD) who had a clinical history and initial electroencephalogram and magnetic resonance imaging findings consistent with variant CJD (vCJD).\nRESULTS: Results of a repeated electroencephalogram were suggestive of sCJD, and a subsequent brain biopsy confirmed this diagnosis.\nCONCLUSIONS: This case cautions against relying solely on T2- and diffusion-weighted pulvinar hyperintensity and clinical features to differentiate between vCJD and sCJD, and further supports established diagnostic criteria for vCJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 45,
+      "end": 58,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 45,
+          "end": 58
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Sporadic_Prion",
+      "start": 189,
+      "end": 223,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 189,
+          "end": 223
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Sporadic_Prion",
+      "start": 225,
+      "end": 229,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 225,
+          "end": 229
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 270,
+      "end": 290,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 270,
+          "end": 290
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Test_name",
+      "start": 295,
+      "end": 321,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 295,
+          "end": 321
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Acquired_Prion",
+      "start": 347,
+      "end": 358,
+      "text": "variant CJD",
+      "spans": [
+        {
+          "start": 347,
+          "end": 358
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Acquired_Prion",
+      "start": 360,
+      "end": 364,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 360,
+          "end": 364
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 398,
+      "end": 418,
+      "text": "electroencephalogram",
+      "spans": [
+        {
+          "start": 398,
+          "end": 418
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Sporadic_Prion",
+      "start": 438,
+      "end": 442,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 438,
+          "end": 442
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 461,
+      "end": 466,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 461,
+          "end": 466
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 467,
+      "end": 473,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 467,
+          "end": 473
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Sequences",
+      "start": 558,
+      "end": 584,
+      "text": "T2 -weighted",
+      "spans": [
+        {
+          "start": 558,
+          "end": 560
+        },
+        {
+          "start": 575,
+          "end": 584
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T12",
+      "label": "Sequences",
+      "start": 566,
+      "end": 584,
+      "text": "diffusion-weighted",
+      "spans": [
+        {
+          "start": 566,
+          "end": 584
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 585,
+      "end": 593,
+      "text": "pulvinar",
+      "spans": [
+        {
+          "start": 585,
+          "end": 593
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Findings",
+      "start": 594,
+      "end": 608,
+      "text": "hyperintensity",
+      "spans": [
+        {
+          "start": 594,
+          "end": 608
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Acquired_Prion",
+      "start": 656,
+      "end": 660,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 656,
+          "end": 660
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Sporadic_Prion",
+      "start": 665,
+      "end": 669,
+      "text": "sCJD",
+      "spans": [
+        {
+          "start": 665,
+          "end": 669
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Acquired_Prion",
+      "start": 728,
+      "end": 732,
+      "text": "vCJD",
+      "spans": [
+        {
+          "start": 728,
+          "end": 732
+        }
+      ]
+    }
+  ]
+}

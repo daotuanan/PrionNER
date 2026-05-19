@@ -1,0 +1,6 @@
+T1	Generic_Prion 10 35	Creutzfeldt-Jakob disease
+T2	Treatment 49 59	amantadine
+T3	Duration 125 142	almost five years
+T4	Autopsy 266 280	histologically
+T5	Choose_Related 293 296	YES
+T6	Choose_Done 304 308	DONE

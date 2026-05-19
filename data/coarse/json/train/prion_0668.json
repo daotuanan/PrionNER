@@ -1,0 +1,123 @@
+{
+  "doc_id": "prion_0668",
+  "text": "An 80-year old female presented with early stage Creutzfeldt-Jakob disease with clinical, neurophysiological and neuropathological findings suggesting a focal involvement of the brain.\nHMPAO SPECT disclosed asymmetries of regional cerebral perfusion, thus suggesting that it may be a further diagnostic instrument in this disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 3,
+      "end": 14,
+      "text": "80-year old",
+      "spans": [
+        {
+          "start": 3,
+          "end": 14
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 49,
+      "end": 74,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 49,
+          "end": 74
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 90,
+      "end": 108,
+      "text": "neurophysiological",
+      "spans": [
+        {
+          "start": 90,
+          "end": 108
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 113,
+      "end": 130,
+      "text": "neuropathological",
+      "spans": [
+        {
+          "start": 113,
+          "end": 130
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Anatomic_location",
+      "start": 178,
+      "end": 183,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 178,
+          "end": 183
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Sequences",
+      "start": 185,
+      "end": 190,
+      "text": "HMPAO",
+      "spans": [
+        {
+          "start": 185,
+          "end": 190
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Test_name",
+      "start": 191,
+      "end": 196,
+      "text": "SPECT",
+      "spans": [
+        {
+          "start": 191,
+          "end": 196
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Findings",
+      "start": 207,
+      "end": 249,
+      "text": "asymmetries of regional cerebral perfusion",
+      "spans": [
+        {
+          "start": 207,
+          "end": 249
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Anatomic_location",
+      "start": 231,
+      "end": 239,
+      "text": "cerebral",
+      "spans": [
+        {
+          "start": 231,
+          "end": 239
+        }
+      ]
+    }
+  ]
+}

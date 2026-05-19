@@ -1,0 +1,26 @@
+T1	Choose_Related 1657 1660	YES
+T2	vCJD 43 76	variant Creutzfeldt-Jakob disease
+T3	vCJD 78 82	vCJD
+T4	sCJD 243 255	sporadic CJD
+T5	fCJD 271 294	inherited prion disease
+T7	Generic_Prion 574 577	CJD
+T8	Symptom 877 894	cognitive decline
+T9	vCJD 926 930	vCJD
+T11	Symptom 987 1008	executive dysfunction
+T13	sCJD 1091 1103	sporadic CJD
+T14	vCJD 1079 1086;1100 1103	variant CJD
+T15	fCJD 1145 1168	inherited prion disease
+T16	Symptom 1176 1197	Perceptual impairment
+T17	Symptom 1327 1356	generalised cognitive decline
+T18	vCJD 1374 1378	vCJD
+T19	vCJD 1532 1536	vCJD
+T20	fCJD 1621 1644	inherited prion disease
+T12	Symptom 1047 1061;1067 1075	Nominal skills impaired
+T22	vCJD 1223 1227	vCJD
+T23	sCJD 1246 1254	sporadic
+T24	fCJD 1259 1268	inherited
+T25	Symptom 1389 1418	decline in cognitive function
+T6	Symptom 946 952;971 982	verbal impairments
+T10	Symptom 957 982	visual memory impairments
+T21	Choose_Done 1668 1672	DONE
+T26	Autopsy 218 232	histologically

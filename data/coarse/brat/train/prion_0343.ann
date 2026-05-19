@@ -1,0 +1,13 @@
+T2	Acquired_Prion 54 87	variant Creutzfeldt-Jakob disease
+T3	Acquired_Prion 89 93	vCJD
+T4	Differential_Diagnosis 129 145	Alpers' syndrome
+T5	Anatomic_location 183 188	brain
+T15	Symptom 309 321;339 352	intellectual deterioration
+T6	Symptom 326 352	neurological deterioration
+T7	Acquired_Prion 413 417	vCJD
+T11	Time 903 923	5 years and 8 months
+T10	Differential_Diagnosis 987 1003	Alpers' syndrome
+T13	Time 1083 1118	at the time of initial notification
+T18	Differential_Diagnosis 1155 1171	Alpers' syndrome
+T14	Acquired_Prion 1204 1208	vCJD
+T19	Differential_Diagnosis 1241 1257	Alpers' syndrome

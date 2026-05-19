@@ -1,0 +1,9 @@
+T1	Generic_Prion 10 13	CJD
+T2	Electrophysio_test 36 39	EEG
+T4	Electrophysio_test 90 93	EEG
+T6	Electrophysio_test 110 114	EEGs
+T7	Duration 179 187	5 months
+T8	Anatomic_location 237 247	hemisphere
+T9	Symptom 279 294	myoclonic jerks
+T10	Choose_Related 420 423	YES
+T3	Choose_Done 431 435	DONE

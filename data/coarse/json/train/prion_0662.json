@@ -1,0 +1,266 @@
+{
+  "doc_id": "prion_0662",
+  "text": "The clinical features of 44 Finnish patients with Creutzfeldt-Jakob disease (CJD) were analyzed with special emphasis on the differences between the sporadic and familial forms.\nThe 32 sporadic patients comprised all neuropathologically verified cases of CJD in 1974-89 in Finland.\nThe 12 familial patients were members of the same pedigree where CJD has been linked with a mutation at codon 178 of the PRNP gene.\nThe median age at the onset of the disease was 62.5 years and median duration 4.5 months in sporadic patients, and 49 years and 20.5 months in familial CJD, respectively.\n90 percent of both sporadic and familial patients had myoclonus.\nTypical periodic EEG change was seen in 72% of sporadic patients, whereas the familial patients showed only a progressive slowing of EEG.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 50,
+      "end": 75,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 50,
+          "end": 75
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 77,
+      "end": 80,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 77,
+          "end": 80
+        }
+      ]
+    },
+    {
+      "id": "T1",
+      "label": "Sporadic_Prion",
+      "start": 149,
+      "end": 157,
+      "text": "sporadic",
+      "spans": [
+        {
+          "start": 149,
+          "end": 157
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Familial_Prion",
+      "start": 162,
+      "end": 170,
+      "text": "familial",
+      "spans": [
+        {
+          "start": 162,
+          "end": 170
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Sporadic_Prion",
+      "start": 185,
+      "end": 193,
+      "text": "sporadic",
+      "spans": [
+        {
+          "start": 185,
+          "end": 193
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 255,
+      "end": 258,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 255,
+          "end": 258
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Time",
+      "start": 262,
+      "end": 269,
+      "text": "1974-89",
+      "spans": [
+        {
+          "start": 262,
+          "end": 269
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Familial_Prion",
+      "start": 289,
+      "end": 297,
+      "text": "familial",
+      "spans": [
+        {
+          "start": 289,
+          "end": 297
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 347,
+      "end": 350,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 347,
+          "end": 350
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Time",
+      "start": 429,
+      "end": 441,
+      "text": "at the onset",
+      "spans": [
+        {
+          "start": 429,
+          "end": 441
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Age",
+      "start": 461,
+      "end": 471,
+      "text": "62.5 years",
+      "spans": [
+        {
+          "start": 461,
+          "end": 471
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Time",
+      "start": 492,
+      "end": 502,
+      "text": "4.5 months",
+      "spans": [
+        {
+          "start": 492,
+          "end": 502
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Age",
+      "start": 529,
+      "end": 537,
+      "text": "49 years",
+      "spans": [
+        {
+          "start": 529,
+          "end": 537
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Time",
+      "start": 542,
+      "end": 553,
+      "text": "20.5 months",
+      "spans": [
+        {
+          "start": 542,
+          "end": 553
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Familial_Prion",
+      "start": 557,
+      "end": 569,
+      "text": "familial CJD",
+      "spans": [
+        {
+          "start": 557,
+          "end": 569
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Sporadic_Prion",
+      "start": 604,
+      "end": 612,
+      "text": "sporadic",
+      "spans": [
+        {
+          "start": 604,
+          "end": 612
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Familial_Prion",
+      "start": 617,
+      "end": 625,
+      "text": "familial",
+      "spans": [
+        {
+          "start": 617,
+          "end": 625
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 639,
+      "end": 648,
+      "text": "myoclonus",
+      "spans": [
+        {
+          "start": 639,
+          "end": 648
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Test_name",
+      "start": 667,
+      "end": 670,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 667,
+          "end": 670
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Test_name",
+      "start": 783,
+      "end": 786,
+      "text": "EEG",
+      "spans": [
+        {
+          "start": 783,
+          "end": 786
+        }
+      ]
+    }
+  ]
+}

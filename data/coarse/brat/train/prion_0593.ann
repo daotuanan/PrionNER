@@ -1,0 +1,32 @@
+T1	Test_name 17 20	EEG
+T2	Generic_Prion 65 90	Creutzfeldt-Jakob disease
+T3	Generic_Prion 92 95	CJD
+T4	Generic_Prion 158 161	CJD
+T5	Test_name 242 256	histopathology
+T6	Generic_Prion 292 295	CJD
+T7	Test_name 297 300	EEG
+T9	Test_name 358 384	pathological investigation
+T12	Test_name 533 536	EEG
+T14	Test_name 666 669	EEG
+T17	Time 706 714	12 weeks
+T18	Time 718 744	onset of clinical symptoms
+T20	Test_name 765 768	EEG
+T22	Test_name 821 824	EEG
+T28	Symptom 917 932	focal myoclonus
+T29	Symptom 942 974	focal neurological abnormalities
+T31	Time 1016 1024	12 weeks
+T32	Time 1032 1052	onset of the illness
+T34	Generic_Prion 1085 1088	CJD
+T35	Findings 1121 1147	neuropathological findings
+T36	Test_name 1161 1164	EEG
+T37	Time 1187 1195	3 months
+T42	Test_name 1402 1421	cerebrospinal fluid
+T10	Findings 1427 1453	neuroradiological findings
+T43	Generic_Prion 1471 1474	CJD
+T53	Anatomic_location 1476 1481	Brain
+T44	Test_name 1482 1488	biopsy
+T45	Treatment 1535 1553	therapeutic trials
+T47	Test_name 1636 1639	EEG
+T48	Time 1646 1654	12 weeks
+T49	Generic_Prion 1721 1724	CJD
+T13	Test_name 1815 1823	biopsied

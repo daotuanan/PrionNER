@@ -1,0 +1,435 @@
+{
+  "doc_id": "prion_0659",
+  "text": "OBJECTIVE: Creutzfeldt-Jakob disease is a rare dementing illness that usually affects older adults.\nCurrently, neuroradiologic examinations play a minor role in the diagnosis of Creutzfeldt-Jakob disease.\nSeveral single case reports have noted a distinctive finding of hyperintense signal abnormalities in the basal ganglia on T2-weighted MR images of patients with Creutzfeldt-Jakob disease.\nIn order to assess the diagnostic utility of this finding, we studied the imaging features of four patients with Creutzfeldt-Jakob disease in whom this MR finding was present.\nMATERIALS AND METHODS: Two neuroradiologists retrospectively reviewed the MR images of four patients who had pathologically proved Creutzfeldt-Jakob disease and signal abnormalities in the basal ganglia on T2-weighted MR images.\nThe patients' clinical findings were also analyzed.\nRESULTS: The four patients had MR examinations between 6 months and 1 year after the onset of symptoms.\nIn all four cases, the hyperintense signal abnormalities in the basal ganglia on T2-weighted images were diffuse and bilaterally symmetric.\nThe T1-weighted images were normal.\nA CT scan was obtained on a single patient and was normal.\nCONCLUSION: Although a lack of signal abnormality in the basal ganglia on MR imaging cannot be used to rule out a diagnosis of Creutzfeldt-Jakob disease, our experience and review of published reports suggest that in the proper clinical setting, bilaterally symmetric, diffuse hyperintense abnormalities in the basal ganglia on T2-weighted images may be a specific sign of Creutzfeldt-Jakob disease.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 11,
+      "end": 36,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 11,
+          "end": 36
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Age",
+      "start": 86,
+      "end": 91,
+      "text": "older",
+      "spans": [
+        {
+          "start": 86,
+          "end": 91
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 178,
+      "end": 203,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 178,
+          "end": 203
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Findings",
+      "start": 269,
+      "end": 302,
+      "text": "hyperintense signal abnormalities",
+      "spans": [
+        {
+          "start": 269,
+          "end": 302
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Anatomic_location",
+      "start": 310,
+      "end": 323,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 310,
+          "end": 323
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Sequences",
+      "start": 327,
+      "end": 338,
+      "text": "T2-weighted",
+      "spans": [
+        {
+          "start": 327,
+          "end": 338
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 339,
+      "end": 348,
+      "text": "MR images",
+      "spans": [
+        {
+          "start": 339,
+          "end": 348
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 366,
+      "end": 391,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 366,
+          "end": 391
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 506,
+      "end": 531,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 506,
+          "end": 531
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Test_name",
+      "start": 545,
+      "end": 547,
+      "text": "MR",
+      "spans": [
+        {
+          "start": 545,
+          "end": 547
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Test_name",
+      "start": 643,
+      "end": 645,
+      "text": "MR",
+      "spans": [
+        {
+          "start": 643,
+          "end": 645
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Test_name",
+      "start": 678,
+      "end": 692,
+      "text": "pathologically",
+      "spans": [
+        {
+          "start": 678,
+          "end": 692
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Generic_Prion",
+      "start": 700,
+      "end": 725,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 700,
+          "end": 725
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Findings",
+      "start": 730,
+      "end": 750,
+      "text": "signal abnormalities",
+      "spans": [
+        {
+          "start": 730,
+          "end": 750
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Anatomic_location",
+      "start": 758,
+      "end": 771,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 758,
+          "end": 771
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Sequences",
+      "start": 775,
+      "end": 786,
+      "text": "T2-weighted",
+      "spans": [
+        {
+          "start": 775,
+          "end": 786
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Test_name",
+      "start": 787,
+      "end": 796,
+      "text": "MR images",
+      "spans": [
+        {
+          "start": 787,
+          "end": 796
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Test_name",
+      "start": 881,
+      "end": 896,
+      "text": "MR examinations",
+      "spans": [
+        {
+          "start": 881,
+          "end": 896
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Time",
+      "start": 897,
+      "end": 924,
+      "text": "between 6 months and 1 year",
+      "spans": [
+        {
+          "start": 897,
+          "end": 924
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Time",
+      "start": 925,
+      "end": 952,
+      "text": "after the onset of symptoms",
+      "spans": [
+        {
+          "start": 925,
+          "end": 952
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Findings",
+      "start": 977,
+      "end": 1010,
+      "text": "hyperintense signal abnormalities",
+      "spans": [
+        {
+          "start": 977,
+          "end": 1010
+        }
+      ]
+    },
+    {
+      "id": "T36",
+      "label": "Anatomic_location",
+      "start": 1018,
+      "end": 1031,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 1018,
+          "end": 1031
+        }
+      ]
+    },
+    {
+      "id": "T37",
+      "label": "Sequences",
+      "start": 1035,
+      "end": 1053,
+      "text": "T2-weighted images",
+      "spans": [
+        {
+          "start": 1035,
+          "end": 1053
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Sequences",
+      "start": 1098,
+      "end": 1109,
+      "text": "T1-weighted",
+      "spans": [
+        {
+          "start": 1098,
+          "end": 1109
+        }
+      ]
+    },
+    {
+      "id": "T42",
+      "label": "Test_name",
+      "start": 1132,
+      "end": 1139,
+      "text": "CT scan",
+      "spans": [
+        {
+          "start": 1132,
+          "end": 1139
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "label": "Findings",
+      "start": 1220,
+      "end": 1238,
+      "text": "signal abnormality",
+      "spans": [
+        {
+          "start": 1220,
+          "end": 1238
+        }
+      ]
+    },
+    {
+      "id": "T46",
+      "label": "Anatomic_location",
+      "start": 1246,
+      "end": 1259,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 1246,
+          "end": 1259
+        }
+      ]
+    },
+    {
+      "id": "T48",
+      "label": "Test_name",
+      "start": 1263,
+      "end": 1273,
+      "text": "MR imaging",
+      "spans": [
+        {
+          "start": 1263,
+          "end": 1273
+        }
+      ]
+    },
+    {
+      "id": "T49",
+      "label": "Generic_Prion",
+      "start": 1316,
+      "end": 1341,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 1316,
+          "end": 1341
+        }
+      ]
+    },
+    {
+      "id": "T52",
+      "label": "Findings",
+      "start": 1466,
+      "end": 1492,
+      "text": "hyperintense abnormalities",
+      "spans": [
+        {
+          "start": 1466,
+          "end": 1492
+        }
+      ]
+    },
+    {
+      "id": "T54",
+      "label": "Anatomic_location",
+      "start": 1500,
+      "end": 1513,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 1500,
+          "end": 1513
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Sequences",
+      "start": 1517,
+      "end": 1528,
+      "text": "T2-weighted",
+      "spans": [
+        {
+          "start": 1517,
+          "end": 1528
+        }
+      ]
+    },
+    {
+      "id": "T57",
+      "label": "Generic_Prion",
+      "start": 1562,
+      "end": 1587,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 1562,
+          "end": 1587
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+T1	Generic_Prion 42 67	Creutzfeldt-Jakob disease
+T2	Generic_Prion 69 72	CJD
+T3	Imaging_finding 110 131	high signal intensity
+T4	Anatomic_location 139 152	basal ganglia
+T5	Imaging_test 177 180	MRI
+T6	Imaging_finding 206 227	high signal intensity
+T7	Anatomic_location 235 248	basal ganglia
+T8	Generic_Prion 316 319	CJD

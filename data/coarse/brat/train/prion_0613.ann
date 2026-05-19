@@ -1,0 +1,21 @@
+T1	Familial_Prion 14 52	Gerstmann-Sträussler-Scheinker disease
+T3	Symptom 366 377	visual loss
+T4	Symptom 396 408	sensory loss
+T5	Symptom 428 436	dementia
+T6	Time 460 479	late in the illness
+T7	Test_name 497 521	Pathological examination
+T2	Anatomic_location 527 546	cerebellar cortical
+T14	Test_name 547 553	biopsy
+T15	Findings 629 657	multicentric amyloid plaques
+T8	Anatomic_location 669 677;693 699	cerebral cortex
+T27	Anatomic_location 682 699	cerebellar cortex
+T9	Anatomic_location 701 714	basal ganglia
+T10	Anatomic_location 720 732	white matter
+T16	Findings 738 750	degeneration
+T21	Anatomic_location 754 767	corticospinal
+T22	Anatomic_location 769 791	dorsal spinocerebellar
+T23	Anatomic_location 793 806	dentatorubral
+T24	Anatomic_location 812 836	geniculocalcarine tracts
+T25	Anatomic_location 841 855	dorsal columns
+T11	Findings 857 874	Spongiform change
+T12	Anatomic_location 905 941	superficial cerebral cortical layers

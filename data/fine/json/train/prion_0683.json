@@ -1,0 +1,372 @@
+{
+  "doc_id": "prion_0683",
+  "text": "We present serial magnetic resonance imaging (MRI) scans on a biopsy-verified case of Creutzfeldt-Jakob disease (CJD).\nThe initial MRI scan demonstrated increased T2 signal-intensity within the basal ganglia and thalami.\nSubsequent MRI scans demonstrated a thin cortex, increased T2 signals diffusely within the white matter including U-fibers, and hypointense T2 signals within the basal ganglia, and thalami.\nProton magnetic resonance spectroscopy (1H-MRS) study showed an absence of creatine, choline and N-acetylaspartate signals.\nBy these characteristic findings, serial MRI and MRS studies may be helpful in differentiating CJD from other dementing illnesses.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Imaging_test",
+      "start": 18,
+      "end": 44,
+      "text": "magnetic resonance imaging",
+      "spans": [
+        {
+          "start": 18,
+          "end": 44
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Imaging_test",
+      "start": 46,
+      "end": 49,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 46,
+          "end": 49
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Autopsy",
+      "start": 62,
+      "end": 68,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 62,
+          "end": 68
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 86,
+      "end": 111,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 86,
+          "end": 111
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 113,
+      "end": 116,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 113,
+          "end": 116
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Imaging_test",
+      "start": 131,
+      "end": 134,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 131,
+          "end": 134
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Imaging_finding",
+      "start": 153,
+      "end": 182,
+      "text": "increased signal-intensity",
+      "spans": [
+        {
+          "start": 153,
+          "end": 162
+        },
+        {
+          "start": 166,
+          "end": 182
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T6",
+      "label": "Imaging_sequence",
+      "start": 163,
+      "end": 165,
+      "text": "T2",
+      "spans": [
+        {
+          "start": 163,
+          "end": 165
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 194,
+      "end": 207,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 194,
+          "end": 207
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 212,
+      "end": 219,
+      "text": "thalami",
+      "spans": [
+        {
+          "start": 212,
+          "end": 219
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Imaging_test",
+      "start": 232,
+      "end": 235,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 232,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Anatomic_location",
+      "start": 262,
+      "end": 268,
+      "text": "cortex",
+      "spans": [
+        {
+          "start": 262,
+          "end": 268
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Imaging_finding",
+      "start": 270,
+      "end": 290,
+      "text": "increased signals",
+      "spans": [
+        {
+          "start": 270,
+          "end": 279
+        },
+        {
+          "start": 283,
+          "end": 290
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T22",
+      "label": "Imaging_sequence",
+      "start": 280,
+      "end": 282,
+      "text": "T2",
+      "spans": [
+        {
+          "start": 280,
+          "end": 282
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 312,
+      "end": 324,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 312,
+          "end": 324
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Anatomic_location",
+      "start": 335,
+      "end": 343,
+      "text": "U-fibers",
+      "spans": [
+        {
+          "start": 335,
+          "end": 343
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Imaging_finding",
+      "start": 349,
+      "end": 371,
+      "text": "hypointense signals",
+      "spans": [
+        {
+          "start": 349,
+          "end": 360
+        },
+        {
+          "start": 364,
+          "end": 371
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T14",
+      "label": "Imaging_sequence",
+      "start": 361,
+      "end": 363,
+      "text": "T2",
+      "spans": [
+        {
+          "start": 361,
+          "end": 363
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Anatomic_location",
+      "start": 383,
+      "end": 396,
+      "text": "basal ganglia",
+      "spans": [
+        {
+          "start": 383,
+          "end": 396
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 402,
+      "end": 409,
+      "text": "thalami",
+      "spans": [
+        {
+          "start": 402,
+          "end": 409
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Imaging_test",
+      "start": 411,
+      "end": 449,
+      "text": "Proton magnetic resonance spectroscopy",
+      "spans": [
+        {
+          "start": 411,
+          "end": 449
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Imaging_test",
+      "start": 454,
+      "end": 457,
+      "text": "MRS",
+      "spans": [
+        {
+          "start": 454,
+          "end": 457
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Imaging_finding",
+      "start": 475,
+      "end": 533,
+      "text": "absence of creatine, choline and N-acetylaspartate signals",
+      "spans": [
+        {
+          "start": 475,
+          "end": 533
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Imaging_test",
+      "start": 576,
+      "end": 579,
+      "text": "MRI",
+      "spans": [
+        {
+          "start": 576,
+          "end": 579
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Imaging_test",
+      "start": 584,
+      "end": 595,
+      "text": "MRS studies",
+      "spans": [
+        {
+          "start": 584,
+          "end": 595
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Generic_Prion",
+      "start": 630,
+      "end": 633,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 630,
+          "end": 633
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Differential_Diagnosis",
+      "start": 645,
+      "end": 664,
+      "text": "dementing illnesses",
+      "spans": [
+        {
+          "start": 645,
+          "end": 664
+        }
+      ]
+    }
+  ]
+}

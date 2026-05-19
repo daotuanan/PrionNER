@@ -1,0 +1,149 @@
+{
+  "doc_id": "prion_0673",
+  "text": "Fatal familial insomnia (FFI) has been exclusively associated with a pathogenic mutation at codon 178 in the PRNP gene coupled with methionine (Met) at codon 129.\nWe now describe a subject with familial Creutzfeldt-Jakob disease, heterozygous for the pathogenic lysine (Lys) mutation at codon 200 and homozygous for Met at codon 129 of the PRNP gene, who was affected by severe insomnia.\nAt autopsy the patient had significant involvement of the thalamus, as previously described in subjects affected by FFI with the codon 178 mutation.\nThis case demonstrates the wide variability of the clinical expressions in patients with the codon 200 mutation, that may include insomnia and thalamic pathology.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Familial_Prion",
+      "start": 0,
+      "end": 23,
+      "text": "Fatal familial insomnia",
+      "spans": [
+        {
+          "start": 0,
+          "end": 23
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Familial_Prion",
+      "start": 25,
+      "end": 28,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 25,
+          "end": 28
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Familial_Prion",
+      "start": 194,
+      "end": 228,
+      "text": "familial Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 194,
+          "end": 228
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Symptom",
+      "start": 378,
+      "end": 386,
+      "text": "insomnia",
+      "spans": [
+        {
+          "start": 378,
+          "end": 386
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Test_name",
+      "start": 391,
+      "end": 398,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 391,
+          "end": 398
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Findings",
+      "start": 415,
+      "end": 454,
+      "text": "significant involvement of the thalamus",
+      "spans": [
+        {
+          "start": 415,
+          "end": 454
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 446,
+      "end": 454,
+      "text": "thalamus",
+      "spans": [
+        {
+          "start": 446,
+          "end": 454
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Familial_Prion",
+      "start": 504,
+      "end": 507,
+      "text": "FFI",
+      "spans": [
+        {
+          "start": 504,
+          "end": 507
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 667,
+      "end": 675,
+      "text": "insomnia",
+      "spans": [
+        {
+          "start": 667,
+          "end": 675
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Anatomic_location",
+      "start": 680,
+      "end": 688,
+      "text": "thalamic",
+      "spans": [
+        {
+          "start": 680,
+          "end": 688
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Findings",
+      "start": 680,
+      "end": 698,
+      "text": "thalamic pathology",
+      "spans": [
+        {
+          "start": 680,
+          "end": 698
+        }
+      ]
+    }
+  ]
+}

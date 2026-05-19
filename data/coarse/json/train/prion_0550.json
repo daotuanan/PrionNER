@@ -1,0 +1,201 @@
+{
+  "doc_id": "prion_0550",
+  "text": "A forty-year-old female presented with an unsteady gait 13 years after receiving an eight-month course of human pituitary-derived gonadotrophin injections as treatment for infertility.\nOver the next ten months the patient subsequently developed generalised myoclonic jerks and dementia and finally died.\nNeuropathological examination revealed changes in the brain consistent with Creutzfeldt-Jakob disease.\nThis is the first reported case of Creutzfeldt-Jakob disease in a recipient of human derived gonadotrophin.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 16,
+      "text": "forty-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 16
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 42,
+      "end": 55,
+      "text": "unsteady gait",
+      "spans": [
+        {
+          "start": 42,
+          "end": 55
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Time",
+      "start": 56,
+      "end": 70,
+      "text": "13 years after",
+      "spans": [
+        {
+          "start": 56,
+          "end": 70
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Time",
+      "start": 84,
+      "end": 95,
+      "text": "eight-month",
+      "spans": [
+        {
+          "start": 84,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Treatment",
+      "start": 106,
+      "end": 154,
+      "text": "human pituitary-derived gonadotrophin injections",
+      "spans": [
+        {
+          "start": 106,
+          "end": 154
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Treatment",
+      "start": 158,
+      "end": 183,
+      "text": "treatment for infertility",
+      "spans": [
+        {
+          "start": 158,
+          "end": 183
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Time",
+      "start": 199,
+      "end": 209,
+      "text": "ten months",
+      "spans": [
+        {
+          "start": 199,
+          "end": 209
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 245,
+      "end": 272,
+      "text": "generalised myoclonic jerks",
+      "spans": [
+        {
+          "start": 245,
+          "end": 272
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 277,
+      "end": 285,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 277,
+          "end": 285
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Complication",
+      "start": 298,
+      "end": 302,
+      "text": "died",
+      "spans": [
+        {
+          "start": 298,
+          "end": 302
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Test_name",
+      "start": 304,
+      "end": 333,
+      "text": "Neuropathological examination",
+      "spans": [
+        {
+          "start": 304,
+          "end": 333
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Anatomic_location",
+      "start": 358,
+      "end": 363,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 358,
+          "end": 363
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 380,
+      "end": 405,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 380,
+          "end": 405
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 442,
+      "end": 467,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 442,
+          "end": 467
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Treatment",
+      "start": 486,
+      "end": 513,
+      "text": "human derived gonadotrophin",
+      "spans": [
+        {
+          "start": 486,
+          "end": 513
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+T1	Age 14 25	68-year-old
+T2	Generic_Prion 38 62	Creutzfelt-Jakob disease
+T3	Generic_Prion 64 67	CJD
+T4	Symptom 80 99	hyperparathyroidism
+T5	Differential_Diagnosis 122 152	Creutzfelt-Jakob like syndrome
+T6	Symptom 201 221	progressive dementia
+T9	Generic_Prion 291 294	CJD
+T10	Symptom 330 350	progressive dementia
+T12	Symptom 355 364	myoclonus
+T32	Anatomic_location 400 405	brain
+T13	Test_name 406 408	CT
+T14	Test_name 413 439	electroencephalogram (EEG)
+T15	Generic_Prion 441 444	CJD
+T16	Symptom 486 506	progressive dementia
+T18	Symptom 508 514	apathy
+T19	Symptom 519 528	myoclonus
+T7	Differential_Diagnosis 530 549	Hyperparathyroidism
+T8	Differential_Diagnosis 554 573	toxicity of lithium
+T11	Differential_Diagnosis 554 565;588 595	toxicity of bismuth
+T21	Differential_Diagnosis 575 583	delirium
+T22	Generic_Prion 645 648	CJD
+T23	Differential_Diagnosis 667 697	Creutzfelt-Jakob like syndrome
+T24	Generic_Prion 727 730	CJD
+T25	Generic_Prion 764 767	CJD
+T26	Differential_Diagnosis 785 815	Creutzfelt-Jakob like syndrome
+T27	Symptom 875 883	dementia
+T28	Generic_Prion 889 892	CJD
+T29	Generic_Prion 919 922	CJD
+T30	Differential_Diagnosis 951 970	hyperparathyroidism

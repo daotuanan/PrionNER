@@ -1,0 +1,188 @@
+{
+  "doc_id": "prion_0649",
+  "text": "Creutzfeldt-Jakob disease (CJD) is a rapidly progressive and ultimately fatal disorder of the central nervous system.\nCJD occurs worldwide with an incidence of approximately .5-1 new cases per million population per year.\nDespite numerous epidemiological and laboratory studies, the etiologic agent and mode of transmission remain unclear.\nClinical diagnosis is challenging and is based on clinical symptoms.\nNo specific treatment is available and medical management remains limited to supportive care.\nHealth care workers must be well informed about necessary precautions and decontamination procedures.\nNurses play a major role in providing supportive care, educating community organizations and agencies about CJD and assisting the family through the grieving process.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 0,
+      "end": 25,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 27,
+      "end": 30,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 27,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Complication",
+      "start": 72,
+      "end": 77,
+      "text": "fatal",
+      "spans": [
+        {
+          "start": 72,
+          "end": 77
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Differential_Diagnosis",
+      "start": 78,
+      "end": 116,
+      "text": "disorder of the central nervous system",
+      "spans": [
+        {
+          "start": 78,
+          "end": 116
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 94,
+      "end": 116,
+      "text": "central nervous system",
+      "spans": [
+        {
+          "start": 94,
+          "end": 116
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 118,
+      "end": 121,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 118,
+          "end": 121
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Incidence",
+      "start": 174,
+      "end": 220,
+      "text": ".5-1 new cases per million population per year",
+      "spans": [
+        {
+          "start": 174,
+          "end": 220
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 390,
+      "end": 407,
+      "text": "clinical symptoms",
+      "spans": [
+        {
+          "start": 390,
+          "end": 407
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Treatment",
+      "start": 486,
+      "end": 501,
+      "text": "supportive care",
+      "spans": [
+        {
+          "start": 486,
+          "end": 501
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Treatment",
+      "start": 577,
+      "end": 603,
+      "text": "decontamination procedures",
+      "spans": [
+        {
+          "start": 577,
+          "end": 603
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Treatment",
+      "start": 643,
+      "end": 658,
+      "text": "supportive care",
+      "spans": [
+        {
+          "start": 643,
+          "end": 658
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Treatment",
+      "start": 660,
+      "end": 693,
+      "text": "educating community organizations",
+      "spans": [
+        {
+          "start": 660,
+          "end": 693
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Generic_Prion",
+      "start": 713,
+      "end": 716,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 713,
+          "end": 716
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Treatment",
+      "start": 721,
+      "end": 741,
+      "text": "assisting the family",
+      "spans": [
+        {
+          "start": 721,
+          "end": 741
+        }
+      ]
+    }
+  ]
+}

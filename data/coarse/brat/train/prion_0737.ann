@@ -1,0 +1,12 @@
+T1	Generic_Prion 29 43	prion diseases
+T13	Test_name 140 150	pathologic
+T2	Findings 152 170	spongiform changes
+T3	Findings 172 184	astrogliosis
+T4	Findings 189 202	neuronal loss
+T5	Generic_Prion 305 330	Creutzfeldt-Jakob disease
+T6	Familial_Prion 332 370	Gerstmann-Straussler-Scheinker disease
+T7	Familial_Prion 375 398	fatal familiar insomnia
+T8	Generic_Prion 417 441	Jakob-Creutzfeld disease
+T9	Symptom 465 478	earlier onset
+T10	Symptom 480 500	psychiatric symptoms
+T11	Test_name 532 535	EEG

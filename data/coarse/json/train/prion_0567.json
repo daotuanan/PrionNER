@@ -1,0 +1,266 @@
+{
+  "doc_id": "prion_0567",
+  "text": "A 2-year-old girl had a craniopharyngioma removed in 1964.\nShe received human growth hormone (HGH) twice a week from July, 1972, until July, 1976.\nIn March, 1984, a subacute dementing illness developed with neurological signs that included pronounced cerebellar ataxia.\nA clinical diagnosis of Creutzfeldt-Jakob disease (CJD) was made.\nThe patient died in February, 1985.\nNecropsy revealed a spongiform encephalopathy compatible with the transmissible form of CJD.\nHGH administration may be implicated in the transmission of the disease in this case.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Age",
+      "start": 2,
+      "end": 12,
+      "text": "2-year-old",
+      "spans": [
+        {
+          "start": 2,
+          "end": 12
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Time",
+      "start": 53,
+      "end": 57,
+      "text": "1964",
+      "spans": [
+        {
+          "start": 53,
+          "end": 57
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Treatment",
+      "start": 72,
+      "end": 92,
+      "text": "human growth hormone",
+      "spans": [
+        {
+          "start": 72,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Treatment",
+      "start": 94,
+      "end": 97,
+      "text": "HGH",
+      "spans": [
+        {
+          "start": 94,
+          "end": 97
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Time",
+      "start": 112,
+      "end": 145,
+      "text": "from July, 1972, until July, 1976",
+      "spans": [
+        {
+          "start": 112,
+          "end": 145
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Time",
+      "start": 117,
+      "end": 127,
+      "text": "July, 1972",
+      "spans": [
+        {
+          "start": 117,
+          "end": 127
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Time",
+      "start": 135,
+      "end": 145,
+      "text": "July, 1976",
+      "spans": [
+        {
+          "start": 135,
+          "end": 145
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Time",
+      "start": 150,
+      "end": 161,
+      "text": "March, 1984",
+      "spans": [
+        {
+          "start": 150,
+          "end": 161
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Differential_Diagnosis",
+      "start": 165,
+      "end": 191,
+      "text": "subacute dementing illness",
+      "spans": [
+        {
+          "start": 165,
+          "end": 191
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 207,
+      "end": 225,
+      "text": "neurological signs",
+      "spans": [
+        {
+          "start": 207,
+          "end": 225
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Anatomic_location",
+      "start": 251,
+      "end": 261,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 251,
+          "end": 261
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 251,
+      "end": 268,
+      "text": "cerebellar ataxia",
+      "spans": [
+        {
+          "start": 251,
+          "end": 268
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Generic_Prion",
+      "start": 294,
+      "end": 319,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 294,
+          "end": 319
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 321,
+      "end": 324,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 321,
+          "end": 324
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Complication",
+      "start": 348,
+      "end": 352,
+      "text": "died",
+      "spans": [
+        {
+          "start": 348,
+          "end": 352
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Time",
+      "start": 356,
+      "end": 370,
+      "text": "February, 1985",
+      "spans": [
+        {
+          "start": 356,
+          "end": 370
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Test_name",
+      "start": 372,
+      "end": 380,
+      "text": "Necropsy",
+      "spans": [
+        {
+          "start": 372,
+          "end": 380
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 392,
+      "end": 417,
+      "text": "spongiform encephalopathy",
+      "spans": [
+        {
+          "start": 392,
+          "end": 417
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Generic_Prion",
+      "start": 460,
+      "end": 463,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 460,
+          "end": 463
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Treatment",
+      "start": 465,
+      "end": 483,
+      "text": "HGH administration",
+      "spans": [
+        {
+          "start": 465,
+          "end": 483
+        }
+      ]
+    }
+  ]
+}

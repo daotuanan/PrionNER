@@ -1,0 +1,175 @@
+{
+  "doc_id": "prion_0776",
+  "text": "The authors present a case of Creutzfeldt-Jakob disease in 82-year-old man.\nBesides the onset of the disease in the elderly and short survival time (8 weeks), other uncommon clinical and morphological features also characterized our case.\nAn evident amyotrophic syndrome, confirmed in morphological findings, developed soon after the CJD onset.\nThe spongiform change also observed within the white matter of cerebral hemispheres allowed us to diagnose the 'panencephalopathic' form of CJD.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 30,
+      "end": 55,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 30,
+          "end": 55
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Age",
+      "start": 59,
+      "end": 70,
+      "text": "82-year-old",
+      "spans": [
+        {
+          "start": 59,
+          "end": 70
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Age",
+      "start": 116,
+      "end": 123,
+      "text": "elderly",
+      "spans": [
+        {
+          "start": 116,
+          "end": 123
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Time",
+      "start": 149,
+      "end": 156,
+      "text": "8 weeks",
+      "spans": [
+        {
+          "start": 149,
+          "end": 156
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 250,
+      "end": 270,
+      "text": "amyotrophic syndrome",
+      "spans": [
+        {
+          "start": 250,
+          "end": 270
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Generic_Prion",
+      "start": 334,
+      "end": 337,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 334,
+          "end": 337
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Time",
+      "start": 334,
+      "end": 343,
+      "text": "CJD onset",
+      "spans": [
+        {
+          "start": 334,
+          "end": 343
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Findings",
+      "start": 349,
+      "end": 366,
+      "text": "spongiform change",
+      "spans": [
+        {
+          "start": 349,
+          "end": 366
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Anatomic_location",
+      "start": 392,
+      "end": 404,
+      "text": "white matter",
+      "spans": [
+        {
+          "start": 392,
+          "end": 404
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Anatomic_location",
+      "start": 408,
+      "end": 428,
+      "text": "cerebral hemispheres",
+      "spans": [
+        {
+          "start": 408,
+          "end": 428
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Generic_Prion",
+      "start": 456,
+      "end": 488,
+      "text": "'panencephalopathic' form of CJD",
+      "spans": [
+        {
+          "start": 456,
+          "end": 488
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 457,
+      "end": 475,
+      "text": "panencephalopathic",
+      "spans": [
+        {
+          "start": 457,
+          "end": 475
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Generic_Prion",
+      "start": 485,
+      "end": 488,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 485,
+          "end": 488
+        }
+      ]
+    }
+  ]
+}

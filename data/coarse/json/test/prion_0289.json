@@ -1,0 +1,323 @@
+{
+  "doc_id": "prion_0289",
+  "text": "BACKGROUND: We previously described two members of a family affected by an apparently genetically determined fatal disease characterized clinically by progressive insomnia, dysautonomia, and motor signs and characterized pathologically by severe atrophy of the anterior ventral and mediodorsal thalamic nuclei.\nFive other family members who died of this disease, which we termed \"fatal familial insomnia,\" had broader neuropathologic changes suggesting that fatal familial insomnia could be a prion disease.\nMETHODS: We used antibodies to prion protein (PrP) to perform dot and Western blot analyses, with and without proteinase K, on brain tissue obtained at autopsy from two patients with fatal familial insomnia, three patients with sporadic Creutzfeldt-Jakob disease, and six control subjects.\nThe coding region of the PrP gene was amplified and sequenced in the samples from the two patients with fatal familial insomnia.\nRestriction-enzyme analysis was carried out with amplified PrP DNA from 33 members of the kindred.\nRESULTS: Protease-resistant PrP was found in both patients with fatal familial insomnia, but the size and number of protease-resistant fragments differed from those in Creutzfeldt-Jakob disease.\nIn the family with fatal familial insomnia, all 4 affected members and 11 of the 29 unaffected members had a point mutation in PrP codon 178 that results in the substitution of asparagine for aspartic acid and elimination of the Tth111 I restriction site.\nLinkage analysis showed a close relation between the point mutation and the disease (maximal lod score, 3.4 when theta was zero).\nCONCLUSIONS: Fatal familial insomnia is a prion disease with a mutation in codon 178 of the PrP gene, but the disease phenotype seems to differ from that of previously described kindreds with the same point mutation.",
+  "entities": [
+    {
+      "id": "T26",
+      "label": "Symptom",
+      "start": 151,
+      "end": 171,
+      "text": "progressive insomnia",
+      "spans": [
+        {
+          "start": 151,
+          "end": 171
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 173,
+      "end": 185,
+      "text": "dysautonomia",
+      "spans": [
+        {
+          "start": 173,
+          "end": 185
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 191,
+      "end": 202,
+      "text": "motor signs",
+      "spans": [
+        {
+          "start": 191,
+          "end": 202
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Test_name",
+      "start": 221,
+      "end": 235,
+      "text": "pathologically",
+      "spans": [
+        {
+          "start": 221,
+          "end": 235
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Findings",
+      "start": 246,
+      "end": 253,
+      "text": "atrophy",
+      "spans": [
+        {
+          "start": 246,
+          "end": 253
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Anatomic_location",
+      "start": 261,
+      "end": 309,
+      "text": "anterior ventral thalamic nuclei",
+      "spans": [
+        {
+          "start": 261,
+          "end": 277
+        },
+        {
+          "start": 294,
+          "end": 309
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T14",
+      "label": "Anatomic_location",
+      "start": 282,
+      "end": 309,
+      "text": "mediodorsal thalamic nuclei",
+      "spans": [
+        {
+          "start": 282,
+          "end": 309
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Complication",
+      "start": 341,
+      "end": 345,
+      "text": "died",
+      "spans": [
+        {
+          "start": 341,
+          "end": 345
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "Familial_Prion",
+      "start": 380,
+      "end": 403,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 380,
+          "end": 403
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Test_name",
+      "start": 418,
+      "end": 433,
+      "text": "neuropathologic",
+      "spans": [
+        {
+          "start": 418,
+          "end": 433
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Familial_Prion",
+      "start": 458,
+      "end": 481,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 458,
+          "end": 481
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Generic_Prion",
+      "start": 493,
+      "end": 506,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 493,
+          "end": 506
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Test_name",
+      "start": 578,
+      "end": 599,
+      "text": "Western blot analyses",
+      "spans": [
+        {
+          "start": 578,
+          "end": 599
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Anatomic_location",
+      "start": 635,
+      "end": 640,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 635,
+          "end": 640
+        }
+      ]
+    },
+    {
+      "id": "T34",
+      "label": "Test_name",
+      "start": 660,
+      "end": 667,
+      "text": "autopsy",
+      "spans": [
+        {
+          "start": 660,
+          "end": 667
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Familial_Prion",
+      "start": 691,
+      "end": 714,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 691,
+          "end": 714
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Sporadic_Prion",
+      "start": 736,
+      "end": 770,
+      "text": "sporadic Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 736,
+          "end": 770
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Familial_Prion",
+      "start": 902,
+      "end": 925,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 902,
+          "end": 925
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "label": "Test_name",
+      "start": 927,
+      "end": 954,
+      "text": "Restriction-enzyme analysis",
+      "spans": [
+        {
+          "start": 927,
+          "end": 954
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Familial_Prion",
+      "start": 1090,
+      "end": 1113,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 1090,
+          "end": 1113
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Generic_Prion",
+      "start": 1194,
+      "end": 1219,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 1194,
+          "end": 1219
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Familial_Prion",
+      "start": 1240,
+      "end": 1263,
+      "text": "fatal familial insomnia",
+      "spans": [
+        {
+          "start": 1240,
+          "end": 1263
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Familial_Prion",
+      "start": 1620,
+      "end": 1643,
+      "text": "Fatal familial insomnia",
+      "spans": [
+        {
+          "start": 1620,
+          "end": 1643
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Generic_Prion",
+      "start": 1649,
+      "end": 1662,
+      "text": "prion disease",
+      "spans": [
+        {
+          "start": 1649,
+          "end": 1662
+        }
+      ]
+    }
+  ]
+}

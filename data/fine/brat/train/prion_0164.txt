@@ -1,0 +1,14 @@
+OBJECTIVES: The detection of the protein 14-3-3 in the CSF has been shown to be a reliable and sensitive marker for sporadic Creutzfeldt-Jakob disease (CJD).
+Other brain-specific proteins such as neuron specific enolase (NSE), S-100b, and tau protein have also been reported to be increased in the CSF of patients with sporadic CJD.
+In 1996 a variant of CJD (vCJD) was described which is likely to be causally linked to the bovine spongiform encephalopathy agent.
+This study reports and compares the findings of CSF brain specific protein analysis in 45 patients with vCJD and in 34 control patients.
+METHODS: The CSF from 45 patients with vCJD and 34 controls were investigated for the presence of 14-3-3 by SDS-polyacrylamide gel electrophoresis (SDS-PAGE) and western blotting with chemiluminescent detection.
+Tau protein, S-100b, and NSE concentrations in CSF were measured using enzyme immunoassays.
+RESULTS: Protein 14-3-3 was detected in the CSF of 22/45 patients with vCJD and in 3/34 controls.
+The mean concentrations of NSE, S-100b, and tau protein in CSF were significantly raised in patients with vCJD compared with controls.
+The positive predictive value of CSF 14-3-3 was 86% and the negative predictive value was 63%.
+These values are lower than those reported for sporadic CJD.
+An increased CSF tau had a positive predictive value of 93% and a negative predictive value of 81%.
+The combination of CSF 14-3-3 and/or increased CSF tau had a positive predictive value of 91% and a negative predictive value of 84%.
+CONCLUSIONS: CSF protein 14-3-3 is not as useful a marker for vCJD as it is for sporadic CJD.
+Increased concentration of CSF tau was found to be a sensitive marker of vCJD but as concentrations may be increased in many forms of non-CJD dementia, this may limit its usefulness as a diagnostic test.

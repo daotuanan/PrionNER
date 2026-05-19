@@ -1,0 +1,45 @@
+{
+  "doc_id": "prion_0513",
+  "text": "A description if given of a male patient in whom a diagnosis of Creutzfeldt-Jakob disease was made by brain biopsy.\nThis is believed to be the first case of this syndrome reported from Papua New Guinea.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Generic_Prion",
+      "start": 64,
+      "end": 89,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 64,
+          "end": 89
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Anatomic_location",
+      "start": 102,
+      "end": 107,
+      "text": "brain",
+      "spans": [
+        {
+          "start": 102,
+          "end": 107
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Test_name",
+      "start": 108,
+      "end": 114,
+      "text": "biopsy",
+      "spans": [
+        {
+          "start": 108,
+          "end": 114
+        }
+      ]
+    }
+  ]
+}

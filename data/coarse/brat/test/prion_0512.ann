@@ -1,0 +1,19 @@
+T1	Generic_Prion 31 66	sub-acute spongiform encephalopathy
+T2	Age 109 111	65
+T3	Symptom 128 136	dementia
+T4	Symptom 138 162	extra-pyramidal syndrome
+T6	Symptom 164 173	myoclonia
+T7	Symptom 175 192	optical disorders
+T8	Symptom 194 212	pyramidal syndrome
+T9	Symptom 217 233	speech disorders
+T5	Complication 254 259	death
+T10	Time 260 287	one and a half months later
+T11	Test_name 289 310	Electroencephalograms
+T12	Test_name 453 467	Histologically
+T13	Findings 486 503	status spongiosus
+T14	Findings 526 547	neuronal depopulation
+T15	Findings 566 585	astrocytary gliosis
+T16	Findings 622 631;673 695	neuropile with numerous cavities
+T18	Anatomic_location 639 649	astrocytes
+T19	Anatomic_location 733 751	axonal projections
+T21	Generic_Prion 912 937	Creutzfeldt-Jakob disease

@@ -1,0 +1,336 @@
+{
+  "doc_id": "prion_0635",
+  "text": "The clinical characteristics of kuru in 15 patients are described.\nAll the patients had a history of joint pains preceding difficulty walking.\nThe severity of the neurological dysfunction varied from mild truncal and limb ataxia necessitating the use of a stick for walking to terminal illness accompanied by marked ataxia, rigidity, spasticity, and dementia.\nAll the patients with kuru in this study had a apprehensive, frightened facial expression.\nMost of the patients examined showed diminished or absent optokinetic nystagmus bilaterally.\nApprehensive facies and diminished optokinetic nystagmus have not previously been described in kuru.\nThe other clinical features of the current patients with kuru are similar to those recorded twenty years ago.\nEpidemiological surveillance, anamnesis, and missionary reports strongly suggest that all the patients described in this study were exposed to the kuru agent more than two decades ago through ritualistic cannibalism.\nThus the incubation period or time interval from exposure to the onset of clinical illness exceeds two decades, while the duration of illness is two years or less.\nThe cause of these extraordinarily long incubation periods is unknown but may result in part from exposure to small doses of the kuru agent through an inefficient oral route.",
+  "entities": [
+    {
+      "id": "T1",
+      "label": "Kuru",
+      "start": 32,
+      "end": 36,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 32,
+          "end": 36
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Symptom",
+      "start": 101,
+      "end": 112,
+      "text": "joint pains",
+      "spans": [
+        {
+          "start": 101,
+          "end": 112
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Symptom",
+      "start": 123,
+      "end": 141,
+      "text": "difficulty walking",
+      "spans": [
+        {
+          "start": 123,
+          "end": 141
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 163,
+      "end": 187,
+      "text": "neurological dysfunction",
+      "spans": [
+        {
+          "start": 163,
+          "end": 187
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Symptom",
+      "start": 205,
+      "end": 228,
+      "text": "truncal ataxia",
+      "spans": [
+        {
+          "start": 205,
+          "end": 212
+        },
+        {
+          "start": 222,
+          "end": 228
+        }
+      ],
+      "is_discontinuous": true
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 217,
+      "end": 228,
+      "text": "limb ataxia",
+      "spans": [
+        {
+          "start": 217,
+          "end": 228
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Symptom",
+      "start": 277,
+      "end": 293,
+      "text": "terminal illness",
+      "spans": [
+        {
+          "start": 277,
+          "end": 293
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Symptom",
+      "start": 309,
+      "end": 322,
+      "text": "marked ataxia",
+      "spans": [
+        {
+          "start": 309,
+          "end": 322
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 324,
+      "end": 332,
+      "text": "rigidity",
+      "spans": [
+        {
+          "start": 324,
+          "end": 332
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 334,
+      "end": 344,
+      "text": "spasticity",
+      "spans": [
+        {
+          "start": 334,
+          "end": 344
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 350,
+      "end": 358,
+      "text": "dementia",
+      "spans": [
+        {
+          "start": 350,
+          "end": 358
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Kuru",
+      "start": 382,
+      "end": 386,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 382,
+          "end": 386
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Symptom",
+      "start": 407,
+      "end": 449,
+      "text": "apprehensive, frightened facial expression",
+      "spans": [
+        {
+          "start": 407,
+          "end": 449
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "Symptom",
+      "start": 488,
+      "end": 530,
+      "text": "diminished or absent optokinetic nystagmus",
+      "spans": [
+        {
+          "start": 488,
+          "end": 530
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Symptom",
+      "start": 544,
+      "end": 563,
+      "text": "Apprehensive facies",
+      "spans": [
+        {
+          "start": 544,
+          "end": 563
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 568,
+      "end": 600,
+      "text": "diminished optokinetic nystagmus",
+      "spans": [
+        {
+          "start": 568,
+          "end": 600
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Kuru",
+      "start": 639,
+      "end": 643,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 639,
+          "end": 643
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Kuru",
+      "start": 702,
+      "end": 706,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 702,
+          "end": 706
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Time_point",
+      "start": 737,
+      "end": 753,
+      "text": "twenty years ago",
+      "spans": [
+        {
+          "start": 737,
+          "end": 753
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Kuru",
+      "start": 902,
+      "end": 906,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 902,
+          "end": 906
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Time_point",
+      "start": 913,
+      "end": 938,
+      "text": "more than two decades ago",
+      "spans": [
+        {
+          "start": 913,
+          "end": 938
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Duration",
+      "start": 923,
+      "end": 934,
+      "text": "two decades",
+      "spans": [
+        {
+          "start": 923,
+          "end": 934
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Duration",
+      "start": 1063,
+      "end": 1082,
+      "text": "exceeds two decades",
+      "spans": [
+        {
+          "start": 1063,
+          "end": 1082
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Duration",
+      "start": 1117,
+      "end": 1134,
+      "text": "two years or less",
+      "spans": [
+        {
+          "start": 1117,
+          "end": 1134
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Kuru",
+      "start": 1265,
+      "end": 1269,
+      "text": "kuru",
+      "spans": [
+        {
+          "start": 1265,
+          "end": 1269
+        }
+      ]
+    }
+  ]
+}

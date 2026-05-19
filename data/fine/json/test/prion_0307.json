@@ -1,0 +1,409 @@
+{
+  "doc_id": "prion_0307",
+  "text": "BACKGROUND: Most cases of Creutzfeldt-Jakob disease (CJD) in recipients of human cadaveric growth hormone present with a cerebellar syndrome.\nDementia is thought to occur late and as a minor feature of the illness.\nHowever, neuropsychology data published on these cases are largely qualitative and anecdotal. The first published case does include a neuropsychological assessment seven months after the onset of a cerebellar syndrome, showing evidence of intellectual decline.\nSubsequent reports hint that cognitive problems may be present in the initial stages of the illness.\nOBJECTIVE: To assess early cognition in Creutzfeldt-Jakob disease in recipients of pituitary derived human growth hormone.\nMETHODS: Detailed neuropsychology assessment is reported at referral (mean 4.5 months from the onset of symptoms; range 4 to 6 months) in five patients with histologically proven human growth hormone derived CJD.\nRESULTS: All cases presented with a cerebellar syndrome and only one had noticed mild memory problems. On formal testing, however, four had demonstrable mild intellectual decline, as measured on the WAIS-R. One case showed selective visual memory impairment and frontal executive dysfunction.\nCONCLUSIONS: These findings suggest that, although not the presenting feature, mild cognitive decline may be evident in the early stages of CJD associated with human cadaveric growth hormone treatment.",
+  "entities": [
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 26,
+      "end": 51,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 26,
+          "end": 51
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Generic_Prion",
+      "start": 53,
+      "end": 56,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 53,
+          "end": 56
+        }
+      ]
+    },
+    {
+      "id": "T23",
+      "label": "Treatment",
+      "start": 75,
+      "end": 105,
+      "text": "human cadaveric growth hormone",
+      "spans": [
+        {
+          "start": 75,
+          "end": 105
+        }
+      ]
+    },
+    {
+      "id": "T24",
+      "label": "Anatomic_location",
+      "start": 121,
+      "end": 131,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 121,
+          "end": 131
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "Symptom",
+      "start": 121,
+      "end": 140,
+      "text": "cerebellar syndrome",
+      "spans": [
+        {
+          "start": 121,
+          "end": 140
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Symptom",
+      "start": 142,
+      "end": 150,
+      "text": "Dementia",
+      "spans": [
+        {
+          "start": 142,
+          "end": 150
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Duration",
+      "start": 379,
+      "end": 391,
+      "text": "seven months",
+      "spans": [
+        {
+          "start": 379,
+          "end": 391
+        }
+      ]
+    },
+    {
+      "id": "T26",
+      "label": "Anatomic_location",
+      "start": 413,
+      "end": 423,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 413,
+          "end": 423
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Symptom",
+      "start": 413,
+      "end": 432,
+      "text": "cerebellar syndrome",
+      "spans": [
+        {
+          "start": 413,
+          "end": 432
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "label": "Symptom",
+      "start": 454,
+      "end": 474,
+      "text": "intellectual decline",
+      "spans": [
+        {
+          "start": 454,
+          "end": 474
+        }
+      ]
+    },
+    {
+      "id": "T11",
+      "label": "Symptom",
+      "start": 505,
+      "end": 523,
+      "text": "cognitive problems",
+      "spans": [
+        {
+          "start": 505,
+          "end": 523
+        }
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "Time_point",
+      "start": 546,
+      "end": 560,
+      "text": "initial stages",
+      "spans": [
+        {
+          "start": 546,
+          "end": 560
+        }
+      ]
+    },
+    {
+      "id": "T25",
+      "label": "Generic_Prion",
+      "start": 617,
+      "end": 642,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 617,
+          "end": 642
+        }
+      ]
+    },
+    {
+      "id": "T27",
+      "label": "Treatment",
+      "start": 660,
+      "end": 698,
+      "text": "pituitary derived human growth hormone",
+      "spans": [
+        {
+          "start": 660,
+          "end": 698
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Duration",
+      "start": 775,
+      "end": 785,
+      "text": "4.5 months",
+      "spans": [
+        {
+          "start": 775,
+          "end": 785
+        }
+      ]
+    },
+    {
+      "id": "T28",
+      "label": "Time_point",
+      "start": 795,
+      "end": 812,
+      "text": "onset of symptoms",
+      "spans": [
+        {
+          "start": 795,
+          "end": 812
+        }
+      ]
+    },
+    {
+      "id": "T13",
+      "label": "Duration",
+      "start": 820,
+      "end": 833,
+      "text": "4 to 6 months",
+      "spans": [
+        {
+          "start": 820,
+          "end": 833
+        }
+      ]
+    },
+    {
+      "id": "T29",
+      "label": "Autopsy",
+      "start": 857,
+      "end": 871,
+      "text": "histologically",
+      "spans": [
+        {
+          "start": 857,
+          "end": 871
+        }
+      ]
+    },
+    {
+      "id": "T31",
+      "label": "Treatment",
+      "start": 879,
+      "end": 899,
+      "text": "human growth hormone",
+      "spans": [
+        {
+          "start": 879,
+          "end": 899
+        }
+      ]
+    },
+    {
+      "id": "T30",
+      "label": "iCJD",
+      "start": 879,
+      "end": 911,
+      "text": "human growth hormone derived CJD",
+      "spans": [
+        {
+          "start": 879,
+          "end": 911
+        }
+      ]
+    },
+    {
+      "id": "T15",
+      "label": "Anatomic_location",
+      "start": 949,
+      "end": 959,
+      "text": "cerebellar",
+      "spans": [
+        {
+          "start": 949,
+          "end": 959
+        }
+      ]
+    },
+    {
+      "id": "T16",
+      "label": "Symptom",
+      "start": 949,
+      "end": 968,
+      "text": "cerebellar syndrome",
+      "spans": [
+        {
+          "start": 949,
+          "end": 968
+        }
+      ]
+    },
+    {
+      "id": "T17",
+      "label": "Symptom",
+      "start": 999,
+      "end": 1014,
+      "text": "memory problems",
+      "spans": [
+        {
+          "start": 999,
+          "end": 1014
+        }
+      ]
+    },
+    {
+      "id": "T18",
+      "label": "Symptom",
+      "start": 1071,
+      "end": 1091,
+      "text": "intellectual decline",
+      "spans": [
+        {
+          "start": 1071,
+          "end": 1091
+        }
+      ]
+    },
+    {
+      "id": "T19",
+      "label": "Symptom",
+      "start": 1136,
+      "end": 1170,
+      "text": "selective visual memory impairment",
+      "spans": [
+        {
+          "start": 1136,
+          "end": 1170
+        }
+      ]
+    },
+    {
+      "id": "T32",
+      "label": "Anatomic_location",
+      "start": 1175,
+      "end": 1182,
+      "text": "frontal",
+      "spans": [
+        {
+          "start": 1175,
+          "end": 1182
+        }
+      ]
+    },
+    {
+      "id": "T20",
+      "label": "Symptom",
+      "start": 1175,
+      "end": 1204,
+      "text": "frontal executive dysfunction",
+      "spans": [
+        {
+          "start": 1175,
+          "end": 1204
+        }
+      ]
+    },
+    {
+      "id": "T21",
+      "label": "Symptom",
+      "start": 1285,
+      "end": 1307,
+      "text": "mild cognitive decline",
+      "spans": [
+        {
+          "start": 1285,
+          "end": 1307
+        }
+      ]
+    },
+    {
+      "id": "T12",
+      "label": "Time_point",
+      "start": 1330,
+      "end": 1342,
+      "text": "early stages",
+      "spans": [
+        {
+          "start": 1330,
+          "end": 1342
+        }
+      ]
+    },
+    {
+      "id": "T22",
+      "label": "Generic_Prion",
+      "start": 1346,
+      "end": 1349,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 1346,
+          "end": 1349
+        }
+      ]
+    },
+    {
+      "id": "T33",
+      "label": "Treatment",
+      "start": 1366,
+      "end": 1406,
+      "text": "human cadaveric growth hormone treatment",
+      "spans": [
+        {
+          "start": 1366,
+          "end": 1406
+        }
+      ]
+    }
+  ]
+}

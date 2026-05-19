@@ -1,0 +1,110 @@
+{
+  "doc_id": "prion_0324",
+  "text": "Transmission of Creutzfeldt-Jakob disease (CJD) from cadaveric growth hormone injections had previously been reported in 7 cases, including one from Britain.\nAs a result, the treatment was abandoned in 1985 and superceded by safer recombinant DNA growth hormone injections.\nRecent reports now record the number of cases worldwide as 23, but with the incubation period being measured in years, new cases of CJD can still present.\nWe give a detailed report of one of the recent cluster of British cases and aim to highlight the problem to clinicians who may encounter further patients with cadaveric growth hormone induced CJD.",
+  "entities": [
+    {
+      "id": "T2",
+      "label": "Generic_Prion",
+      "start": 16,
+      "end": 41,
+      "text": "Creutzfeldt-Jakob disease",
+      "spans": [
+        {
+          "start": 16,
+          "end": 41
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "Generic_Prion",
+      "start": 43,
+      "end": 46,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 43,
+          "end": 46
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "label": "Treatment",
+      "start": 53,
+      "end": 88,
+      "text": "cadaveric growth hormone injections",
+      "spans": [
+        {
+          "start": 53,
+          "end": 88
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "label": "Time_point",
+      "start": 202,
+      "end": 206,
+      "text": "1985",
+      "spans": [
+        {
+          "start": 202,
+          "end": 206
+        }
+      ]
+    },
+    {
+      "id": "T7",
+      "label": "Treatment",
+      "start": 231,
+      "end": 272,
+      "text": "recombinant DNA growth hormone injections",
+      "spans": [
+        {
+          "start": 231,
+          "end": 272
+        }
+      ]
+    },
+    {
+      "id": "T8",
+      "label": "Generic_Prion",
+      "start": 406,
+      "end": 409,
+      "text": "CJD",
+      "spans": [
+        {
+          "start": 406,
+          "end": 409
+        }
+      ]
+    },
+    {
+      "id": "T9",
+      "label": "Treatment",
+      "start": 588,
+      "end": 612,
+      "text": "cadaveric growth hormone",
+      "spans": [
+        {
+          "start": 588,
+          "end": 612
+        }
+      ]
+    },
+    {
+      "id": "T14",
+      "label": "iCJD",
+      "start": 588,
+      "end": 624,
+      "text": "cadaveric growth hormone induced CJD",
+      "spans": [
+        {
+          "start": 588,
+          "end": 624
+        }
+      ]
+    }
+  ]
+}
