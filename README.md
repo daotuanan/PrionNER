@@ -188,6 +188,22 @@ python3 code/evaluate_conll_predictions.py \
   --model-name your_model
 ```
 
+## Citation
+
+If you use PrionNER, please cite the dataset paper:
+
+```bibtex
+@misc{dao2026prionnernamedentityrecognition,
+      title={PrionNER: A Named Entity Recognition Dataset for Prion Disease Biomedical Literature},
+      author={An Dao and Nhan Ly and Thao Tran and Yuji Matsumoto and Akiko Aizawa},
+      year={2026},
+      eprint={2605.28375},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2605.28375},
+}
+```
+
 ## Licensing and Redistribution
 
 This release uses a split licensing policy.
